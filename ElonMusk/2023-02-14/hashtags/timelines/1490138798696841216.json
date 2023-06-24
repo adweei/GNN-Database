@@ -1,0 +1,6903 @@
+{
+ "1490138798696841216": {
+  "Mon Feb 06 16:22:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WasimJaffer14",
+     "name": "Wasim Jaffer",
+     "id": 1098141150144356352,
+     "id_str": "1098141150144356352",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 11:13:31 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CricketTwitter",
+     "indices": [
+      48,
+      63
+     ]
+    },
+    {
+     "text": "india",
+     "indices": [
+      64,
+      70
+     ]
+    },
+    {
+     "text": "australia",
+     "indices": [
+      71,
+      81
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Sportskeeda",
+     "name": "Sportskeeda",
+     "id": 66461715,
+     "id_str": "66461715",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622516356288741377,
+     "id_str": "1622516356288741377",
+     "indices": [
+      82,
+      105
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoRWB5LaAAEwZ2L.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoRWB5LaAAEwZ2L.jpg",
+     "url": "https://t.co/YnXtljWzsB",
+     "display_url": "pic.twitter.com/YnXtljWzsB",
+     "expanded_url": "https://twitter.com/Sportskeeda/status/1622516379546181633/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 648,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1134,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1134,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622516379546181633,
+     "source_status_id_str": "1622516379546181633",
+     "source_user_id": 66461715,
+     "source_user_id_str": "66461715"
+    }
+   ]
+  },
+  "Mon Feb 06 11:13:18 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      16,
+      24
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rameshlaus",
+     "name": "Ramesh Bala",
+     "id": 102268884,
+     "id_str": "102268884",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 11:12:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ikamalhaasan",
+     "name": "Kamal Haasan",
+     "id": 4628602041,
+     "id_str": "4628602041",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 11:12:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sachin_rt",
+     "name": "Sachin Tendulkar",
+     "id": 135421739,
+     "id_str": "135421739",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 11:11:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      13,
+      21
+     ]
+    },
+    {
+     "text": "WaltairVeerayya",
+     "indices": [
+      23,
+      39
+     ]
+    },
+    {
+     "text": "WriterPadmabhushan",
+     "indices": [
+      78,
+      97
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Fukkard",
+     "name": "Fukkard",
+     "id": 2965655845,
+     "id_str": "2965655845",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 11:11:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 11:11:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "GuessTheBowler",
+     "indices": [
+      84,
+      99
+     ]
+    },
+    {
+     "text": "HappyBirthday",
+     "indices": [
+      100,
+      114
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "100MasterBlastr",
+     "name": "100MB",
+     "id": 836532747116019716,
+     "id_str": "836532747116019716",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622468891292364802,
+     "id_str": "1622468891292364802",
+     "indices": [
+      115,
+      138
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoQq3ESacAIUqCZ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoQq3ESacAIUqCZ.jpg",
+     "url": "https://t.co/5khI6Qr9Pg",
+     "display_url": "pic.twitter.com/5khI6Qr9Pg",
+     "expanded_url": "https://twitter.com/100MasterBlastr/status/1622468904563146752/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622468904563146752,
+     "source_status_id_str": "1622468904563146752",
+     "source_user_id": 836532747116019716,
+     "source_user_id_str": "836532747116019716"
+    }
+   ]
+  },
+  "Mon Feb 06 11:11:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 10:26:55 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "DSGvPC",
+     "indices": [
+      19,
+      26
+     ]
+    },
+    {
+     "text": "Betway",
+     "indices": [
+      69,
+      76
+     ]
+    },
+    {
+     "text": "SA20",
+     "indices": [
+      77,
+      82
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SA20_League",
+     "name": "Betway SA20",
+     "id": 1562024299229241344,
+     "id_str": "1562024299229241344",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "Betway_India",
+     "name": "Betway India",
+     "id": 1480552359830994949,
+     "id_str": "1480552359830994949",
+     "indices": [
+      55,
+      68
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 10:26:43 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "UsmanKhawaja",
+     "indices": [
+      106,
+      119
+     ]
+    },
+    {
+     "text": "INDvAUS",
+     "indices": [
+      120,
+      128
+     ]
+    },
+    {
+     "text": "Australia",
+     "indices": [
+      129,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 10:26:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MaheshBabu",
+     "indices": [
+      98,
+      109
+     ]
+    },
+    {
+     "text": "WriterPadmabhushan",
+     "indices": [
+      110,
+      129
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "XpressCinema",
+     "name": "Cinema Express",
+     "id": 864411393046396928,
+     "id_str": "864411393046396928",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 10:26:07 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "INDvAUS",
+     "indices": [
+      41,
+      49
+     ]
+    },
+    {
+     "text": "TeamIndia",
+     "indices": [
+      50,
+      60
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "circleofcricket",
+     "name": "Circle of Cricket",
+     "id": 259843963,
+     "id_str": "259843963",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622540456788623363,
+     "id_str": "1622540456788623363",
+     "indices": [
+      61,
+      84
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoRr8uiWAAMHUn4.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoRr8uiWAAMHUn4.jpg",
+     "url": "https://t.co/fXXFajee7T",
+     "display_url": "pic.twitter.com/fXXFajee7T",
+     "expanded_url": "https://twitter.com/circleofcricket/status/1622540465466638339/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622540465466638339,
+     "source_status_id_str": "1622540465466638339",
+     "source_user_id": 259843963,
+     "source_user_id_str": "259843963"
+    }
+   ]
+  },
+  "Mon Feb 06 10:25:54 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "WTC",
+     "indices": [
+      102,
+      106
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "thebharatarmy",
+     "name": "The Bharat Army",
+     "id": 281449208,
+     "id_str": "281449208",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 10:25:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      21,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 09:02:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "activistjyot",
+     "name": "Jyot Jeet",
+     "id": 147108497,
+     "id_str": "147108497",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:52:44 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "earthquake",
+     "indices": [
+      29,
+      40
+     ]
+    },
+    {
+     "text": "Turkey",
+     "indices": [
+      45,
+      52
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kiraincongress",
+     "name": "Kira Rudik",
+     "id": 1168793622248067072,
+     "id_str": "1168793622248067072",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:51:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:51:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "cheteshwarpujara",
+     "indices": [
+      85,
+      102
+     ]
+    },
+    {
+     "text": "RaviShastri",
+     "indices": [
+      103,
+      115
+     ]
+    },
+    {
+     "text": "INDvsAUS",
+     "indices": [
+      116,
+      125
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "indiacom",
+     "name": "India.com",
+     "id": 22793955,
+     "id_str": "22793955",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:50:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "INDvsAUS",
+     "indices": [
+      81,
+      90
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "harbhajan_singh",
+     "name": "Harbhajan Turbanator",
+     "id": 92945681,
+     "id_str": "92945681",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:50:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "INDvAUS",
+     "indices": [
+      126,
+      134
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:47:22 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AK",
+     "indices": [
+      16,
+      19
+     ]
+    },
+    {
+     "text": "Thunivu",
+     "indices": [
+      23,
+      31
+     ]
+    },
+    {
+     "text": "AK",
+     "indices": [
+      93,
+      96
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rameshlaus",
+     "name": "Ramesh Bala",
+     "id": 102268884,
+     "id_str": "102268884",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:47:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "DriveTeslaca",
+     "name": "Drive Tesla \ud83c\udde8\ud83c\udde6",
+     "id": 1169348503975317504,
+     "id_str": "1169348503975317504",
+     "indices": [
+      14,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:47:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DriveTeslaca",
+     "name": "Drive Tesla \ud83c\udde8\ud83c\udde6",
+     "id": 1169348503975317504,
+     "id_str": "1169348503975317504",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/BsMgXgrckf",
+     "expanded_url": "https://driveteslacanada.ca/spacex/elon-musk-says-starship-could-launch-in-march/",
+     "display_url": "driveteslacanada.ca/spacex/elon-mu\u2026",
+     "indices": [
+      64,
+      87
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 08:46:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "iamsrk",
+     "name": "Shah Rukh Khan",
+     "id": 101311381,
+     "id_str": "101311381",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/bK7hUCLVJj",
+     "expanded_url": "https://twitter.com/srkuniverse/status/1622494850196307969",
+     "display_url": "twitter.com/srkuniverse/st\u2026",
+     "indices": [
+      35,
+      58
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 08:46:28 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "T20WorldCup",
+     "indices": [
+      124,
+      136
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "100MasterBlastr",
+     "name": "100MB",
+     "id": 836532747116019716,
+     "id_str": "836532747116019716",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "M_Raj03",
+     "name": "Mithali Raj",
+     "id": 2949561072,
+     "id_str": "2949561072",
+     "indices": [
+      22,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:32:48 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SachinTendulkar",
+     "indices": [
+      70,
+      86
+     ]
+    },
+    {
+     "text": "ViratKohli",
+     "indices": [
+      87,
+      98
+     ]
+    },
+    {
+     "text": "ShubmanGill",
+     "indices": [
+      99,
+      111
+     ]
+    },
+    {
+     "text": "YuvrajSingh",
+     "indices": [
+      112,
+      124
+     ]
+    },
+    {
+     "text": "RaviShastri",
+     "indices": [
+      125,
+      137
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "100MasterBlastr",
+     "name": "100MB",
+     "id": 836532747116019716,
+     "id_str": "836532747116019716",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:32:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:32:05 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BGT",
+     "indices": [
+      47,
+      51
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:31:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Telugu360",
+     "name": "Telugu360",
+     "id": 3111658152,
+     "id_str": "3111658152",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:31:26 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Cricket",
+     "indices": [
+      53,
+      61
+     ]
+    },
+    {
+     "text": "CricTracker",
+     "indices": [
+      62,
+      74
+     ]
+    },
+    {
+     "text": "DineshKarthik",
+     "indices": [
+      75,
+      89
+     ]
+    },
+    {
+     "text": "INDvAUS",
+     "indices": [
+      90,
+      98
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622505671618068480,
+     "id_str": "1622505671618068480",
+     "indices": [
+      99,
+      122
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoRMT9raAAAnWIB.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoRMT9raAAAnWIB.jpg",
+     "url": "https://t.co/nAyGfB4KWJ",
+     "display_url": "pic.twitter.com/nAyGfB4KWJ",
+     "expanded_url": "https://twitter.com/Cricketracker/status/1622505735698644992/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1600,
+       "h": 1600,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622505735698644992,
+     "source_status_id_str": "1622505735698644992",
+     "source_user_id": 1553602212,
+     "source_user_id_str": "1553602212"
+    }
+   ]
+  },
+  "Mon Feb 06 08:30:54 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Amaravati",
+     "indices": [
+      88,
+      98
+     ]
+    },
+    {
+     "text": "ThreeCapitals",
+     "indices": [
+      99,
+      113
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Mirchi9",
+     "name": "MIRCHI9",
+     "id": 314579793,
+     "id_str": "314579793",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:30:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      18,
+      26
+     ]
+    },
+    {
+     "text": "Hindi",
+     "indices": [
+      114,
+      120
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "taran_adarsh",
+     "name": "taran adarsh",
+     "id": 99642673,
+     "id_str": "99642673",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:29:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:21:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "emin_adin",
+     "name": "Mehmet Emin Adin, MD",
+     "id": 151329521,
+     "id_str": "151329521",
+     "indices": [
+      14,
+      24
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      25,
+      32
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 08:21:11 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      54,
+      62
+     ]
+    },
+    {
+     "text": "Baahubali2",
+     "indices": [
+      77,
+      88
+     ]
+    },
+    {
+     "text": "Sultan",
+     "indices": [
+      103,
+      110
+     ]
+    },
+    {
+     "text": "War",
+     "indices": [
+      125,
+      129
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 06:03:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mrunal0801",
+     "name": "Mrunal Thakur",
+     "id": 1008398461,
+     "id_str": "1008398461",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 06:03:27 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      16,
+      24
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rameshlaus",
+     "name": "Ramesh Bala",
+     "id": 102268884,
+     "id_str": "102268884",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 06:02:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      84,
+      92
+     ]
+    },
+    {
+     "text": "Dangal",
+     "indices": [
+      119,
+      126
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 05:57:05 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "WriterPadmabhushan",
+     "indices": [
+      13,
+      32
+     ]
+    },
+    {
+     "text": "WaltairVeerayya",
+     "indices": [
+      76,
+      92
+     ]
+    },
+    {
+     "text": "VeeraSimhaReddy",
+     "indices": [
+      109,
+      125
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "T2BLive",
+     "name": "T2BLive.COM",
+     "id": 2700083636,
+     "id_str": "2700083636",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 05:56:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 15:52:08 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CricTracker",
+     "indices": [
+      102,
+      114
+     ]
+    },
+    {
+     "text": "DPWorldILT20",
+     "indices": [
+      115,
+      128
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 15:46:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      21,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 15:46:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "100MasterBlastr",
+     "name": "100MB",
+     "id": 836532747116019716,
+     "id_str": "836532747116019716",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 11:33:05 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Vaathi",
+     "indices": [
+      33,
+      40
+     ]
+    },
+    {
+     "text": "VaathiFromFeb17",
+     "indices": [
+      83,
+      99
+     ]
+    },
+    {
+     "text": "VaathiVaraar",
+     "indices": [
+      106,
+      119
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "7screenstudio",
+     "name": "Seven Screen Studio",
+     "id": 922826142582632448,
+     "id_str": "922826142582632448",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "dhanushkraja",
+     "name": "Dhanush",
+     "id": 152251488,
+     "id_str": "152251488",
+     "indices": [
+      124,
+      137
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 11:32:58 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Vaathi",
+     "indices": [
+      33,
+      40
+     ]
+    },
+    {
+     "text": "VaathiFromFeb17",
+     "indices": [
+      70,
+      86
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "pudiharicharan",
+     "name": "Haricharan Pudipeddi",
+     "id": 45778857,
+     "id_str": "45778857",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 11:32:49 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Vaathi",
+     "indices": [
+      20,
+      27
+     ]
+    },
+    {
+     "text": "SIR",
+     "indices": [
+      104,
+      108
+     ]
+    },
+    {
+     "text": "Dhanush",
+     "indices": [
+      109,
+      117
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "pudiharicharan",
+     "name": "Haricharan Pudipeddi",
+     "id": 45778857,
+     "id_str": "45778857",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 11:32:22 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Vetrimaaran",
+     "indices": [
+      17,
+      29
+     ]
+    },
+    {
+     "text": "JrNTR",
+     "indices": [
+      32,
+      38
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sidhuwrites",
+     "name": "Siddarth Srinivas",
+     "id": 371347032,
+     "id_str": "371347032",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 11:32:19 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "JrNTR",
+     "indices": [
+      101,
+      107
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "pudiharicharan",
+     "name": "Haricharan Pudipeddi",
+     "id": 45778857,
+     "id_str": "45778857",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "tarak9999",
+     "name": "Jr NTR",
+     "id": 75823831,
+     "id_str": "75823831",
+     "indices": [
+      21,
+      31
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 11:32:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SureshRaina",
+     "indices": [
+      110,
+      122
+     ]
+    },
+    {
+     "text": "MSDhoni",
+     "indices": [
+      123,
+      131
+     ]
+    },
+    {
+     "text": "India",
+     "indices": [
+      132,
+      138
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "ImRaina",
+     "name": "Suresh Raina\ud83c\uddee\ud83c\uddf3",
+     "id": 121044171,
+     "id_str": "121044171",
+     "indices": [
+      20,
+      28
+     ]
+    },
+    {
+     "screen_name": "msdhoni",
+     "name": "Mahendra Singh Dhoni",
+     "id": 92708272,
+     "id_str": "92708272",
+     "indices": [
+      49,
+      57
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 07:57:20 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "VetriMaaran",
+     "indices": [
+      48,
+      60
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Bharath4tarak",
+     "name": ".\ufe0e",
+     "id": 1417683353575305216,
+     "id_str": "1417683353575305216",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "tarak9999",
+     "name": "Jr NTR",
+     "id": 75823831,
+     "id_str": "75823831",
+     "indices": [
+      61,
+      71
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622137868138283008,
+     "id_str": "1622137868138283008",
+     "indices": [
+      74,
+      97
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoL9y-8XgAAsd14.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoL9y-8XgAAsd14.jpg",
+     "url": "https://t.co/DmsAoG9ZGJ",
+     "display_url": "pic.twitter.com/DmsAoG9ZGJ",
+     "expanded_url": "https://twitter.com/Bharath4tarak/status/1622137881191145473/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1200,
+       "h": 943,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1508,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 534,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622137881191145473,
+     "source_status_id_str": "1622137881191145473",
+     "source_user_id": 1417683353575305216,
+     "source_user_id_str": "1417683353575305216"
+    }
+   ]
+  },
+  "Sun Feb 05 07:57:11 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "VetriMaaran",
+     "indices": [
+      104,
+      116
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Always_kaNTRi",
+     "name": "Dhanush \ud83e\udddb",
+     "id": 1430483843711070212,
+     "id_str": "1430483843711070212",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "tarak9999",
+     "name": "Jr NTR",
+     "id": 75823831,
+     "id_str": "75823831",
+     "indices": [
+      91,
+      101
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622122601232596992,
+     "id_str": "1622122601232596992",
+     "indices": [
+      117,
+      140
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoLv6VSaAAA3uyj.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoLv6VSaAAA3uyj.jpg",
+     "url": "https://t.co/jc318fNiqt",
+     "display_url": "pic.twitter.com/jc318fNiqt",
+     "expanded_url": "https://twitter.com/Always_kaNTRi/status/1622122619846950915/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 2048,
+       "h": 2022,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1185,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 671,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622122619846950915,
+     "source_status_id_str": "1622122619846950915",
+     "source_user_id": 1430483843711070212,
+     "source_user_id_str": "1430483843711070212"
+    }
+   ]
+  },
+  "Sun Feb 05 07:56:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BBCBreaking",
+     "name": "BBC Breaking News",
+     "id": 5402612,
+     "id_str": "5402612",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 07:56:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "BBCBreaking",
+     "name": "BBC Breaking News",
+     "id": 5402612,
+     "id_str": "5402612",
+     "indices": [
+      14,
+      26
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622079827363635200,
+     "id_str": "1622079827363635200",
+     "indices": [
+      27,
+      50
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoLJAkNWIAA47K1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoLJAkNWIAA47K1.jpg",
+     "url": "https://t.co/sUIV9eYTWk",
+     "display_url": "pic.twitter.com/sUIV9eYTWk",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622079831000195072/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622079831000195072,
+     "source_status_id_str": "1622079831000195072",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 05 07:55:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "vikrantgupta73",
+     "name": "Vikrant Gupta",
+     "id": 135110894,
+     "id_str": "135110894",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 07:55:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 07:55:22 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      21,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622092388033515521,
+     "id_str": "1622092388033515521",
+     "indices": [
+      43,
+      66
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoLUbsWaUAE-L72.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoLUbsWaUAE-L72.jpg",
+     "url": "https://t.co/Ra7tcyruR9",
+     "display_url": "pic.twitter.com/Ra7tcyruR9",
+     "expanded_url": "https://twitter.com/box_oficeIndian/status/1622092399253282816/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 654,
+       "h": 591,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 654,
+       "h": 591,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 654,
+       "h": 591,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622092399253282816,
+     "source_status_id_str": "1622092399253282816",
+     "source_user_id": 969157263553277952,
+     "source_user_id_str": "969157263553277952"
+    }
+   ]
+  },
+  "Sun Feb 05 07:55:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "teslaownersSV",
+     "name": "Tesla Owners Silicon Valley",
+     "id": 1016059981907386368,
+     "id_str": "1016059981907386368",
+     "indices": [
+      14,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 07:54:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Thala",
+     "indices": [
+      13,
+      19
+     ]
+    },
+    {
+     "text": "UnivarsalBoss",
+     "indices": [
+      26,
+      40
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Fukkard",
+     "name": "Fukkard",
+     "id": 2965655845,
+     "id_str": "2965655845",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622141428414693377,
+     "id_str": "1622141428414693377",
+     "indices": [
+      45,
+      68
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoMBCOAaQAEXOrh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoMBCOAaQAEXOrh.jpg",
+     "url": "https://t.co/u7LmdKcJU2",
+     "display_url": "pic.twitter.com/u7LmdKcJU2",
+     "expanded_url": "https://twitter.com/Fukkard/status/1622141435104600070/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1920,
+       "h": 1920,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622141435104600070,
+     "source_status_id_str": "1622141435104600070",
+     "source_user_id": 2965655845,
+     "source_user_id_str": "2965655845"
+    }
+   ]
+  },
+  "Sun Feb 05 03:17:51 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      79,
+      83
+     ]
+    },
+    {
+     "text": "Jawan",
+     "indices": [
+      95,
+      101
+     ]
+    },
+    {
+     "text": "BadeMiyanChoteMiyan",
+     "indices": [
+      113,
+      133
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 13:59:58 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Amigos",
+     "indices": [
+      13,
+      20
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "T2BLive",
+     "name": "T2BLive.COM",
+     "id": 2700083636,
+     "id_str": "2700083636",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 13:59:48 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      21,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 13:59:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 13:59:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "surya_14kumar",
+     "name": "Surya Kumar Yadav",
+     "id": 468471298,
+     "id_str": "468471298",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621869536462127104,
+     "id_str": "1621869536462127104",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoIJwBjaQAAnR4N.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoIJwBjaQAAnR4N.jpg",
+     "url": "https://t.co/L1PQ2koP12",
+     "display_url": "pic.twitter.com/L1PQ2koP12",
+     "expanded_url": "https://twitter.com/surya_14kumar/status/1621869547555901442/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 674,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1284,
+       "h": 1295,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1190,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621869547555901442,
+     "source_status_id_str": "1621869547555901442",
+     "source_user_id": 468471298,
+     "source_user_id_str": "468471298"
+    }
+   ]
+  },
+  "Sat Feb 04 13:59:30 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      21,
+      29
+     ]
+    },
+    {
+     "text": "ShahRukhKhan",
+     "indices": [
+      62,
+      75
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 11:28:51 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BBL12",
+     "indices": [
+      61,
+      67
+     ]
+    },
+    {
+     "text": "BBLFinal",
+     "indices": [
+      68,
+      77
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNcricinfo",
+     "name": "ESPNcricinfo",
+     "id": 16542390,
+     "id_str": "16542390",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621832660044902401,
+     "id_str": "1621832660044902401",
+     "indices": [
+      78,
+      101
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoHoNiMacAEaPLX.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoHoNiMacAEaPLX.jpg",
+     "url": "https://t.co/Oqhu8Gm5Va",
+     "display_url": "pic.twitter.com/Oqhu8Gm5Va",
+     "expanded_url": "https://twitter.com/ESPNcricinfo/status/1621832890270244866/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 798,
+       "h": 532,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 798,
+       "h": 532,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621832890270244866,
+     "source_status_id_str": "1621832890270244866",
+     "source_user_id": 16542390,
+     "source_user_id_str": "16542390"
+    }
+   ]
+  },
+  "Sat Feb 04 11:09:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      18,
+      26
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "taran_adarsh",
+     "name": "taran adarsh",
+     "id": 99642673,
+     "id_str": "99642673",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 11:09:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AnikhaSurendran",
+     "indices": [
+      13,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Thyview",
+     "name": "Thyview",
+     "id": 1596642901,
+     "id_str": "1596642901",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 11:09:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NTR",
+     "indices": [
+      25,
+      29
+     ]
+    },
+    {
+     "text": "Amigos",
+     "indices": [
+      53,
+      60
+     ]
+    },
+    {
+     "text": "AmigosOnFeb10th",
+     "indices": [
+      81,
+      97
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Fukkard",
+     "name": "Fukkard",
+     "id": 2965655845,
+     "id_str": "2965655845",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621504007234818048,
+     "id_str": "1621504007234818048",
+     "indices": [
+      98,
+      121
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoC9TbEakAAqcmt.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoC9TbEakAAqcmt.jpg",
+     "url": "https://t.co/0udo0ha4Io",
+     "display_url": "pic.twitter.com/0udo0ha4Io",
+     "expanded_url": "https://twitter.com/Fukkard/status/1621504012649631744/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1177,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 667,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1883,
+       "h": 1920,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621504012649631744,
+     "source_status_id_str": "1621504012649631744",
+     "source_user_id": 2965655845,
+     "source_user_id_str": "2965655845"
+    }
+   ]
+  },
+  "Sat Feb 04 11:09:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 11:09:25 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Agent",
+     "indices": [
+      62,
+      68
+     ]
+    },
+    {
+     "text": "AgentLoading",
+     "indices": [
+      112,
+      125
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AKentsOfficial",
+     "name": "AK Entertainments",
+     "id": 887174165836423168,
+     "id_str": "887174165836423168",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 11:09:16 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      17,
+      25
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_PVRCinemas",
+     "name": "P V R C i n e m a s",
+     "id": 116747394,
+     "id_str": "116747394",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 11:08:42 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AskSRK",
+     "indices": [
+      19,
+      26
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "actorbrahmaji",
+     "name": "Brahmaji",
+     "id": 135032671,
+     "id_str": "135032671",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "iamsrk",
+     "name": "Shah Rukh Khan",
+     "id": 101311381,
+     "id_str": "101311381",
+     "indices": [
+      44,
+      51
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 11:07:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 11:07:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 10:37:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Jawan",
+     "indices": [
+      97,
+      103
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "letscinema",
+     "name": "LetsCinema",
+     "id": 1090513571581091840,
+     "id_str": "1090513571581091840",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621812962532167681,
+     "id_str": "1621812962532167681",
+     "indices": [
+      106,
+      129
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoHWS_PakAE8lJm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoHWS_PakAE8lJm.jpg",
+     "url": "https://t.co/wvVaURUktp",
+     "display_url": "pic.twitter.com/wvVaURUktp",
+     "expanded_url": "https://twitter.com/letscinema/status/1621812969553395712/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 524,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1399,
+       "h": 1815,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 925,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621812969553395712,
+     "source_status_id_str": "1621812969553395712",
+     "source_user_id": 1090513571581091840,
+     "source_user_id_str": "1090513571581091840"
+    }
+   ]
+  },
+  "Sat Feb 04 10:37:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 10:37:19 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "INDvAUS",
+     "indices": [
+      55,
+      63
+     ]
+    },
+    {
+     "text": "GuessWho",
+     "indices": [
+      64,
+      73
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "100MasterBlastr",
+     "name": "100MB",
+     "id": 836532747116019716,
+     "id_str": "836532747116019716",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621774440441999360,
+     "id_str": "1621774440441999360",
+     "indices": [
+      74,
+      97
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoGzQtRacAABwPu.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoGzQtRacAABwPu.jpg",
+     "url": "https://t.co/qmIyAdGeKk",
+     "display_url": "pic.twitter.com/qmIyAdGeKk",
+     "expanded_url": "https://twitter.com/100MasterBlastr/status/1621774444086820866/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621774444086820866,
+     "source_status_id_str": "1621774444086820866",
+     "source_user_id": 836532747116019716,
+     "source_user_id_str": "836532747116019716"
+    }
+   ]
+  },
+  "Sat Feb 04 10:36:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 09:19:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IrfanPathan",
+     "name": "Irfan Pathan",
+     "id": 1288050427,
+     "id_str": "1288050427",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "ashwinravi99",
+     "name": "Ashwin \ud83c\uddee\ud83c\uddf3",
+     "id": 358814014,
+     "id_str": "358814014",
+     "indices": [
+      51,
+      64
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 09:08:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 09:08:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      38,
+      42
+     ]
+    },
+    {
+     "text": "BloodySweet",
+     "indices": [
+      49,
+      61
+     ]
+    },
+    {
+     "text": "Thalapathy",
+     "indices": [
+      128,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sonymusicindia",
+     "name": "Sony Music India",
+     "id": 360474312,
+     "id_str": "360474312",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/A1GoRoICO8",
+     "expanded_url": "http://SMI.lnk.to/BloodySweet",
+     "display_url": "SMI.lnk.to/BloodySweet",
+     "indices": [
+      103,
+      126
+     ]
+    }
+   ]
+  },
+  "Sat Feb 04 09:08:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cricketaakash",
+     "name": "Aakash Chopra",
+     "id": 70663487,
+     "id_str": "70663487",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "IrfanPathan",
+     "name": "Irfan Pathan",
+     "id": 1288050427,
+     "id_str": "1288050427",
+     "indices": [
+      19,
+      31
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 09:08:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "anirudhofficial",
+     "name": "Anirudh Ravichander",
+     "id": 216447259,
+     "id_str": "216447259",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "iamsrk",
+     "name": "Shah Rukh Khan",
+     "id": 101311381,
+     "id_str": "101311381",
+     "indices": [
+      21,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 09:02:21 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "RanjiTrophy",
+     "indices": [
+      75,
+      87
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "100MasterBlastr",
+     "name": "100MB",
+     "id": 836532747116019716,
+     "id_str": "836532747116019716",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "Hanumavihari",
+     "name": "Hanuma vihari",
+     "id": 571792167,
+     "id_str": "571792167",
+     "indices": [
+      22,
+      35
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621453811582922753,
+     "id_str": "1621453811582922753",
+     "indices": [
+      101,
+      124
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoCPppsacAE4vDG.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoCPppsacAE4vDG.jpg",
+     "url": "https://t.co/J1q7QzI0Dk",
+     "display_url": "pic.twitter.com/J1q7QzI0Dk",
+     "expanded_url": "https://twitter.com/100MasterBlastr/status/1621454017644859392/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621454017644859392,
+     "source_status_id_str": "1621454017644859392",
+     "source_user_id": 836532747116019716,
+     "source_user_id_str": "836532747116019716"
+    }
+   ]
+  },
+  "Sat Feb 04 09:01:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "letscinema",
+     "name": "LetsCinema",
+     "id": 1090513571581091840,
+     "id_str": "1090513571581091840",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 08:59:07 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CricTracker",
+     "indices": [
+      115,
+      127
+     ]
+    },
+    {
+     "text": "INDvAUS",
+     "indices": [
+      128,
+      136
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 08:58:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 08:58:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "VBVKTrailer",
+     "indices": [
+      16,
+      28
+     ]
+    },
+    {
+     "text": "VBVKOnFeb17th",
+     "indices": [
+      57,
+      71
+     ]
+    },
+    {
+     "text": "VinaroBhagyamuVishnuKatha",
+     "indices": [
+      90,
+      116
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TrackTwood",
+     "name": "TrackTollywood",
+     "id": 3230626363,
+     "id_str": "3230626363",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "Kiran_Abbavaram",
+     "name": "Kiran Abbavaram",
+     "id": 1107938403591479296,
+     "id_str": "1107938403591479296",
+     "indices": [
+      72,
+      88
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621760294409375745,
+     "id_str": "1621760294409375745",
+     "indices": [
+      117,
+      140
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoGmZTMakAERTw5.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoGmZTMakAERTw5.jpg",
+     "url": "https://t.co/SZy2NKDwWs",
+     "display_url": "pic.twitter.com/SZy2NKDwWs",
+     "expanded_url": "https://twitter.com/TrackTwood/status/1621760313766068226/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1280,
+       "h": 1600,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621760313766068226,
+     "source_status_id_str": "1621760313766068226",
+     "source_user_id": 3230626363,
+     "source_user_id_str": "3230626363"
+    }
+   ]
+  },
+  "Sat Feb 04 08:58:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PawanKalyanOnAha",
+     "indices": [
+      37,
+      54
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ahavideoIN",
+     "name": "ahavideoin",
+     "id": 1204349704047169536,
+     "id_str": "1204349704047169536",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 08:58:31 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "DrRajasekhar",
+     "indices": [
+      37,
+      50
+     ]
+    },
+    {
+     "text": "HBDRajasekhar",
+     "indices": [
+      77,
+      91
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Fukkard",
+     "name": "Fukkard",
+     "id": 2965655845,
+     "id_str": "2965655845",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "ActorRajasekhar",
+     "name": "Dr.Rajasekhar",
+     "id": 807612364686180352,
+     "id_str": "807612364686180352",
+     "indices": [
+      60,
+      76
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621792185686593536,
+     "id_str": "1621792185686593536",
+     "indices": [
+      92,
+      115
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoHDZndakAA1djw.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoHDZndakAA1djw.jpg",
+     "url": "https://t.co/SnlHhTr8c5",
+     "display_url": "pic.twitter.com/SnlHhTr8c5",
+     "expanded_url": "https://twitter.com/Fukkard/status/1621792195220221952/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1638,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621792195220221952,
+     "source_status_id_str": "1621792195220221952",
+     "source_user_id": 2965655845,
+     "source_user_id_str": "2965655845"
+    }
+   ]
+  },
+  "Sat Feb 04 08:55:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      23,
+      29
+     ]
+    },
+    {
+     "screen_name": "mayemusk",
+     "name": "Maye Musk",
+     "id": 14171401,
+     "id_str": "14171401",
+     "indices": [
+      30,
+      39
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      40,
+      47
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 08:55:21 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AGENT",
+     "indices": [
+      21,
+      27
+     ]
+    },
+    {
+     "text": "AgentonAPRIL28th",
+     "indices": [
+      66,
+      83
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "idlebraindotcom",
+     "name": "idlebrain.com",
+     "id": 1432855796,
+     "id_str": "1432855796",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621792012650561537,
+     "id_str": "1621792012650561537",
+     "indices": [
+      84,
+      107
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoHDPi2aQAEJvws.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoHDPi2aQAEJvws.jpg",
+     "url": "https://t.co/GFcCFF7rsQ",
+     "display_url": "pic.twitter.com/GFcCFF7rsQ",
+     "expanded_url": "https://twitter.com/idlebraindotcom/status/1621792034393849859/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 960,
+       "h": 540,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 960,
+       "h": 540,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621792034393849859,
+     "source_status_id_str": "1621792034393849859",
+     "source_user_id": 1432855796,
+     "source_user_id_str": "1432855796"
+    }
+   ]
+  },
+  "Sat Feb 04 08:55:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      14,
+      20
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 08:44:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621626742434562050,
+     "id_str": "1621626742434562050",
+     "indices": [
+      28,
+      51
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1621626742434562050/pu/img/APiRJgTqjef9XJip.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1621626742434562050/pu/img/APiRJgTqjef9XJip.jpg",
+     "url": "https://t.co/Ffw3KcxoGf",
+     "display_url": "pic.twitter.com/Ffw3KcxoGf",
+     "expanded_url": "https://twitter.com/Tesla/status/1621627317301776387/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 425,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 750,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621627317301776387,
+     "source_status_id_str": "1621627317301776387",
+     "source_user_id": 13298072,
+     "source_user_id_str": "13298072"
+    }
+   ]
+  },
+  "Sat Feb 04 07:34:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DainikBhaskar",
+     "name": "Dainik Bhaskar",
+     "id": 67378160,
+     "id_str": "67378160",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:34:16 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AskSRK",
+     "indices": [
+      17,
+      24
+     ]
+    },
+    {
+     "text": "ShahRukhKhan",
+     "indices": [
+      26,
+      39
+     ]
+    },
+    {
+     "text": "Jawan",
+     "indices": [
+      67,
+      73
+     ]
+    },
+    {
+     "text": "Dunki",
+     "indices": [
+      80,
+      86
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BOWorldwide",
+     "name": "Box Office Worldwide",
+     "id": 426927447,
+     "id_str": "426927447",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:33:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "RRRInJapan",
+     "indices": [
+      13,
+      24
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Fukkard",
+     "name": "Fukkard",
+     "id": 2965655845,
+     "id_str": "2965655845",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621771055638659072,
+     "id_str": "1621771055638659072",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoGwLr5aQAAeo6f.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoGwLr5aQAAeo6f.jpg",
+     "url": "https://t.co/nXhchaNnSY",
+     "display_url": "pic.twitter.com/nXhchaNnSY",
+     "expanded_url": "https://twitter.com/Fukkard/status/1621771060608905216/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1920,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621771060608905216,
+     "source_status_id_str": "1621771060608905216",
+     "source_user_id": 2965655845,
+     "source_user_id_str": "2965655845"
+    }
+   ]
+  },
+  "Sat Feb 04 07:33:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "iamsrk",
+     "name": "Shah Rukh Khan",
+     "id": 101311381,
+     "id_str": "101311381",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:32:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "ChennaiIPL",
+     "name": "Chennai Super Kings",
+     "id": 117407834,
+     "id_str": "117407834",
+     "indices": [
+      45,
+      56
+     ]
+    },
+    {
+     "screen_name": "SGanguly99",
+     "name": "Sourav Ganguly",
+     "id": 2708915372,
+     "id_str": "2708915372",
+     "indices": [
+      59,
+      70
+     ]
+    },
+    {
+     "screen_name": "msdhoni",
+     "name": "Mahendra Singh Dhoni",
+     "id": 92708272,
+     "id_str": "92708272",
+     "indices": [
+      73,
+      81
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621760502199357441,
+     "id_str": "1621760502199357441",
+     "indices": [
+      82,
+      105
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoGmlZRaEAExsNF.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoGmlZRaEAExsNF.jpg",
+     "url": "https://t.co/tb9NL57Mht",
+     "display_url": "pic.twitter.com/tb9NL57Mht",
+     "expanded_url": "https://twitter.com/Cricketracker/status/1621760881041481728/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1000,
+       "h": 1000,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1000,
+       "h": 1000,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621760881041481728,
+     "source_status_id_str": "1621760881041481728",
+     "source_user_id": 1553602212,
+     "source_user_id_str": "1553602212"
+    }
+   ]
+  },
+  "Sat Feb 04 07:32:45 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      103,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "iamsrk",
+     "name": "Shah Rukh Khan",
+     "id": 101311381,
+     "id_str": "101311381",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/NqzAzKrEsK",
+     "expanded_url": "https://twitter.com/raghavsharmara1/status/1621753181654089729",
+     "display_url": "twitter.com/raghavsharmara\u2026",
+     "indices": [
+      112,
+      135
+     ]
+    }
+   ]
+  },
+  "Sat Feb 04 07:32:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RGVzoomin",
+     "name": "Ram Gopal Varma",
+     "id": 43017766,
+     "id_str": "43017766",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621771907677966338,
+     "id_str": "1621771907677966338",
+     "indices": [
+      15,
+      38
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1621771907677966338/pu/img/RBIfe9FqBySeORl3.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1621771907677966338/pu/img/RBIfe9FqBySeORl3.jpg",
+     "url": "https://t.co/4Jr2BDgsGQ",
+     "display_url": "pic.twitter.com/4Jr2BDgsGQ",
+     "expanded_url": "https://twitter.com/RGVzoomin/status/1621772038129197057/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621772038129197057,
+     "source_status_id_str": "1621772038129197057",
+     "source_user_id": 43017766,
+     "source_user_id_str": "43017766"
+    }
+   ]
+  },
+  "Sat Feb 04 07:31:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "INDvNZ",
+     "indices": [
+      85,
+      92
+     ]
+    },
+    {
+     "text": "ShubmanGill",
+     "indices": [
+      93,
+      105
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "100MasterBlastr",
+     "name": "100MB",
+     "id": 836532747116019716,
+     "id_str": "836532747116019716",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "ShubmanGill",
+     "name": "Shubman Gill",
+     "id": 959840104440385536,
+     "id_str": "959840104440385536",
+     "indices": [
+      33,
+      45
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621745178599120897,
+     "id_str": "1621745178599120897",
+     "indices": [
+      106,
+      129
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoGYpcaaYAE8jxU.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoGYpcaaYAE8jxU.jpg",
+     "url": "https://t.co/okcPrfmS5C",
+     "display_url": "pic.twitter.com/okcPrfmS5C",
+     "expanded_url": "https://twitter.com/100MasterBlastr/status/1621745183690993665/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621745183690993665,
+     "source_status_id_str": "1621745183690993665",
+     "source_user_id": 836532747116019716,
+     "source_user_id_str": "836532747116019716"
+    }
+   ]
+  },
+  "Sat Feb 04 07:30:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      76,
+      80
+     ]
+    },
+    {
+     "text": "Jawan",
+     "indices": [
+      100,
+      106
+     ]
+    },
+    {
+     "text": "BadeMiyanChoteMiyan",
+     "indices": [
+      118,
+      138
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:30:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TrungTPhan",
+     "name": "Trung Phan",
+     "id": 945817135816654848,
+     "id_str": "945817135816654848",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:29:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "TrungTPhan",
+     "name": "Trung Phan",
+     "id": 945817135816654848,
+     "id_str": "945817135816654848",
+     "indices": [
+      14,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:27:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:27:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:26:56 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "VaathiMusicDay",
+     "indices": [
+      19,
+      34
+     ]
+    },
+    {
+     "text": "VaathiVaraar",
+     "indices": [
+      92,
+      105
+     ]
+    },
+    {
+     "text": "VaathiAudioLaunch",
+     "indices": [
+      108,
+      126
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "7screenstudio",
+     "name": "Seven Screen Studio",
+     "id": 922826142582632448,
+     "id_str": "922826142582632448",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:26:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ahavideoIN",
+     "name": "ahavideoin",
+     "id": 1204349704047169536,
+     "id_str": "1204349704047169536",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:26:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      16,
+      24
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "letscinema",
+     "name": "LetsCinema",
+     "id": 1090513571581091840,
+     "id_str": "1090513571581091840",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:26:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    },
+    {
+     "screen_name": "mayemusk",
+     "name": "Maye Musk",
+     "id": 14171401,
+     "id_str": "14171401",
+     "indices": [
+      23,
+      32
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      33,
+      39
+     ]
+    },
+    {
+     "screen_name": "Twitter",
+     "name": "Twitter",
+     "id": 783214,
+     "id_str": "783214",
+     "indices": [
+      40,
+      48
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:25:45 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LetsCinema",
+     "indices": [
+      16,
+      27
+     ]
+    },
+    {
+     "text": "Pathaan",
+     "indices": [
+      88,
+      96
+     ]
+    },
+    {
+     "text": "Varisu",
+     "indices": [
+      117,
+      124
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "letscinema",
+     "name": "LetsCinema",
+     "id": 1090513571581091840,
+     "id_str": "1090513571581091840",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:25:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:25:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 07:25:10 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "chatgpt",
+     "indices": [
+      95,
+      103
+     ]
+    },
+    {
+     "text": "ai",
+     "indices": [
+      104,
+      107
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SteveNouri",
+     "name": "Steve Nouri",
+     "id": 776995179941113856,
+     "id_str": "776995179941113856",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621684976285806593,
+     "id_str": "1621684976285806593",
+     "indices": [
+      108,
+      131
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1621684976285806593/pu/img/e0H7hVF8DzTEMJlt.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1621684976285806593/pu/img/e0H7hVF8DzTEMJlt.jpg",
+     "url": "https://t.co/XCbN9rHV2d",
+     "display_url": "pic.twitter.com/XCbN9rHV2d",
+     "expanded_url": "https://twitter.com/SteveNouri/status/1621685010469359617/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 372,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 464,
+       "h": 848,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 464,
+       "h": 848,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621685010469359617,
+     "source_status_id_str": "1621685010469359617",
+     "source_user_id": 776995179941113856,
+     "source_user_id_str": "776995179941113856"
+    }
+   ]
+  },
+  "Sat Feb 04 07:24:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "iamsrk",
+     "name": "Shah Rukh Khan",
+     "id": 101311381,
+     "id_str": "101311381",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 02:45:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ViratKohli",
+     "indices": [
+      95,
+      106
+     ]
+    },
+    {
+     "text": "RohitSharma",
+     "indices": [
+      107,
+      119
+     ]
+    },
+    {
+     "text": "SohailKhan",
+     "indices": [
+      120,
+      131
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cricketracker",
+     "name": "CricTracker",
+     "id": 1553602212,
+     "id_str": "1553602212",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 02:44:51 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      13,
+      17
+     ]
+    },
+    {
+     "text": "Thalapathy",
+     "indices": [
+      21,
+      32
+     ]
+    },
+    {
+     "text": "BloodySweet",
+     "indices": [
+      69,
+      81
+     ]
+    },
+    {
+     "text": "Thalapathy",
+     "indices": [
+      114,
+      125
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Thyview",
+     "name": "Thyview",
+     "id": 1596642901,
+     "id_str": "1596642901",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "Dir_Lokesh",
+     "name": "Lokesh Kanagaraj",
+     "id": 1103860407624556546,
+     "id_str": "1103860407624556546",
+     "indices": [
+      49,
+      60
+     ]
+    },
+    {
+     "screen_name": "actorvijay",
+     "name": "Vijay",
+     "id": 1156338067,
+     "id_str": "1156338067",
+     "indices": [
+      126,
+      137
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/kSp4y0AXNA",
+     "expanded_url": "http://bit.ly/BloodySweetPro",
+     "display_url": "bit.ly/BloodySweetPro",
+     "indices": [
+      88,
+      111
+     ]
+    }
+   ]
+  },
+  "Sat Feb 04 02:44:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "iam_arjundas",
+     "name": "Arjun Das",
+     "id": 1255515565,
+     "id_str": "1255515565",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621466771835457537,
+     "id_str": "1621466771835457537",
+     "indices": [
+      18,
+      41
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoCbcCZaEAE0uwy.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoCbcCZaEAE0uwy.jpg",
+     "url": "https://t.co/gjyi9hDyZo",
+     "display_url": "pic.twitter.com/gjyi9hDyZo",
+     "expanded_url": "https://twitter.com/iam_arjundas/status/1621466780207300608/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 300,
+       "h": 184,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 300,
+       "h": 184,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 300,
+       "h": 184,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621466780207300608,
+     "source_status_id_str": "1621466780207300608",
+     "source_user_id": 1255515565,
+     "source_user_id_str": "1255515565"
+    }
+   ]
+  },
+  "Sat Feb 04 02:44:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "davidwarner31",
+     "name": "David Warner",
+     "id": 127765218,
+     "id_str": "127765218",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 02:44:08 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "IndvAus",
+     "indices": [
+      104,
+      112
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "vikrantgupta73",
+     "name": "Vikrant Gupta",
+     "id": 135110894,
+     "id_str": "135110894",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "ashwinravi99",
+     "name": "Ashwin \ud83c\uddee\ud83c\uddf3",
+     "id": 358814014,
+     "id_str": "358814014",
+     "indices": [
+      113,
+      126
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 02:17:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NetflixIndia",
+     "name": "Netflix India",
+     "id": 4502936240,
+     "id_str": "4502936240",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "actorvijay",
+     "name": "Vijay",
+     "id": 1156338067,
+     "id_str": "1156338067",
+     "indices": [
+      53,
+      64
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621481008083406848,
+     "id_str": "1621481008083406848",
+     "indices": [
+      94,
+      117
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoCoYsjakAAPBiN.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoCoYsjakAAPBiN.jpg",
+     "url": "https://t.co/coGNMVOH8a",
+     "display_url": "pic.twitter.com/coGNMVOH8a",
+     "expanded_url": "https://twitter.com/NetflixIndia/status/1621485905155592197/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621485905155592197,
+     "source_status_id_str": "1621485905155592197",
+     "source_user_id": 4502936240,
+     "source_user_id_str": "4502936240"
+    }
+   ]
+  },
+  "Sat Feb 04 02:17:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LEO",
+     "indices": [
+      40,
+      44
+     ]
+    },
+    {
+     "text": "BloodySweet",
+     "indices": [
+      94,
+      106
+     ]
+    },
+    {
+     "text": "PVR",
+     "indices": [
+      122,
+      126
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_PVRCinemas",
+     "name": "P V R C i n e m a s",
+     "id": 116747394,
+     "id_str": "116747394",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 02:17:11 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      20,
+      24
+     ]
+    },
+    {
+     "text": "BloodySweet",
+     "indices": [
+      69,
+      81
+     ]
+    },
+    {
+     "text": "Thalapathy",
+     "indices": [
+      113,
+      124
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SonyMusicSouth",
+     "name": "Sony Music South",
+     "id": 163787110,
+     "id_str": "163787110",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "actorvijay",
+     "name": "Vijay",
+     "id": 1156338067,
+     "id_str": "1156338067",
+     "indices": [
+      125,
+      136
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/boebmbZSQa",
+     "expanded_url": "https://bit.ly/BloodySweetPromo",
+     "display_url": "bit.ly/BloodySweetPro\u2026",
+     "indices": [
+      88,
+      111
+     ]
+    }
+   ]
+  },
+  "Sat Feb 04 02:16:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChennaiIPL",
+     "name": "Chennai Super Kings",
+     "id": 117407834,
+     "id_str": "117407834",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621484828842684417,
+     "id_str": "1621484828842684417",
+     "indices": [
+      83,
+      106
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoCr3F_acAEZZIQ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoCr3F_acAEZZIQ.jpg",
+     "url": "https://t.co/zRpdrZeYGg",
+     "display_url": "pic.twitter.com/zRpdrZeYGg",
+     "expanded_url": "https://twitter.com/ChennaiIPL/status/1621484845238222848/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621484845238222848,
+     "source_status_id_str": "1621484845238222848",
+     "source_user_id": 117407834,
+     "source_user_id_str": "117407834"
+    }
+   ]
+  },
+  "Sat Feb 04 02:16:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      19,
+      23
+     ]
+    },
+    {
+     "text": "Thalapathy",
+     "indices": [
+      52,
+      63
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jagadishbliss",
+     "name": "Jagadish",
+     "id": 80374431,
+     "id_str": "80374431",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "actorvijay",
+     "name": "Vijay",
+     "id": 1156338067,
+     "id_str": "1156338067",
+     "indices": [
+      64,
+      75
+     ]
+    },
+    {
+     "screen_name": "trishtrashers",
+     "name": "Trish",
+     "id": 52729592,
+     "id_str": "52729592",
+     "indices": [
+      76,
+      90
+     ]
+    },
+    {
+     "screen_name": "anirudhofficial",
+     "name": "Anirudh Ravichander",
+     "id": 216447259,
+     "id_str": "216447259",
+     "indices": [
+      91,
+      107
+     ]
+    },
+    {
+     "screen_name": "Dir_Lokesh",
+     "name": "Lokesh Kanagaraj",
+     "id": 1103860407624556546,
+     "id_str": "1103860407624556546",
+     "indices": [
+      108,
+      119
+     ]
+    },
+    {
+     "screen_name": "PriyaAnand",
+     "name": "Priya Anand",
+     "id": 121677709,
+     "id_str": "121677709",
+     "indices": [
+      120,
+      131
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 13:28:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NTR",
+     "indices": [
+      13,
+      17
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Fukkard",
+     "name": "Fukkard",
+     "id": 2965655845,
+     "id_str": "2965655845",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621491942029934593,
+     "id_str": "1621491942029934593",
+     "indices": [
+      21,
+      44
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoCyVIraQAEU_0r.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoCyVIraQAEU_0r.jpg",
+     "url": "https://t.co/reRvnwSgBd",
+     "display_url": "pic.twitter.com/reRvnwSgBd",
+     "expanded_url": "https://twitter.com/Fukkard/status/1621491948375904257/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1920,
+       "h": 1920,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621491948375904257,
+     "source_status_id_str": "1621491948375904257",
+     "source_user_id": 2965655845,
+     "source_user_id_str": "2965655845"
+    }
+   ]
+  },
+  "Fri Feb 03 13:28:36 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Kantara",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "T2BLive",
+     "name": "T2BLive.COM",
+     "id": 2700083636,
+     "id_str": "2700083636",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 13:28:22 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Kaththi",
+     "indices": [
+      16,
+      24
+     ]
+    },
+    {
+     "text": "Master",
+     "indices": [
+      45,
+      52
+     ]
+    },
+    {
+     "text": "Beast",
+     "indices": [
+      76,
+      82
+     ]
+    },
+    {
+     "text": "Leo",
+     "indices": [
+      101,
+      105
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "letscinema",
+     "name": "LetsCinema",
+     "id": 1090513571581091840,
+     "id_str": "1090513571581091840",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 13:27:58 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      75,
+      79
+     ]
+    },
+    {
+     "text": "Jawan",
+     "indices": [
+      101,
+      107
+     ]
+    },
+    {
+     "text": "Pathaan",
+     "indices": [
+      118,
+      126
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 12:14:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Thalapathy67",
+     "indices": [
+      27,
+      40
+     ]
+    },
+    {
+     "text": "LEO",
+     "indices": [
+      41,
+      45
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "letscinema",
+     "name": "LetsCinema",
+     "id": 1090513571581091840,
+     "id_str": "1090513571581091840",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621475000732483584,
+     "id_str": "1621475000732483584",
+     "indices": [
+      54,
+      77
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoCi7BbWAAAgplP.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoCi7BbWAAAgplP.jpg",
+     "url": "https://t.co/9e0Cjqr68X",
+     "display_url": "pic.twitter.com/9e0Cjqr68X",
+     "expanded_url": "https://twitter.com/letscinema/status/1621475006709391360/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1155,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 677,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621475006709391360,
+     "source_status_id_str": "1621475006709391360",
+     "source_user_id": 1090513571581091840,
+     "source_user_id_str": "1090513571581091840"
+    }
+   ]
+  },
+  "Fri Feb 03 12:14:50 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CricketTwitter",
+     "indices": [
+      115,
+      130
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "imfemalecricket",
+     "name": "Female Cricket",
+     "id": 4873219218,
+     "id_str": "4873219218",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 11:53:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BloodySweet",
+     "indices": [
+      19,
+      31
+     ]
+    },
+    {
+     "text": "LEO",
+     "indices": [
+      55,
+      59
+     ]
+    },
+    {
+     "text": "Thalapathy67Title",
+     "indices": [
+      60,
+      78
+     ]
+    },
+    {
+     "text": "ThalapathyVijay",
+     "indices": [
+      79,
+      95
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "galattadotcom",
+     "name": "Galatta Media",
+     "id": 42896611,
+     "id_str": "42896611",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "Dir_Lokesh",
+     "name": "Lokesh Kanagaraj",
+     "id": 1103860407624556546,
+     "id_str": "1103860407624556546",
+     "indices": [
+      97,
+      108
+     ]
+    },
+    {
+     "screen_name": "actorvijay",
+     "name": "Vijay",
+     "id": 1156338067,
+     "id_str": "1156338067",
+     "indices": [
+      109,
+      120
+     ]
+    },
+    {
+     "screen_name": "anirudhofficial",
+     "name": "Anirudh Ravichander",
+     "id": 216447259,
+     "id_str": "216447259",
+     "indices": [
+      121,
+      137
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 11:52:25 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      20,
+      24
+     ]
+    },
+    {
+     "text": "BloodySweet",
+     "indices": [
+      25,
+      37
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sarathvijay967",
+     "name": "Leo - The Movie",
+     "id": 719380602231738369,
+     "id_str": "719380602231738369",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621474094691794945,
+     "id_str": "1621474094691794945",
+     "indices": [
+      82,
+      105
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoCiGSKaQAE3_Bi.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoCiGSKaQAE3_Bi.jpg",
+     "url": "https://t.co/shNbNemSkx",
+     "display_url": "pic.twitter.com/shNbNemSkx",
+     "expanded_url": "https://twitter.com/sarathvijay967/status/1621474099506843654/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 2048,
+       "h": 922,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 540,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 306,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621474099506843654,
+     "source_status_id_str": "1621474099506843654",
+     "source_user_id": 719380602231738369,
+     "source_user_id_str": "719380602231738369"
+    }
+   ]
+  },
+  "Fri Feb 03 11:48:42 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      16,
+      20
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "actorvijay",
+     "name": "Vijay",
+     "id": 1156338067,
+     "id_str": "1156338067",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/a5wELxG706",
+     "expanded_url": "https://youtu.be/qN3wfuPYTI4",
+     "display_url": "youtu.be/qN3wfuPYTI4",
+     "indices": [
+      23,
+      46
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 11:48:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Thalapathy67",
+     "indices": [
+      123,
+      136
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "7screenstudio",
+     "name": "Seven Screen Studio",
+     "id": 922826142582632448,
+     "id_str": "922826142582632448",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 11:48:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Thalapathy67Promo",
+     "indices": [
+      48,
+      66
+     ]
+    },
+    {
+     "text": "LEO",
+     "indices": [
+      92,
+      96
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RamCinemas",
+     "name": "Ram Muthuram Cinemas",
+     "id": 2776160768,
+     "id_str": "2776160768",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "Dir_Lokesh",
+     "name": "Lokesh Kanagaraj",
+     "id": 1103860407624556546,
+     "id_str": "1103860407624556546",
+     "indices": [
+      99,
+      110
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 11:47:56 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      30,
+      34
+     ]
+    },
+    {
+     "text": "Thalapathy67Title",
+     "indices": [
+      35,
+      53
+     ]
+    },
+    {
+     "text": "ThalapathyVijay",
+     "indices": [
+      54,
+      70
+     ]
+    },
+    {
+     "text": "LokeshKanagaraj",
+     "indices": [
+      71,
+      87
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "igtamil",
+     "name": "IndiaGlitz - Tamil",
+     "id": 52875461,
+     "id_str": "52875461",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621472963345416194,
+     "id_str": "1621472963345416194",
+     "indices": [
+      88,
+      111
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoChEbkagAIoZsa.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoChEbkagAIoZsa.jpg",
+     "url": "https://t.co/MKWWJdZfcs",
+     "display_url": "pic.twitter.com/MKWWJdZfcs",
+     "expanded_url": "https://twitter.com/igtamil/status/1621472966507905024/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1600,
+       "h": 767,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 575,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 326,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621472966507905024,
+     "source_status_id_str": "1621472966507905024",
+     "source_user_id": 52875461,
+     "source_user_id_str": "52875461"
+    }
+   ]
+  },
+  "Fri Feb 03 11:47:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      84,
+      88
+     ]
+    },
+    {
+     "text": "BloodySweet",
+     "indices": [
+      91,
+      103
+     ]
+    },
+    {
+     "text": "Thalapathy",
+     "indices": [
+      108,
+      119
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "anirudhofficial",
+     "name": "Anirudh Ravichander",
+     "id": 216447259,
+     "id_str": "216447259",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "actorvijay",
+     "name": "Vijay",
+     "id": 1156338067,
+     "id_str": "1156338067",
+     "indices": [
+      120,
+      131
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/kiUO3MNgtI",
+     "expanded_url": "https://youtu.be/qN3wfuPYTI4",
+     "display_url": "youtu.be/qN3wfuPYTI4",
+     "indices": [
+      59,
+      82
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 11:46:56 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LEO",
+     "indices": [
+      44,
+      48
+     ]
+    },
+    {
+     "text": "BloodySweet",
+     "indices": [
+      98,
+      110
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Karthikravivarm",
+     "name": "Karthik Ravivarma",
+     "id": 1301768235260366848,
+     "id_str": "1301768235260366848",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 11:46:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      20,
+      24
+     ]
+    },
+    {
+     "text": "BloodySweet",
+     "indices": [
+      25,
+      37
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ActorVijayUniv",
+     "name": "Actor Vijay Universe",
+     "id": 753839263205122048,
+     "id_str": "753839263205122048",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621472930214604805,
+     "id_str": "1621472930214604805",
+     "indices": [
+      82,
+      105
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoChCgJacAU1GsR.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoChCgJacAU1GsR.jpg",
+     "url": "https://t.co/9oPUN1hKeW",
+     "display_url": "pic.twitter.com/9oPUN1hKeW",
+     "expanded_url": "https://twitter.com/ActorVijayUniv/status/1621472938343145472/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621472938343145472,
+     "source_status_id_str": "1621472938343145472",
+     "source_user_id": 753839263205122048,
+     "source_user_id_str": "753839263205122048"
+    }
+   ]
+  },
+  "Fri Feb 03 11:46:31 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LEO",
+     "indices": [
+      43,
+      47
+     ]
+    },
+    {
+     "text": "BloodySweet",
+     "indices": [
+      97,
+      109
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SonyMusicSouth",
+     "name": "Sony Music South",
+     "id": 163787110,
+     "id_str": "163787110",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 11:46:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Leo",
+     "indices": [
+      13,
+      17
+     ]
+    },
+    {
+     "text": "Vijay",
+     "indices": [
+      18,
+      24
+     ]
+    },
+    {
+     "text": "LokeshKanagaraj",
+     "indices": [
+      25,
+      41
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Thyview",
+     "name": "Thyview",
+     "id": 1596642901,
+     "id_str": "1596642901",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "Dir_Lokesh",
+     "name": "Lokesh Kanagaraj",
+     "id": 1103860407624556546,
+     "id_str": "1103860407624556546",
+     "indices": [
+      46,
+      57
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621472294366498816,
+     "id_str": "1621472294366498816",
+     "indices": [
+      58,
+      81
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoCgdfbaUAA5rQ1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoCgdfbaUAA5rQ1.jpg",
+     "url": "https://t.co/e6utSyVS0W",
+     "display_url": "pic.twitter.com/e6utSyVS0W",
+     "expanded_url": "https://twitter.com/Thyview/status/1621472345776062464/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 922,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 540,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 306,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621472345776062464,
+     "source_status_id_str": "1621472345776062464",
+     "source_user_id": 1596642901,
+     "source_user_id_str": "1596642901"
+    }
+   ]
+  },
+  "Fri Feb 03 11:46:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LEO",
+     "indices": [
+      18,
+      22
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SSMusicTweet",
+     "name": "SS Music",
+     "id": 899660964,
+     "id_str": "899660964",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 11:33:48 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LEO",
+     "indices": [
+      16,
+      20
+     ]
+    },
+    {
+     "text": "BLOODYSWEET",
+     "indices": [
+      21,
+      33
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Dir_Lokesh",
+     "name": "Lokesh Kanagaraj",
+     "id": 1103860407624556546,
+     "id_str": "1103860407624556546",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/VZKg9VSD43",
+     "expanded_url": "https://youtu.be/qN3wfuPYTI4",
+     "display_url": "youtu.be/qN3wfuPYTI4",
+     "indices": [
+      37,
+      60
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 10:45:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "letscinema",
+     "name": "LetsCinema",
+     "id": 1090513571581091840,
+     "id_str": "1090513571581091840",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 10:44:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathan",
+     "indices": [
+      20,
+      27
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Harminderboxof",
+     "name": "Harminder \ud83c\udf7f\ud83c\udfac\ud83c\udfcf",
+     "id": 357597467,
+     "id_str": "357597467",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 10:44:16 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      58,
+      66
+     ]
+    },
+    {
+     "text": "KGF2",
+     "indices": [
+      79,
+      84
+     ]
+    },
+    {
+     "text": "Baahubali2",
+     "indices": [
+      100,
+      111
+     ]
+    },
+    {
+     "text": "Sultan",
+     "indices": [
+      124,
+      131
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 10:44:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "imfemalecricket",
+     "name": "Female Cricket",
+     "id": 4873219218,
+     "id_str": "4873219218",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 08:53:51 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "KingOfKotha",
+     "indices": [
+      16,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "letscinema",
+     "name": "LetsCinema",
+     "id": 1090513571581091840,
+     "id_str": "1090513571581091840",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "dulQuer",
+     "name": "Dulquer Salmaan",
+     "id": 114407932,
+     "id_str": "114407932",
+     "indices": [
+      29,
+      37
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621381203629834240,
+     "id_str": "1621381203629834240",
+     "indices": [
+      78,
+      101
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoBNnT_aAAA-oCF.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoBNnT_aAAA-oCF.jpg",
+     "url": "https://t.co/zBSh2gOCy2",
+     "display_url": "pic.twitter.com/zBSh2gOCy2",
+     "expanded_url": "https://twitter.com/letscinema/status/1621381215394889729/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 635,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1084,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 360,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621381215394889729,
+     "source_status_id_str": "1621381215394889729",
+     "source_user_id": 1090513571581091840,
+     "source_user_id_str": "1090513571581091840"
+    }
+   ]
+  },
+  "Fri Feb 03 08:47:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ahavideoIN",
+     "name": "ahavideoin",
+     "id": 1204349704047169536,
+     "id_str": "1204349704047169536",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 08:43:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CricketTwitter",
+     "indices": [
+      74,
+      89
+     ]
+    },
+    {
+     "text": "SAvIND",
+     "indices": [
+      90,
+      97
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "imfemalecricket",
+     "name": "Female Cricket",
+     "id": 4873219218,
+     "id_str": "4873219218",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 08:39:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "DriveTeslaca",
+     "name": "Drive Tesla \ud83c\udde8\ud83c\udde6",
+     "id": 1169348503975317504,
+     "id_str": "1169348503975317504",
+     "indices": [
+      14,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 08:38:21 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Buttabomma",
+     "indices": [
+      45,
+      56
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "idlebraindotcom",
+     "name": "idlebrain.com",
+     "id": 1432855796,
+     "id_str": "1432855796",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621426929403588609,
+     "id_str": "1621426929403588609",
+     "indices": [
+      57,
+      80
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoB3M5xacAErdd5.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoB3M5xacAErdd5.jpg",
+     "url": "https://t.co/svVzzmCPxL",
+     "display_url": "pic.twitter.com/svVzzmCPxL",
+     "expanded_url": "https://twitter.com/idlebraindotcom/status/1621426939755139073/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 436,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 769,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 820,
+       "h": 1280,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621426939755139073,
+     "source_status_id_str": "1621426939755139073",
+     "source_user_id": 1432855796,
+     "source_user_id_str": "1432855796"
+    }
+   ]
+  },
+  "Fri Feb 03 08:38:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TrackTwood",
+     "name": "TrackTollywood",
+     "id": 3230626363,
+     "id_str": "3230626363",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/ucofLs4BMm",
+     "expanded_url": "https://tracktollywood.com/the-sensational-kantara-telugu-version-delivers-massive-trp/",
+     "display_url": "tracktollywood.com/the-sensationa\u2026",
+     "indices": [
+      79,
+      102
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 08:27:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DineshKarthik",
+     "name": "DK",
+     "id": 138002210,
+     "id_str": "138002210",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 08:27:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      16,
+      24
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rameshlaus",
+     "name": "Ramesh Bala",
+     "id": 102268884,
+     "id_str": "102268884",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:16:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KChiruTweets",
+     "name": "Chiranjeevi Konidela",
+     "id": 1241296875459768320,
+     "id_str": "1241296875459768320",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:16:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "KViswanath",
+     "indices": [
+      15,
+      26
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DVVMovies",
+     "name": "DVV Entertainment",
+     "id": 3026106503,
+     "id_str": "3026106503",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:16:18 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pathaan",
+     "indices": [
+      52,
+      60
+     ]
+    },
+    {
+     "text": "Dhoom3",
+     "indices": [
+      83,
+      90
+     ]
+    },
+    {
+     "text": "BajrangiBhaijaan",
+     "indices": [
+      103,
+      120
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "box_oficeIndian",
+     "name": "Indian Box Office",
+     "id": 969157263553277952,
+     "id_str": "969157263553277952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:05:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SitaRamam",
+     "indices": [
+      84,
+      94
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "hanurpudi",
+     "name": "Hanu Raghavapudi",
+     "id": 592319347,
+     "id_str": "592319347",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:04:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Thalapathy67",
+     "indices": [
+      85,
+      98
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "7screenstudio",
+     "name": "Seven Screen Studio",
+     "id": 922826142582632448,
+     "id_str": "922826142582632448",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:04:02 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NaatuNaatu",
+     "indices": [
+      119,
+      130
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ssrajamouli",
+     "name": "rajamouli ss",
+     "id": 136479128,
+     "id_str": "136479128",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:04:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ssrajamouli",
+     "name": "rajamouli ss",
+     "id": 136479128,
+     "id_str": "136479128",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "sethmeyers",
+     "name": "Seth Meyers",
+     "id": 44039298,
+     "id_str": "44039298",
+     "indices": [
+      70,
+      81
+     ]
+    },
+    {
+     "screen_name": "LateNightSeth",
+     "name": "Late Night with Seth Meyers",
+     "id": 570290656,
+     "id_str": "570290656",
+     "indices": [
+      106,
+      120
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:03:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ssrajamouli",
+     "name": "rajamouli ss",
+     "id": 136479128,
+     "id_str": "136479128",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1614107799965036544,
+     "id_str": "1614107799965036544",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/FmZ2ff4acAAqy-A.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FmZ2ff4acAAqy-A.jpg",
+     "url": "https://t.co/NYsNgbS8Fw",
+     "display_url": "pic.twitter.com/NYsNgbS8Fw",
+     "expanded_url": "https://twitter.com/ssrajamouli/status/1614107808680792064/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1600,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1614107808680792064,
+     "source_status_id_str": "1614107808680792064",
+     "source_user_id": 136479128,
+     "source_user_id_str": "136479128"
+    }
+   ]
+  },
+  "Fri Feb 03 07:03:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ssrajamouli",
+     "name": "rajamouli ss",
+     "id": 136479128,
+     "id_str": "136479128",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:03:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ssrajamouli",
+     "name": "rajamouli ss",
+     "id": 136479128,
+     "id_str": "136479128",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:03:43 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Dasara",
+     "indices": [
+      38,
+      45
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ssrajamouli",
+     "name": "rajamouli ss",
+     "id": 136479128,
+     "id_str": "136479128",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "NameisNani",
+     "name": "Nani",
+     "id": 501617441,
+     "id_str": "501617441",
+     "indices": [
+      56,
+      67
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 06:56:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ArjunDas",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Thyview",
+     "name": "Thyview",
+     "id": 1596642901,
+     "id_str": "1596642901",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 06:56:21 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Michael",
+     "indices": [
+      13,
+      21
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "T2BLive",
+     "name": "T2BLive.COM",
+     "id": 2700083636,
+     "id_str": "2700083636",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621350073979535360,
+     "id_str": "1621350073979535360",
+     "indices": [
+      42,
+      65
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoAxTVAagAA6ROD.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoAxTVAagAA6ROD.jpg",
+     "url": "https://t.co/yqrVBPWFoA",
+     "display_url": "pic.twitter.com/yqrVBPWFoA",
+     "expanded_url": "https://twitter.com/T2BLive/status/1621350093386575873/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 546,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 582,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 309,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621350093386575873,
+     "source_status_id_str": "1621350093386575873",
+     "source_user_id": 2700083636,
+     "source_user_id_str": "2700083636"
+    }
+   ]
+  },
+  "Fri Feb 03 06:30:22 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Varisu",
+     "indices": [
+      50,
+      57
+     ]
+    },
+    {
+     "text": "Thalapathy",
+     "indices": [
+      88,
+      99
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "7screenstudio",
+     "name": "Seven Screen Studio",
+     "id": 922826142582632448,
+     "id_str": "922826142582632448",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "actorvijay",
+     "name": "Vijay",
+     "id": 1156338067,
+     "id_str": "1156338067",
+     "indices": [
+      100,
+      111
+     ]
+    },
+    {
+     "screen_name": "directorvamshi",
+     "name": "Vamshi Paidipally",
+     "id": 810017083320733696,
+     "id_str": "810017083320733696",
+     "indices": [
+      116,
+      131
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 04:32:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AdiviSesh",
+     "name": "Adivi Sesh",
+     "id": 388770712,
+     "id_str": "388770712",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621322935666618369,
+     "id_str": "1621322935666618369",
+     "indices": [
+      37,
+      60
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoAYnq6aMAE-Jjr.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoAYnq6aMAE-Jjr.jpg",
+     "url": "https://t.co/U9qhbNl5dZ",
+     "display_url": "pic.twitter.com/U9qhbNl5dZ",
+     "expanded_url": "https://twitter.com/AdiviSesh/status/1621322942360715264/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1125,
+       "h": 686,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 415,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1125,
+       "h": 686,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621322942360715264,
+     "source_status_id_str": "1621322942360715264",
+     "source_user_id": 388770712,
+     "source_user_id_str": "388770712"
+    }
+   ]
+  },
+  "Fri Feb 03 04:32:15 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "KVishwanath",
+     "indices": [
+      76,
+      88
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RGVzoomin",
+     "name": "Ram Gopal Varma",
+     "id": 43017766,
+     "id_str": "43017766",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 18:40:51 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "KVishwanath",
+     "indices": [
+      44,
+      56
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "letscinema",
+     "name": "LetsCinema",
+     "id": 1090513571581091840,
+     "id_str": "1090513571581091840",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621211291066200066,
+     "id_str": "1621211291066200066",
+     "indices": [
+      63,
+      86
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fn-zFGXacAISxur.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fn-zFGXacAISxur.jpg",
+     "url": "https://t.co/30ZfpYFRGq",
+     "display_url": "pic.twitter.com/30ZfpYFRGq",
+     "expanded_url": "https://twitter.com/letscinema/status/1621211297881948162/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 574,
+       "h": 534,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 574,
+       "h": 534,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 574,
+       "h": 534,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621211297881948162,
+     "source_status_id_str": "1621211297881948162",
+     "source_user_id": 1090513571581091840,
+     "source_user_id_str": "1090513571581091840"
+    }
+   ]
+  }
+ }
+}

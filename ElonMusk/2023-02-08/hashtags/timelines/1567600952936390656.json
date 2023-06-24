@@ -1,0 +1,1920 @@
+{
+ "1567600952936390656": {
+  "Wed Feb 08 23:06:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Armada_Chile",
+     "name": "Armada de Chile",
+     "id": 295894175,
+     "id_str": "295894175",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "Barbarellah",
+     "name": "B\u00e1rbara Hern\u00e1ndez H.",
+     "id": 3837574701,
+     "id_str": "3837574701",
+     "indices": [
+      30,
+      42
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 23:05:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623182543620132869,
+     "id_str": "1623182543620132869",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "url": "https://t.co/jL5fjQxTcz",
+     "display_url": "pic.twitter.com/jL5fjQxTcz",
+     "expanded_url": "https://twitter.com/elonmusk/status/1623182547373985793/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 572,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623182547373985793,
+     "source_status_id_str": "1623182547373985793",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 08 22:59:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Biobiolaradio",
+     "name": "Tom\u00e1s Mosciatti Jr",
+     "id": 1407015479223455746,
+     "id_str": "1407015479223455746",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623456451233476608,
+     "id_str": "1623456451233476608",
+     "indices": [
+      15,
+      38
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoetCnwWcAAHtl0.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoetCnwWcAAHtl0.jpg",
+     "url": "https://t.co/oOgNZATf9W",
+     "display_url": "pic.twitter.com/oOgNZATf9W",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1623456467209842688/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 498,
+       "h": 498,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 498,
+       "h": 498,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 498,
+       "h": 498,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 08 22:58:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Biobiolaradio",
+     "name": "Tom\u00e1s Mosciatti Jr",
+     "id": 1407015479223455746,
+     "id_str": "1407015479223455746",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:27:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MuchoGustoMEGA",
+     "name": "\u00a1Mucho Gusto!",
+     "id": 116328381,
+     "id_str": "116328381",
+     "indices": [
+      0,
+      15
+     ]
+    },
+    {
+     "screen_name": "GobiernodeChile",
+     "name": "Gobierno de Chile",
+     "id": 42102939,
+     "id_str": "42102939",
+     "indices": [
+      16,
+      32
+     ]
+    },
+    {
+     "screen_name": "DoctorJLCastro",
+     "name": "Juan Luis Castro G.",
+     "id": 131608474,
+     "id_str": "131608474",
+     "indices": [
+      33,
+      48
+     ]
+    },
+    {
+     "screen_name": "ANDRESCELISM",
+     "name": "Andr\u00e9s Celis Montt",
+     "id": 56496839,
+     "id_str": "56496839",
+     "indices": [
+      49,
+      62
+     ]
+    },
+    {
+     "screen_name": "QuePlanCl",
+     "name": "QuePlan.cl \ud83d\udd0d",
+     "id": 770800435313639428,
+     "id_str": "770800435313639428",
+     "indices": [
+      63,
+      73
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:26:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "biobio",
+     "name": "BioBioChile",
+     "id": 14638581,
+     "id_str": "14638581",
+     "indices": [
+      0,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623433208711741441,
+     "id_str": "1623433208711741441",
+     "indices": [
+      8,
+      31
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoeX5unWAAEZGQQ.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoeX5unWAAEZGQQ.jpg",
+     "url": "https://t.co/M0V6UPjinE",
+     "display_url": "pic.twitter.com/M0V6UPjinE",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1623433217750491136/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 220,
+       "h": 222,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 220,
+       "h": 222,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 220,
+       "h": 222,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 08 17:53:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "matiaswalkerp",
+     "name": "Mat\u00edas Walker Prieto",
+     "id": 103259570,
+     "id_str": "103259570",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "cormachile",
+     "name": "Corma Chile",
+     "id": 65826385,
+     "id_str": "65826385",
+     "indices": [
+      52,
+      63
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:52:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CRLDEMONIO",
+     "name": "Don Nadie",
+     "id": 1066427672,
+     "id_str": "1066427672",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:50:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IgnacioDucros",
+     "name": "El Nacho ,esta es mi cuenta real.\ud83c\udde8\ud83c\uddf1\ud83c\udde8\ud83c\uddf1\ud83c\udde8\ud83c\uddf1\ud83c\udde8\ud83c\uddf1",
+     "id": 1497196606785003553,
+     "id_str": "1497196606785003553",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623378817816444929,
+     "id_str": "1623378817816444929",
+     "indices": [
+      15,
+      38
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FodmbwvXwAEm8DB.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FodmbwvXwAEm8DB.jpg",
+     "url": "https://t.co/BHEAhAmg6O",
+     "display_url": "pic.twitter.com/BHEAhAmg6O",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1623378827723374594/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 498,
+       "h": 354,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 498,
+       "h": 354,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 498,
+       "h": 354,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 08 17:49:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Marila121",
+     "name": "Lula de \ud83c\udde8\ud83c\uddf1",
+     "id": 55110709,
+     "id_str": "55110709",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:57:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ynetespanol",
+     "name": "Ynet Espa\u00f1ol",
+     "id": 1127607203798687744,
+     "id_str": "1127607203798687744",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623108689732173825,
+     "id_str": "1623108689732173825",
+     "indices": [
+      13,
+      36
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoZwwPNWAAESx8P.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoZwwPNWAAESx8P.jpg",
+     "url": "https://t.co/fj0MmKjJ6V",
+     "display_url": "pic.twitter.com/fj0MmKjJ6V",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1623108702122246146/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 480,
+       "h": 260,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 260,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 480,
+       "h": 260,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 23:56:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ynetespanol",
+     "name": "Ynet Espa\u00f1ol",
+     "id": 1127607203798687744,
+     "id_str": "1127607203798687744",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:56:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LaRechazona",
+     "name": "SOFIA \ud83c\udde8\ud83c\uddf1",
+     "id": 1291605517308239874,
+     "id_str": "1291605517308239874",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623108375067107330,
+     "id_str": "1623108375067107330",
+     "indices": [
+      13,
+      36
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoZwd6_WIAICL1H.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoZwd6_WIAICL1H.jpg",
+     "url": "https://t.co/gdaqqWsbZM",
+     "display_url": "pic.twitter.com/gdaqqWsbZM",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1623108385506840577/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 480,
+       "h": 272,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 480,
+       "h": 272,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 480,
+       "h": 272,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 23:55:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Biobiolaradio",
+     "name": "Tom\u00e1s Mosciatti Jr",
+     "id": 1407015479223455746,
+     "id_str": "1407015479223455746",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:54:30 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Earthquake",
+     "indices": [
+      111,
+      122
+     ]
+    },
+    {
+     "text": "rterdogan_ar",
+     "indices": [
+      125,
+      138
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AgenciaAJN",
+     "name": "Agencia AJN",
+     "id": 141735808,
+     "id_str": "141735808",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:54:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "ClownWorld_",
+     "name": "Clown World \u2122 \ud83e\udd21",
+     "id": 1446932149148344320,
+     "id_str": "1446932149148344320",
+     "indices": [
+      14,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:53:08 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Valdivia",
+     "indices": [
+      55,
+      64
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Armada_Chile",
+     "name": "Armada de Chile",
+     "id": 295894175,
+     "id_str": "295894175",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:50:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IgnacioDucros",
+     "name": "El Nacho ,esta es mi cuenta real.\ud83c\udde8\ud83c\uddf1\ud83c\udde8\ud83c\uddf1\ud83c\udde8\ud83c\uddf1\ud83c\udde8\ud83c\uddf1",
+     "id": 1497196606785003553,
+     "id_str": "1497196606785003553",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623107065081110534,
+     "id_str": "1623107065081110534",
+     "indices": [
+      15,
+      38
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoZvRq6WIAY02lB.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoZvRq6WIAY02lB.jpg",
+     "url": "https://t.co/qqZznflZ3A",
+     "display_url": "pic.twitter.com/qqZznflZ3A",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1623107075067846656/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 480,
+       "h": 260,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 260,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 480,
+       "h": 260,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 23:50:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AgriculturaFM",
+     "name": "Agricultura",
+     "id": 36409216,
+     "id_str": "36409216",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/KdF4wKVqNl",
+     "expanded_url": "https://www.radioagricultura.cl/nacional/2023/02/07/familia-luksic-trae-aero-tanker-a-chile-para-combatir-incendios/",
+     "display_url": "radioagricultura.cl/nacional/2023/\u2026",
+     "indices": [
+      84,
+      107
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 23:50:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "lacuarta",
+     "name": "La Cuarta",
+     "id": 3223771,
+     "id_str": "3223771",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/8JWMnUpL7z",
+     "expanded_url": "http://la4.cl/hksit2",
+     "display_url": "la4.cl/hksit2",
+     "indices": [
+      111,
+      134
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 23:49:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AgenciaAJN",
+     "name": "Agencia AJN",
+     "id": 141735808,
+     "id_str": "141735808",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "IsraelMFA",
+     "name": "Israel Foreign Ministry",
+     "id": 85796380,
+     "id_str": "85796380",
+     "indices": [
+      123,
+      133
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:49:36 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Ahora",
+     "indices": [
+      20,
+      26
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Ejercito_Chile",
+     "name": "Ej\u00e9rcito de Chile",
+     "id": 105197626,
+     "id_str": "105197626",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:49:04 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Cristi\u00e1nWarnken",
+     "indices": [
+      48,
+      64
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Amarillos_Chile",
+     "name": "Amarillos",
+     "id": 1499877979253616647,
+     "id_str": "1499877979253616647",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:48:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Biobiolaradio",
+     "name": "Tom\u00e1s Mosciatti Jr",
+     "id": 1407015479223455746,
+     "id_str": "1407015479223455746",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:47:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ipoduje",
+     "name": "Ivan Poduje",
+     "id": 475389078,
+     "id_str": "475389078",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:46:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CRLDEMONIO",
+     "name": "Don Nadie",
+     "id": 1066427672,
+     "id_str": "1066427672",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 23:45:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Carolina_Toha",
+     "name": "Carolina Toh\u00e1",
+     "id": 136034867,
+     "id_str": "136034867",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:51:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CRLDEMONIO",
+     "name": "Don Nadie",
+     "id": 1066427672,
+     "id_str": "1066427672",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623031794122559507,
+     "id_str": "1623031794122559507",
+     "indices": [
+      12,
+      35
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYq0UvXEBMWCUa.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYq0UvXEBMWCUa.jpg",
+     "url": "https://t.co/QU3khl4xFm",
+     "display_url": "pic.twitter.com/QU3khl4xFm",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1623031804713177118/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 480,
+       "h": 296,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 480,
+       "h": 296,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 296,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 18:51:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ElMercurio_cl",
+     "name": "El Mercurio",
+     "id": 1323223190,
+     "id_str": "1323223190",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623031631714869248,
+     "id_str": "1623031631714869248",
+     "indices": [
+      15,
+      38
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYqq3uWYAAg-tx.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYqq3uWYAAg-tx.jpg",
+     "url": "https://t.co/mscxQSnqSP",
+     "display_url": "pic.twitter.com/mscxQSnqSP",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1623031642318114820/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 174,
+       "h": 176,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 174,
+       "h": 176,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 174,
+       "h": 176,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 18:48:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Argentina",
+     "indices": [
+      15,
+      25
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JackoProu",
+     "name": "Jacko P. \ud83d\udc6e\u200d\u2642\ufe0f\ud83d\udc9a\ud83d\udc6e\u200d\u2640\ufe0f",
+     "id": 1360764262902358023,
+     "id_str": "1360764262902358023",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:47:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "44Jmn",
+     "name": "patriota del 62%",
+     "id": 3310437238,
+     "id_str": "3310437238",
+     "indices": [
+      3,
+      9
+     ]
+    },
+    {
+     "screen_name": "GabrielBoric",
+     "name": "Gabriel Boric Font",
+     "id": 73981088,
+     "id_str": "73981088",
+     "indices": [
+      114,
+      127
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:46:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AndresJouannet",
+     "name": "Andr\u00e9s Jouannet",
+     "id": 1363091372,
+     "id_str": "1363091372",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:46:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "camilaemiliasv",
+     "name": "Emilia \ud83c\udde8\ud83c\uddf1",
+     "id": 1201673150561431554,
+     "id_str": "1201673150561431554",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:45:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Viviluc2",
+     "name": "\ud83c\udf33\ud83c\udf32\ud83c\udf4a\ud83c\udde8\ud83c\uddf1 Viviluc. #Aprob\u00e9CC",
+     "id": 1047300005617385473,
+     "id_str": "1047300005617385473",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:45:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Biobiolaradio",
+     "name": "Tom\u00e1s Mosciatti Jr",
+     "id": 1407015479223455746,
+     "id_str": "1407015479223455746",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:59:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "aluksicc",
+     "name": "Andr\u00f3nico Luksic C.",
+     "id": 824730500917063682,
+     "id_str": "824730500917063682",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "FundacionLuksic",
+     "name": "Fundaci\u00f3n Luksic",
+     "id": 1240632833435209728,
+     "id_str": "1240632833435209728",
+     "indices": [
+      10,
+      26
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623003511284805654,
+     "id_str": "1623003511284805654",
+     "indices": [
+      27,
+      50
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYRGC9XsBYAeR7.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYRGC9XsBYAeR7.jpg",
+     "url": "https://t.co/GctMmXIBIn",
+     "display_url": "pic.twitter.com/GctMmXIBIn",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1623003522009640971/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 498,
+       "h": 276,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 498,
+       "h": 276,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 498,
+       "h": 276,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 16:57:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "aluksicc",
+     "name": "Andr\u00f3nico Luksic C.",
+     "id": 824730500917063682,
+     "id_str": "824730500917063682",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "FundacionLuksic",
+     "name": "Fundaci\u00f3n Luksic",
+     "id": 1240632833435209728,
+     "id_str": "1240632833435209728",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:57:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FundacionLuksic",
+     "name": "Fundaci\u00f3n Luksic",
+     "id": 1240632833435209728,
+     "id_str": "1240632833435209728",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:56:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "considercosmos",
+     "name": "Cosmic Perspective",
+     "id": 1050516235178237952,
+     "id_str": "1050516235178237952",
+     "indices": [
+      10,
+      25
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      26,
+      33
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:56:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "considercosmos",
+     "name": "Cosmic Perspective",
+     "id": 1050516235178237952,
+     "id_str": "1050516235178237952",
+     "indices": [
+      14,
+      29
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      30,
+      37
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:56:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Viviluc2",
+     "name": "\ud83c\udf33\ud83c\udf32\ud83c\udf4a\ud83c\udde8\ud83c\uddf1 Viviluc. #Aprob\u00e9CC",
+     "id": 1047300005617385473,
+     "id_str": "1047300005617385473",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:56:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Carolina_Toha",
+     "name": "Carolina Toh\u00e1",
+     "id": 136034867,
+     "id_str": "136034867",
+     "indices": [
+      0,
+      14
+     ]
+    },
+    {
+     "screen_name": "FiscaliadeChile",
+     "name": "Fiscal\u00eda de Chile",
+     "id": 126734895,
+     "id_str": "126734895",
+     "indices": [
+      15,
+      31
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:54:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Gil_Artzyeli",
+     "name": "Gil Artzyeli",
+     "id": 48034881,
+     "id_str": "48034881",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "comjudiachile",
+     "name": "Comunidad Jud\u00eda de Chile",
+     "id": 161463145,
+     "id_str": "161463145",
+     "indices": [
+      66,
+      80
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:53:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "T13",
+     "name": "T13",
+     "id": 24952459,
+     "id_str": "24952459",
+     "indices": [
+      0,
+      4
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:52:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "T13",
+     "name": "T13",
+     "id": 24952459,
+     "id_str": "24952459",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/W8kdjNY3Rb",
+     "expanded_url": "http://t13.cl/445122",
+     "display_url": "t13.cl/445122",
+     "indices": [
+      96,
+      119
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 16:52:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "lacuarta",
+     "name": "La Cuarta",
+     "id": 3223771,
+     "id_str": "3223771",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:52:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Viviluc2",
+     "name": "\ud83c\udf33\ud83c\udf32\ud83c\udf4a\ud83c\udde8\ud83c\uddf1 Viviluc. #Aprob\u00e9CC",
+     "id": 1047300005617385473,
+     "id_str": "1047300005617385473",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623001659935797266,
+     "id_str": "1623001659935797266",
+     "indices": [
+      10,
+      33
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYPaSJXsBIl6Us.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYPaSJXsBIl6Us.jpg",
+     "url": "https://t.co/bnojXTIaNN",
+     "display_url": "pic.twitter.com/bnojXTIaNN",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1623001681364496405/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 498,
+       "h": 352,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 498,
+       "h": 352,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 498,
+       "h": 352,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 16:52:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "biobio",
+     "name": "BioBioChile",
+     "id": 14638581,
+     "id_str": "14638581",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/sMRBX1xjh4",
+     "expanded_url": "https://www.biobiochile.cl/noticias/nacional/region-de-coquimbo/2023/02/07/colectiveros-de-la-serena-se-manifiestan-luego-que-justicia-dejara-en-libertad-a-imputado-por-crimen.shtml",
+     "display_url": "biobiochile.cl/noticias/nacio\u2026",
+     "indices": [
+      114,
+      137
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 16:52:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "adnradiochile",
+     "name": "Radio ADN",
+     "id": 201493641,
+     "id_str": "201493641",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/dafzWnK44d",
+     "expanded_url": "https://adn.fm/3Y8k2Kr",
+     "display_url": "adn.fm/3Y8k2Kr",
+     "indices": [
+      80,
+      103
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 16:50:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PAULINAChile73",
+     "name": "Paulina de la M.",
+     "id": 1506258379706146825,
+     "id_str": "1506258379706146825",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:50:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KGuaripola",
+     "name": "KGuaripola",
+     "id": 1436835401918976002,
+     "id_str": "1436835401918976002",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "CatalinaPerezS",
+     "name": "Catalina P\u00e9rez Diputada",
+     "id": 157831773,
+     "id_str": "157831773",
+     "indices": [
+      28,
+      43
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:49:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cami_FloresO",
+     "name": "Camila Flores Oporto \ud83c\udde8\ud83c\uddf1",
+     "id": 846044575,
+     "id_str": "846044575",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:49:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elliberocl",
+     "name": "El L\u00edbero",
+     "id": 2699217710,
+     "id_str": "2699217710",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/vTkAN0hUJC",
+     "expanded_url": "https://twitter.com/i/web/status/1623000890612260866",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 16:45:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "thecliniccl",
+     "name": "The Clinic",
+     "id": 86958006,
+     "id_str": "86958006",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/SQNfDM47EC",
+     "expanded_url": "https://twitter.com/i/web/status/1622999939952390153",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 16:40:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "biobio",
+     "name": "BioBioChile",
+     "id": 14638581,
+     "id_str": "14638581",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/yjkBE3vH9O",
+     "expanded_url": "https://www.biobiochile.cl/noticias/nacional/chile/2023/02/06/exministros-de-pinera-proponen-crear-ife-para-afectados-por-catastrofes-tras-incendios-forestales.shtml",
+     "display_url": "biobiochile.cl/noticias/nacio\u2026",
+     "indices": [
+      111,
+      134
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 16:38:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "ray4tesla",
+     "name": "Ray",
+     "id": 959168599519764480,
+     "id_str": "959168599519764480",
+     "indices": [
+      14,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:37:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Biobiolaradio",
+     "name": "Tom\u00e1s Mosciatti Jr",
+     "id": 1407015479223455746,
+     "id_str": "1407015479223455746",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/VfObyBCn17",
+     "expanded_url": "https://youtu.be/X9o5hb82E7U",
+     "display_url": "youtu.be/X9o5hb82E7U",
+     "indices": [
+      62,
+      85
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 16:36:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Marila121",
+     "name": "Lula de \ud83c\udde8\ud83c\uddf1",
+     "id": 55110709,
+     "id_str": "55110709",
+     "indices": [
+      0,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622997129584160772,
+     "id_str": "1622997129584160772",
+     "indices": [
+      11,
+      34
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYLSlRXsAQ84wl.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYLSlRXsAQ84wl.jpg",
+     "url": "https://t.co/Ns8uAJLKQt",
+     "display_url": "pic.twitter.com/Ns8uAJLKQt",
+     "expanded_url": "https://twitter.com/ricardoverardi2/status/1622997715264188418/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 498,
+       "h": 270,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 498,
+       "h": 270,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 498,
+       "h": 270,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 16:36:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Seba_RT",
+     "name": "Sebastian Ruiz-Tagle",
+     "id": 233236614,
+     "id_str": "233236614",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "aluksicc",
+     "name": "Andr\u00f3nico Luksic C.",
+     "id": 824730500917063682,
+     "id_str": "824730500917063682",
+     "indices": [
+      13,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:34:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "israel",
+     "indices": [
+      50,
+      57
+     ]
+    },
+    {
+     "text": "Turquia",
+     "indices": [
+      74,
+      82
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IsraelinChile",
+     "name": "Israel en Chile",
+     "id": 149462826,
+     "id_str": "149462826",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:31:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CRLDEMONIO",
+     "name": "Don Nadie",
+     "id": 1066427672,
+     "id_str": "1066427672",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622992423428272129,
+     "id_str": "1622992423428272129",
+     "indices": [
+      86,
+      109
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoYHApeXsAEsNbo.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoYHApeXsAEsNbo.jpg",
+     "url": "https://t.co/imRaFG5I0V",
+     "display_url": "pic.twitter.com/imRaFG5I0V",
+     "expanded_url": "https://twitter.com/CRLDEMONIO/status/1622992431116419074/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 306,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 922,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 540,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622992431116419074,
+     "source_status_id_str": "1622992431116419074",
+     "source_user_id": 1066427672,
+     "source_user_id_str": "1066427672"
+    }
+   ]
+  },
+  "Mon Feb 06 22:45:28 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ElNacional_CL",
+     "name": "El Nacional Diario \ud83d\udcf0",
+     "id": 1421811706481754117,
+     "id_str": "1421811706481754117",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

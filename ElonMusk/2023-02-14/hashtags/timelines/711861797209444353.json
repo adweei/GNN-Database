@@ -1,0 +1,167 @@
+{
+ "711861797209444353": {
+  "Mon Feb 06 09:20:58 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BabyDogeCoin",
+     "indices": [
+      21,
+      34
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCEX",
+     "name": "BabyDoge",
+     "id": 1490232458981388288,
+     "id_str": "1490232458981388288",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 09:20:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 23:41:05 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "babydogearmy",
+     "indices": [
+      31,
+      44
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621620583434788867,
+     "id_str": "1621620583434788867",
+     "indices": [
+      45,
+      68
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoEnVDQXoAML_ri.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoEnVDQXoAML_ri.jpg",
+     "url": "https://t.co/qGk32byn6p",
+     "display_url": "pic.twitter.com/qGk32byn6p",
+     "expanded_url": "https://twitter.com/BabyDogeCoin/status/1621620586882498560/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1500,
+       "h": 500,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 227,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 400,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621620586882498560,
+     "source_status_id_str": "1621620586882498560",
+     "source_user_id": 1354781680943431681,
+     "source_user_id_str": "1354781680943431681"
+    }
+   ]
+  },
+  "Thu Feb 02 22:42:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AfricaPrincesX",
+     "name": "\ud80c\udc80 \ud835\udd38\ud835\udd57\ud835\udd63\ud835\udd5a\ud835\udd54\ud835\udd52\ud835\udd5f \u2119\ud835\udd63\ud835\udd5a\ud835\udd5f\ud835\udd54\ud835\udd56\ud835\udd64\ud835\udd64 \ud835\udd4f \ud80c\udc80",
+     "id": 1547128613761388545,
+     "id_str": "1547128613761388545",
+     "indices": [
+      0,
+      15
+     ]
+    },
+    {
+     "screen_name": "vanetof",
+     "name": "Stecy",
+     "id": 1608815940384292864,
+     "id_str": "1608815940384292864",
+     "indices": [
+      16,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 22:41:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "vanetof",
+     "name": "Stecy",
+     "id": 1608815940384292864,
+     "id_str": "1608815940384292864",
+     "indices": [
+      0,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

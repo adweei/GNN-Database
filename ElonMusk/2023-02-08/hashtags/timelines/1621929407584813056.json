@@ -1,0 +1,746 @@
+{
+ "1621929407584813056": {
+  "Wed Feb 08 20:42:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jsolomonReports",
+     "name": "John Solomon",
+     "id": 523248016,
+     "id_str": "523248016",
+     "indices": [
+      0,
+      16
+     ]
+    },
+    {
+     "screen_name": "MittRomney",
+     "name": "Mitt Romney",
+     "id": 50055701,
+     "id_str": "50055701",
+     "indices": [
+      37,
+      48
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/DdReZp39hX",
+     "expanded_url": "https://www.breitbart.com/politics/2020/09/27/joe-biden-claimed-he-attended-historically-black-university-university-disagrees/",
+     "display_url": "breitbart.com/politics/2020/\u2026",
+     "indices": [
+      49,
+      72
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 20:40:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenRonJohnson",
+     "name": "Senator Ron Johnson",
+     "id": 233737858,
+     "id_str": "233737858",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      49,
+      55
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:36:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "JonathanTurley",
+     "name": "Jonathan Turley",
+     "id": 94784682,
+     "id_str": "94784682",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:35:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tedcruz",
+     "name": "Ted Cruz",
+     "id": 23022687,
+     "id_str": "23022687",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:14:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ImMeme0",
+     "name": "I Meme Therefore I Am \ud83c\uddfa\ud83c\uddf8",
+     "id": 1511074777708085258,
+     "id_str": "1511074777708085258",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623166998837338117,
+     "id_str": "1623166998837338117",
+     "indices": [
+      40,
+      63
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1623166998837338117/img/h5l0wJg2Vb6OkwRx.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1623166998837338117/img/h5l0wJg2Vb6OkwRx.jpg",
+     "url": "https://t.co/6fjtl7bM2l",
+     "display_url": "pic.twitter.com/6fjtl7bM2l",
+     "expanded_url": "https://twitter.com/ImMeme0/status/1623167012061970433/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 544,
+       "h": 400,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 544,
+       "h": 400,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 400,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623167012061970433,
+     "source_status_id_str": "1623167012061970433",
+     "source_user_id": 1511074777708085258,
+     "source_user_id_str": "1511074777708085258"
+    }
+   ]
+  },
+  "Wed Feb 08 17:12:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "catturd2",
+     "name": "Catturd \u2122",
+     "id": 1043185714437992449,
+     "id_str": "1043185714437992449",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:11:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mtaibbi",
+     "name": "Matt Taibbi",
+     "id": 38271276,
+     "id_str": "38271276",
+     "indices": [
+      43,
+      51
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/UkAfFUtc59",
+     "expanded_url": "https://open.substack.com/pub/taibbi/p/take-a-bow-columbia-journalism-review?r=fe0a&utm_campaign=post&utm_medium=web",
+     "display_url": "open.substack.com/pub/taibbi/p/t\u2026",
+     "indices": [
+      52,
+      75
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 22:32:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "catturd2",
+     "name": "Catturd \u2122",
+     "id": 1043185714437992449,
+     "id_str": "1043185714437992449",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:37:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "braxton_mccoy",
+     "name": "Braxton McCoy",
+     "id": 1180173696347987969,
+     "id_str": "1180173696347987969",
+     "indices": [
+      14,
+      28
+     ]
+    },
+    {
+     "screen_name": "ShitpostGate",
+     "name": "ShitpostGateway",
+     "id": 1474091860025122817,
+     "id_str": "1474091860025122817",
+     "indices": [
+      29,
+      42
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:34:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GOP",
+     "name": "GOP",
+     "id": 11134252,
+     "id_str": "11134252",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622996864269266958,
+     "id_str": "1622996864269266958",
+     "indices": [
+      96,
+      119
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoYLFkqXgAAgpdO.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoYLFkqXgAAgpdO.jpg",
+     "url": "https://t.co/pSHCBoP31e",
+     "display_url": "pic.twitter.com/pSHCBoP31e",
+     "expanded_url": "https://twitter.com/GOP/status/1622996928844730370/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622996928844730370,
+     "source_status_id_str": "1622996928844730370",
+     "source_user_id": 11134252,
+     "source_user_id_str": "11134252"
+    }
+   ]
+  },
+  "Tue Feb 07 18:33:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:11:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "BTC",
+     "indices": [
+      0,
+      4
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623006417698590720,
+     "id_str": "1623006417698590720",
+     "indices": [
+      5,
+      28
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoYTvOMakAAxcvH.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoYTvOMakAAxcvH.jpg",
+     "url": "https://t.co/PFINoWOIsO",
+     "display_url": "pic.twitter.com/PFINoWOIsO",
+     "expanded_url": "https://twitter.com/Sheepskin59/status/1623006455669592064/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1100,
+       "h": 641,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 396,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1100,
+       "h": 641,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 16:29:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ray4tesla",
+     "name": "Ray",
+     "id": 959168599519764480,
+     "id_str": "959168599519764480",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      72,
+      81
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:27:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622825970385453057,
+     "id_str": "1622825970385453057",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg",
+     "url": "https://t.co/tiPbKP8B77",
+     "display_url": "pic.twitter.com/tiPbKP8B77",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622825979021492229/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 853,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1173,
+       "h": 1651,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 483,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622825979021492229,
+     "source_status_id_str": "1622825979021492229",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 07 16:26:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      14,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:05:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Geminiearn",
+     "name": "Gemini Earn Redemption Mission",
+     "id": 1597671055660924930,
+     "id_str": "1597671055660924930",
+     "indices": [
+      0,
+      11
+     ]
+    },
+    {
+     "screen_name": "Gemini",
+     "name": "Gemini",
+     "id": 2815661158,
+     "id_str": "2815661158",
+     "indices": [
+      12,
+      19
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/mKD5dGz7Hw",
+     "expanded_url": "https://twitter.com/i/web/status/1622733207383998465",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 23:04:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cameron",
+     "name": "Cameron Winklevoss",
+     "id": 250980843,
+     "id_str": "250980843",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "Gemini",
+     "name": "Gemini",
+     "id": 2815661158,
+     "id_str": "2815661158",
+     "indices": [
+      23,
+      30
+     ]
+    },
+    {
+     "screen_name": "DCGco",
+     "name": "Digital Currency Group",
+     "id": 2803852087,
+     "id_str": "2803852087",
+     "indices": [
+      109,
+      115
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:59:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/oLNZmpuT5W",
+     "expanded_url": "https://twitter.com/i/web/status/1622731774014152705",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 19:17:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "bitcoin",
+     "indices": [
+      38,
+      46
+     ]
+    },
+    {
+     "text": "bitcoin",
+     "indices": [
+      131,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DocumentingBTC",
+     "name": "Documenting \u20bfitcoin \ud83d\udcc4",
+     "id": 1337780902680809474,
+     "id_str": "1337780902680809474",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 16:54:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "billmaher",
+     "name": "Bill Maher",
+     "id": 19697415,
+     "id_str": "19697415",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "ClubRandom_",
+     "name": "Club Random with Bill Maher",
+     "id": 1495910423174037512,
+     "id_str": "1495910423174037512",
+     "indices": [
+      11,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 16:49:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "HUT",
+     "indices": [
+      16,
+      20
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "TWAOptions",
+     "name": "TWA Options",
+     "id": 1460705570797850624,
+     "id_str": "1460705570797850624",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 16:01:20 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ai",
+     "indices": [
+      75,
+      78
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "Liv_Boeree",
+     "name": "Liv Boeree",
+     "id": 25422302,
+     "id_str": "25422302",
+     "indices": [
+      10,
+      21
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      79,
+      88
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:59:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tedcruz",
+     "name": "Ted Cruz",
+     "id": 23022687,
+     "id_str": "23022687",
+     "indices": [
+      0,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

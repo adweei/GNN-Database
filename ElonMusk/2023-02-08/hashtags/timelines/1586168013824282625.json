@@ -1,0 +1,508 @@
+{
+ "1586168013824282625": {
+  "Wed Feb 08 18:18:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 18:18:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 18:18:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      29,
+      35
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 18:17:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/RSJ1AVZDir",
+     "expanded_url": "https://techcrunch.com/2023/02/08/heres-when-tesla-ceo-elon-musk-will-finally-reveal-his-master-plan-3/",
+     "display_url": "techcrunch.com/2023/02/08/her\u2026",
+     "indices": [
+      61,
+      84
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 20:28:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:27:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622825970385453057,
+     "id_str": "1622825970385453057",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg",
+     "url": "https://t.co/tiPbKP8B77",
+     "display_url": "pic.twitter.com/tiPbKP8B77",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622825979021492229/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 853,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1173,
+       "h": 1651,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 483,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622825979021492229,
+     "source_status_id_str": "1622825979021492229",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 06 22:25:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Liv_Boeree",
+     "name": "Liv Boeree",
+     "id": 25422302,
+     "id_str": "25422302",
+     "indices": [
+      14,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:25:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Liv_Boeree",
+     "name": "Liv Boeree",
+     "id": 25422302,
+     "id_str": "25422302",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:24:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      3,
+      10
+     ]
+    },
+    {
+     "screen_name": "Hispasat",
+     "name": "HISPASAT",
+     "id": 1944236136,
+     "id_str": "1944236136",
+     "indices": [
+      112,
+      121
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:23:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:23:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "TSLA",
+     "indices": [
+      60,
+      65
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "farzyness",
+     "name": "Farzad Mesbahi",
+     "id": 17862108,
+     "id_str": "17862108",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/zJu1a8x7Si",
+     "expanded_url": "https://youtu.be/TRjLq3-hU8w",
+     "display_url": "youtu.be/TRjLq3-hU8w",
+     "indices": [
+      66,
+      89
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1622664942179475459,
+     "id_str": "1622664942179475459",
+     "indices": [
+      90,
+      113
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTdKuwWYAMKOSV.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTdKuwWYAMKOSV.jpg",
+     "url": "https://t.co/FAA96fjqpD",
+     "display_url": "pic.twitter.com/FAA96fjqpD",
+     "expanded_url": "https://twitter.com/farzyness/status/1622664953856499730/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622664953856499730,
+     "source_status_id_str": "1622664953856499730",
+     "source_user_id": 17862108,
+     "source_user_id_str": "17862108"
+    }
+   ]
+  },
+  "Mon Feb 06 22:22:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DriveTeslaca",
+     "name": "Drive Tesla \ud83c\udde8\ud83c\udde6",
+     "id": 1169348503975317504,
+     "id_str": "1169348503975317504",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      35,
+      42
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:21:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DriveTeslaca",
+     "name": "Drive Tesla \ud83c\udde8\ud83c\udde6",
+     "id": 1169348503975317504,
+     "id_str": "1169348503975317504",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/va23fsZFDO",
+     "expanded_url": "https://driveteslacanada.ca/cybertruck/tesla-cybertruck-will-have-full-length-red-light-bar-on-tailgate-elon-musk/",
+     "display_url": "driveteslacanada.ca/cybertruck/tes\u2026",
+     "indices": [
+      94,
+      117
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 22:21:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "stevenmarkryan",
+     "name": "stevenmarkryan",
+     "id": 31263848,
+     "id_str": "31263848",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:21:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "teslaownersSV",
+     "name": "Tesla Owners Silicon Valley",
+     "id": 1016059981907386368,
+     "id_str": "1016059981907386368",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:20:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DillonLoomis22",
+     "name": "Dillon Loomis",
+     "id": 767498349931028480,
+     "id_str": "767498349931028480",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:20:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:32:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "runews",
+     "name": "Russian Market",
+     "id": 243318995,
+     "id_str": "243318995",
+     "indices": [
+      14,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 01:28:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "SPACEdotcom",
+     "name": "SPACE.com",
+     "id": 15431856,
+     "id_str": "15431856",
+     "indices": [
+      14,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

@@ -1,0 +1,864 @@
+{
+ "1549086936928698369": {
+  "Sun Feb 19 19:33:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "eleftheria119",
+     "name": "Maria",
+     "id": 1205993648309067777,
+     "id_str": "1205993648309067777",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:33:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "binance",
+     "name": "Binance",
+     "id": 877807935493033984,
+     "id_str": "877807935493033984",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:33:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Bitcoin",
+     "indices": [
+      24,
+      32
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "coingecko",
+     "name": "CoinGecko",
+     "id": 2412652615,
+     "id_str": "2412652615",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627346946909433857,
+     "id_str": "1627346946909433857",
+     "indices": [
+      41,
+      64
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpV_bRjacAEOIXx.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpV_bRjacAEOIXx.jpg",
+     "url": "https://t.co/0u6HGRzJC2",
+     "display_url": "pic.twitter.com/0u6HGRzJC2",
+     "expanded_url": "https://twitter.com/coingecko/status/1627346955826520066/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 488,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 828,
+       "h": 1154,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 828,
+       "h": 1154,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627346955826520066,
+     "source_status_id_str": "1627346955826520066",
+     "source_user_id": 2412652615,
+     "source_user_id_str": "2412652615"
+    }
+   ]
+  },
+  "Sun Feb 19 19:33:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "garyvee",
+     "name": "Gary Vaynerchuk",
+     "id": 5768872,
+     "id_str": "5768872",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:33:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cz_binance",
+     "name": "CZ \ud83d\udd36 Binance",
+     "id": 902926941413453824,
+     "id_str": "902926941413453824",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:33:22 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "tokens",
+     "indices": [
+      37,
+      44
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoinMarketCap",
+     "name": "CoinMarketCap",
+     "id": 2260491445,
+     "id_str": "2260491445",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:33:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 21:20:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Sat Feb 18 21:19:54 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Bitcoin",
+     "indices": [
+      23,
+      31
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoinMarketCap",
+     "name": "CoinMarketCap",
+     "id": 2260491445,
+     "id_str": "2260491445",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 21:19:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "coingecko",
+     "name": "CoinGecko",
+     "id": 2412652615,
+     "id_str": "2412652615",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 21:19:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "coinbureau",
+     "name": "Coin Bureau",
+     "id": 906230721513181184,
+     "id_str": "906230721513181184",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 21:19:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "eleftheria119",
+     "name": "Maria",
+     "id": 1205993648309067777,
+     "id_str": "1205993648309067777",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 21:19:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 18:23:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SHEIN_Official",
+     "name": "SHEIN",
+     "id": 554957168,
+     "id_str": "554957168",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 18:23:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "coingecko",
+     "name": "CoinGecko",
+     "id": 2412652615,
+     "id_str": "2412652615",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 18:22:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "garyvee",
+     "name": "Gary Vaynerchuk",
+     "id": 5768872,
+     "id_str": "5768872",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 18:22:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Binance",
+     "indices": [
+      89,
+      97
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "binance",
+     "name": "Binance",
+     "id": 877807935493033984,
+     "id_str": "877807935493033984",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 18:22:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "hrkbenowen",
+     "name": "Ben Owen\ud83c\uddfa\ud83c\uddf8",
+     "id": 542962969,
+     "id_str": "542962969",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 18:22:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 22:23:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "judytgolf",
+     "name": "judy \u26f3\ufe0f",
+     "id": 1342543605328535560,
+     "id_str": "1342543605328535560",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 22:23:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 22:23:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cointelegraph",
+     "name": "Cointelegraph",
+     "id": 2207129125,
+     "id_str": "2207129125",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 22:23:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SHEIN_Official",
+     "name": "SHEIN",
+     "id": 554957168,
+     "id_str": "554957168",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 22:23:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "ACS",
+     "indices": [
+      53,
+      57
+     ]
+    },
+    {
+     "text": "CFX",
+     "indices": [
+      64,
+      68
+     ]
+    },
+    {
+     "text": "FLOKI",
+     "indices": [
+      74,
+      80
+     ]
+    },
+    {
+     "text": "WEMIX",
+     "indices": [
+      86,
+      92
+     ]
+    },
+    {
+     "text": "ACH",
+     "indices": [
+      98,
+      102
+     ]
+    },
+    {
+     "text": "MX",
+     "indices": [
+      108,
+      111
+     ]
+    },
+    {
+     "text": "STG",
+     "indices": [
+      117,
+      121
+     ]
+    },
+    {
+     "text": "MAGIC",
+     "indices": [
+      127,
+      133
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "coingecko",
+     "name": "CoinGecko",
+     "id": 2412652615,
+     "id_str": "2412652615",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 22:23:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "eleftheria119",
+     "name": "Maria",
+     "id": 1205993648309067777,
+     "id_str": "1205993648309067777",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 22:23:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 06:50:37 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Binance",
+     "indices": [
+      52,
+      60
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "binance",
+     "name": "Binance",
+     "id": 877807935493033984,
+     "id_str": "877807935493033984",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625511951152414726,
+     "id_str": "1625511951152414726",
+     "indices": [
+      80,
+      103
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo76gdqXgAYb1OD.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo76gdqXgAYb1OD.jpg",
+     "url": "https://t.co/oLVDmj8bkn",
+     "display_url": "pic.twitter.com/oLVDmj8bkn",
+     "expanded_url": "https://twitter.com/binance/status/1625511954658754562/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1600,
+       "h": 900,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625511954658754562,
+     "source_status_id_str": "1625511954658754562",
+     "source_user_id": 877807935493033984,
+     "source_user_id_str": "877807935493033984"
+    }
+   ]
+  },
+  "Thu Feb 16 06:50:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "leslibless",
+     "name": "\ud83c\uddfa\ud83c\uddf8ProudArmyBrat",
+     "id": 1329171068196622337,
+     "id_str": "1329171068196622337",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 06:50:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DarkJoeRavine",
+     "name": "Dark Joseph Ravine",
+     "id": 2414666880,
+     "id_str": "2414666880",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "YouTube",
+     "name": "YouTube",
+     "id": 10228272,
+     "id_str": "10228272",
+     "indices": [
+      94,
+      102
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/EnVLYpG14k",
+     "expanded_url": "http://youtu.be/MUtOU7pWLIc?a",
+     "display_url": "youtu.be/MUtOU7pWLIc?a",
+     "indices": [
+      66,
+      89
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 06:50:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "garyvee",
+     "name": "Gary Vaynerchuk",
+     "id": 5768872,
+     "id_str": "5768872",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626088278020722689,
+     "id_str": "1626088278020722689",
+     "indices": [
+      13,
+      36
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpEGrGjaEAEJtin.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpEGrGjaEAEJtin.jpg",
+     "url": "https://t.co/OdHbKRuNUi",
+     "display_url": "pic.twitter.com/OdHbKRuNUi",
+     "expanded_url": "https://twitter.com/garyvee/status/1626088293254459394/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626088293254459394,
+     "source_status_id_str": "1626088293254459394",
+     "source_user_id": 5768872,
+     "source_user_id_str": "5768872"
+    }
+   ]
+  },
+  "Thu Feb 16 06:50:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "eleftheria119",
+     "name": "Maria",
+     "id": 1205993648309067777,
+     "id_str": "1205993648309067777",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 06:50:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "coinbureau",
+     "name": "Coin Bureau",
+     "id": 906230721513181184,
+     "id_str": "906230721513181184",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626066788780736512,
+     "id_str": "1626066788780736512",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpDzIQ5WAAAp0Cc.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpDzIQ5WAAAp0Cc.jpg",
+     "url": "https://t.co/kVmFSiha4s",
+     "display_url": "pic.twitter.com/kVmFSiha4s",
+     "expanded_url": "https://twitter.com/coinbureau/status/1626066986726727680/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 446,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1051,
+       "h": 689,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1051,
+       "h": 689,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626066986726727680,
+     "source_status_id_str": "1626066986726727680",
+     "source_user_id": 906230721513181184,
+     "source_user_id_str": "906230721513181184"
+    }
+   ]
+  },
+  "Thu Feb 16 06:50:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "crypto",
+     "indices": [
+      21,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "coingecko",
+     "name": "CoinGecko",
+     "id": 2412652615,
+     "id_str": "2412652615",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 06:50:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

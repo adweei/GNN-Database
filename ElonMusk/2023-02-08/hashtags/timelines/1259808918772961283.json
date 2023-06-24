@@ -1,0 +1,791 @@
+{
+ "1259808918772961283": {
+  "Wed Feb 08 12:06:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      56,
+      65
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623005415314432005,
+     "id_str": "1623005415314432005",
+     "indices": [
+      66,
+      89
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1623005415314432005/img/868Cue3_VjoFDgg7.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1623005415314432005/img/868Cue3_VjoFDgg7.jpg",
+     "url": "https://t.co/Ap4Uwk10p6",
+     "display_url": "pic.twitter.com/Ap4Uwk10p6",
+     "expanded_url": "https://twitter.com/cb_doge/status/1623005452622782465/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 868,
+       "h": 546,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 868,
+       "h": 546,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 428,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623005452622782465,
+     "source_status_id_str": "1623005452622782465",
+     "source_user_id": 1389913567671975937,
+     "source_user_id_str": "1389913567671975937"
+    }
+   ]
+  },
+  "Wed Feb 08 11:40:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "trading",
+     "indices": [
+      67,
+      75
+     ]
+    },
+    {
+     "text": "RBI",
+     "indices": [
+      76,
+      80
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CNBCTV18Live",
+     "name": "CNBC-TV18",
+     "id": 44839509,
+     "id_str": "44839509",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "RBI",
+     "name": "ReserveBankOfIndia",
+     "id": 478432912,
+     "id_str": "478432912",
+     "indices": [
+      19,
+      23
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623220504705531904,
+     "id_str": "1623220504705531904",
+     "indices": [
+      81,
+      104
+     ],
+     "media_url": "http://pbs.twimg.com/media/FobWcucagAA1V5N.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FobWcucagAA1V5N.jpg",
+     "url": "https://t.co/A4mod40QgJ",
+     "display_url": "pic.twitter.com/A4mod40QgJ",
+     "expanded_url": "https://twitter.com/CNBCTV18Live/status/1623220594916605955/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1024,
+       "h": 512,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 340,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1024,
+       "h": 512,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623220594916605955,
+     "source_status_id_str": "1623220594916605955",
+     "source_user_id": 44839509,
+     "source_user_id_str": "44839509"
+    }
+   ]
+  },
+  "Wed Feb 08 11:35:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623001311196196881,
+     "id_str": "1623001311196196881",
+     "indices": [
+      22,
+      45
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoYPF-_XsBEcQPH.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoYPF-_XsBEcQPH.jpg",
+     "url": "https://t.co/cJZxZmlhIx",
+     "display_url": "pic.twitter.com/cJZxZmlhIx",
+     "expanded_url": "https://twitter.com/WallStreetSilv/status/1623001313830219781/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 677,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1165,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1170,
+       "h": 1165,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623001313830219781,
+     "source_status_id_str": "1623001313830219781",
+     "source_user_id": 1366565625401909249,
+     "source_user_id_str": "1366565625401909249"
+    }
+   ]
+  },
+  "Wed Feb 08 11:32:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 11:32:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623182543620132869,
+     "id_str": "1623182543620132869",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "url": "https://t.co/jL5fjQxTcz",
+     "display_url": "pic.twitter.com/jL5fjQxTcz",
+     "expanded_url": "https://twitter.com/elonmusk/status/1623182547373985793/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 572,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623182547373985793,
+     "source_status_id_str": "1623182547373985793",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 07 18:16:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HowThingsWork_",
+     "name": "H0W_THlNGS_W0RK",
+     "id": 1444760227576881156,
+     "id_str": "1444760227576881156",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:16:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "HowThingsWork_",
+     "name": "H0W_THlNGS_W0RK",
+     "id": 1444760227576881156,
+     "id_str": "1444760227576881156",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:15:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TandonRaveena",
+     "name": "Raveena Tandon",
+     "id": 291557277,
+     "id_str": "291557277",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:02:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Investingcom",
+     "name": "Investing.com",
+     "id": 988955288,
+     "id_str": "988955288",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 13:56:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ActorSuhas",
+     "name": "Suhas \ud83d\udcf8",
+     "id": 1210911087773638658,
+     "id_str": "1210911087773638658",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622811639736336384,
+     "id_str": "1622811639736336384",
+     "indices": [
+      23,
+      46
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoVilpvagAA-pGJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoVilpvagAA-pGJ.jpg",
+     "url": "https://t.co/JiFOnP3Jz6",
+     "display_url": "pic.twitter.com/JiFOnP3Jz6",
+     "expanded_url": "https://twitter.com/ActorSuhas/status/1622811666122698754/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622811666122698754,
+     "source_status_id_str": "1622811666122698754",
+     "source_user_id": 1210911087773638658,
+     "source_user_id_str": "1210911087773638658"
+    }
+   ]
+  },
+  "Tue Feb 07 13:08:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Talent_500",
+     "name": "Talent500",
+     "id": 1178557338224975872,
+     "id_str": "1178557338224975872",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622552095558889472,
+     "id_str": "1622552095558889472",
+     "indices": [
+      44,
+      67
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoR2iMVacAATDmm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoR2iMVacAATDmm.jpg",
+     "url": "https://t.co/TR8WETSjKf",
+     "display_url": "pic.twitter.com/TR8WETSjKf",
+     "expanded_url": "https://twitter.com/Talent_500/status/1622552135048257536/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 657,
+       "h": 900,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 657,
+       "h": 900,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 496,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622552135048257536,
+     "source_status_id_str": "1622552135048257536",
+     "source_user_id": 1178557338224975872,
+     "source_user_id_str": "1178557338224975872"
+    }
+   ]
+  },
+  "Mon Feb 06 18:25:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "anantladha25",
+     "name": "Anant Ladha, CFA CA CFP LL.B.",
+     "id": 737199341333405697,
+     "id_str": "737199341333405697",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 18:24:50 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "WriterPadmabhushan",
+     "indices": [
+      37,
+      56
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "urstrulyMahesh",
+     "name": "Mahesh Babu",
+     "id": 129786468,
+     "id_str": "129786468",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 18:23:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UFCEurope",
+     "name": "UFC Europe",
+     "id": 198624698,
+     "id_str": "198624698",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "TheNotoriousMMA",
+     "name": "Conor McGregor",
+     "id": 369583954,
+     "id_str": "369583954",
+     "indices": [
+      53,
+      69
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622222914803179520,
+     "id_str": "1622222914803179520",
+     "indices": [
+      72,
+      95
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoNLJWdXoAARld1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoNLJWdXoAARld1.jpg",
+     "url": "https://t.co/FunPGfszmP",
+     "display_url": "pic.twitter.com/FunPGfszmP",
+     "expanded_url": "https://twitter.com/UFCEurope/status/1622299013050519555/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1829,
+       "h": 1829,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622299013050519555,
+     "source_status_id_str": "1622299013050519555",
+     "source_user_id": 198624698,
+     "source_user_id_str": "198624698"
+    }
+   ]
+  },
+  "Mon Feb 06 15:31:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Q1VvqV58aK",
+     "expanded_url": "http://Starlink.com",
+     "display_url": "Starlink.com",
+     "indices": [
+      37,
+      60
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1622307420516106246,
+     "id_str": "1622307420516106246",
+     "indices": [
+      61,
+      84
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoOYAOxXwAYDOdh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoOYAOxXwAYDOdh.jpg",
+     "url": "https://t.co/CbTQCMg7oT",
+     "display_url": "pic.twitter.com/CbTQCMg7oT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622307425226313729/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 654,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 654,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 434,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622307425226313729,
+     "source_status_id_str": "1622307425226313729",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 06 15:30:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Dadsaysjokes",
+     "name": "Dad Jokes",
+     "id": 905028905026846720,
+     "id_str": "905028905026846720",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:30:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "emin_adin",
+     "name": "Mehmet Emin Adin, MD",
+     "id": 151329521,
+     "id_str": "151329521",
+     "indices": [
+      14,
+      24
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      25,
+      32
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:29:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheNotoriousMMA",
+     "name": "Conor McGregor",
+     "id": 369583954,
+     "id_str": "369583954",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "Apple",
+     "name": "Apple",
+     "id": 380749300,
+     "id_str": "380749300",
+     "indices": [
+      99,
+      105
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622608311689388033,
+     "id_str": "1622608311689388033",
+     "indices": [
+      108,
+      131
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoSpqZvXoAELmS7.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoSpqZvXoAELmS7.jpg",
+     "url": "https://t.co/xxYoB41w9B",
+     "display_url": "pic.twitter.com/xxYoB41w9B",
+     "expanded_url": "https://twitter.com/TheNotoriousMMA/status/1622608456669663234/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 820,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 545,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 820,
+       "h": 1024,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622608456669663234,
+     "source_status_id_str": "1622608456669663234",
+     "source_user_id": 369583954,
+     "source_user_id_str": "369583954"
+    }
+   ]
+  }
+ }
+}

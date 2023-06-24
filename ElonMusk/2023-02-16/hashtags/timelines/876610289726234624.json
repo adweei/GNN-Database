@@ -1,0 +1,9264 @@
+{
+ "876610289726234624": {
+  "Wed Feb 15 22:27:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JennyHPhoto",
+     "name": "Jenny Hautmann",
+     "id": 747104885066207232,
+     "id_str": "747104885066207232",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 22:27:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 22:26:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:28:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625538778646315008,
+     "id_str": "1625538778646315008",
+     "indices": [
+      55,
+      78
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8S6B3WAAA1o5F.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8S6B3WAAA1o5F.jpg",
+     "url": "https://t.co/i6Mda0lill",
+     "display_url": "pic.twitter.com/i6Mda0lill",
+     "expanded_url": "https://twitter.com/WallStreetSilv/status/1625538782144479248/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 614,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1084,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1125,
+       "h": 1245,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625538782144479248,
+     "source_status_id_str": "1625538782144479248",
+     "source_user_id": 1366565625401909249,
+     "source_user_id_str": "1366565625401909249"
+    }
+   ]
+  },
+  "Wed Feb 15 21:28:45 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ComingSoon",
+     "indices": [
+      30,
+      41
+     ]
+    },
+    {
+     "text": "Starship",
+     "indices": [
+      60,
+      69
+     ]
+    },
+    {
+     "text": "HoppAR",
+     "indices": [
+      110,
+      117
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "hoppar_app",
+     "name": "HoppAR",
+     "id": 1236432365075017728,
+     "id_str": "1236432365075017728",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      92,
+      101
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      102,
+      109
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 20:59:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChrisJBakke",
+     "name": "Chris Bakke",
+     "id": 1361124510,
+     "id_str": "1361124510",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 20:59:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "ChrisJBakke",
+     "name": "Chris Bakke",
+     "id": 1361124510,
+     "id_str": "1361124510",
+     "indices": [
+      14,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 20:59:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/1BRcxm0MF2",
+     "expanded_url": "https://greene.house.gov/forms/emailsignup/",
+     "display_url": "greene.house.gov/forms/emailsig\u2026",
+     "indices": [
+      104,
+      127
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 20:36:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 19:24:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/rGYCxoBVeA",
+     "expanded_url": "https://simonwillison.net/2023/Feb/15/bing/",
+     "display_url": "simonwillison.net/2023/Feb/15/bi\u2026",
+     "indices": [
+      46,
+      69
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 19:04:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ggreenwald",
+     "name": "Glenn Greenwald",
+     "id": 16076032,
+     "id_str": "16076032",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 19:04:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FonsDK",
+     "name": "Mathias F\u00f8ns",
+     "id": 2337692699,
+     "id_str": "2337692699",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 18:25:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625377140903653379,
+     "id_str": "1625377140903653379",
+     "indices": [
+      40,
+      63
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo5_5eWaMAMEPaf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo5_5eWaMAMEPaf.jpg",
+     "url": "https://t.co/92Ny452J9B",
+     "display_url": "pic.twitter.com/92Ny452J9B",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625377144137461761/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625377144137461761,
+     "source_status_id_str": "1625377144137461761",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 18:25:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      3,
+      10
+     ]
+    },
+    {
+     "screen_name": "seanhannity",
+     "name": "Sean Hannity",
+     "id": 41634520,
+     "id_str": "41634520",
+     "indices": [
+      41,
+      53
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/sBNuiBqEHX",
+     "expanded_url": "https://rumble.com/v29l764-congresswoman-marjorie-taylor-greene-joins-hannity-to-discuss-the-green-new.html",
+     "display_url": "rumble.com/v29l764-congre\u2026",
+     "indices": [
+      55,
+      78
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 18:25:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      3,
+      10
+     ]
+    },
+    {
+     "screen_name": "AOC",
+     "name": "Alexandria Ocasio-Cortez",
+     "id": 138203134,
+     "id_str": "138203134",
+     "indices": [
+      28,
+      32
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 17:10:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      56,
+      65
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625725381826445313,
+     "id_str": "1625725381826445313",
+     "indices": [
+      66,
+      89
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1625725381826445313/img/VguFWdZdFvDS2x_X.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1625725381826445313/img/VguFWdZdFvDS2x_X.jpg",
+     "url": "https://t.co/LABoWc26U2",
+     "display_url": "pic.twitter.com/LABoWc26U2",
+     "expanded_url": "https://twitter.com/cb_doge/status/1625725531336638464/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 687,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1550,
+       "h": 888,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 390,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625725531336638464,
+     "source_status_id_str": "1625725531336638464",
+     "source_user_id": 1389913567671975937,
+     "source_user_id_str": "1389913567671975937"
+    }
+   ]
+  },
+  "Wed Feb 15 16:51:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EnronChairman",
+     "name": "Kenny Lay (Parody)",
+     "id": 787821265931296768,
+     "id_str": "787821265931296768",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624000232580055040,
+     "id_str": "1624000232580055040",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624000232580055040/pu/img/sRMGz7ULwBesnYQK.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624000232580055040/pu/img/sRMGz7ULwBesnYQK.jpg",
+     "url": "https://t.co/WktIFlBaoM",
+     "display_url": "pic.twitter.com/WktIFlBaoM",
+     "expanded_url": "https://twitter.com/HumansNoContext/status/1624000252037541888/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 382,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 404,
+       "h": 720,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 404,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624000252037541888,
+     "source_status_id_str": "1624000252037541888",
+     "source_user_id": 855300206086168576,
+     "source_user_id_str": "855300206086168576"
+    }
+   ]
+  },
+  "Wed Feb 15 16:51:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "alx",
+     "name": "ALX \ud83c\uddfa\ud83c\uddf8",
+     "id": 534023,
+     "id_str": "534023",
+     "indices": [
+      3,
+      7
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      19,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:51:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      49,
+      58
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625720649468760069,
+     "id_str": "1625720649468760069",
+     "indices": [
+      59,
+      82
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-4UTeaUAU6OEE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-4UTeaUAU6OEE.jpg",
+     "url": "https://t.co/ZALeah6zWg",
+     "display_url": "pic.twitter.com/ZALeah6zWg",
+     "expanded_url": "https://twitter.com/cb_doge/status/1625720658801078272/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1326,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 440,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 777,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625720658801078272,
+     "source_status_id_str": "1625720658801078272",
+     "source_user_id": 1389913567671975937,
+     "source_user_id_str": "1389913567671975937"
+    }
+   ]
+  },
+  "Wed Feb 15 16:48:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:47:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:47:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "runews",
+     "name": "Russian Market",
+     "id": 243318995,
+     "id_str": "243318995",
+     "indices": [
+      3,
+      10
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      89,
+      98
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:47:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepJamesComer",
+     "name": "Rep. James Comer",
+     "id": 1274852794206388225,
+     "id_str": "1274852794206388225",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:17:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MattWallace888",
+     "name": "Matt Wallace",
+     "id": 805532293951606785,
+     "id_str": "805532293951606785",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:13:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "alx",
+     "name": "ALX \ud83c\uddfa\ud83c\uddf8",
+     "id": 534023,
+     "id_str": "534023",
+     "indices": [
+      3,
+      7
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      10,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:13:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "hubermanlab",
+     "name": "Andrew D. Huberman, Ph.D.",
+     "id": 4416456732,
+     "id_str": "4416456732",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 04:38:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 04:38:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 04:19:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      14,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 04:14:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TrungTPhan",
+     "name": "Trung Phan",
+     "id": 945817135816654848,
+     "id_str": "945817135816654848",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 04:14:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "BillyM2k",
+     "name": "Shibetoshi Nakamoto",
+     "id": 30699048,
+     "id_str": "30699048",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 04:09:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Teslarati",
+     "name": "TESLARATI",
+     "id": 1308211178,
+     "id_str": "1308211178",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "ResidentSponge",
+     "name": "Simon Alvarez",
+     "id": 798749450223030272,
+     "id_str": "798749450223030272",
+     "indices": [
+      111,
+      126
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/RoAvKpI0ds",
+     "expanded_url": "https://www.teslarati.com/ferrari-ceo-credits-tesla/",
+     "display_url": "teslarati.com/ferrari-ceo-cr\u2026",
+     "indices": [
+      84,
+      107
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 04:09:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "farzyness",
+     "name": "Farzad Mesbahi",
+     "id": 17862108,
+     "id_str": "17862108",
+     "indices": [
+      14,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 04:09:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "farzyness",
+     "name": "Farzad Mesbahi",
+     "id": 17862108,
+     "id_str": "17862108",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 04:09:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "dogeofficialceo",
+     "name": "Sir Doge of the Coin \u2694\ufe0f",
+     "id": 1355945100216573952,
+     "id_str": "1355945100216573952",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625223621126791194,
+     "id_str": "1625223621126791194",
+     "indices": [
+      21,
+      44
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo30RcnWIBovlYx.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo30RcnWIBovlYx.jpg",
+     "url": "https://t.co/zFCpZBKGCZ",
+     "display_url": "pic.twitter.com/zFCpZBKGCZ",
+     "expanded_url": "https://twitter.com/dogeofficialceo/status/1625223627565158401/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 541,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 954,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 970,
+       "h": 1220,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625223627565158401,
+     "source_status_id_str": "1625223627565158401",
+     "source_user_id": 1355945100216573952,
+     "source_user_id_str": "1355945100216573952"
+    }
+   ]
+  },
+  "Wed Feb 15 04:09:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Gabriele_Corno",
+     "name": "Gabriele Corno",
+     "id": 374752807,
+     "id_str": "374752807",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625404825419538435,
+     "id_str": "1625404825419538435",
+     "indices": [
+      91,
+      114
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625404825419538435/pu/img/UFJ7n0GDSIbQR13f.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625404825419538435/pu/img/UFJ7n0GDSIbQR13f.jpg",
+     "url": "https://t.co/dWja57yoeh",
+     "display_url": "pic.twitter.com/dWja57yoeh",
+     "expanded_url": "https://twitter.com/Gabriele_Corno/status/1625404886949978113/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 480,
+       "h": 854,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 382,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 854,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625404886949978113,
+     "source_status_id_str": "1625404886949978113",
+     "source_user_id": 374752807,
+     "source_user_id_str": "374752807"
+    }
+   ]
+  },
+  "Wed Feb 15 04:08:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenSchumer",
+     "name": "Chuck Schumer",
+     "id": 17494010,
+     "id_str": "17494010",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 04:08:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625583043132940291,
+     "id_str": "1625583043132940291",
+     "indices": [
+      61,
+      84
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo87Kj7WYAMhVN8.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo87Kj7WYAMhVN8.jpg",
+     "url": "https://t.co/ApiCGXoGqu",
+     "display_url": "pic.twitter.com/ApiCGXoGqu",
+     "expanded_url": "https://twitter.com/SpeakerMcCarthy/status/1625606152036687883/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625606152036687883,
+     "source_status_id_str": "1625606152036687883",
+     "source_user_id": 19739126,
+     "source_user_id_str": "19739126"
+    }
+   ]
+  },
+  "Wed Feb 15 04:08:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625696546082947072,
+     "id_str": "1625696546082947072",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-iZTXagAAxPFY.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-iZTXagAAxPFY.jpg",
+     "url": "https://t.co/auv5M1stUS",
+     "display_url": "pic.twitter.com/auv5M1stUS",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625696554467344384/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 896,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1195,
+       "h": 1600,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 508,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625696554467344384,
+     "source_status_id_str": "1625696554467344384",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 03:09:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "visegrad24",
+     "name": "Visegr\u00e1d 24",
+     "id": 1222773302441148416,
+     "id_str": "1222773302441148416",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 03:08:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenSchumer",
+     "name": "Chuck Schumer",
+     "id": 17494010,
+     "id_str": "17494010",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 03:08:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 03:08:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625569179787993088,
+     "id_str": "1625569179787993088",
+     "indices": [
+      55,
+      78
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8ujm8WIAAtLZG.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8ujm8WIAAtLZG.jpg",
+     "url": "https://t.co/rgazYOtwRQ",
+     "display_url": "pic.twitter.com/rgazYOtwRQ",
+     "expanded_url": "https://twitter.com/SpeakerMcCarthy/status/1625572528063188992/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 2048,
+       "h": 1366,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 454,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625572528063188992,
+     "source_status_id_str": "1625572528063188992",
+     "source_user_id": 19739126,
+     "source_user_id_str": "19739126"
+    }
+   ]
+  },
+  "Wed Feb 15 03:07:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EvaFoxU",
+     "name": "Eva Fox \ud83e\udd8a Claudius Nero's Legion \ud83e\udd85",
+     "id": 959471389282578432,
+     "id_str": "959471389282578432",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625659635641245696,
+     "id_str": "1625659635641245696",
+     "indices": [
+      28,
+      51
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625659635641245696/pu/img/SJCe_yk-cQRTowAq.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625659635641245696/pu/img/SJCe_yk-cQRTowAq.jpg",
+     "url": "https://t.co/UOAWaHsst8",
+     "display_url": "pic.twitter.com/UOAWaHsst8",
+     "expanded_url": "https://twitter.com/EvaFoxU/status/1625659693044584449/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 478,
+       "h": 480,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 478,
+       "h": 480,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 478,
+       "h": 480,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625659693044584449,
+     "source_status_id_str": "1625659693044584449",
+     "source_user_id": 959471389282578432,
+     "source_user_id_str": "959471389282578432"
+    }
+   ]
+  },
+  "Wed Feb 15 02:46:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625368103285846016,
+     "id_str": "1625368103285846016",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo53ramacAAigCq.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo53ramacAAigCq.jpg",
+     "url": "https://t.co/iZUukCVrl5",
+     "display_url": "pic.twitter.com/iZUukCVrl5",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625368108461613057/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 810,
+       "h": 880,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 626,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 810,
+       "h": 880,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625368108461613057,
+     "source_status_id_str": "1625368108461613057",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 02:46:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 02:45:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 02:45:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:37:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "ScottAdamsSays",
+     "name": "Scott Adams",
+     "id": 2853461537,
+     "id_str": "2853461537",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:37:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rycunni",
+     "name": "Ryan Cunningham",
+     "id": 797404860,
+     "id_str": "797404860",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:37:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Teslarati",
+     "name": "TESLARATI",
+     "id": 1308211178,
+     "id_str": "1308211178",
+     "indices": [
+      14,
+      24
+     ]
+    },
+    {
+     "screen_name": "JohnnaCrider1",
+     "name": "Johnna Crider",
+     "id": 1957568797,
+     "id_str": "1957568797",
+     "indices": [
+      25,
+      39
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:37:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1614105802570174465,
+     "id_str": "1614105802570174465",
+     "indices": [
+      111,
+      134
+     ],
+     "media_url": "http://pbs.twimg.com/media/FmZ0rPAXkAEpFmX.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FmZ0rPAXkAEpFmX.jpg",
+     "url": "https://t.co/uDGUqg4GKq",
+     "display_url": "pic.twitter.com/uDGUqg4GKq",
+     "expanded_url": "https://twitter.com/elonmusk/status/1614105828205760513/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 850,
+       "h": 427,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 850,
+       "h": 427,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 342,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1614105828205760513,
+     "source_status_id_str": "1614105828205760513",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 14 23:37:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "skorusARK",
+     "name": "Sam Korus",
+     "id": 2263437272,
+     "id_str": "2263437272",
+     "indices": [
+      14,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:37:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EndWokeness",
+     "name": "End Wokeness",
+     "id": 1552795969959636992,
+     "id_str": "1552795969959636992",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:37:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "MichaelPSenger",
+     "name": "Michael P Senger",
+     "id": 1679362640,
+     "id_str": "1679362640",
+     "indices": [
+      14,
+      29
+     ]
+    },
+    {
+     "screen_name": "DrJBhattacharya",
+     "name": "Jay Bhattacharya",
+     "id": 1427361863830949908,
+     "id_str": "1427361863830949908",
+     "indices": [
+      30,
+      46
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EndWokeness",
+     "name": "End Wokeness",
+     "id": 1552795969959636992,
+     "id_str": "1552795969959636992",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1613343293030469634,
+     "id_str": "1613343293030469634",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/media/FmO_LVnXEAIXfKm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FmO_LVnXEAIXfKm.jpg",
+     "url": "https://t.co/R2BKMMCSTs",
+     "display_url": "pic.twitter.com/R2BKMMCSTs",
+     "expanded_url": "https://twitter.com/EndWokeness/status/1613343297346441217/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 500,
+       "h": 486,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 486,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 500,
+       "h": 486,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1613343297346441217,
+     "source_status_id_str": "1613343297346441217",
+     "source_user_id": 1552795969959636992,
+     "source_user_id_str": "1552795969959636992"
+    }
+   ]
+  },
+  "Tue Feb 14 23:36:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MLK",
+     "indices": [
+      50,
+      54
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPDChief",
+     "name": "SFPD Chief Scott",
+     "id": 740285044179144705,
+     "id_str": "740285044179144705",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "RecParkSF",
+     "name": "San Francisco Recreation and Park Department",
+     "id": 30090529,
+     "id_str": "30090529",
+     "indices": [
+      74,
+      84
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1613650203780972546,
+     "id_str": "1613650203780972546",
+     "indices": [
+      81,
+      104
+     ],
+     "media_url": "http://pbs.twimg.com/media/FmTWT5QaAAIY0Di.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FmTWT5QaAAIY0Di.jpg",
+     "url": "https://t.co/G5vLfJDQvY",
+     "display_url": "pic.twitter.com/G5vLfJDQvY",
+     "expanded_url": "https://twitter.com/SFPD/status/1613650238031679488/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1365,
+       "h": 885,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 441,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 778,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1613650238031679488,
+     "source_status_id_str": "1613650238031679488",
+     "source_user_id": 36183636,
+     "source_user_id_str": "36183636"
+    }
+   ]
+  },
+  "Tue Feb 14 23:36:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1612932325876047874,
+     "id_str": "1612932325876047874",
+     "indices": [
+      117,
+      140
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1612932325876047874/pu/img/rTEEQ0zDXHF6K1GN.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1612932325876047874/pu/img/rTEEQ0zDXHF6K1GN.jpg",
+     "url": "https://t.co/3meRRjv4bk",
+     "display_url": "pic.twitter.com/3meRRjv4bk",
+     "expanded_url": "https://twitter.com/CalEndow/status/1612932382083923969/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 382,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 606,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 606,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1612932382083923969,
+     "source_status_id_str": "1612932382083923969",
+     "source_user_id": 132254256,
+     "source_user_id_str": "132254256"
+    }
+   ]
+  },
+  "Tue Feb 14 23:36:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:36:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:55 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "winterstorm2022",
+     "indices": [
+      42,
+      58
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LondonBreed",
+     "name": "London Breed",
+     "id": 2927379996,
+     "id_str": "2927379996",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SF_emergency",
+     "name": "San Francisco Department of Emergency Management",
+     "id": 30343716,
+     "id_str": "30343716",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "WinterStorm",
+     "indices": [
+      126,
+      138
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "OfficerAlbie",
+     "name": "Albie Esparza",
+     "id": 3585300914,
+     "id_str": "3585300914",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SF_emergency",
+     "name": "San Francisco Department of Emergency Management",
+     "id": 30343716,
+     "id_str": "30343716",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sfpublicworks",
+     "name": "San Francisco Public Works",
+     "id": 30321204,
+     "id_str": "30321204",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:35:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFDEM_MEC",
+     "name": "Mary Ellen Carroll (She/Her/Hers)",
+     "id": 1040288108598579200,
+     "id_str": "1040288108598579200",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SF_emergency",
+     "name": "San Francisco Department of Emergency Management",
+     "id": 30343716,
+     "id_str": "30343716",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    },
+    {
+     "screen_name": "RSO",
+     "name": "Riverside County Sheriff",
+     "id": 606675722,
+     "id_str": "606675722",
+     "indices": [
+      28,
+      32
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:40 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SFFedResearch",
+     "indices": [
+      54,
+      68
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/iGpFiEEHTb",
+     "expanded_url": "https://sffed.us/3cjSgDb",
+     "display_url": "sffed.us/3cjSgDb",
+     "indices": [
+      105,
+      128
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 23:34:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:33 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "unemployment",
+     "indices": [
+      108,
+      121
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:34:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/jVZLJ0DjdQ",
+     "expanded_url": "https://bit.ly/35YADrn",
+     "display_url": "bit.ly/35YADrn",
+     "indices": [
+      111,
+      134
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 23:33:48 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "listen",
+     "indices": [
+      77,
+      84
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FOMCRewind",
+     "indices": [
+      85,
+      96
+     ]
+    },
+    {
+     "text": "EconTwitter",
+     "indices": [
+      105,
+      117
+     ]
+    },
+    {
+     "text": "SFFedResearch",
+     "indices": [
+      118,
+      132
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CounselNotCops",
+     "indices": [
+      116,
+      131
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:33 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Twitch",
+     "indices": [
+      49,
+      56
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:28 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "RockStar",
+     "indices": [
+      46,
+      55
+     ]
+    },
+    {
+     "text": "nikkisixx",
+     "indices": [
+      82,
+      92
+     ]
+    },
+    {
+     "text": "SSMF",
+     "indices": [
+      93,
+      98
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "NikkiSixx",
+     "name": "\ud83d\udcf7",
+     "id": 122216533,
+     "id_str": "122216533",
+     "indices": [
+      56,
+      66
+     ]
+    },
+    {
+     "screen_name": "MotleyCrue",
+     "name": "M\u00f6tley Cr\u00fce",
+     "id": 43969388,
+     "id_str": "43969388",
+     "indices": [
+      70,
+      81
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1601971088090595329,
+     "id_str": "1601971088090595329",
+     "indices": [
+      99,
+      122
+     ],
+     "media_url": "http://pbs.twimg.com/media/FjtYN44WAAEEX0M.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FjtYN44WAAEEX0M.jpg",
+     "url": "https://t.co/NP7QqRcibO",
+     "display_url": "pic.twitter.com/NP7QqRcibO",
+     "expanded_url": "https://twitter.com/california/status/1601971348481384458/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 747,
+       "h": 430,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 391,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 747,
+       "h": 430,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1601971348481384458,
+     "source_status_id_str": "1601971348481384458",
+     "source_user_id": 26089017,
+     "source_user_id_str": "26089017"
+    }
+   ]
+  },
+  "Tue Feb 14 23:33:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Movember",
+     "indices": [
+      62,
+      71
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mattdorsey",
+     "name": "Matt Dorsey",
+     "id": 15847110,
+     "id_str": "15847110",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "SFPort",
+     "name": "Port of SF",
+     "id": 177249487,
+     "id_str": "177249487",
+     "indices": [
+      31,
+      38
+     ]
+    },
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      45,
+      50
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPDCIO",
+     "name": "SFPD CIO Will Sanson-Mosier",
+     "id": 2687943469,
+     "id_str": "2687943469",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LondonBreed",
+     "name": "London Breed",
+     "id": 2927379996,
+     "id_str": "2927379996",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "UP4LIFE",
+     "name": "United Playaz",
+     "id": 52952857,
+     "id_str": "52952857",
+     "indices": [
+      32,
+      40
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPDChief",
+     "name": "SFPD Chief Scott",
+     "id": 740285044179144705,
+     "id_str": "740285044179144705",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:33:02 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BeigeBook",
+     "indices": [
+      35,
+      45
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:59 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "inflation",
+     "indices": [
+      55,
+      65
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:56 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SFFedResearch",
+     "indices": [
+      54,
+      68
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/iGpFiEFfIJ",
+     "expanded_url": "https://sffed.us/3cjSgDb",
+     "display_url": "sffed.us/3cjSgDb",
+     "indices": [
+      105,
+      128
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 23:32:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:40 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Thanksgiving",
+     "indices": [
+      40,
+      53
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UFWupdates",
+     "name": "United Farm Workers",
+     "id": 16316895,
+     "id_str": "16316895",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:21 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NativeAmericanHeritageMonth",
+     "indices": [
+      39,
+      67
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SaveCaliSalmon",
+     "name": "Save California Salmon",
+     "id": 957715898147614721,
+     "id_str": "957715898147614721",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1595235857241280512,
+     "id_str": "1595235857241280512",
+     "indices": [
+      20,
+      43
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1595235857241280512/pu/img/aD8iqzsQQ-5TyaOl.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1595235857241280512/pu/img/aD8iqzsQQ-5TyaOl.jpg",
+     "url": "https://t.co/95hfjp56lT",
+     "display_url": "pic.twitter.com/95hfjp56lT",
+     "expanded_url": "https://twitter.com/SaveCaliSalmon/status/1595236947592724483/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1920,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1595236947592724483,
+     "source_status_id_str": "1595236947592724483",
+     "source_user_id": 957715898147614721,
+     "source_user_id_str": "957715898147614721"
+    }
+   ]
+  },
+  "Tue Feb 14 23:32:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "EddieTrunk",
+     "name": "Eddie Trunk",
+     "id": 38314814,
+     "id_str": "38314814",
+     "indices": [
+      39,
+      50
+     ]
+    },
+    {
+     "screen_name": "kiss",
+     "name": "KISS",
+     "id": 22549812,
+     "id_str": "22549812",
+     "indices": [
+      55,
+      60
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "SpeakerPelosi",
+     "name": "Nancy Pelosi",
+     "id": 15764644,
+     "id_str": "15764644",
+     "indices": [
+      43,
+      57
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:32:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPDCIO",
+     "name": "SFPD CIO Will Sanson-Mosier",
+     "id": 2687943469,
+     "id_str": "2687943469",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "SF_emergency",
+     "name": "San Francisco Department of Emergency Management",
+     "id": 30343716,
+     "id_str": "30343716",
+     "indices": [
+      72,
+      85
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPDChief",
+     "name": "SFPD Chief Scott",
+     "id": 740285044179144705,
+     "id_str": "740285044179144705",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SFFedVolunteers",
+     "indices": [
+      32,
+      48
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    },
+    {
+     "screen_name": "BORP_org",
+     "name": "BORP",
+     "id": 563867302,
+     "id_str": "563867302",
+     "indices": [
+      74,
+      83
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    },
+    {
+     "screen_name": "BORP_org",
+     "name": "BORP",
+     "id": 563867302,
+     "id_str": "563867302",
+     "indices": [
+      28,
+      37
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FilipinxAmericanHistoryMonth",
+     "indices": [
+      33,
+      62
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:36 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FilipinxAmericanHistoryMonth",
+     "indices": [
+      49,
+      78
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:31:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1585783422861058050,
+     "id_str": "1585783422861058050",
+     "indices": [
+      102,
+      125
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585783422861058050/pu/img/xS1zayF_wzF--HX7.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585783422861058050/pu/img/xS1zayF_wzF--HX7.jpg",
+     "url": "https://t.co/RiukkELL5g",
+     "display_url": "pic.twitter.com/RiukkELL5g",
+     "expanded_url": "https://twitter.com/CalEndow/status/1585783472387506176/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 608,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 608,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1585783472387506176,
+     "source_status_id_str": "1585783472387506176",
+     "source_user_id": 132254256,
+     "source_user_id_str": "132254256"
+    }
+   ]
+  },
+  "Tue Feb 14 23:31:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "mrmickmars",
+     "name": "Mick Mars",
+     "id": 127315301,
+     "id_str": "127315301",
+     "indices": [
+      40,
+      51
+     ]
+    },
+    {
+     "screen_name": "MotleyCrue",
+     "name": "M\u00f6tley Cr\u00fce",
+     "id": 43969388,
+     "id_str": "43969388",
+     "indices": [
+      81,
+      92
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:30:26 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Nickelback",
+     "indices": [
+      91,
+      102
+     ]
+    },
+    {
+     "text": "ThoseDays",
+     "indices": [
+      103,
+      113
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "Nickelback",
+     "name": "Nickelback",
+     "id": 29546364,
+     "id_str": "29546364",
+     "indices": [
+      32,
+      43
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/O9eDNdgqiu",
+     "expanded_url": "https://www.youtube.com/watch?v=6exsPMM3SR8&t=136s",
+     "display_url": "youtube.com/watch?v=6exsPM\u2026",
+     "indices": [
+      115,
+      138
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 23:30:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CPAB",
+     "indices": [
+      107,
+      112
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFSAFE",
+     "name": "San Francisco SAFE",
+     "id": 210942925,
+     "id_str": "210942925",
+     "indices": [
+      3,
+      10
+     ]
+    },
+    {
+     "screen_name": "BrookeJenkinsSF",
+     "name": "Brooke Jenkins \u8b1d\u5b89\u5b9c",
+     "id": 989571344550391808,
+     "id_str": "989571344550391808",
+     "indices": [
+      49,
+      65
+     ]
+    },
+    {
+     "screen_name": "SFPDChief",
+     "name": "SFPD Chief Scott",
+     "id": 740285044179144705,
+     "id_str": "740285044179144705",
+     "indices": [
+      66,
+      76
+     ]
+    },
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      78,
+      83
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:30:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPDChief",
+     "name": "SFPD Chief Scott",
+     "id": 740285044179144705,
+     "id_str": "740285044179144705",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:30:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:30:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:30:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:30:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:30:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ICYMI",
+     "indices": [
+      11,
+      17
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    },
+    {
+     "screen_name": "MaryDalyEcon",
+     "name": "Mary C. Daly",
+     "id": 4761244662,
+     "id_str": "4761244662",
+     "indices": [
+      29,
+      42
+     ]
+    },
+    {
+     "screen_name": "Jenniferisms",
+     "name": "Jennifer Schonberger",
+     "id": 107443640,
+     "id_str": "107443640",
+     "indices": [
+      57,
+      70
+     ]
+    },
+    {
+     "screen_name": "YahooFinance",
+     "name": "Yahoo Finance",
+     "id": 19546277,
+     "id_str": "19546277",
+     "indices": [
+      74,
+      87
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:30:02 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PolicyPerspectives",
+     "indices": [
+      30,
+      49
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:29:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:29:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:29:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ChavelaVargas",
+     "indices": [
+      16,
+      30
+     ]
+    },
+    {
+     "text": "Chavela",
+     "indices": [
+      31,
+      39
+     ]
+    },
+    {
+     "text": "QueerIcon",
+     "indices": [
+      40,
+      50
+     ]
+    },
+    {
+     "text": "MexicanLesbian",
+     "indices": [
+      51,
+      66
+     ]
+    },
+    {
+     "text": "CostaRicanLesbian",
+     "indices": [
+      67,
+      85
+     ]
+    },
+    {
+     "text": "Herstory",
+     "indices": [
+      86,
+      95
+     ]
+    },
+    {
+     "text": "ranchera",
+     "indices": [
+      96,
+      105
+     ]
+    },
+    {
+     "text": "Macorina",
+     "indices": [
+      106,
+      115
+     ]
+    },
+    {
+     "text": "LatinXHeritageMonth",
+     "indices": [
+      116,
+      136
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DesignNurd",
+     "name": "Diego G\u00f3mez \ud83e\udda5",
+     "id": 22285280,
+     "id_str": "22285280",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:29:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:29:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPDChief",
+     "name": "SFPD Chief Scott",
+     "id": 740285044179144705,
+     "id_str": "740285044179144705",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "UP4LIFE",
+     "name": "United Playaz",
+     "id": 52952857,
+     "id_str": "52952857",
+     "indices": [
+      40,
+      48
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:29:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFTrafficSafety",
+     "name": "SFPDTrafficSafety",
+     "id": 2421092282,
+     "id_str": "2421092282",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "SFTrafficSafety",
+     "name": "SFPDTrafficSafety",
+     "id": 2421092282,
+     "id_str": "2421092282",
+     "indices": [
+      27,
+      43
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 23:29:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    },
+    {
+     "screen_name": "MaryDalyEcon",
+     "name": "Mary C. Daly",
+     "id": 4761244662,
+     "id_str": "4761244662",
+     "indices": [
+      41,
+      54
+     ]
+    },
+    {
+     "screen_name": "crampell",
+     "name": "Catherine Rampell",
+     "id": 14348157,
+     "id_str": "14348157",
+     "indices": [
+      66,
+      75
+     ]
+    },
+    {
+     "screen_name": "washingtonpost",
+     "name": "The Washington Post",
+     "id": 2467791,
+     "id_str": "2467791",
+     "indices": [
+      83,
+      98
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:30:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KTVB",
+     "name": "KTVB.COM",
+     "id": 14859642,
+     "id_str": "14859642",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/I1cqTzpcyO",
+     "expanded_url": "https://www.ktvb.com/article/money/federal-reserve-bank-of-san-francisco-president-visits-boise-state/277-e7bfd3a3-3668-4282-a645-084ffecce33a?utm_campaign=snd-autopilot",
+     "display_url": "ktvb.com/article/money/\u2026",
+     "indices": [
+      80,
+      103
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:30:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    },
+    {
+     "screen_name": "MaryDalyEcon",
+     "name": "Mary C. Daly",
+     "id": 4761244662,
+     "id_str": "4761244662",
+     "indices": [
+      21,
+      34
+     ]
+    },
+    {
+     "screen_name": "BoiseState",
+     "name": "Boise State University",
+     "id": 21799851,
+     "id_str": "21799851",
+     "indices": [
+      45,
+      56
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:30:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:30:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:30:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    },
+    {
+     "screen_name": "MaryDalyEcon",
+     "name": "Mary C. Daly",
+     "id": 4761244662,
+     "id_str": "4761244662",
+     "indices": [
+      57,
+      70
+     ]
+    },
+    {
+     "screen_name": "BoiseState",
+     "name": "Boise State University",
+     "id": 21799851,
+     "id_str": "21799851",
+     "indices": [
+      79,
+      90
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:30:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "housing",
+     "indices": [
+      45,
+      53
+     ]
+    },
+    {
+     "text": "inflation",
+     "indices": [
+      76,
+      86
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    },
+    {
+     "screen_name": "MaryDalyEcon",
+     "name": "Mary C. Daly",
+     "id": 4761244662,
+     "id_str": "4761244662",
+     "indices": [
+      68,
+      81
+     ]
+    },
+    {
+     "screen_name": "BoiseState",
+     "name": "Boise State University",
+     "id": 21799851,
+     "id_str": "21799851",
+     "indices": [
+      90,
+      101
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "emilypresents",
+     "name": "Emily Williams",
+     "id": 33325440,
+     "id_str": "33325440",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      49,
+      58
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/00fqfdnt0L",
+     "expanded_url": "https://abortion.ca.gov/",
+     "display_url": "abortion.ca.gov",
+     "indices": [
+      27,
+      50
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:29:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:37 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FOMCRewind",
+     "indices": [
+      85,
+      96
+     ]
+    },
+    {
+     "text": "EconTwitter",
+     "indices": [
+      105,
+      117
+     ]
+    },
+    {
+     "text": "SFFedResearch",
+     "indices": [
+      118,
+      132
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ClimateWeekNYC",
+     "indices": [
+      16,
+      31
+     ]
+    },
+    {
+     "text": "climate",
+     "indices": [
+      68,
+      76
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WSJ",
+     "name": "The Wall Street Journal",
+     "id": 3108351,
+     "id_str": "3108351",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:25 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FOMC",
+     "indices": [
+      85,
+      90
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "federalreserve",
+     "name": "Federal Reserve",
+     "id": 26538229,
+     "id_str": "26538229",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/gHunQemT5C",
+     "expanded_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm",
+     "display_url": "federalreserve.gov/newsevents/pre\u2026",
+     "indices": [
+      61,
+      84
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:29:22 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Latinos",
+     "indices": [
+      11,
+      19
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gvdagencymb",
+     "name": "Gvdraid",
+     "id": 1578495245490307075,
+     "id_str": "1578495245490307075",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CountOnMe",
+     "indices": [
+      14,
+      24
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1572375080230952961,
+     "id_str": "1572375080230952961",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572375080230952961/pu/img/AU_KfvON_W0wkWGp.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572375080230952961/pu/img/AU_KfvON_W0wkWGp.jpg",
+     "url": "https://t.co/b4FPlD8uxo",
+     "display_url": "pic.twitter.com/b4FPlD8uxo",
+     "expanded_url": "https://twitter.com/CalEndow/status/1572375137411911682/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 382,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 606,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 606,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1572375137411911682,
+     "source_status_id_str": "1572375137411911682",
+     "source_user_id": 132254256,
+     "source_user_id_str": "132254256"
+    }
+   ]
+  },
+  "Tue Feb 14 22:29:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/00fqfdF4pl",
+     "expanded_url": "https://abortion.ca.gov/",
+     "display_url": "abortion.ca.gov",
+     "indices": [
+      111,
+      134
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:29:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:29:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LatinoCommFdn",
+     "name": "Latino Community Fdn",
+     "id": 224810490,
+     "id_str": "224810490",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "dr_robertkross",
+     "name": "Dr. Robert K. Ross",
+     "id": 1473498002954223616,
+     "id_str": "1473498002954223616",
+     "indices": [
+      86,
+      101
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:28:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LatinoCommFdn",
+     "name": "Latino Community Fdn",
+     "id": 224810490,
+     "id_str": "224810490",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "CURYJ",
+     "name": "CURYJ",
+     "id": 1862063137,
+     "id_str": "1862063137",
+     "indices": [
+      70,
+      76
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:28:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "advisory_cloud",
+     "name": "AdvisoryCloud",
+     "id": 862257368,
+     "id_str": "862257368",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:28:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:28:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:28:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MPX",
+     "indices": [
+      57,
+      61
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:28:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LatinxHeritageMonth2022",
+     "indices": [
+      20,
+      44
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "HomeIsHere",
+     "indices": [
+      47,
+      58
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1569355485236662274,
+     "id_str": "1569355485236662274",
+     "indices": [
+      59,
+      82
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569355485236662274/pu/img/uyTvaEd0_8zcm70I.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569355485236662274/pu/img/uyTvaEd0_8zcm70I.jpg",
+     "url": "https://t.co/9o3pv4Jr5R",
+     "display_url": "pic.twitter.com/9o3pv4Jr5R",
+     "expanded_url": "https://twitter.com/CalEndow/status/1569355539259195393/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 382,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 606,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 606,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1569355539259195393,
+     "source_status_id_str": "1569355539259195393",
+     "source_user_id": 132254256,
+     "source_user_id_str": "132254256"
+    }
+   ]
+  },
+  "Tue Feb 14 22:27:36 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SuicidePrevention",
+     "indices": [
+      17,
+      35
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Hedgeye",
+     "name": "Hedgeye",
+     "id": 18719020,
+     "id_str": "18719020",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:30 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "QueenElizabeth",
+     "indices": [
+      93,
+      108
+     ]
+    },
+    {
+     "text": "Queen",
+     "indices": [
+      109,
+      115
+     ]
+    },
+    {
+     "text": "UK",
+     "indices": [
+      116,
+      119
+     ]
+    },
+    {
+     "text": "RoyalFamily",
+     "indices": [
+      120,
+      132
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:28 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "taylorhawkinstribute",
+     "indices": [
+      22,
+      43
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "InflationReductionAct",
+     "indices": [
+      23,
+      45
+     ]
+    },
+    {
+     "text": "ACA",
+     "indices": [
+      88,
+      92
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCAnews",
+     "name": "Covered California News",
+     "id": 3838782740,
+     "id_str": "3838782740",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      65,
+      71
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFTrafficSafety",
+     "name": "SFPDTrafficSafety",
+     "id": 2421092282,
+     "id_str": "2421092282",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IRA_Resources",
+     "name": "IRAR Trust Company",
+     "id": 854469507502358528,
+     "id_str": "854469507502358528",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/K1zA0piRFO",
+     "expanded_url": "https://bit.ly/39rRXGR",
+     "display_url": "bit.ly/39rRXGR",
+     "indices": [
+      61,
+      84
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:27:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Outsidelands2022",
+     "indices": [
+      35,
+      52
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:27:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WSJ",
+     "name": "The Wall Street Journal",
+     "id": 3108351,
+     "id_str": "3108351",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:50 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NationalNightOut",
+     "indices": [
+      54,
+      71
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPDRichmond",
+     "name": "SFPD Richmond Station",
+     "id": 1393084052,
+     "id_str": "1393084052",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1554625000807682050,
+     "id_str": "1554625000807682050",
+     "indices": [
+      72,
+      95
+     ],
+     "media_url": "http://pbs.twimg.com/media/FZMjM5QVUAIA1d8.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FZMjM5QVUAIA1d8.jpg",
+     "url": "https://t.co/x6ARTPxU2b",
+     "display_url": "pic.twitter.com/x6ARTPxU2b",
+     "expanded_url": "https://twitter.com/SFPDRichmond/status/1554625283067506688/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1080,
+       "h": 1920,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1554625283067506688,
+     "source_status_id_str": "1554625283067506688",
+     "source_user_id": 1393084052,
+     "source_user_id_str": "1393084052"
+    }
+   ]
+  },
+  "Tue Feb 14 22:26:48 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NationalInternDay",
+     "indices": [
+      20,
+      38
+     ]
+    },
+    {
+     "text": "SFFedInterns",
+     "indices": [
+      97,
+      110
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FDICgov",
+     "name": "FDIC",
+     "id": 36960352,
+     "id_str": "36960352",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "USOCC",
+     "name": "OCC",
+     "id": 93949373,
+     "id_str": "93949373",
+     "indices": [
+      35,
+      41
+     ]
+    },
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      43,
+      49
+     ]
+    },
+    {
+     "screen_name": "CalReinvest",
+     "name": "California Reinvestment Coalition",
+     "id": 34386423,
+     "id_str": "34386423",
+     "indices": [
+      54,
+      66
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalReinvest",
+     "name": "California Reinvestment Coalition",
+     "id": 34386423,
+     "id_str": "34386423",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:36 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "RollUpYourSleeve",
+     "indices": [
+      36,
+      53
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1547613914191388673,
+     "id_str": "1547613914191388673",
+     "indices": [
+      113,
+      136
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547613914191388673/pu/img/EldDVSvmq-xPtXTL.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547613914191388673/pu/img/EldDVSvmq-xPtXTL.jpg",
+     "url": "https://t.co/VOZre3bBAo",
+     "display_url": "pic.twitter.com/VOZre3bBAo",
+     "expanded_url": "https://twitter.com/CalEndow/status/1547613969157722112/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 382,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 606,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 606,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1547613969157722112,
+     "source_status_id_str": "1547613969157722112",
+     "source_user_id": 132254256,
+     "source_user_id_str": "132254256"
+    }
+   ]
+  },
+  "Tue Feb 14 22:26:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:25 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Hotels",
+     "indices": [
+      114,
+      121
+     ]
+    },
+    {
+     "text": "California",
+     "indices": [
+      122,
+      133
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PrideMonth",
+     "indices": [
+      16,
+      27
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1540114876596510720,
+     "id_str": "1540114876596510720",
+     "indices": [
+      49,
+      72
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540114876596510720/pu/img/yUH9NqeYaUULRKbb.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540114876596510720/pu/img/yUH9NqeYaUULRKbb.jpg",
+     "url": "https://t.co/FX3FZSgW2R",
+     "display_url": "pic.twitter.com/FX3FZSgW2R",
+     "expanded_url": "https://twitter.com/SFPD/status/1540115807035789315/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1540115807035789315,
+     "source_status_id_str": "1540115807035789315",
+     "source_user_id": 36183636,
+     "source_user_id_str": "36183636"
+    }
+   ]
+  },
+  "Tue Feb 14 22:25:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/5LFwAQYbhV",
+     "expanded_url": "https://bit.ly/3zZMcxZ",
+     "display_url": "bit.ly/3zZMcxZ",
+     "indices": [
+      47,
+      70
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1540069921459097600,
+     "id_str": "1540069921459097600",
+     "indices": [
+      71,
+      94
+     ],
+     "media_url": "http://pbs.twimg.com/media/FV9tbxXVUAA8UwQ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FV9tbxXVUAA8UwQ.jpg",
+     "url": "https://t.co/eP5pWc4PNG",
+     "display_url": "pic.twitter.com/eP5pWc4PNG",
+     "expanded_url": "https://twitter.com/SFPD/status/1540071635671064576/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 2048,
+       "h": 1285,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 427,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 753,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1540071635671064576,
+     "source_status_id_str": "1540071635671064576",
+     "source_user_id": 36183636,
+     "source_user_id_str": "36183636"
+    }
+   ]
+  },
+  "Tue Feb 14 22:25:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FOMCRewind",
+     "indices": [
+      85,
+      96
+     ]
+    },
+    {
+     "text": "EconTwitter",
+     "indices": [
+      105,
+      117
+     ]
+    },
+    {
+     "text": "SFFedResearch",
+     "indices": [
+      118,
+      132
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "brucelee",
+     "name": "Bruce Lee",
+     "id": 27737538,
+     "id_str": "27737538",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "BruceLeeFDN",
+     "name": "Bruce Lee Foundation",
+     "id": 3040524211,
+     "id_str": "3040524211",
+     "indices": [
+      20,
+      32
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Prof_MPastor",
+     "name": "Dr. Manuel Pastor",
+     "id": 1905463046,
+     "id_str": "1905463046",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "dr_robertkross",
+     "name": "Dr. Robert K. Ross",
+     "id": 1473498002954223616,
+     "id_str": "1473498002954223616",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "CalEndow",
+     "name": "California Endowment",
+     "id": 132254256,
+     "id_str": "132254256",
+     "indices": [
+      20,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:19 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LosAngeles",
+     "indices": [
+      67,
+      78
+     ]
+    },
+    {
+     "text": "TaylorHawkins",
+     "indices": [
+      95,
+      109
+     ]
+    },
+    {
+     "text": "FooFighters",
+     "indices": [
+      110,
+      122
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PRIDE",
+     "indices": [
+      46,
+      52
+     ]
+    },
+    {
+     "text": "PrideMonth",
+     "indices": [
+      54,
+      65
+     ]
+    },
+    {
+     "text": "pridemonth2022",
+     "indices": [
+      66,
+      81
+     ]
+    },
+    {
+     "text": "California",
+     "indices": [
+      82,
+      93
+     ]
+    },
+    {
+     "text": "WeLoveCalifornia",
+     "indices": [
+      94,
+      111
+     ]
+    },
+    {
+     "text": "LGBTQ",
+     "indices": [
+      112,
+      118
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:12 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CheckeredPast",
+     "indices": [
+      45,
+      59
+     ]
+    },
+    {
+     "text": "LAGUNS",
+     "indices": [
+      102,
+      109
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "laguns",
+     "name": "L.A. GUNS",
+     "id": 17913314,
+     "id_str": "17913314",
+     "indices": [
+      31,
+      38
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Biz2Credit",
+     "name": "Biz2Credit",
+     "id": 18347559,
+     "id_str": "18347559",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:55 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AirQualityAwarenessWeek",
+     "indices": [
+      23,
+      47
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "R5_Fire_News",
+     "name": "USFS Fire-California",
+     "id": 29845916,
+     "id_str": "29845916",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/qDNPzAs0dS",
+     "expanded_url": "https://fire.airnow.gov",
+     "display_url": "fire.airnow.gov",
+     "indices": [
+      79,
+      102
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:24:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SanBernardinoNF",
+     "name": "San Bernardino National Forest",
+     "id": 235086193,
+     "id_str": "235086193",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NIFC_Fire",
+     "name": "National Interagency Fire Center",
+     "id": 1270000772709662721,
+     "id_str": "1270000772709662721",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NorthYubaForest",
+     "indices": [
+      66,
+      82
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "usfs_r5",
+     "name": "Forest Service, Pacific Southwest Region",
+     "id": 16349715,
+     "id_str": "16349715",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "forestservice",
+     "name": "USDA Forest Service",
+     "id": 20867568,
+     "id_str": "20867568",
+     "indices": [
+      27,
+      41
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    },
+    {
+     "screen_name": "SFPDSouthern",
+     "name": "SFPD SouthernStation",
+     "id": 2508209251,
+     "id_str": "2508209251",
+     "indices": [
+      90,
+      103
+     ]
+    },
+    {
+     "screen_name": "SFPDCentral",
+     "name": "SFPD Central Station",
+     "id": 2696565510,
+     "id_str": "2696565510",
+     "indices": [
+      108,
+      120
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPDChief",
+     "name": "SFPD Chief Scott",
+     "id": 740285044179144705,
+     "id_str": "740285044179144705",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "UP4LIFE",
+     "name": "United Playaz",
+     "id": 52952857,
+     "id_str": "52952857",
+     "indices": [
+      52,
+      60
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SF_emergency",
+     "name": "San Francisco Department of Emergency Management",
+     "id": 30343716,
+     "id_str": "30343716",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:17 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "WomensHistoryMonth",
+     "indices": [
+      41,
+      60
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SFPD",
+     "name": "San Francisco Police",
+     "id": 36183636,
+     "id_str": "36183636",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MaryDalyEcon",
+     "name": "Mary C. Daly",
+     "id": 4761244662,
+     "id_str": "4761244662",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      95,
+      101
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:07 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BlackHistoryMonth",
+     "indices": [
+      42,
+      60
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "pascalpaul",
+     "name": "Pascal Paul",
+     "id": 49107355,
+     "id_str": "49107355",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:24:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sffed",
+     "name": "San Francisco Fed",
+     "id": 117237387,
+     "id_str": "117237387",
+     "indices": [
+      3,
+      9
+     ]
+    },
+    {
+     "screen_name": "wbecp",
+     "name": "WBEC Pacific",
+     "id": 280656411,
+     "id_str": "280656411",
+     "indices": [
+      60,
+      66
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MaryDalyEcon",
+     "name": "Mary C. Daly",
+     "id": 4761244662,
+     "id_str": "4761244662",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:51 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CoveredCA",
+     "indices": [
+      20,
+      30
+     ]
+    },
+    {
+     "text": "LA",
+     "indices": [
+      68,
+      71
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "CrenshawFarmMkt",
+     "name": "Crenshaw Farm Mkt",
+     "id": 1252810616,
+     "id_str": "1252810616",
+     "indices": [
+      48,
+      64
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/dYvRdEGIqW",
+     "expanded_url": "https://www.coveredca.com/get-started/",
+     "display_url": "coveredca.com/get-started/",
+     "indices": [
+      94,
+      117
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:23:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCAnews",
+     "name": "Covered California News",
+     "id": 3838782740,
+     "id_str": "3838782740",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      98,
+      108
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Perimeter_81",
+     "name": "Perimeter 81",
+     "id": 938112428369260544,
+     "id_str": "938112428369260544",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:06 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "November",
+     "indices": [
+      16,
+      25
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "california",
+     "name": "California",
+     "id": 26089017,
+     "id_str": "26089017",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "MrTommyLand",
+     "name": "T\ud83e\udd41mmy L33",
+     "id": 53717630,
+     "id_str": "53717630",
+     "indices": [
+      66,
+      78
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:23:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CASBirdman",
+     "name": "Jack Dumbacher",
+     "id": 227437108,
+     "id_str": "227437108",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:59 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "HispanicHeritageMonth",
+     "indices": [
+      85,
+      107
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "calacademy",
+     "name": "California Academy of Sciences",
+     "id": 16017753,
+     "id_str": "16017753",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:56 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ChaparralFire",
+     "indices": [
+      17,
+      31
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ClevelandNF",
+     "name": "Cleveland NF",
+     "id": 23916046,
+     "id_str": "23916046",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/shkFpQwdBg",
+     "expanded_url": "https://inciweb.nwcg.gov/incident/7828/",
+     "display_url": "inciweb.nwcg.gov/incident/7828/",
+     "indices": [
+      109,
+      132
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:22:54 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Dixiefire",
+     "indices": [
+      40,
+      50
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LassenNF",
+     "name": "Lassen NF",
+     "id": 20605733,
+     "id_str": "20605733",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1434566156912709637,
+     "id_str": "1434566156912709637",
+     "indices": [
+      65,
+      88
+     ],
+     "media_url": "http://pbs.twimg.com/media/E-iaUa2UUAUrMyZ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/E-iaUa2UUAUrMyZ.jpg",
+     "url": "https://t.co/wcMCYbfnXZ",
+     "display_url": "pic.twitter.com/wcMCYbfnXZ",
+     "expanded_url": "https://twitter.com/LassenNF/status/1434566173908103169/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 467,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1406,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 824,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1434566173908103169,
+     "source_status_id_str": "1434566173908103169",
+     "source_user_id": 20605733,
+     "source_user_id_str": "20605733"
+    }
+   ]
+  },
+  "Tue Feb 14 22:22:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "R5_Fire_News",
+     "name": "USFS Fire-California",
+     "id": 29845916,
+     "id_str": "29845916",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/ENeCTcc2Si",
+     "expanded_url": "https://www.kcra.com/article/thousands-firefighters-front-lines-dixie-fire/37468507",
+     "display_url": "kcra.com/article/thousa\u2026",
+     "indices": [
+      90,
+      113
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:22:49 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MonumentFire",
+     "indices": [
+      21,
+      34
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ShastaTrinityNF",
+     "name": "Shasta-Trinity NF",
+     "id": 23610667,
+     "id_str": "23610667",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ShastaTrinityNF",
+     "name": "Shasta-Trinity NF",
+     "id": 23610667,
+     "id_str": "23610667",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:40 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "McFarlandFire",
+     "indices": [
+      29,
+      43
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ShastaTrinityNF",
+     "name": "Shasta-Trinity NF",
+     "id": 23610667,
+     "id_str": "23610667",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "ShastaTrinityNF",
+     "name": "Shasta-Trinity NF",
+     "id": 23610667,
+     "id_str": "23610667",
+     "indices": [
+      122,
+      138
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/0gp9Wqmoom",
+     "expanded_url": "https://fb.watch/7G8pVGZWDS/",
+     "display_url": "fb.watch/7G8pVGZWDS/",
+     "indices": [
+      95,
+      118
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:22:37 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SouthFire",
+     "indices": [
+      32,
+      42
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SanBernardinoNF",
+     "name": "San Bernardino National Forest",
+     "id": 235086193,
+     "id_str": "235086193",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FirefightingResources",
+     "indices": [
+      32,
+      54
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NIFC_Fire",
+     "name": "National Interagency Fire Center",
+     "id": 1270000772709662721,
+     "id_str": "1270000772709662721",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:27 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AntelopeFire",
+     "indices": [
+      16,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Klamath_NF",
+     "name": "Klamath NF",
+     "id": 2722716295,
+     "id_str": "2722716295",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Klamath_NF",
+     "name": "Klamath NF",
+     "id": 2722716295,
+     "id_str": "2722716295",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:20 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SouthFire",
+     "indices": [
+      21,
+      31
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SanBernardinoNF",
+     "name": "San Bernardino National Forest",
+     "id": 235086193,
+     "id_str": "235086193",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LakeTahoeUSFS",
+     "name": "Lake Tahoe USFS",
+     "id": 28152510,
+     "id_str": "28152510",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/SppRFaUrZa",
+     "expanded_url": "https://us02web.zoom.us/j/87640023635",
+     "display_url": "us02web.zoom.us/j/87640023635",
+     "indices": [
+      67,
+      90
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1431043882196901889,
+     "id_str": "1431043882196901889",
+     "indices": [
+      108,
+      131
+     ],
+     "media_url": "http://pbs.twimg.com/media/E9wW1DBXoAEvqA5.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/E9wW1DBXoAEvqA5.jpg",
+     "url": "https://t.co/hpPnjLuqph",
+     "display_url": "pic.twitter.com/hpPnjLuqph",
+     "expanded_url": "https://twitter.com/LakeTahoeUSFS/status/1431044066691649543/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 940,
+       "h": 788,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 570,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 940,
+       "h": 788,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1431044066691649543,
+     "source_status_id_str": "1431044066691649543",
+     "source_user_id": 28152510,
+     "source_user_id_str": "28152510"
+    }
+   ]
+  },
+  "Tue Feb 14 22:22:15 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AntelopeFire",
+     "indices": [
+      33,
+      46
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Klamath_NF",
+     "name": "Klamath NF",
+     "id": 2722716295,
+     "id_str": "2722716295",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:12 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Evacuations",
+     "indices": [
+      104,
+      116
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cal_OES",
+     "name": "California Governor's Office of Emergency Services",
+     "id": 29467516,
+     "id_str": "29467516",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1430931100734353415,
+     "id_str": "1430931100734353415",
+     "indices": [
+      117,
+      140
+     ],
+     "media_url": "http://pbs.twimg.com/media/E9uwQTVUcAcnpVm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/E9uwQTVUcAcnpVm.jpg",
+     "url": "https://t.co/HucoHgXMct",
+     "display_url": "pic.twitter.com/HucoHgXMct",
+     "expanded_url": "https://twitter.com/Cal_OES/status/1430932299554586628/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1075,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 357,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 630,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1430932299554586628,
+     "source_status_id_str": "1430932299554586628",
+     "source_user_id": 29467516,
+     "source_user_id_str": "29467516"
+    }
+   ]
+  },
+  "Tue Feb 14 22:22:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LassenNF",
+     "name": "Lassen NF",
+     "id": 20605733,
+     "id_str": "20605733",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ShastaTrinityNF",
+     "name": "Shasta-Trinity NF",
+     "id": 23610667,
+     "id_str": "23610667",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/LrZHiAAdOt",
+     "expanded_url": "https://inciweb.nwcg.gov/incident/7746",
+     "display_url": "inciweb.nwcg.gov/incident/7746",
+     "indices": [
+      58,
+      81
+     ]
+    },
+    {
+     "url": "https://t.co/KA7K5OeLzc",
+     "expanded_url": "https://www.fire.ca.gov/incidents/",
+     "display_url": "fire.ca.gov/incidents/",
+     "indices": [
+      92,
+      115
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:22:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LassenNF",
+     "name": "Lassen NF",
+     "id": 20605733,
+     "id_str": "20605733",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:22:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ICYMI",
+     "indices": [
+      19,
+      25
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LakeTahoeUSFS",
+     "name": "Lake Tahoe USFS",
+     "id": 28152510,
+     "id_str": "28152510",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/gh10NpA7X7",
+     "expanded_url": "https://facebook.com/CALFIREAEU",
+     "display_url": "facebook.com/CALFIREAEU",
+     "indices": [
+      99,
+      122
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:22:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "DIXIEFIRE",
+     "indices": [
+      27,
+      37
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LassenNF",
+     "name": "Lassen NF",
+     "id": 20605733,
+     "id_str": "20605733",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:59 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "DIXIEFIRE",
+     "indices": [
+      28,
+      38
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LassenNF",
+     "name": "Lassen NF",
+     "id": 20605733,
+     "id_str": "20605733",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LassenNF",
+     "name": "Lassen NF",
+     "id": 20605733,
+     "id_str": "20605733",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AntelopeFire",
+     "indices": [
+      16,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Klamath_NF",
+     "name": "Klamath NF",
+     "id": 2722716295,
+     "id_str": "2722716295",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/KWx5l7at8G",
+     "expanded_url": "https://inciweb.nwcg.gov/incident/map/7764/0/122729",
+     "display_url": "inciweb.nwcg.gov/incident/map/7\u2026",
+     "indices": [
+      105,
+      128
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:21:49 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "McCashFire",
+     "indices": [
+      61,
+      72
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SixRiversNF",
+     "name": "Six Rivers NF",
+     "id": 3235149708,
+     "id_str": "3235149708",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "RiverComplex",
+     "indices": [
+      92,
+      105
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Klamath_NF",
+     "name": "Klamath NF",
+     "id": 2722716295,
+     "id_str": "2722716295",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "R5_Fire_News",
+     "name": "USFS Fire-California",
+     "id": 29845916,
+     "id_str": "29845916",
+     "indices": [
+      106,
+      119
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LassenNF",
+     "name": "Lassen NF",
+     "id": 20605733,
+     "id_str": "20605733",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/JqkrvYJv9n",
+     "expanded_url": "https://bit.ly/3875Nxp",
+     "display_url": "bit.ly/3875Nxp",
+     "indices": [
+      98,
+      121
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:21:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Klamath_NF",
+     "name": "Klamath NF",
+     "id": 2722716295,
+     "id_str": "2722716295",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/2jMZt2LUHh",
+     "expanded_url": "https://inciweb.nwcg.gov/incident/map/7764/0/122553",
+     "display_url": "inciweb.nwcg.gov/incident/map/7\u2026",
+     "indices": [
+      87,
+      110
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1430207595118309377,
+     "id_str": "1430207595118309377",
+     "indices": [
+      111,
+      134
+     ],
+     "media_url": "http://pbs.twimg.com/media/E9keOu4XsAE7kVA.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/E9keOu4XsAE7kVA.jpg",
+     "url": "https://t.co/IdbGjDUD0L",
+     "display_url": "pic.twitter.com/IdbGjDUD0L",
+     "expanded_url": "https://twitter.com/Klamath_NF/status/1430207610570088449/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1430207610570088449,
+     "source_status_id_str": "1430207610570088449",
+     "source_user_id": 2722716295,
+     "source_user_id_str": "2722716295"
+    }
+   ]
+  },
+  "Tue Feb 14 22:21:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LassenNF",
+     "name": "Lassen NF",
+     "id": 20605733,
+     "id_str": "20605733",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "McCashFire",
+     "indices": [
+      70,
+      81
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SixRiversNF",
+     "name": "Six Rivers NF",
+     "id": 3235149708,
+     "id_str": "3235149708",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:31 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "McCashFire",
+     "indices": [
+      17,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SixRiversNF",
+     "name": "Six Rivers NF",
+     "id": 3235149708,
+     "id_str": "3235149708",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:26 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MonumentFire",
+     "indices": [
+      21,
+      34
+     ]
+    },
+    {
+     "text": "McFarlandFire",
+     "indices": [
+      39,
+      53
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ShastaTrinityNF",
+     "name": "Shasta-Trinity NF",
+     "id": 23610667,
+     "id_str": "23610667",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WSJ",
+     "name": "The Wall Street Journal",
+     "id": 3108351,
+     "id_str": "3108351",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Klamath_NF",
+     "name": "Klamath NF",
+     "id": 2722716295,
+     "id_str": "2722716295",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "R5_Fire_News",
+     "name": "USFS Fire-California",
+     "id": 29845916,
+     "id_str": "29845916",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "usfs_r5",
+     "name": "Forest Service, Pacific Southwest Region",
+     "id": 16349715,
+     "id_str": "16349715",
+     "indices": [
+      51,
+      59
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1430199315163611137,
+     "id_str": "1430199315163611137",
+     "indices": [
+      60,
+      83
+     ],
+     "media_url": "http://pbs.twimg.com/media/E9kWsxpVgAEQ-Xy.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/E9kWsxpVgAEQ-Xy.jpg",
+     "url": "https://t.co/SKVys98F2C",
+     "display_url": "pic.twitter.com/SKVys98F2C",
+     "expanded_url": "https://twitter.com/R5_Fire_News/status/1430199469908258818/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1105,
+       "h": 1105,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1105,
+       "h": 1105,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1430199469908258818,
+     "source_status_id_str": "1430199469908258818",
+     "source_user_id": 29845916,
+     "source_user_id_str": "29845916"
+    }
+   ]
+  },
+  "Tue Feb 14 22:21:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Angeles_NF",
+     "name": "Angeles National Forest",
+     "id": 606625312,
+     "id_str": "606625312",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/M0176WDj57",
+     "expanded_url": "http://USAjobs.gov",
+     "display_url": "USAjobs.gov",
+     "indices": [
+      99,
+      122
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:21:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:21:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1418254640735531011,
+     "id_str": "1418254640735531011",
+     "indices": [
+      116,
+      139
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418254640735531011/pu/img/kVWIkidc9aNI29T_.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418254640735531011/pu/img/kVWIkidc9aNI29T_.jpg",
+     "url": "https://t.co/iXqm0QxtTV",
+     "display_url": "pic.twitter.com/iXqm0QxtTV",
+     "expanded_url": "https://twitter.com/CoveredCA/status/1418254710977486851/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 720,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 900,
+       "h": 720,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 544,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1418254710977486851,
+     "source_status_id_str": "1418254710977486851",
+     "source_user_id": 915514734,
+     "source_user_id_str": "915514734"
+    }
+   ]
+  },
+  "Tue Feb 14 22:20:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CAPublicHealth",
+     "name": "CA Public Health",
+     "id": 33934492,
+     "id_str": "33934492",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CAPublicHealth",
+     "name": "CA Public Health",
+     "id": 33934492,
+     "id_str": "33934492",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:43 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "TuesdayMotivation",
+     "indices": [
+      19,
+      37
+     ]
+    },
+    {
+     "text": "LosAngeles",
+     "indices": [
+      73,
+      84
+     ]
+    },
+    {
+     "text": "AmericanRescuePlan",
+     "indices": [
+      112,
+      131
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCAnews",
+     "name": "Covered California News",
+     "id": 3838782740,
+     "id_str": "3838782740",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      39,
+      49
+     ]
+    },
+    {
+     "screen_name": "sinotv",
+     "name": "Sino TV",
+     "id": 123067706,
+     "id_str": "123067706",
+     "indices": [
+      62,
+      69
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:37 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "COVID19",
+     "indices": [
+      42,
+      50
+     ]
+    },
+    {
+     "text": "DigitalCopy",
+     "indices": [
+      124,
+      136
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CAPublicHealth",
+     "name": "CA Public Health",
+     "id": 33934492,
+     "id_str": "33934492",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/dBSu2LWul5",
+     "expanded_url": "http://myvaccinerecord.cdph.ca.gov",
+     "display_url": "myvaccinerecord.cdph.ca.gov",
+     "indices": [
+      85,
+      108
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:20:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:26 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LGBTQPride",
+     "indices": [
+      116,
+      127
+     ]
+    },
+    {
+     "text": "PrideMonth",
+     "indices": [
+      128,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/uDuhK17HBS",
+     "expanded_url": "https://covrdca.com/3oc5QPv",
+     "display_url": "covrdca.com/3oc5QPv",
+     "indices": [
+      91,
+      114
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 22:20:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoveredCA",
+     "name": "Covered California",
+     "id": 915514734,
+     "id_str": "915514734",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sanfranmag",
+     "name": "San Francisco Magazine",
+     "id": 30068744,
+     "id_str": "30068744",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "sfshowcase",
+     "name": "SF Decorator Showcase",
+     "id": 402519265,
+     "id_str": "402519265",
+     "indices": [
+      36,
+      47
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sanfranmag",
+     "name": "San Francisco Magazine",
+     "id": 30068744,
+     "id_str": "30068744",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sanfranmag",
+     "name": "San Francisco Magazine",
+     "id": 30068744,
+     "id_str": "30068744",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:20:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sanfranmag",
+     "name": "San Francisco Magazine",
+     "id": 30068744,
+     "id_str": "30068744",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/yKonXOm2PU",
+     "expanded_url": "https://bit.ly/33ZnyNf",
+     "display_url": "bit.ly/33ZnyNf",
+     "indices": [
+      70,
+      93
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1337867341779111936,
+     "id_str": "1337867341779111936",
+     "indices": [
+      94,
+      117
+     ],
+     "media_url": "http://pbs.twimg.com/media/EpEPQk9XEAAsPTQ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/EpEPQk9XEAAsPTQ.jpg",
+     "url": "https://t.co/TqneIaxvFJ",
+     "display_url": "pic.twitter.com/TqneIaxvFJ",
+     "expanded_url": "https://twitter.com/sanfranmag/status/1337867529272897542/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 765,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 508,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 765,
+       "h": 1024,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1337867529272897542,
+     "source_status_id_str": "1337867529272897542",
+     "source_user_id": 30068744,
+     "source_user_id_str": "30068744"
+    }
+   ]
+  },
+  "Tue Feb 14 22:20:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sanfranmag",
+     "name": "San Francisco Magazine",
+     "id": 30068744,
+     "id_str": "30068744",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Ny2qooXSuc",
+     "expanded_url": "https://bit.ly/3n1fovu",
+     "display_url": "bit.ly/3n1fovu",
+     "indices": [
+      77,
+      100
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1337156403891462145,
+     "id_str": "1337156403891462145",
+     "indices": [
+      101,
+      124
+     ],
+     "media_url": "http://pbs.twimg.com/media/Eo6Iqi8W4AEPGQH.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Eo6Iqi8W4AEPGQH.jpg",
+     "url": "https://t.co/BplThU5216",
+     "display_url": "pic.twitter.com/BplThU5216",
+     "expanded_url": "https://twitter.com/sanfranmag/status/1337156553116356611/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1024,
+       "h": 684,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1024,
+       "h": 684,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 454,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1337156553116356611,
+     "source_status_id_str": "1337156553116356611",
+     "source_user_id": 30068744,
+     "source_user_id_str": "30068744"
+    }
+   ]
+  },
+  "Tue Feb 14 22:20:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sanfranmag",
+     "name": "San Francisco Magazine",
+     "id": 30068744,
+     "id_str": "30068744",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:16:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sanfranmag",
+     "name": "San Francisco Magazine",
+     "id": 30068744,
+     "id_str": "30068744",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:16:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sanfranmag",
+     "name": "San Francisco Magazine",
+     "id": 30068744,
+     "id_str": "30068744",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

@@ -1,0 +1,668 @@
+{
+ "942759493": {
+  "Wed Feb 08 23:57:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "stats_feed",
+     "name": "World of Statistics",
+     "id": 1335132884278108161,
+     "id_str": "1335132884278108161",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 23:22:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ajplus",
+     "name": "AJ+",
+     "id": 110396781,
+     "id_str": "110396781",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 23:22:02 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "TurkeySyriaEarthquake",
+     "indices": [
+      46,
+      68
+     ]
+    },
+    {
+     "text": "TurkeySyriaEarthquake",
+     "indices": [
+      105,
+      127
+     ]
+    },
+    {
+     "text": "HelpTurkey",
+     "indices": [
+      128,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MohdAhtishamAh1",
+     "name": "Mohd Ahtisham Ahsan",
+     "id": 1255647533671440384,
+     "id_str": "1255647533671440384",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:12:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:11:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623369261652578323,
+     "id_str": "1623369261652578323",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoddvhQXEBM-NIJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoddvhQXEBM-NIJ.jpg",
+     "url": "https://t.co/sMTnrqpEVu",
+     "display_url": "pic.twitter.com/sMTnrqpEVu",
+     "expanded_url": "https://twitter.com/Lukewearechange/status/1623369365474185221/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1284,
+       "h": 873,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 462,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 816,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623369365474185221,
+     "source_status_id_str": "1623369365474185221",
+     "source_user_id": 95994080,
+     "source_user_id_str": "95994080"
+    }
+   ]
+  },
+  "Wed Feb 08 04:30:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "patrickbetdavid",
+     "name": "Patrick Bet-David",
+     "id": 45167431,
+     "id_str": "45167431",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 03:40:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 01:06:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KanekoaTheGreat",
+     "name": "kanekoa.substack.com",
+     "id": 1085225533623783424,
+     "id_str": "1085225533623783424",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 01:06:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "KanekoaTheGreat",
+     "name": "kanekoa.substack.com",
+     "id": 1085225533623783424,
+     "id_str": "1085225533623783424",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 00:16:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Tue Feb 07 04:29:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 02:59:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MenMoneyMindset",
+     "name": "Men Money Mindset",
+     "id": 1502887698834460675,
+     "id_str": "1502887698834460675",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 02:58:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "mtracey",
+     "name": "Michael Tracey",
+     "id": 24127811,
+     "id_str": "24127811",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 02:58:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mtracey",
+     "name": "Michael Tracey",
+     "id": 24127811,
+     "id_str": "24127811",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 00:30:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Rainmaker1973",
+     "name": "Massimo",
+     "id": 177101260,
+     "id_str": "177101260",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 00:30:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      14,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:40:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 18:40:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jordanbpeterson",
+     "name": "Dr Jordan B Peterson",
+     "id": 95092020,
+     "id_str": "95092020",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 18:35:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "krassenstein",
+     "name": "Brian Krassenstein",
+     "id": 133938408,
+     "id_str": "133938408",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 09:37:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "zerohedge",
+     "name": "zerohedge",
+     "id": 18856867,
+     "id_str": "18856867",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/N3Hq90DuDg",
+     "expanded_url": "https://www.zerohedge.com/geopolitical/italy-hit-nationwide-internet-outage",
+     "display_url": "zerohedge.com/geopolitical/i\u2026",
+     "indices": [
+      104,
+      127
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 09:22:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MenMoneyMindset",
+     "name": "Men Money Mindset",
+     "id": 1502887698834460675,
+     "id_str": "1502887698834460675",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 09:21:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nevilledaily",
+     "name": "Neville Goddard",
+     "id": 1536599987903406080,
+     "id_str": "1536599987903406080",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 07:34:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MenMoneyMindset",
+     "name": "Men Money Mindset",
+     "id": 1502887698834460675,
+     "id_str": "1502887698834460675",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 07:10:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jordanbpeterson",
+     "name": "Dr Jordan B Peterson",
+     "id": 95092020,
+     "id_str": "95092020",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 07:09:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "runews",
+     "name": "Russian Market",
+     "id": 243318995,
+     "id_str": "243318995",
+     "indices": [
+      14,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 07:09:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "runews",
+     "name": "Russian Market",
+     "id": 243318995,
+     "id_str": "243318995",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 06:48:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Mon Feb 06 01:45:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TristanGHill",
+     "name": "Tristan",
+     "id": 276193153,
+     "id_str": "276193153",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622056105483411457,
+     "id_str": "1622056105483411457",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622056105483411457/pu/img/ubR_Gd1PmbWal_H_.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622056105483411457/pu/img/ubR_Gd1PmbWal_H_.jpg",
+     "url": "https://t.co/jc1ybTQxFT",
+     "display_url": "pic.twitter.com/jc1ybTQxFT",
+     "expanded_url": "https://twitter.com/TristanGHill/status/1622056286962724866/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622056286962724866,
+     "source_status_id_str": "1622056286962724866",
+     "source_user_id": 276193153,
+     "source_user_id_str": "276193153"
+    }
+   ]
+  },
+  "Mon Feb 06 00:56:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WhiteHouse",
+     "name": "The White House",
+     "id": 1323730225067339784,
+     "id_str": "1323730225067339784",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 00:55:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jordanbpeterson",
+     "name": "Dr Jordan B Peterson",
+     "id": 95092020,
+     "id_str": "95092020",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

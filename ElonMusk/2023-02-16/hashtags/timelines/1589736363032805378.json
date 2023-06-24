@@ -1,0 +1,7397 @@
+{
+ "1589736363032805378": {
+  "Wed Feb 15 21:12:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ARSMCI",
+     "indices": [
+      121,
+      128
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FabrizioRomano",
+     "name": "Fabrizio Romano",
+     "id": 330262748,
+     "id_str": "330262748",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:10:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "brfootball",
+     "name": "B/R Football",
+     "id": 1561123663,
+     "id_str": "1561123663",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625954067263459330,
+     "id_str": "1625954067263459330",
+     "indices": [
+      34,
+      57
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpCMnAhXEAIqBhD.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpCMnAhXEAIqBhD.jpg",
+     "url": "https://t.co/FNqNxKwO2e",
+     "display_url": "pic.twitter.com/FNqNxKwO2e",
+     "expanded_url": "https://twitter.com/brfootball/status/1625954123282583560/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625954123282583560,
+     "source_status_id_str": "1625954123282583560",
+     "source_user_id": 1561123663,
+     "source_user_id_str": "1561123663"
+    }
+   ]
+  },
+  "Wed Feb 15 21:10:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625952985795665921,
+     "id_str": "1625952985795665921",
+     "indices": [
+      61,
+      84
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpCLoDvWIAEZHLw.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpCLoDvWIAEZHLw.jpg",
+     "url": "https://t.co/FQ6ftCGyP6",
+     "display_url": "pic.twitter.com/FQ6ftCGyP6",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1625952991567089680/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625952991567089680,
+     "source_status_id_str": "1625952991567089680",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Wed Feb 15 21:07:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "UCL",
+     "indices": [
+      54,
+      58
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChelseaFC",
+     "name": "Chelsea FC",
+     "id": 22910295,
+     "id_str": "22910295",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625960309125947393,
+     "id_str": "1625960309125947393",
+     "indices": [
+      59,
+      82
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpCSSVRWIAEbK3d.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpCSSVRWIAEbK3d.jpg",
+     "url": "https://t.co/RRVX8xZMcH",
+     "display_url": "pic.twitter.com/RRVX8xZMcH",
+     "expanded_url": "https://twitter.com/ChelseaFC/status/1625960404244389889/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625960404244389889,
+     "source_status_id_str": "1625960404244389889",
+     "source_user_id": 22910295,
+     "source_user_id_str": "22910295"
+    }
+   ]
+  },
+  "Wed Feb 15 21:06:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nyannthierry",
+     "name": "Thierry Nyann \ud83c\uddec\ud83c\udded",
+     "id": 288924127,
+     "id_str": "288924127",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625958730947756033,
+     "id_str": "1625958730947756033",
+     "indices": [
+      38,
+      61
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpCQ2eGWAAE8Kmg.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpCQ2eGWAAE8Kmg.jpg",
+     "url": "https://t.co/eAHdTbQba2",
+     "display_url": "pic.twitter.com/eAHdTbQba2",
+     "expanded_url": "https://twitter.com/nyannthierry/status/1625958736861822976/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 900,
+       "h": 900,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 900,
+       "h": 900,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625958736861822976,
+     "source_status_id_str": "1625958736861822976",
+     "source_user_id": 288924127,
+     "source_user_id_str": "288924127"
+    }
+   ]
+  },
+  "Wed Feb 15 21:04:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gyaigyimii",
+     "name": "KALYJAY",
+     "id": 1145137598379282432,
+     "id_str": "1145137598379282432",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625900498816577539,
+     "id_str": "1625900498816577539",
+     "indices": [
+      92,
+      115
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBb46gXsAMJAIU.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBb46gXsAMJAIU.jpg",
+     "url": "https://t.co/fLJ2tzsYtn",
+     "display_url": "pic.twitter.com/fLJ2tzsYtn",
+     "expanded_url": "https://twitter.com/gyaigyimii/status/1625900504940261376/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 998,
+       "h": 666,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 454,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 998,
+       "h": 666,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625900504940261376,
+     "source_status_id_str": "1625900504940261376",
+     "source_user_id": 1145137598379282432,
+     "source_user_id_str": "1145137598379282432"
+    }
+   ]
+  },
+  "Wed Feb 15 21:04:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "goal",
+     "name": "GOAL",
+     "id": 26809005,
+     "id_str": "26809005",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625906761902305292,
+     "id_str": "1625906761902305292",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBhleUXsAwRrkj.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBhleUXsAwRrkj.jpg",
+     "url": "https://t.co/8nrdphTsnP",
+     "display_url": "pic.twitter.com/8nrdphTsnP",
+     "expanded_url": "https://twitter.com/goal/status/1625907085039874065/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625907085039874065,
+     "source_status_id_str": "1625907085039874065",
+     "source_user_id": 26809005,
+     "source_user_id_str": "26809005"
+    }
+   ]
+  },
+  "Wed Feb 15 17:26:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gyaigyimii",
+     "name": "KALYJAY",
+     "id": 1145137598379282432,
+     "id_str": "1145137598379282432",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625795762742259712,
+     "id_str": "1625795762742259712",
+     "indices": [
+      34,
+      57
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625795762742259712/pu/img/8k0Wy_eJco2AxwFH.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625795762742259712/pu/img/8k0Wy_eJco2AxwFH.jpg",
+     "url": "https://t.co/JugosVrHQ4",
+     "display_url": "pic.twitter.com/JugosVrHQ4",
+     "expanded_url": "https://twitter.com/gyaigyimii/status/1625795838462029826/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 576,
+       "h": 1002,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 576,
+       "h": 1002,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 391,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625795838462029826,
+     "source_status_id_str": "1625795838462029826",
+     "source_user_id": 1145137598379282432,
+     "source_user_id_str": "1145137598379282432"
+    }
+   ]
+  },
+  "Wed Feb 15 17:25:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BVB",
+     "name": "Borussia Dortmund",
+     "id": 165699676,
+     "id_str": "165699676",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625883447150407681,
+     "id_str": "1625883447150407681",
+     "indices": [
+      45,
+      68
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBMYYGWcAE6krA.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBMYYGWcAE6krA.jpg",
+     "url": "https://t.co/wqbO2jrGes",
+     "display_url": "pic.twitter.com/wqbO2jrGes",
+     "expanded_url": "https://twitter.com/BVB/status/1625886018023968773/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625886018023968773,
+     "source_status_id_str": "1625886018023968773",
+     "source_user_id": 165699676,
+     "source_user_id_str": "165699676"
+    }
+   ]
+  },
+  "Wed Feb 15 17:24:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gyaigyimii",
+     "name": "KALYJAY",
+     "id": 1145137598379282432,
+     "id_str": "1145137598379282432",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 15:42:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FrankKhalidUK",
+     "name": "Frank Khalid OBE",
+     "id": 4381616655,
+     "id_str": "4381616655",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 15:42:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "brfootball",
+     "name": "B/R Football",
+     "id": 1561123663,
+     "id_str": "1561123663",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625879753432477696,
+     "id_str": "1625879753432477696",
+     "indices": [
+      117,
+      140
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBJBX7XsAAiFuh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBJBX7XsAAiFuh.jpg",
+     "url": "https://t.co/h3kfFy64H3",
+     "display_url": "pic.twitter.com/h3kfFy64H3",
+     "expanded_url": "https://twitter.com/brfootball/status/1625881564084154376/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625881564084154376,
+     "source_status_id_str": "1625881564084154376",
+     "source_user_id": 1561123663,
+     "source_user_id_str": "1561123663"
+    }
+   ]
+  },
+  "Wed Feb 15 15:41:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625868629404184579,
+     "id_str": "1625868629404184579",
+     "indices": [
+      40,
+      63
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpA-53sWcAMsEkJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpA-53sWcAMsEkJ.jpg",
+     "url": "https://t.co/xRUOifacfP",
+     "display_url": "pic.twitter.com/xRUOifacfP",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1625868634236100608/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625868634236100608,
+     "source_status_id_str": "1625868634236100608",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Wed Feb 15 15:41:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "433",
+     "name": "433",
+     "id": 2600210567,
+     "id_str": "2600210567",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625875063873445889,
+     "id_str": "1625875063873445889",
+     "indices": [
+      82,
+      105
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBEwZ9XoAE8sri.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBEwZ9XoAE8sri.jpg",
+     "url": "https://t.co/ivU4ccYLHt",
+     "display_url": "pic.twitter.com/ivU4ccYLHt",
+     "expanded_url": "https://twitter.com/433/status/1625875212729212929/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625875212729212929,
+     "source_status_id_str": "1625875212729212929",
+     "source_user_id": 2600210567,
+     "source_user_id_str": "2600210567"
+    }
+   ]
+  },
+  "Wed Feb 15 15:40:45 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FIFAWorldCup",
+     "indices": [
+      77,
+      90
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FIFAWorldCup",
+     "name": "FIFA World Cup",
+     "id": 138372303,
+     "id_str": "138372303",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "GhanaBlackstars",
+     "name": "\ud83c\uddec\ud83c\udded Black Stars",
+     "id": 1444999898429075456,
+     "id_str": "1444999898429075456",
+     "indices": [
+      93,
+      109
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 15:29:07 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "UCL",
+     "indices": [
+      33,
+      37
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChampionsLeague",
+     "name": "UEFA Champions League",
+     "id": 627673190,
+     "id_str": "627673190",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625798108692066304,
+     "id_str": "1625798108692066304",
+     "indices": [
+      38,
+      61
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo_-xBkXsAAP3gh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo_-xBkXsAAP3gh.jpg",
+     "url": "https://t.co/MqQHKGp9QJ",
+     "display_url": "pic.twitter.com/MqQHKGp9QJ",
+     "expanded_url": "https://twitter.com/ChampionsLeague/status/1625798533520449537/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 459,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 810,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625798533520449537,
+     "source_status_id_str": "1625798533520449537",
+     "source_user_id": 627673190,
+     "source_user_id_str": "627673190"
+    }
+   ]
+  },
+  "Wed Feb 15 15:27:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625525282567323648,
+     "id_str": "1625525282567323648",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8GodDXgAA6c3b.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8GodDXgAA6c3b.jpg",
+     "url": "https://t.co/XRYaZcWHd8",
+     "display_url": "pic.twitter.com/XRYaZcWHd8",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1625525295829639175/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625525295829639175,
+     "source_status_id_str": "1625525295829639175",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Wed Feb 15 15:23:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625876337528393731,
+     "id_str": "1625876337528393731",
+     "indices": [
+      80,
+      103
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBF6isX0AMi8YO.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBF6isX0AMi8YO.jpg",
+     "url": "https://t.co/SCLhcCg4JJ",
+     "display_url": "pic.twitter.com/SCLhcCg4JJ",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1625876343693910016/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625876343693910016,
+     "source_status_id_str": "1625876343693910016",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Wed Feb 15 15:10:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "premierleague",
+     "name": "Premier League",
+     "id": 343627165,
+     "id_str": "343627165",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "PepTeam",
+     "name": "PepTeam",
+     "id": 320746576,
+     "id_str": "320746576",
+     "indices": [
+      102,
+      110
+     ]
+    },
+    {
+     "screen_name": "m8arteta",
+     "name": "Mikel Arteta",
+     "id": 955229336,
+     "id_str": "955229336",
+     "indices": [
+      113,
+      122
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 14:18:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UgOmoz18",
+     "name": "Roman \uf8ff\u2122\ud83c\uddfa\ud83c\uddec",
+     "id": 1431751330226442246,
+     "id_str": "1431751330226442246",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "SamedYellow",
+     "name": "Abdul samed\u2764\ufe0f\ud83c\uddec\ud83c\udded",
+     "id": 1220644106550071296,
+     "id_str": "1220644106550071296",
+     "indices": [
+      10,
+      22
+     ]
+    },
+    {
+     "screen_name": "HafizGunu7",
+     "name": "Abdul Samed Hafiz Gunu",
+     "id": 1589736363032805378,
+     "id_str": "1589736363032805378",
+     "indices": [
+      23,
+      34
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 14:17:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UgOmoz18",
+     "name": "Roman \uf8ff\u2122\ud83d\udd14",
+     "id": 1431751330226442246,
+     "id_str": "1431751330226442246",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 13:59:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GoalNews",
+     "name": "GOAL News",
+     "id": 73840916,
+     "id_str": "73840916",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 13:58:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BlackYellow",
+     "name": "Borussia Dortmund",
+     "id": 961930212656275456,
+     "id_str": "961930212656275456",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625843084431880193,
+     "id_str": "1625843084431880193",
+     "indices": [
+      37,
+      60
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpAnq9QWcAE8WLg.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpAnq9QWcAE8WLg.jpg",
+     "url": "https://t.co/JLG73aXEsX",
+     "display_url": "pic.twitter.com/JLG73aXEsX",
+     "expanded_url": "https://twitter.com/BlackYellow/status/1625843094749839360/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625843094749839360,
+     "source_status_id_str": "1625843094749839360",
+     "source_user_id": 961930212656275456,
+     "source_user_id_str": "961930212656275456"
+    }
+   ]
+  },
+  "Wed Feb 15 13:57:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "W8RLDCHAMPIONS",
+     "indices": [
+      88,
+      103
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "realmadriden",
+     "name": "Real Madrid C.F. \ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8",
+     "id": 452155423,
+     "id_str": "452155423",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625793542101643266,
+     "id_str": "1625793542101643266",
+     "indices": [
+      104,
+      127
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo_6nNsXsAIqQvh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo_6nNsXsAIqQvh.jpg",
+     "url": "https://t.co/4SCO6aN4vU",
+     "display_url": "pic.twitter.com/4SCO6aN4vU",
+     "expanded_url": "https://twitter.com/realmadriden/status/1625797062418739202/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625797062418739202,
+     "source_status_id_str": "1625797062418739202",
+     "source_user_id": 452155423,
+     "source_user_id_str": "452155423"
+    }
+   ]
+  },
+  "Wed Feb 15 13:55:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "433",
+     "name": "433",
+     "id": 2600210567,
+     "id_str": "2600210567",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625792531215556609,
+     "id_str": "1625792531215556609",
+     "indices": [
+      59,
+      82
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo_5sX2WIAE5Dop.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo_5sX2WIAE5Dop.jpg",
+     "url": "https://t.co/1iTwcZGlrG",
+     "display_url": "pic.twitter.com/1iTwcZGlrG",
+     "expanded_url": "https://twitter.com/433/status/1625792604838285312/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625792604838285312,
+     "source_status_id_str": "1625792604838285312",
+     "source_user_id": 2600210567,
+     "source_user_id_str": "2600210567"
+    }
+   ]
+  },
+  "Wed Feb 15 13:55:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "TV3GH",
+     "indices": [
+      86,
+      92
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tv3_ghana",
+     "name": "#TV3GH",
+     "id": 2530363285,
+     "id_str": "2530363285",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "Kamaldeenho10",
+     "name": "Kamaldeen Sulemana",
+     "id": 1250926795400060928,
+     "id_str": "1250926795400060928",
+     "indices": [
+      42,
+      56
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625787430769946624,
+     "id_str": "1625787430769946624",
+     "indices": [
+      93,
+      116
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo_1DfNWcAAwTux.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo_1DfNWcAAwTux.jpg",
+     "url": "https://t.co/itSMBfAYSV",
+     "display_url": "pic.twitter.com/itSMBfAYSV",
+     "expanded_url": "https://twitter.com/tv3_ghana/status/1625787441004019712/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 800,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 454,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1366,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625787441004019712,
+     "source_status_id_str": "1625787441004019712",
+     "source_user_id": 2530363285,
+     "source_user_id_str": "2530363285"
+    }
+   ]
+  },
+  "Wed Feb 15 13:54:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gyaigyimii",
+     "name": "KALYJAY",
+     "id": 1145137598379282432,
+     "id_str": "1145137598379282432",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 13:54:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mreazi",
+     "name": "Genius",
+     "id": 257941359,
+     "id_str": "257941359",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625837925521846273,
+     "id_str": "1625837925521846273",
+     "indices": [
+      62,
+      85
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpAi-q0WcAES8lb.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpAi-q0WcAES8lb.jpg",
+     "url": "https://t.co/IyFec3DfG1",
+     "display_url": "pic.twitter.com/IyFec3DfG1",
+     "expanded_url": "https://twitter.com/mreazi/status/1625837964549914625/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 800,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1366,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 454,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625837964549914625,
+     "source_status_id_str": "1625837964549914625",
+     "source_user_id": 257941359,
+     "source_user_id_str": "257941359"
+    }
+   ]
+  },
+  "Wed Feb 15 13:52:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "433",
+     "name": "433",
+     "id": 2600210567,
+     "id_str": "2600210567",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 13:51:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FrankKhalidUK",
+     "name": "Frank Khalid OBE",
+     "id": 4381616655,
+     "id_str": "4381616655",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 13:49:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AsieduMends",
+     "name": "Mempeasem President",
+     "id": 944155243113271297,
+     "id_str": "944155243113271297",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625520516411928577,
+     "id_str": "1625520516411928577",
+     "indices": [
+      37,
+      60
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8CTBvXsAEXIIV.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8CTBvXsAEXIIV.jpg",
+     "url": "https://t.co/yh7GSUdBEi",
+     "display_url": "pic.twitter.com/yh7GSUdBEi",
+     "expanded_url": "https://twitter.com/AsieduMends/status/1625520523680657411/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 481,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 848,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 998,
+       "h": 1412,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625520523680657411,
+     "source_status_id_str": "1625520523680657411",
+     "source_user_id": 944155243113271297,
+     "source_user_id_str": "944155243113271297"
+    }
+   ]
+  },
+  "Wed Feb 15 13:49:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nyannthierry",
+     "name": "Thierry Nyann \ud83c\uddec\ud83c\udded",
+     "id": 288924127,
+     "id_str": "288924127",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 13:47:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "goal",
+     "name": "GOAL",
+     "id": 26809005,
+     "id_str": "26809005",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625785493173534721,
+     "id_str": "1625785493173534721",
+     "indices": [
+      17,
+      40
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo_zStGXgAESCUF.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo_zStGXgAESCUF.jpg",
+     "url": "https://t.co/HbDW06PJ9y",
+     "display_url": "pic.twitter.com/HbDW06PJ9y",
+     "expanded_url": "https://twitter.com/goal/status/1625785546520903680/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625785546520903680,
+     "source_status_id_str": "1625785546520903680",
+     "source_user_id": 26809005,
+     "source_user_id_str": "26809005"
+    }
+   ]
+  },
+  "Wed Feb 15 13:45:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BlackStars",
+     "indices": [
+      56,
+      67
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GhanaBlackstars",
+     "name": "\ud83c\uddec\ud83c\udded Black Stars",
+     "id": 1444999898429075456,
+     "id_str": "1444999898429075456",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "Kamaldeenho10",
+     "name": "Kamaldeen Sulemana",
+     "id": 1250926795400060928,
+     "id_str": "1250926795400060928",
+     "indices": [
+      38,
+      52
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625790887077838848,
+     "id_str": "1625790887077838848",
+     "indices": [
+      68,
+      91
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo_4Mq9XgAAnAI-.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo_4Mq9XgAAnAI-.jpg",
+     "url": "https://t.co/5UOwSQEgtQ",
+     "display_url": "pic.twitter.com/5UOwSQEgtQ",
+     "expanded_url": "https://twitter.com/GhanaBlackstars/status/1625790909479616513/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1242,
+       "h": 1538,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 969,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 549,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625790909479616513,
+     "source_status_id_str": "1625790909479616513",
+     "source_user_id": 1444999898429075456,
+     "source_user_id_str": "1444999898429075456"
+    }
+   ]
+  },
+  "Wed Feb 15 13:44:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNUK",
+     "name": "ESPN UK",
+     "id": 89452962,
+     "id_str": "89452962",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 13:44:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SkySportsPL",
+     "name": "Sky Sports Premier League",
+     "id": 713993413,
+     "id_str": "713993413",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625804096136523777,
+     "id_str": "1625804096136523777",
+     "indices": [
+      45,
+      68
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpAENiiXsAEb3C0.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpAENiiXsAEb3C0.jpg",
+     "url": "https://t.co/wekXETrEdU",
+     "display_url": "pic.twitter.com/wekXETrEdU",
+     "expanded_url": "https://twitter.com/SkySportsPL/status/1625804796895584256/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625804796895584256,
+     "source_status_id_str": "1625804796895584256",
+     "source_user_id": 713993413,
+     "source_user_id_str": "713993413"
+    }
+   ]
+  },
+  "Wed Feb 15 13:42:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625823285895221248,
+     "id_str": "1625823285895221248",
+     "indices": [
+      101,
+      124
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpAVqh9X0AAZYq_.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpAVqh9X0AAZYq_.jpg",
+     "url": "https://t.co/ADnUzxzuzK",
+     "display_url": "pic.twitter.com/ADnUzxzuzK",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1625834826891681792/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625834826891681792,
+     "source_status_id_str": "1625834826891681792",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Wed Feb 15 13:35:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChrisEriksen8",
+     "name": "Christian Eriksen",
+     "id": 309232229,
+     "id_str": "309232229",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 13:33:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tylerperry",
+     "name": "Tyler Perry",
+     "id": 58598187,
+     "id_str": "58598187",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625569482251898914,
+     "id_str": "1625569482251898914",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8u1NtXECITKbZ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8u1NtXECITKbZ.jpg",
+     "url": "https://t.co/TX689yMFWl",
+     "display_url": "pic.twitter.com/TX689yMFWl",
+     "expanded_url": "https://twitter.com/tylerperry/status/1625569489604513793/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 642,
+       "h": 664,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 642,
+       "h": 664,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 642,
+       "h": 664,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625569489604513793,
+     "source_status_id_str": "1625569489604513793",
+     "source_user_id": 58598187,
+     "source_user_id_str": "58598187"
+    }
+   ]
+  },
+  "Wed Feb 15 13:31:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SouthamptonFC",
+     "name": "Southampton FC",
+     "id": 46143892,
+     "id_str": "46143892",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "Kamaldeenho10",
+     "name": "Kamaldeen Sulemana",
+     "id": 1250926795400060928,
+     "id_str": "1250926795400060928",
+     "indices": [
+      35,
+      49
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625763259084054530,
+     "id_str": "1625763259084054530",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo_fEgqWIAINeEf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo_fEgqWIAINeEf.jpg",
+     "url": "https://t.co/k4tM8TCCWW",
+     "display_url": "pic.twitter.com/k4tM8TCCWW",
+     "expanded_url": "https://twitter.com/SouthamptonFC/status/1625763953786728448/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1500,
+       "h": 2000,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625763953786728448,
+     "source_status_id_str": "1625763953786728448",
+     "source_user_id": 46143892,
+     "source_user_id_str": "46143892"
+    }
+   ]
+  },
+  "Wed Feb 15 13:31:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNUK",
+     "name": "ESPN UK",
+     "id": 89452962,
+     "id_str": "89452962",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625834651217543171,
+     "id_str": "1625834651217543171",
+     "indices": [
+      45,
+      68
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpAgAFFXwAMGBrE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpAgAFFXwAMGBrE.jpg",
+     "url": "https://t.co/ykws8AyzaQ",
+     "display_url": "pic.twitter.com/ykws8AyzaQ",
+     "expanded_url": "https://twitter.com/ESPNUK/status/1625842362504167426/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625842362504167426,
+     "source_status_id_str": "1625842362504167426",
+     "source_user_id": 89452962,
+     "source_user_id_str": "89452962"
+    }
+   ]
+  },
+  "Wed Feb 15 13:30:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625696546082947072,
+     "id_str": "1625696546082947072",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-iZTXagAAxPFY.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-iZTXagAAxPFY.jpg",
+     "url": "https://t.co/auv5M1stUS",
+     "display_url": "pic.twitter.com/auv5M1stUS",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625696554467344384/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 896,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1195,
+       "h": 1600,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 508,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625696554467344384,
+     "source_status_id_str": "1625696554467344384",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 08:45:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "thebankofghana",
+     "name": "Bank of Ghana",
+     "id": 988523695479107585,
+     "id_str": "988523695479107585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625424763064578049,
+     "id_str": "1625424763064578049",
+     "indices": [
+      49,
+      72
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo6rNcuWcAEdMPX.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo6rNcuWcAEdMPX.jpg",
+     "url": "https://t.co/dasgVCZNQl",
+     "display_url": "pic.twitter.com/dasgVCZNQl",
+     "expanded_url": "https://twitter.com/thebankofghana/status/1625424771075780612/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 975,
+       "h": 1125,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 589,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 975,
+       "h": 1125,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625424771075780612,
+     "source_status_id_str": "1625424771075780612",
+     "source_user_id": 988523695479107585,
+     "source_user_id_str": "988523695479107585"
+    }
+   ]
+  },
+  "Wed Feb 15 08:40:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LDNFootbalI",
+     "name": "LDN",
+     "id": 1926045878,
+     "id_str": "1926045878",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625559112133054465,
+     "id_str": "1625559112133054465",
+     "indices": [
+      29,
+      52
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8lZmAXEAEyC03.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8lZmAXEAEyC03.jpg",
+     "url": "https://t.co/QISlsFVRne",
+     "display_url": "pic.twitter.com/QISlsFVRne",
+     "expanded_url": "https://twitter.com/LDNFootbalI/status/1625559120500690958/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625559120500690958,
+     "source_status_id_str": "1625559120500690958",
+     "source_user_id": 1926045878,
+     "source_user_id_str": "1926045878"
+    }
+   ]
+  },
+  "Wed Feb 15 08:39:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "goal",
+     "name": "GOAL",
+     "id": 26809005,
+     "id_str": "26809005",
+     "indices": [
+      3,
+      8
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625573281788035073,
+     "id_str": "1625573281788035073",
+     "indices": [
+      71,
+      94
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8ySYFXgAEMIMe.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8ySYFXgAEMIMe.jpg",
+     "url": "https://t.co/gqb8NIg0rP",
+     "display_url": "pic.twitter.com/gqb8NIg0rP",
+     "expanded_url": "https://twitter.com/goal/status/1625573346397065216/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625573346397065216,
+     "source_status_id_str": "1625573346397065216",
+     "source_user_id": 26809005,
+     "source_user_id_str": "26809005"
+    }
+   ]
+  },
+  "Wed Feb 15 08:39:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "iamjuddah",
+     "name": "\ud835\udc09\ud835\udc2e\ud835\udc1d\ud835\udc1d\ud835\udc1a\ud835\udc21 \uf8ff\u2122",
+     "id": 1337350709122097152,
+     "id_str": "1337350709122097152",
+     "indices": [
+      0,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 08:38:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "iamjuddah",
+     "name": "\ud835\udc09\ud835\udc2e\ud835\udc1d\ud835\udc1d\ud835\udc1a\ud835\udc21 \uf8ff\u2122",
+     "id": 1337350709122097152,
+     "id_str": "1337350709122097152",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 08:38:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "iamjuddah",
+     "name": "\ud835\udc09\ud835\udc2e\ud835\udc1d\ud835\udc1d\ud835\udc1a\ud835\udc21 \uf8ff\u2122",
+     "id": 1337350709122097152,
+     "id_str": "1337350709122097152",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 08:34:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "brfootball",
+     "name": "B/R Football",
+     "id": 1561123663,
+     "id_str": "1561123663",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 08:34:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AD19",
+     "indices": [
+      54,
+      59
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlphonsoDavies",
+     "name": "Alphonso Davies",
+     "id": 1958357221,
+     "id_str": "1958357221",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625632690664792065,
+     "id_str": "1625632690664792065",
+     "indices": [
+      62,
+      85
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo9oUbZWYAE9t7v.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo9oUbZWYAE9t7v.jpg",
+     "url": "https://t.co/IU8K3RpGs6",
+     "display_url": "pic.twitter.com/IU8K3RpGs6",
+     "expanded_url": "https://twitter.com/AlphonsoDavies/status/1625632697816080384/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 953,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1289,
+       "h": 1623,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 540,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625632697816080384,
+     "source_status_id_str": "1625632697816080384",
+     "source_user_id": 1958357221,
+     "source_user_id_str": "1958357221"
+    }
+   ]
+  },
+  "Wed Feb 15 08:34:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yencomgh",
+     "name": "YEN.com.gh",
+     "id": 3395181400,
+     "id_str": "3395181400",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 08:33:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AndyMaina_",
+     "name": "\u1d20\u029f\u1d00\u1d05\u026a\u1d0d\u026a\u0280 \u0299\u026a\u0274 \u029f\u1d00\u1d05\u1d07\u0274",
+     "id": 2991667491,
+     "id_str": "2991667491",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625766615751991296,
+     "id_str": "1625766615751991296",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo_iH5OWIAAPeVe.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo_iH5OWIAAPeVe.jpg",
+     "url": "https://t.co/ivChmmmJue",
+     "display_url": "pic.twitter.com/ivChmmmJue",
+     "expanded_url": "https://twitter.com/AndyMaina_/status/1625766618398703616/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 554,
+       "h": 554,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 554,
+       "h": 554,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 554,
+       "h": 554,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625766618398703616,
+     "source_status_id_str": "1625766618398703616",
+     "source_user_id": 2991667491,
+     "source_user_id_str": "2991667491"
+    }
+   ]
+  },
+  "Tue Feb 14 23:01:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JamalMusiala",
+     "name": "Jamal Musiala",
+     "id": 1214218931801477122,
+     "id_str": "1214218931801477122",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625625149121736704,
+     "id_str": "1625625149121736704",
+     "indices": [
+      61,
+      84
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo9hdc9XsAAYnDv.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo9hdc9XsAAYnDv.jpg",
+     "url": "https://t.co/tAlJwrp9pn",
+     "display_url": "pic.twitter.com/tAlJwrp9pn",
+     "expanded_url": "https://twitter.com/JamalMusiala/status/1625625154020687878/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625625154020687878,
+     "source_status_id_str": "1625625154020687878",
+     "source_user_id": 1214218931801477122,
+     "source_user_id_str": "1214218931801477122"
+    }
+   ]
+  },
+  "Tue Feb 14 23:01:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "433",
+     "name": "433",
+     "id": 2600210567,
+     "id_str": "2600210567",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625631054194176010,
+     "id_str": "1625631054194176010",
+     "indices": [
+      27,
+      50
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo9m1LEWcAo8LkY.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo9m1LEWcAo8LkY.jpg",
+     "url": "https://t.co/VjdahplxZC",
+     "display_url": "pic.twitter.com/VjdahplxZC",
+     "expanded_url": "https://twitter.com/433/status/1625631084250628096/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 971,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 550,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1179,
+       "h": 1457,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625631084250628096,
+     "source_status_id_str": "1625631084250628096",
+     "source_user_id": 2600210567,
+     "source_user_id_str": "2600210567"
+    }
+   ]
+  },
+  "Tue Feb 14 22:13:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "KK",
+     "indices": [
+      42,
+      45
+     ]
+    },
+    {
+     "text": "CFC",
+     "indices": [
+      46,
+      50
+     ]
+    },
+    {
+     "text": "UCL",
+     "indices": [
+      53,
+      57
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kkoulibaly26",
+     "name": "Koulibaly Kalidou",
+     "id": 2862315707,
+     "id_str": "2862315707",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "ChampionsLeague",
+     "name": "UEFA Champions League",
+     "id": 627673190,
+     "id_str": "627673190",
+     "indices": [
+      21,
+      37
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625544289118830632,
+     "id_str": "1625544289118830632",
+     "indices": [
+      58,
+      81
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8X6x-XwCgMCHu.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8X6x-XwCgMCHu.jpg",
+     "url": "https://t.co/JN6zZuQBOl",
+     "display_url": "pic.twitter.com/JN6zZuQBOl",
+     "expanded_url": "https://twitter.com/kkoulibaly26/status/1625544295615807496/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1392,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 462,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 816,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625544295615807496,
+     "source_status_id_str": "1625544295615807496",
+     "source_user_id": 2862315707,
+     "source_user_id_str": "2862315707"
+    }
+   ]
+  },
+  "Tue Feb 14 22:12:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MichelleObama",
+     "name": "Michelle Obama",
+     "id": 409486555,
+     "id_str": "409486555",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "BarackObama",
+     "name": "Barack Obama",
+     "id": 813286,
+     "id_str": "813286",
+     "indices": [
+      42,
+      54
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:12:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "shattawalegh",
+     "name": "SHATTA WALE",
+     "id": 310709509,
+     "id_str": "310709509",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625469310259851271,
+     "id_str": "1625469310259851271",
+     "indices": [
+      63,
+      86
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo7Tub9WcAcnFdz.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo7Tub9WcAcnFdz.jpg",
+     "url": "https://t.co/WaNyK12MSX",
+     "display_url": "pic.twitter.com/WaNyK12MSX",
+     "expanded_url": "https://twitter.com/shattawalegh/status/1625469316350021633/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 529,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 926,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 926,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625469316350021633,
+     "source_status_id_str": "1625469316350021633",
+     "source_user_id": 310709509,
+     "source_user_id_str": "310709509"
+    }
+   ]
+  },
+  "Tue Feb 14 22:12:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "433",
+     "name": "433",
+     "id": 2600210567,
+     "id_str": "2600210567",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625614903674282005,
+     "id_str": "1625614903674282005",
+     "indices": [
+      40,
+      63
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo9YJFsWIBUbLtF.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo9YJFsWIBUbLtF.jpg",
+     "url": "https://t.co/7M1X64KeP5",
+     "display_url": "pic.twitter.com/7M1X64KeP5",
+     "expanded_url": "https://twitter.com/433/status/1625614909999292435/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 968,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 548,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1179,
+       "h": 1462,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625614909999292435,
+     "source_status_id_str": "1625614909999292435",
+     "source_user_id": 2600210567,
+     "source_user_id_str": "2600210567"
+    }
+   ]
+  },
+  "Tue Feb 14 22:12:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kaihavertz29",
+     "name": "Kai Havertz",
+     "id": 795280573761810433,
+     "id_str": "795280573761810433",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625494758583050247,
+     "id_str": "1625494758583050247",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo7q3uWaIAcnjK9.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo7q3uWaIAcnjK9.jpg",
+     "url": "https://t.co/LkVYB5rvtM",
+     "display_url": "pic.twitter.com/LkVYB5rvtM",
+     "expanded_url": "https://twitter.com/kaihavertz29/status/1625494764085968908/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1024,
+       "h": 683,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1024,
+       "h": 683,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 454,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625494764085968908,
+     "source_status_id_str": "1625494764085968908",
+     "source_user_id": 795280573761810433,
+     "source_user_id_str": "795280573761810433"
+    }
+   ]
+  },
+  "Tue Feb 14 22:10:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:10:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ASAMOAH_GYAN3",
+     "name": "ASAMOAH GYAN",
+     "id": 286866672,
+     "id_str": "286866672",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "ChristianAtsu20",
+     "name": "Christian Atsu",
+     "id": 480618599,
+     "id_str": "480618599",
+     "indices": [
+      49,
+      65
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625547436725878785,
+     "id_str": "1625547436725878785",
+     "indices": [
+      73,
+      96
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8ax_uXwAEOvBg.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8ax_uXwAEOvBg.jpg",
+     "url": "https://t.co/areEDAF13V",
+     "display_url": "pic.twitter.com/areEDAF13V",
+     "expanded_url": "https://twitter.com/ASAMOAH_GYAN3/status/1625547446339223559/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 955,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1125,
+       "h": 1414,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 541,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625547446339223559,
+     "source_status_id_str": "1625547446339223559",
+     "source_user_id": 286866672,
+     "source_user_id_str": "286866672"
+    }
+   ]
+  },
+  "Tue Feb 14 22:10:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mreazi",
+     "name": "Genius",
+     "id": 257941359,
+     "id_str": "257941359",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625541859580735488,
+     "id_str": "1625541859580735488",
+     "indices": [
+      15,
+      38
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8VtXPWcAA2ZFB.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8VtXPWcAA2ZFB.jpg",
+     "url": "https://t.co/xoH1okNvQS",
+     "display_url": "pic.twitter.com/xoH1okNvQS",
+     "expanded_url": "https://twitter.com/mreazi/status/1625541870041325568/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625541870041325568,
+     "source_status_id_str": "1625541870041325568",
+     "source_user_id": 257941359,
+     "source_user_id_str": "257941359"
+    }
+   ]
+  },
+  "Tue Feb 14 22:09:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GhanaBlackstars",
+     "name": "\ud83c\uddec\ud83c\udded Black Stars",
+     "id": 1444999898429075456,
+     "id_str": "1444999898429075456",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:09:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625618096848248834,
+     "id_str": "1625618096848248834",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo9bC9MWIAIMxmR.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo9bC9MWIAIMxmR.jpg",
+     "url": "https://t.co/p0aeXzPwBX",
+     "display_url": "pic.twitter.com/p0aeXzPwBX",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1625618100874780681/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625618100874780681,
+     "source_status_id_str": "1625618100874780681",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Tue Feb 14 22:09:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625614540460138514,
+     "id_str": "1625614540460138514",
+     "indices": [
+      78,
+      101
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo9Xz8nWIBIiwSj.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo9Xz8nWIBIiwSj.jpg",
+     "url": "https://t.co/DAJ2B3MmT2",
+     "display_url": "pic.twitter.com/DAJ2B3MmT2",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1625614544293732359/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625614544293732359,
+     "source_status_id_str": "1625614544293732359",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Tue Feb 14 21:47:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625612415265128448,
+     "id_str": "1625612415265128448",
+     "indices": [
+      102,
+      125
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo9V4PpXwAAuEX9.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo9V4PpXwAAuEX9.jpg",
+     "url": "https://t.co/NV9s1EMvl9",
+     "display_url": "pic.twitter.com/NV9s1EMvl9",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1625612419388022805/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625612419388022805,
+     "source_status_id_str": "1625612419388022805",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Tue Feb 14 14:14:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Sabinus1_",
+     "name": "Sabinus",
+     "id": 1482169993047515140,
+     "id_str": "1482169993047515140",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625434405001998337,
+     "id_str": "1625434405001998337",
+     "indices": [
+      24,
+      47
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625434405001998337/pu/img/QJkcw0gEyAhN7MtC.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625434405001998337/pu/img/QJkcw0gEyAhN7MtC.jpg",
+     "url": "https://t.co/tL8Fe18wgK",
+     "display_url": "pic.twitter.com/tL8Fe18wgK",
+     "expanded_url": "https://twitter.com/Sabinus1_/status/1625434992149921792/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625434992149921792,
+     "source_status_id_str": "1625434992149921792",
+     "source_user_id": 1482169993047515140,
+     "source_user_id_str": "1482169993047515140"
+    }
+   ]
+  },
+  "Tue Feb 14 14:11:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Sabinus1_",
+     "name": "Sabinus",
+     "id": 1482169993047515140,
+     "id_str": "1482169993047515140",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625431939636203527,
+     "id_str": "1625431939636203527",
+     "indices": [
+      55,
+      78
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625431939636203527/pu/img/shdQW7G6xrIzomI5.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625431939636203527/pu/img/shdQW7G6xrIzomI5.jpg",
+     "url": "https://t.co/3MV43XaTHv",
+     "display_url": "pic.twitter.com/3MV43XaTHv",
+     "expanded_url": "https://twitter.com/Sabinus1_/status/1625432940615290880/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625432940615290880,
+     "source_status_id_str": "1625432940615290880",
+     "source_user_id": 1482169993047515140,
+     "source_user_id_str": "1482169993047515140"
+    }
+   ]
+  },
+  "Tue Feb 14 14:11:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNUK",
+     "name": "ESPN UK",
+     "id": 89452962,
+     "id_str": "89452962",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625456742539616257,
+     "id_str": "1625456742539616257",
+     "indices": [
+      76,
+      99
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo7IS5jWYAEPEa-.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo7IS5jWYAEPEa-.jpg",
+     "url": "https://t.co/qYJCDZeL83",
+     "display_url": "pic.twitter.com/qYJCDZeL83",
+     "expanded_url": "https://twitter.com/ESPNUK/status/1625487525417717764/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625487525417717764,
+     "source_status_id_str": "1625487525417717764",
+     "source_user_id": 89452962,
+     "source_user_id_str": "89452962"
+    }
+   ]
+  },
+  "Tue Feb 14 12:33:27 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ValentinesDay",
+     "indices": [
+      36,
+      50
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cuppymusic",
+     "name": "Cuppy",
+     "id": 226944459,
+     "id_str": "226944459",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "ryantaylorbmx",
+     "name": "Ryan Taylor",
+     "id": 44342273,
+     "id_str": "44342273",
+     "indices": [
+      68,
+      82
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625257648156299275,
+     "id_str": "1625257648156299275",
+     "indices": [
+      83,
+      106
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo4TOFLX0AszaQS.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo4TOFLX0AszaQS.jpg",
+     "url": "https://t.co/2Cktk39dMN",
+     "display_url": "pic.twitter.com/2Cktk39dMN",
+     "expanded_url": "https://twitter.com/cuppymusic/status/1625257652547641344/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625257652547641344,
+     "source_status_id_str": "1625257652547641344",
+     "source_user_id": 226944459,
+     "source_user_id_str": "226944459"
+    }
+   ]
+  },
+  "Tue Feb 14 12:33:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNUK",
+     "name": "ESPN UK",
+     "id": 89452962,
+     "id_str": "89452962",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625260602229760003,
+     "id_str": "1625260602229760003",
+     "indices": [
+      72,
+      95
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo4V6B9XoAMoy_G.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo4V6B9XoAMoy_G.jpg",
+     "url": "https://t.co/BS2vVtG26S",
+     "display_url": "pic.twitter.com/BS2vVtG26S",
+     "expanded_url": "https://twitter.com/ESPNUK/status/1625260605916545024/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625260605916545024,
+     "source_status_id_str": "1625260605916545024",
+     "source_user_id": 89452962,
+     "source_user_id_str": "89452962"
+    }
+   ]
+  },
+  "Tue Feb 14 12:32:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Sabinus1_",
+     "name": "Sabinus",
+     "id": 1482169993047515140,
+     "id_str": "1482169993047515140",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625256773132197890,
+     "id_str": "1625256773132197890",
+     "indices": [
+      38,
+      61
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo4SbJdXoAIJ_nJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo4SbJdXoAIJ_nJ.jpg",
+     "url": "https://t.co/8XXjprjBpK",
+     "display_url": "pic.twitter.com/8XXjprjBpK",
+     "expanded_url": "https://twitter.com/Sabinus1_/status/1625256781457903617/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625256781457903617,
+     "source_status_id_str": "1625256781457903617",
+     "source_user_id": 1482169993047515140,
+     "source_user_id_str": "1482169993047515140"
+    }
+   ]
+  },
+  "Tue Feb 14 12:32:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FrankKhalidUK",
+     "name": "Frank Khalid OBE",
+     "id": 4381616655,
+     "id_str": "4381616655",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625227397904605204,
+     "id_str": "1625227397904605204",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo33tSNWIBQHjI2.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo33tSNWIBQHjI2.jpg",
+     "url": "https://t.co/6gyulzDpos",
+     "display_url": "pic.twitter.com/6gyulzDpos",
+     "expanded_url": "https://twitter.com/FrankKhalidUK/status/1625227403298480150/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 543,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 719,
+       "h": 900,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 719,
+       "h": 900,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625227403298480150,
+     "source_status_id_str": "1625227403298480150",
+     "source_user_id": 4381616655,
+     "source_user_id_str": "4381616655"
+    }
+   ]
+  },
+  "Tue Feb 14 12:32:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SouthamptonFC",
+     "name": "Southampton FC",
+     "id": 46143892,
+     "id_str": "46143892",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "Kamaldeenho10",
+     "name": "Kamaldeen Sulemana",
+     "id": 1250926795400060928,
+     "id_str": "1250926795400060928",
+     "indices": [
+      22,
+      36
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625143647066030081,
+     "id_str": "1625143647066030081",
+     "indices": [
+      40,
+      63
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo2riWBagAEeHJD.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo2riWBagAEeHJD.jpg",
+     "url": "https://t.co/ISTzj6wxOH",
+     "display_url": "pic.twitter.com/ISTzj6wxOH",
+     "expanded_url": "https://twitter.com/SouthamptonFC/status/1625436687890513921/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1426,
+       "h": 1901,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625436687890513921,
+     "source_status_id_str": "1625436687890513921",
+     "source_user_id": 46143892,
+     "source_user_id_str": "46143892"
+    }
+   ]
+  },
+  "Tue Feb 14 12:32:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cristiano",
+     "name": "Cristiano Ronaldo",
+     "id": 155659213,
+     "id_str": "155659213",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625467618437087235,
+     "id_str": "1625467618437087235",
+     "indices": [
+      82,
+      105
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo7SL9bXwAMb6tp.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo7SL9bXwAMb6tp.jpg",
+     "url": "https://t.co/NndB9mHh6v",
+     "display_url": "pic.twitter.com/NndB9mHh6v",
+     "expanded_url": "https://twitter.com/Cristiano/status/1625467626280321024/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 450,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1354,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 793,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625467626280321024,
+     "source_status_id_str": "1625467626280321024",
+     "source_user_id": 155659213,
+     "source_user_id_str": "155659213"
+    }
+   ]
+  },
+  "Tue Feb 14 12:32:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 11:44:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "I_Am_Winter",
+     "name": "Dr King Winter",
+     "id": 2919449914,
+     "id_str": "2919449914",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625160726510698498,
+     "id_str": "1625160726510698498",
+     "indices": [
+      25,
+      48
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo27Ef6WAAIobdr.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo27Ef6WAAIobdr.jpg",
+     "url": "https://t.co/th5GWVPFM7",
+     "display_url": "pic.twitter.com/th5GWVPFM7",
+     "expanded_url": "https://twitter.com/I_Am_Winter/status/1625160733678764033/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 658,
+       "h": 774,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 658,
+       "h": 774,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 578,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625160733678764033,
+     "source_status_id_str": "1625160733678764033",
+     "source_user_id": 2919449914,
+     "source_user_id_str": "2919449914"
+    }
+   ]
+  },
+  "Tue Feb 14 11:43:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNUK",
+     "name": "ESPN UK",
+     "id": 89452962,
+     "id_str": "89452962",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625440474738597889,
+     "id_str": "1625440474738597889",
+     "indices": [
+      67,
+      90
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo65f_RWIAEULxK.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo65f_RWIAEULxK.jpg",
+     "url": "https://t.co/3oRja4QozN",
+     "display_url": "pic.twitter.com/3oRja4QozN",
+     "expanded_url": "https://twitter.com/ESPNUK/status/1625457325799620609/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1056,
+       "h": 1056,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1056,
+       "h": 1056,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625457325799620609,
+     "source_status_id_str": "1625457325799620609",
+     "source_user_id": 89452962,
+     "source_user_id_str": "89452962"
+    }
+   ]
+  },
+  "Tue Feb 14 11:43:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LFC",
+     "name": "Liverpool FC",
+     "id": 19583545,
+     "id_str": "19583545",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625251432906600448,
+     "id_str": "1625251432906600448",
+     "indices": [
+      23,
+      46
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo4NkTkXsAAKcj6.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo4NkTkXsAAKcj6.jpg",
+     "url": "https://t.co/W6REYXUYdQ",
+     "display_url": "pic.twitter.com/W6REYXUYdQ",
+     "expanded_url": "https://twitter.com/LFC/status/1625251454347800763/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1280,
+       "h": 1600,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625251454347800763,
+     "source_status_id_str": "1625251454347800763",
+     "source_user_id": 19583545,
+     "source_user_id_str": "19583545"
+    }
+   ]
+  },
+  "Tue Feb 14 11:42:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625180500703821832,
+     "id_str": "1625180500703821832",
+     "indices": [
+      85,
+      108
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo3NDghXwAgB7_g.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo3NDghXwAgB7_g.jpg",
+     "url": "https://t.co/cpMkL02rV3",
+     "display_url": "pic.twitter.com/cpMkL02rV3",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1625180507494400026/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625180507494400026,
+     "source_status_id_str": "1625180507494400026",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Tue Feb 14 11:42:07 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "UEL",
+     "indices": [
+      60,
+      64
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EuropaLeague",
+     "name": "UEFA Europa League",
+     "id": 789605024,
+     "id_str": "789605024",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623645678365773825,
+     "id_str": "1623645678365773825",
+     "indices": [
+      65,
+      88
+     ],
+     "media_url": "http://pbs.twimg.com/media/FohZJFwXEAE0E_q.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FohZJFwXEAE0E_q.jpg",
+     "url": "https://t.co/eNIZT7oFxW",
+     "display_url": "pic.twitter.com/eNIZT7oFxW",
+     "expanded_url": "https://twitter.com/EuropaLeague/status/1625132936659083272/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625132936659083272,
+     "source_status_id_str": "1625132936659083272",
+     "source_user_id": 789605024,
+     "source_user_id_str": "789605024"
+    }
+   ]
+  },
+  "Tue Feb 14 11:40:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AFCAjax",
+     "name": "AFC Ajax",
+     "id": 153000691,
+     "id_str": "153000691",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625179057510924295,
+     "id_str": "1625179057510924295",
+     "indices": [
+      26,
+      49
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo3LvgNXwAcvkCg.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo3LvgNXwAcvkCg.jpg",
+     "url": "https://t.co/BCTpUNVj9N",
+     "display_url": "pic.twitter.com/BCTpUNVj9N",
+     "expanded_url": "https://twitter.com/AFCAjax/status/1625389381669507075/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 460,
+       "h": 575,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 460,
+       "h": 575,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 460,
+       "h": 575,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625389381669507075,
+     "source_status_id_str": "1625389381669507075",
+     "source_user_id": 153000691,
+     "source_user_id_str": "153000691"
+    }
+   ]
+  },
+  "Tue Feb 14 09:55:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LFC",
+     "name": "Liverpool FC",
+     "id": 19583545,
+     "id_str": "19583545",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625253630440796177,
+     "id_str": "1625253630440796177",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo4PkOBWcBEtMTJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo4PkOBWcBEtMTJ.jpg",
+     "url": "https://t.co/KyHcLiSeZt",
+     "display_url": "pic.twitter.com/KyHcLiSeZt",
+     "expanded_url": "https://twitter.com/LFC/status/1625253858770317353/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1639,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625253858770317353,
+     "source_status_id_str": "1625253858770317353",
+     "source_user_id": 19583545,
+     "source_user_id_str": "19583545"
+    }
+   ]
+  },
+  "Tue Feb 14 09:53:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FrankKhalidUK",
+     "name": "Frank Khalid OBE",
+     "id": 4381616655,
+     "id_str": "4381616655",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 09:53:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gyaigyimii",
+     "name": "KALYJAY",
+     "id": 1145137598379282432,
+     "id_str": "1145137598379282432",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625309230604464130,
+     "id_str": "1625309230604464130",
+     "indices": [
+      35,
+      58
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo5CIkxXsAIJS3-.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo5CIkxXsAIJS3-.jpg",
+     "url": "https://t.co/tAlPxQcWhU",
+     "display_url": "pic.twitter.com/tAlPxQcWhU",
+     "expanded_url": "https://twitter.com/gyaigyimii/status/1625309263848513538/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1366,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625309263848513538,
+     "source_status_id_str": "1625309263848513538",
+     "source_user_id": 1145137598379282432,
+     "source_user_id_str": "1145137598379282432"
+    }
+   ]
+  },
+  "Tue Feb 14 09:51:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PeterObi",
+     "name": "Peter Obi",
+     "id": 1050779471731707904,
+     "id_str": "1050779471731707904",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 09:50:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AFCAjax",
+     "name": "AFC Ajax",
+     "id": 153000691,
+     "id_str": "153000691",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625079951039889409,
+     "id_str": "1625079951039889409",
+     "indices": [
+      62,
+      85
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo1x4lmXEAIaEKf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo1x4lmXEAIaEKf.jpg",
+     "url": "https://t.co/wX6lxN040I",
+     "display_url": "pic.twitter.com/wX6lxN040I",
+     "expanded_url": "https://twitter.com/AFCAjax/status/1625080404460838913/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625080404460838913,
+     "source_status_id_str": "1625080404460838913",
+     "source_user_id": 153000691,
+     "source_user_id_str": "153000691"
+    }
+   ]
+  },
+  "Tue Feb 14 09:49:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "UEL",
+     "indices": [
+      34,
+      38
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EuropaLeague",
+     "name": "UEFA Europa League",
+     "id": 789605024,
+     "id_str": "789605024",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623660776996147200,
+     "id_str": "1623660776996147200",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fohm38iXEAAlt4R.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fohm38iXEAAlt4R.jpg",
+     "url": "https://t.co/SbCMiMGDRp",
+     "display_url": "pic.twitter.com/SbCMiMGDRp",
+     "expanded_url": "https://twitter.com/EuropaLeague/status/1625057439023517696/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625057439023517696,
+     "source_status_id_str": "1625057439023517696",
+     "source_user_id": 789605024,
+     "source_user_id_str": "789605024"
+    }
+   ]
+  },
+  "Mon Feb 13 23:51:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FabrizioRomano",
+     "name": "Fabrizio Romano",
+     "id": 330262748,
+     "id_str": "330262748",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625123761694416897,
+     "id_str": "1625123761694416897",
+     "indices": [
+      87,
+      110
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo2Zc3PXoAEwTXC.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo2Zc3PXoAEwTXC.jpg",
+     "url": "https://t.co/tTzYxL874w",
+     "display_url": "pic.twitter.com/tTzYxL874w",
+     "expanded_url": "https://twitter.com/FabrizioRomano/status/1625123765276356612/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 627,
+       "h": 661,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 627,
+       "h": 661,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 627,
+       "h": 661,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625123765276356612,
+     "source_status_id_str": "1625123765276356612",
+     "source_user_id": 330262748,
+     "source_user_id_str": "330262748"
+    }
+   ]
+  },
+  "Mon Feb 13 23:50:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KWESIARTHUR_",
+     "name": "SON OF JACOB",
+     "id": 92349337,
+     "id_str": "92349337",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625184719708078080,
+     "id_str": "1625184719708078080",
+     "indices": [
+      51,
+      74
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo3Q5FiXwAA7AE8.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo3Q5FiXwAA7AE8.jpg",
+     "url": "https://t.co/Rder4Hj4lc",
+     "display_url": "pic.twitter.com/Rder4Hj4lc",
+     "expanded_url": "https://twitter.com/KWESIARTHUR_/status/1625184728423841794/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625184728423841794,
+     "source_status_id_str": "1625184728423841794",
+     "source_user_id": 92349337,
+     "source_user_id_str": "92349337"
+    }
+   ]
+  },
+  "Mon Feb 13 23:49:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GhanaBlackstars",
+     "name": "\ud83c\uddec\ud83c\udded Black Stars",
+     "id": 1444999898429075456,
+     "id_str": "1444999898429075456",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "kofi_kyereh17",
+     "name": "Daniel Kofi Kyereh",
+     "id": 1500463162713387011,
+     "id_str": "1500463162713387011",
+     "indices": [
+      93,
+      107
+     ]
+    },
+    {
+     "screen_name": "AliduSeidu15",
+     "name": "Alidu Seidu",
+     "id": 1413255759018745857,
+     "id_str": "1413255759018745857",
+     "indices": [
+      128,
+      141
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 23:49:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 12:08:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TemiOtedola",
+     "name": "Temi Otedola",
+     "id": 2829932277,
+     "id_str": "2829932277",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1619373321161678848,
+     "id_str": "1619373321161678848",
+     "indices": [
+      20,
+      43
+     ],
+     "media_url": "http://pbs.twimg.com/media/FnkrdK6WIAAYeGx.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FnkrdK6WIAAYeGx.jpg",
+     "url": "https://t.co/cqNpxPUW1F",
+     "display_url": "pic.twitter.com/cqNpxPUW1F",
+     "expanded_url": "https://twitter.com/TemiOtedola/status/1619373328292270080/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1638,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1619373328292270080,
+     "source_status_id_str": "1619373328292270080",
+     "source_user_id": 2829932277,
+     "source_user_id_str": "2829932277"
+    }
+   ]
+  },
+  "Mon Feb 13 12:08:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TemiOtedola",
+     "name": "Temi Otedola",
+     "id": 2829932277,
+     "id_str": "2829932277",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 11:58:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TemiOtedola",
+     "name": "Temi Otedola",
+     "id": 2829932277,
+     "id_str": "2829932277",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "netflix",
+     "name": "Netflix",
+     "id": 16573941,
+     "id_str": "16573941",
+     "indices": [
+      38,
+      46
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1324626084684537857,
+     "id_str": "1324626084684537857",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324626084684537857/pu/img/kCW-GBFN9q48xurb.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324626084684537857/pu/img/kCW-GBFN9q48xurb.jpg",
+     "url": "https://t.co/ZhE1BGw61G",
+     "display_url": "pic.twitter.com/ZhE1BGw61G",
+     "expanded_url": "https://twitter.com/TemiOtedola/status/1324627033729761281/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1324627033729761281,
+     "source_status_id_str": "1324627033729761281",
+     "source_user_id": 2829932277,
+     "source_user_id_str": "2829932277"
+    }
+   ]
+  },
+  "Mon Feb 13 11:50:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "muftimenk",
+     "name": "Mufti Menk",
+     "id": 247653244,
+     "id_str": "247653244",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 11:50:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DaniCeballos46",
+     "name": "Daniel Ceballos",
+     "id": 360887604,
+     "id_str": "360887604",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624781179470680065,
+     "id_str": "1624781179470680065",
+     "indices": [
+      43,
+      66
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foxh39AXEAEYmVV.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foxh39AXEAEYmVV.jpg",
+     "url": "https://t.co/3SpeAZf41Z",
+     "display_url": "pic.twitter.com/3SpeAZf41Z",
+     "expanded_url": "https://twitter.com/DaniCeballos46/status/1624781184839426050/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624781184839426050,
+     "source_status_id_str": "1624781184839426050",
+     "source_user_id": 360887604,
+     "source_user_id_str": "360887604"
+    }
+   ]
+  },
+  "Mon Feb 13 11:50:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FrankKhalidUK",
+     "name": "Frank Khalid OBE",
+     "id": 4381616655,
+     "id_str": "4381616655",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 11:48:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625087949061726209,
+     "id_str": "1625087949061726209",
+     "indices": [
+      83,
+      106
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo144SyXoAE7M6c.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo144SyXoAE7M6c.jpg",
+     "url": "https://t.co/4EHOVrPhcA",
+     "display_url": "pic.twitter.com/4EHOVrPhcA",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1625087952882745344/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625087952882745344,
+     "source_status_id_str": "1625087952882745344",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Mon Feb 13 11:48:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/i7jwjvyeOJ",
+     "expanded_url": "https://twitter.com/i/events/1623025570127785984",
+     "display_url": "twitter.com/i/events/16230\u2026",
+     "indices": [
+      44,
+      67
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 11:31:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_hanelle1",
+     "name": "Han\ud83d\udc95",
+     "id": 1620732113199808514,
+     "id_str": "1620732113199808514",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "gyaigyimii",
+     "name": "KALYJAY",
+     "id": 1145137598379282432,
+     "id_str": "1145137598379282432",
+     "indices": [
+      35,
+      46
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625092014822899713,
+     "id_str": "1625092014822899713",
+     "indices": [
+      110,
+      133
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625092014822899713/pu/img/zgXC5K77y8pb8CjT.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625092014822899713/pu/img/zgXC5K77y8pb8CjT.jpg",
+     "url": "https://t.co/hDUmX0xqbl",
+     "display_url": "pic.twitter.com/hDUmX0xqbl",
+     "expanded_url": "https://twitter.com/_hanelle1/status/1625092085677170689/video/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 366,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 888,
+       "h": 478,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 888,
+       "h": 478,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625092085677170689,
+     "source_status_id_str": "1625092085677170689",
+     "source_user_id": 1620732113199808514,
+     "source_user_id_str": "1620732113199808514"
+    }
+   ]
+  },
+  "Mon Feb 13 10:58:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "brfootball",
+     "name": "B/R Football",
+     "id": 1561123663,
+     "id_str": "1561123663",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 10:57:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Mahrez22",
+     "name": "Riyad Mahrez",
+     "id": 1375451460,
+     "id_str": "1375451460",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 10:57:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JayBahd1",
+     "name": "Return Of Okomfo Anokye\ud83d\udc7f",
+     "id": 1260231726804148227,
+     "id_str": "1260231726804148227",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624793518127423494,
+     "id_str": "1624793518127423494",
+     "indices": [
+      64,
+      87
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoxtGKFXoAYmONf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoxtGKFXoAYmONf.jpg",
+     "url": "https://t.co/Edr1V2yiij",
+     "display_url": "pic.twitter.com/Edr1V2yiij",
+     "expanded_url": "https://twitter.com/JayBahd1/status/1624793589938003968/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 2048,
+       "h": 1152,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624793589938003968,
+     "source_status_id_str": "1624793589938003968",
+     "source_user_id": 1260231726804148227,
+     "source_user_id_str": "1260231726804148227"
+    }
+   ]
+  },
+  "Mon Feb 13 10:55:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Quamina_Mp",
+     "name": "Quamina Mp",
+     "id": 4006034595,
+     "id_str": "4006034595",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624847493530890243,
+     "id_str": "1624847493530890243",
+     "indices": [
+      29,
+      52
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyeL8IXsAMSM5s.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyeL8IXsAMSM5s.jpg",
+     "url": "https://t.co/FvmWItfDeP",
+     "display_url": "pic.twitter.com/FvmWItfDeP",
+     "expanded_url": "https://twitter.com/Quamina_Mp/status/1624847500732424196/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624847500732424196,
+     "source_status_id_str": "1624847500732424196",
+     "source_user_id": 4006034595,
+     "source_user_id_str": "4006034595"
+    }
+   ]
+  },
+  "Mon Feb 13 10:52:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IAmSteveHarvey",
+     "name": "Steve Harvey",
+     "id": 96846955,
+     "id_str": "96846955",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624820213471670272,
+     "id_str": "1624820213471670272",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyFYB_acAAicvy.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyFYB_acAAicvy.jpg",
+     "url": "https://t.co/bcJwLhtXsa",
+     "display_url": "pic.twitter.com/bcJwLhtXsa",
+     "expanded_url": "https://twitter.com/IAmSteveHarvey/status/1624820219800846338/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1284,
+       "h": 1603,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 961,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 545,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624820219800846338,
+     "source_status_id_str": "1624820219800846338",
+     "source_user_id": 96846955,
+     "source_user_id_str": "96846955"
+    }
+   ]
+  },
+  "Mon Feb 13 10:51:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ClubWC",
+     "indices": [
+      74,
+      81
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FIFAWorldCup",
+     "name": "FIFA World Cup",
+     "id": 138372303,
+     "id_str": "138372303",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "realmadrid",
+     "name": "Real Madrid C.F.",
+     "id": 14872237,
+     "id_str": "14872237",
+     "indices": [
+      22,
+      33
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624782803664527362,
+     "id_str": "1624782803664527362",
+     "indices": [
+      82,
+      105
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoxjWfmWYAIZC6z.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoxjWfmWYAIZC6z.jpg",
+     "url": "https://t.co/sL9nLAXV88",
+     "display_url": "pic.twitter.com/sL9nLAXV88",
+     "expanded_url": "https://twitter.com/FIFAWorldCup/status/1624879768184434689/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1638,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624879768184434689,
+     "source_status_id_str": "1624879768184434689",
+     "source_user_id": 138372303,
+     "source_user_id_str": "138372303"
+    }
+   ]
+  },
+  "Mon Feb 13 10:50:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "dbjempire",
+     "indices": [
+      49,
+      59
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DBJ_gh",
+     "name": "Daniel Boifio Junior \ud83c\uddec\ud83c\udded (DBJ)",
+     "id": 742354876127170561,
+     "id_str": "742354876127170561",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625075372038422528,
+     "id_str": "1625075372038422528",
+     "indices": [
+      60,
+      83
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo1tcNuWAAAyIU4.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo1tcNuWAAAyIU4.jpg",
+     "url": "https://t.co/2Shh0en2eh",
+     "display_url": "pic.twitter.com/2Shh0en2eh",
+     "expanded_url": "https://twitter.com/DBJ_gh/status/1625075389855924232/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1045,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1240,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 592,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625075389855924232,
+     "source_status_id_str": "1625075389855924232",
+     "source_user_id": 742354876127170561,
+     "source_user_id_str": "742354876127170561"
+    }
+   ]
+  },
+  "Mon Feb 13 10:50:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpursOfficial",
+     "name": "Tottenham Hotspur",
+     "id": 121402638,
+     "id_str": "121402638",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 10:50:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "433",
+     "name": "433",
+     "id": 2600210567,
+     "id_str": "2600210567",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625062127076622337,
+     "id_str": "1625062127076622337",
+     "indices": [
+      21,
+      44
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo1hZQZXwAEsLnf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo1hZQZXwAEsLnf.jpg",
+     "url": "https://t.co/sukympA0BB",
+     "display_url": "pic.twitter.com/sukympA0BB",
+     "expanded_url": "https://twitter.com/433/status/1625062158647033858/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 988,
+       "h": 1235,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625062158647033858,
+     "source_status_id_str": "1625062158647033858",
+     "source_user_id": 2600210567,
+     "source_user_id_str": "2600210567"
+    }
+   ]
+  },
+  "Mon Feb 13 09:36:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Benzema",
+     "name": "Karim Benzema",
+     "id": 1964571728,
+     "id_str": "1964571728",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624833007348592642,
+     "id_str": "1624833007348592642",
+     "indices": [
+      34,
+      57
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyRAu5XsAIWC6v.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyRAu5XsAIWC6v.jpg",
+     "url": "https://t.co/6bfdeC8aON",
+     "display_url": "pic.twitter.com/6bfdeC8aON",
+     "expanded_url": "https://twitter.com/Benzema/status/1624833015309295616/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 551,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 828,
+       "h": 1022,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 828,
+       "h": 1022,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624833015309295616,
+     "source_status_id_str": "1624833015309295616",
+     "source_user_id": 1964571728,
+     "source_user_id_str": "1964571728"
+    }
+   ]
+  },
+  "Mon Feb 13 09:35:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "433",
+     "name": "433",
+     "id": 2600210567,
+     "id_str": "2600210567",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625052491820810240,
+     "id_str": "1625052491820810240",
+     "indices": [
+      56,
+      79
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo1YoaRXwAAE3Im.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo1YoaRXwAAE3Im.jpg",
+     "url": "https://t.co/NaES7ebpY4",
+     "display_url": "pic.twitter.com/NaES7ebpY4",
+     "expanded_url": "https://twitter.com/433/status/1625052534271352833/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625052534271352833,
+     "source_status_id_str": "1625052534271352833",
+     "source_user_id": 2600210567,
+     "source_user_id_str": "2600210567"
+    }
+   ]
+  },
+  "Mon Feb 13 09:35:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "brfootball",
+     "name": "B/R Football",
+     "id": 1561123663,
+     "id_str": "1561123663",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624840984411471876,
+     "id_str": "1624840984411471876",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyYRDxXgAQcF38.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyYRDxXgAQcF38.jpg",
+     "url": "https://t.co/XVh96XCW1p",
+     "display_url": "pic.twitter.com/XVh96XCW1p",
+     "expanded_url": "https://twitter.com/brfootball/status/1624841012618076160/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 960,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 544,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1638,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624841012618076160,
+     "source_status_id_str": "1624841012618076160",
+     "source_user_id": 1561123663,
+     "source_user_id_str": "1561123663"
+    }
+   ]
+  },
+  "Mon Feb 13 09:33:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AFCAjax",
+     "name": "AFC Ajax",
+     "id": 153000691,
+     "id_str": "153000691",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624839417415311367,
+     "id_str": "1624839417415311367",
+     "indices": [
+      54,
+      77
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyW12QXoAc8w9k.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyW12QXoAc8w9k.jpg",
+     "url": "https://t.co/tPnZFBHVmx",
+     "display_url": "pic.twitter.com/tPnZFBHVmx",
+     "expanded_url": "https://twitter.com/AFCAjax/status/1625020445148971009/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1639,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625020445148971009,
+     "source_status_id_str": "1625020445148971009",
+     "source_user_id": 153000691,
+     "source_user_id_str": "153000691"
+    }
+   ]
+  },
+  "Mon Feb 13 08:09:13 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ajarkc",
+     "indices": [
+      91,
+      98
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AFCAjax",
+     "name": "AFC Ajax",
+     "id": 153000691,
+     "id_str": "153000691",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 08:06:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "samgeorgegh",
+     "name": "Sam 'Dzata' George",
+     "id": 255019878,
+     "id_str": "255019878",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 08:05:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Enzo13Fernandez",
+     "name": "Enzo Fern\u00e1ndez",
+     "id": 1568246568851046401,
+     "id_str": "1568246568851046401",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "ChelseaFC",
+     "name": "Chelsea FC",
+     "id": 22910295,
+     "id_str": "22910295",
+     "indices": [
+      34,
+      44
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624816769998155779,
+     "id_str": "1624816769998155779",
+     "indices": [
+      45,
+      68
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyCPmDWcAM1g5r.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyCPmDWcAM1g5r.jpg",
+     "url": "https://t.co/2YJVSOg3TH",
+     "display_url": "pic.twitter.com/2YJVSOg3TH",
+     "expanded_url": "https://twitter.com/Enzo13Fernandez/status/1624816776549744641/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1364,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 799,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624816776549744641,
+     "source_status_id_str": "1624816776549744641",
+     "source_user_id": 1568246568851046401,
+     "source_user_id_str": "1568246568851046401"
+    }
+   ]
+  },
+  "Mon Feb 13 08:05:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gyaigyimii",
+     "name": "KALYJAY",
+     "id": 1145137598379282432,
+     "id_str": "1145137598379282432",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624928475172728832,
+     "id_str": "1624928475172728832",
+     "indices": [
+      35,
+      58
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fozn1sQWcAADnVn.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fozn1sQWcAADnVn.jpg",
+     "url": "https://t.co/4TxBf56OMB",
+     "display_url": "pic.twitter.com/4TxBf56OMB",
+     "expanded_url": "https://twitter.com/gyaigyimii/status/1624928518428565507/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 453,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 800,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1366,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624928518428565507,
+     "source_status_id_str": "1624928518428565507",
+     "source_user_id": 1145137598379282432,
+     "source_user_id_str": "1145137598379282432"
+    }
+   ]
+  },
+  "Mon Feb 13 08:05:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624685046400688130,
+     "id_str": "1624685046400688130",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FowKcRaaIAI1k7j.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FowKcRaaIAI1k7j.jpg",
+     "url": "https://t.co/2XEyK6leL0",
+     "display_url": "pic.twitter.com/2XEyK6leL0",
+     "expanded_url": "https://twitter.com/elonmusk/status/1624685050615988224/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 559,
+       "h": 483,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 559,
+       "h": 483,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 559,
+       "h": 483,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624685050615988224,
+     "source_status_id_str": "1624685050615988224",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 12 22:13:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Enzo13Fernandez",
+     "name": "Enzo Fern\u00e1ndez",
+     "id": 1568246568851046401,
+     "id_str": "1568246568851046401",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "ChelseaFC",
+     "name": "Chelsea FC",
+     "id": 22910295,
+     "id_str": "22910295",
+     "indices": [
+      26,
+      36
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624818155414593540,
+     "id_str": "1624818155414593540",
+     "indices": [
+      37,
+      60
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyDgPIXoAQPf6X.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyDgPIXoAQPf6X.jpg",
+     "url": "https://t.co/0Gt3UHPG7m",
+     "display_url": "pic.twitter.com/0Gt3UHPG7m",
+     "expanded_url": "https://twitter.com/Enzo13Fernandez/status/1624818160045006849/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 453,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1365,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 800,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624818160045006849,
+     "source_status_id_str": "1624818160045006849",
+     "source_user_id": 1568246568851046401,
+     "source_user_id_str": "1568246568851046401"
+    }
+   ]
+  },
+  "Sun Feb 12 22:12:59 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "3Sports",
+     "indices": [
+      65,
+      73
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "3SportsGh",
+     "name": "#3Sports",
+     "id": 3578399717,
+     "id_str": "3578399717",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623779958496657411,
+     "id_str": "1623779958496657411",
+     "indices": [
+      74,
+      97
+     ],
+     "media_url": "http://pbs.twimg.com/media/FojTROOXgAMnw2w.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FojTROOXgAMnw2w.jpg",
+     "url": "https://t.co/H29SLla4AI",
+     "display_url": "pic.twitter.com/H29SLla4AI",
+     "expanded_url": "https://twitter.com/3SportsGh/status/1623780087727374336/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623780087727374336,
+     "source_status_id_str": "1623780087727374336",
+     "source_user_id": 3578399717,
+     "source_user_id_str": "3578399717"
+    }
+   ]
+  },
+  "Sun Feb 12 22:10:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ajarkc",
+     "indices": [
+      38,
+      45
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AFCAjax",
+     "name": "AFC Ajax",
+     "id": 153000691,
+     "id_str": "153000691",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624826359984930816,
+     "id_str": "1624826359984930816",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyK9ziXwAApiKZ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyK9ziXwAApiKZ.jpg",
+     "url": "https://t.co/tT9TXwJfL6",
+     "display_url": "pic.twitter.com/tT9TXwJfL6",
+     "expanded_url": "https://twitter.com/AFCAjax/status/1624826404863987717/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624826404863987717,
+     "source_status_id_str": "1624826404863987717",
+     "source_user_id": 153000691,
+     "source_user_id_str": "153000691"
+    }
+   ]
+  },
+  "Sun Feb 12 22:10:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ajarkc",
+     "indices": [
+      44,
+      51
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AFCAjax",
+     "name": "AFC Ajax",
+     "id": 153000691,
+     "id_str": "153000691",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624825457416843264,
+     "id_str": "1624825457416843264",
+     "indices": [
+      52,
+      75
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyKJRNXsAAnN4u.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyKJRNXsAAnN4u.jpg",
+     "url": "https://t.co/78y1nz3uZJ",
+     "display_url": "pic.twitter.com/78y1nz3uZJ",
+     "expanded_url": "https://twitter.com/AFCAjax/status/1624826842686406658/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624826842686406658,
+     "source_status_id_str": "1624826842686406658",
+     "source_user_id": 153000691,
+     "source_user_id_str": "153000691"
+    }
+   ]
+  },
+  "Sun Feb 12 22:10:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheGhanaWeb",
+     "name": "GhanaWeb",
+     "id": 1673236537,
+     "id_str": "1673236537",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 22:03:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AbekuDeTalker",
+     "name": "AbekuDeTalker \ud83d\udc7b",
+     "id": 1305635719537451012,
+     "id_str": "1305635719537451012",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624824341551796230,
+     "id_str": "1624824341551796230",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpPYjIgXsAA3o11.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpPYjIgXsAA3o11.jpg",
+     "url": "https://t.co/HOvAreNLMn",
+     "display_url": "pic.twitter.com/HOvAreNLMn",
+     "expanded_url": "https://twitter.com/ESPNnl/status/1624825191011590145/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624825191011590145,
+     "source_status_id_str": "1624825191011590145",
+     "source_user_id": 124444050,
+     "source_user_id_str": "124444050"
+    }
+   ]
+  },
+  "Sun Feb 12 22:01:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gyaigyimii",
+     "name": "KALYJAY",
+     "id": 1145137598379282432,
+     "id_str": "1145137598379282432",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624837839937585152,
+     "id_str": "1624837839937585152",
+     "indices": [
+      35,
+      58
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyVaBsXwAAmwn5.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyVaBsXwAAmwn5.jpg",
+     "url": "https://t.co/sqSObtsjnO",
+     "display_url": "pic.twitter.com/sqSObtsjnO",
+     "expanded_url": "https://twitter.com/gyaigyimii/status/1624837847864774656/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1164,
+       "h": 1455,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624837847864774656,
+     "source_status_id_str": "1624837847864774656",
+     "source_user_id": 1145137598379282432,
+     "source_user_id_str": "1145137598379282432"
+    }
+   ]
+  },
+  "Sun Feb 12 22:01:10 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "mancity",
+     "indices": [
+      94,
+      102
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ErlingHaaland",
+     "name": "Erling Haaland",
+     "id": 2157651508,
+     "id_str": "2157651508",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624861005883887616,
+     "id_str": "1624861005883887616",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyqedkX0AAtoCH.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyqedkX0AAtoCH.jpg",
+     "url": "https://t.co/m70pexx8yt",
+     "display_url": "pic.twitter.com/m70pexx8yt",
+     "expanded_url": "https://twitter.com/ErlingHaaland/status/1624861013601357825/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1402,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 466,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 821,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624861013601357825,
+     "source_status_id_str": "1624861013601357825",
+     "source_user_id": 2157651508,
+     "source_user_id_str": "2157651508"
+    }
+   ]
+  },
+  "Sun Feb 12 22:01:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GhanaBlackstars",
+     "name": "\ud83c\uddec\ud83c\udded Black Stars",
+     "id": 1444999898429075456,
+     "id_str": "1444999898429075456",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/4YbZ8Vb6Ei",
+     "expanded_url": "https://www.ghanafa.org/chris-hughton-takes-charge-of-the-black-stars#.Y-lAefQfHqc.twitter",
+     "display_url": "ghanafa.org/chris-hughton-\u2026",
+     "indices": [
+      67,
+      90
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 22:01:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624800689799979008,
+     "id_str": "1624800689799979008",
+     "indices": [
+      77,
+      100
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoxznmpWYAAnej6.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoxznmpWYAAnej6.jpg",
+     "url": "https://t.co/xqrD8iqWUj",
+     "display_url": "pic.twitter.com/xqrD8iqWUj",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1624800694396911616/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624800694396911616,
+     "source_status_id_str": "1624800694396911616",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Sun Feb 12 22:00:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GhanaBlackstars",
+     "name": "\ud83c\uddec\ud83c\udded Black Stars",
+     "id": 1444999898429075456,
+     "id_str": "1444999898429075456",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "ghanafaofficial",
+     "name": "Ghana Football Association",
+     "id": 464441662,
+     "id_str": "464441662",
+     "indices": [
+      102,
+      118
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/1UOf8aQAq9",
+     "expanded_url": "https://www.ghanafa.org/chris-hughton-takes-charge-of-the-black-stars",
+     "display_url": "ghanafa.org/chris-hughton-\u2026",
+     "indices": [
+      76,
+      99
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 20:24:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cristiano",
+     "name": "Cristiano Ronaldo",
+     "id": 155659213,
+     "id_str": "155659213",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "AlNassrFC_EN",
+     "name": "AlNassr FC",
+     "id": 908749393,
+     "id_str": "908749393",
+     "indices": [
+      39,
+      52
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 20:24:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 20:24:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gyaigyimii",
+     "name": "KALYJAY",
+     "id": 1145137598379282432,
+     "id_str": "1145137598379282432",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 20:23:16 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "KingOfTheMatch",
+     "indices": [
+      36,
+      51
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AFCAjax",
+     "name": "AFC Ajax",
+     "id": 153000691,
+     "id_str": "153000691",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624831902891769858,
+     "id_str": "1624831902891769858",
+     "indices": [
+      52,
+      75
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyQAceWAAIlyTK.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyQAceWAAIlyTK.jpg",
+     "url": "https://t.co/UNzADIGX0G",
+     "display_url": "pic.twitter.com/UNzADIGX0G",
+     "expanded_url": "https://twitter.com/AFCAjax/status/1624832492032098304/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1639,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624832492032098304,
+     "source_status_id_str": "1624832492032098304",
+     "source_user_id": 153000691,
+     "source_user_id_str": "153000691"
+    }
+   ]
+  },
+  "Sun Feb 12 00:55:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "shattawalegh",
+     "name": "SHATTA WALE",
+     "id": 310709509,
+     "id_str": "310709509",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 00:54:43 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PL",
+     "indices": [
+      32,
+      35
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "premierleague",
+     "name": "Premier League",
+     "id": 343627165,
+     "id_str": "343627165",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624355266488680448,
+     "id_str": "1624355266488680448",
+     "indices": [
+      52,
+      75
+     ],
+     "media_url": "http://pbs.twimg.com/media/ForegjgXwAAteUN.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/ForegjgXwAAteUN.jpg",
+     "url": "https://t.co/iz7D7Xc5ON",
+     "display_url": "pic.twitter.com/iz7D7Xc5ON",
+     "expanded_url": "https://twitter.com/premierleague/status/1624355269361688576/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624355269361688576,
+     "source_status_id_str": "1624355269361688576",
+     "source_user_id": 343627165,
+     "source_user_id_str": "343627165"
+    }
+   ]
+  },
+  "Sun Feb 12 00:54:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GWijnaldum",
+     "name": "Gini Wijnaldum",
+     "id": 81063712,
+     "id_str": "81063712",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624507487540969474,
+     "id_str": "1624507487540969474",
+     "indices": [
+      36,
+      59
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foto8_HXgAIfDPM.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foto8_HXgAIfDPM.jpg",
+     "url": "https://t.co/FajXlYTwsi",
+     "display_url": "pic.twitter.com/FajXlYTwsi",
+     "expanded_url": "https://twitter.com/GWijnaldum/status/1624507491491930113/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 889,
+       "h": 889,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 889,
+       "h": 889,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624507491491930113,
+     "source_status_id_str": "1624507491491930113",
+     "source_user_id": 81063712,
+     "source_user_id_str": "81063712"
+    }
+   ]
+  },
+  "Sun Feb 12 00:54:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "atchouameni",
+     "name": "Tchouameni Aur\u00e9lien",
+     "id": 936350294627291138,
+     "id_str": "936350294627291138",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624545280484950019,
+     "id_str": "1624545280484950019",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/FouLU0zXwAMotih.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FouLU0zXwAMotih.jpg",
+     "url": "https://t.co/AGxD8v95bk",
+     "display_url": "pic.twitter.com/AGxD8v95bk",
+     "expanded_url": "https://twitter.com/atchouameni/status/1624545285933342720/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 704,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 468,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 704,
+       "h": 1024,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624545285933342720,
+     "source_status_id_str": "1624545285933342720",
+     "source_user_id": 936350294627291138,
+     "source_user_id_str": "936350294627291138"
+    }
+   ]
+  },
+  "Sun Feb 12 00:53:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FrankKhalidUK",
+     "name": "Frank Khalid OBE",
+     "id": 4381616655,
+     "id_str": "4381616655",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624457201816416256,
+     "id_str": "1624457201816416256",
+     "indices": [
+      91,
+      114
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fos7N-MXsAALFlC.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fos7N-MXsAALFlC.jpg",
+     "url": "https://t.co/tNNL3GqQGL",
+     "display_url": "pic.twitter.com/tNNL3GqQGL",
+     "expanded_url": "https://twitter.com/FrankKhalidUK/status/1624457206216155142/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624457206216155142,
+     "source_status_id_str": "1624457206216155142",
+     "source_user_id": 4381616655,
+     "source_user_id_str": "4381616655"
+    }
+   ]
+  },
+  "Sun Feb 12 00:53:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "vinijr",
+     "name": "Vini Jr.",
+     "id": 2329070186,
+     "id_str": "2329070186",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624531813271015425,
+     "id_str": "1624531813271015425",
+     "indices": [
+      33,
+      56
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fot_E7hXEAEW1aU.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fot_E7hXEAEW1aU.jpg",
+     "url": "https://t.co/3vPvTjXxAv",
+     "display_url": "pic.twitter.com/3vPvTjXxAv",
+     "expanded_url": "https://twitter.com/vinijr/status/1624531819252137985/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 828,
+       "h": 1028,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 828,
+       "h": 1028,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 548,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624531819252137985,
+     "source_status_id_str": "1624531819252137985",
+     "source_user_id": 2329070186,
+     "source_user_id_str": "2329070186"
+    }
+   ]
+  },
+  "Sun Feb 12 00:52:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_owurakuampofo",
+     "name": "Owuraku Ampofo",
+     "id": 1200006853872291841,
+     "id_str": "1200006853872291841",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624499172148908032,
+     "id_str": "1624499172148908032",
+     "indices": [
+      102,
+      125
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624499172148908032/pu/img/Iwgd7Lw_8to0FOV8.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624499172148908032/pu/img/Iwgd7Lw_8to0FOV8.jpg",
+     "url": "https://t.co/p0tnm4rfbv",
+     "display_url": "pic.twitter.com/p0tnm4rfbv",
+     "expanded_url": "https://twitter.com/burneracct103/status/1624499356744437762/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624499356744437762,
+     "source_status_id_str": "1624499356744437762",
+     "source_user_id": 1443090719464329221,
+     "source_user_id_str": "1443090719464329221"
+    }
+   ]
+  },
+  "Sat Feb 11 21:57:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AFCAjax",
+     "name": "AFC Ajax",
+     "id": 153000691,
+     "id_str": "153000691",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "KudusMohammedGH",
+     "name": "Mo Kuku",
+     "id": 1028710711600574466,
+     "id_str": "1028710711600574466",
+     "indices": [
+      18,
+      34
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624417590469689345,
+     "id_str": "1624417590469689345",
+     "indices": [
+      66,
+      89
+     ],
+     "media_url": "http://pbs.twimg.com/media/FosXMSbXgAEo5DW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FosXMSbXgAEo5DW.jpg",
+     "url": "https://t.co/hM0Q2QkdGe",
+     "display_url": "pic.twitter.com/hM0Q2QkdGe",
+     "expanded_url": "https://twitter.com/AFCAjax/status/1624417595280568320/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1638,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624417595280568320,
+     "source_status_id_str": "1624417595280568320",
+     "source_user_id": 153000691,
+     "source_user_id_str": "153000691"
+    }
+   ]
+  },
+  "Sat Feb 11 21:57:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Opresii",
+     "name": "Don",
+     "id": 1155920655608680455,
+     "id_str": "1155920655608680455",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624527430625927169,
+     "id_str": "1624527430625927169",
+     "indices": [
+      41,
+      64
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fot7F05WIAEuwLJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fot7F05WIAEuwLJ.jpg",
+     "url": "https://t.co/CPYyJSzZUb",
+     "display_url": "pic.twitter.com/CPYyJSzZUb",
+     "expanded_url": "https://twitter.com/Opresii/status/1624527441338281984/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 314,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 554,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 946,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624527441338281984,
+     "source_status_id_str": "1624527441338281984",
+     "source_user_id": 1155920655608680455,
+     "source_user_id_str": "1155920655608680455"
+    }
+   ]
+  },
+  "Sat Feb 11 14:31:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624389212953870338,
+     "id_str": "1624389212953870338",
+     "indices": [
+      55,
+      78
+     ],
+     "media_url": "http://pbs.twimg.com/media/For9Yf8XgAITguZ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/For9Yf8XgAITguZ.jpg",
+     "url": "https://t.co/NfrJ4FZNUE",
+     "display_url": "pic.twitter.com/NfrJ4FZNUE",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1624389216565096448/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624389216565096448,
+     "source_status_id_str": "1624389216565096448",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Sat Feb 11 14:31:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624391170779488258,
+     "id_str": "1624391170779488258",
+     "indices": [
+      33,
+      56
+     ],
+     "media_url": "http://pbs.twimg.com/media/For_KdaXoAITT8J.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/For_KdaXoAITT8J.jpg",
+     "url": "https://t.co/JkKGPOxNs1",
+     "display_url": "pic.twitter.com/JkKGPOxNs1",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1624391175284064256/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1500,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624391175284064256,
+     "source_status_id_str": "1624391175284064256",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Sat Feb 11 14:31:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 14:30:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ESPNFC",
+     "name": "ESPN FC",
+     "id": 18091004,
+     "id_str": "18091004",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624106847329198080,
+     "id_str": "1624106847329198080",
+     "indices": [
+      65,
+      88
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fon8kqBWIAAehyF.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fon8kqBWIAAehyF.jpg",
+     "url": "https://t.co/2fQLBMFI4H",
+     "display_url": "pic.twitter.com/2fQLBMFI4H",
+     "expanded_url": "https://twitter.com/ESPNFC/status/1624151472353992714/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1500,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624151472353992714,
+     "source_status_id_str": "1624151472353992714",
+     "source_user_id": 18091004,
+     "source_user_id_str": "18091004"
+    }
+   ]
+  },
+  "Sat Feb 11 14:29:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LDNFootbalI",
+     "name": "LDN",
+     "id": 1926045878,
+     "id_str": "1926045878",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624414341666668545,
+     "id_str": "1624414341666668545",
+     "indices": [
+      63,
+      86
+     ],
+     "media_url": "http://pbs.twimg.com/media/FosUPLsXgAEeBeK.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FosUPLsXgAEeBeK.jpg",
+     "url": "https://t.co/qF002pvVc4",
+     "display_url": "pic.twitter.com/qF002pvVc4",
+     "expanded_url": "https://twitter.com/LDNFootbalI/status/1624414345789669376/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 473,
+       "h": 473,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 473,
+       "h": 473,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 473,
+       "h": 473,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624414345789669376,
+     "source_status_id_str": "1624414345789669376",
+     "source_user_id": 1926045878,
+     "source_user_id_str": "1926045878"
+    }
+   ]
+  },
+  "Sat Feb 11 14:29:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "WhuChe",
+     "indices": [
+      45,
+      52
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChelseaFC",
+     "name": "Chelsea FC",
+     "id": 22910295,
+     "id_str": "22910295",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624415108884471810,
+     "id_str": "1624415108884471810",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/media/FosU71zWIAINxaa.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FosU71zWIAINxaa.jpg",
+     "url": "https://t.co/5xw5mpoKrZ",
+     "display_url": "pic.twitter.com/5xw5mpoKrZ",
+     "expanded_url": "https://twitter.com/ChelseaFC/status/1624415265151676417/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624415265151676417,
+     "source_status_id_str": "1624415265151676417",
+     "source_user_id": 22910295,
+     "source_user_id_str": "22910295"
+    }
+   ]
+  }
+ }
+}

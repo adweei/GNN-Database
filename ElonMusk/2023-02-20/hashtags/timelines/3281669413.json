@@ -1,0 +1,4924 @@
+{
+ "3281669413": {
+  "Mon Feb 20 19:17:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BlackAdam",
+     "indices": [
+      109,
+      119
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ZodWriter",
+     "name": "ZodWriter",
+     "id": 2229229578,
+     "id_str": "2229229578",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "wbd",
+     "name": "Warner Bros. Discovery",
+     "id": 22061951,
+     "id_str": "22061951",
+     "indices": [
+      55,
+      59
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 19:09:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kain2882pt",
+     "name": "Kain",
+     "id": 2284918470,
+     "id_str": "2284918470",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "JamesGunn",
+     "name": "James Gunn",
+     "id": 14982315,
+     "id_str": "14982315",
+     "indices": [
+      16,
+      26
+     ]
+    },
+    {
+     "screen_name": "RogueGau",
+     "name": "J Go T A",
+     "id": 36501032,
+     "id_str": "36501032",
+     "indices": [
+      27,
+      36
+     ]
+    },
+    {
+     "screen_name": "ourmovienews",
+     "name": "Our Movie News\ud83c\udf7f",
+     "id": 1355523359459733508,
+     "id_str": "1355523359459733508",
+     "indices": [
+      37,
+      50
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 18:14:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HailEternal",
+     "name": "\u200ekang\u2019s whore",
+     "id": 2770050261,
+     "id_str": "2770050261",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627640243020083207,
+     "id_str": "1627640243020083207",
+     "indices": [
+      104,
+      127
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpaKLWtXsAcXJxT.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpaKLWtXsAcXJxT.jpg",
+     "url": "https://t.co/kcnZ2m3FKQ",
+     "display_url": "pic.twitter.com/kcnZ2m3FKQ",
+     "expanded_url": "https://twitter.com/HailEternal/status/1627640247709212674/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 669,
+       "h": 502,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 669,
+       "h": 502,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 669,
+       "h": 502,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627640247709212674,
+     "source_status_id_str": "1627640247709212674",
+     "source_user_id": 2770050261,
+     "source_user_id_str": "2770050261"
+    }
+   ]
+  },
+  "Mon Feb 20 18:10:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kingbchalla",
+     "name": "s\u1d1c\u1d18\u1d07\u0280\u1d0d\u1d00\u028f\u0274\u1d07",
+     "id": 1262098685497880577,
+     "id_str": "1262098685497880577",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 02:42:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "itsthatmovie",
+     "name": "It\u2019s That Movie Channel\ud83c\udf7f",
+     "id": 3409554286,
+     "id_str": "3409554286",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 13:49:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Everton",
+     "name": "Everton",
+     "id": 15891449,
+     "id_str": "15891449",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 13:49:10 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MakeTheBatfleckMovie",
+     "indices": [
+      37,
+      58
+     ]
+    },
+    {
+     "text": "WonderBat",
+     "indices": [
+      59,
+      69
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BatfleckMovie",
+     "name": "The Batfleck Movie #MakeTheBatfleckMovie",
+     "id": 1336828653771120640,
+     "id_str": "1336828653771120640",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627000245719629825,
+     "id_str": "1627000245719629825",
+     "indices": [
+      73,
+      96
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpREGm-XgAEypmZ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpREGm-XgAEypmZ.jpg",
+     "url": "https://t.co/XZ1EFvzWuv",
+     "display_url": "pic.twitter.com/XZ1EFvzWuv",
+     "expanded_url": "https://twitter.com/BatfleckMovie/status/1627000251520360448/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 735,
+       "h": 767,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 652,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 735,
+       "h": 767,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627000251520360448,
+     "source_status_id_str": "1627000251520360448",
+     "source_user_id": 1336828653771120640,
+     "source_user_id_str": "1336828653771120640"
+    }
+   ]
+  },
+  "Sun Feb 19 13:48:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/SBC4tBPhGT",
+     "expanded_url": "https://twitter.com/SakeSithole/status/1627060584469639168",
+     "display_url": "twitter.com/SakeSithole/st\u2026",
+     "indices": [
+      8,
+      31
+     ]
+    }
+   ]
+  },
+  "Sun Feb 19 13:47:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "OSthatguy",
+     "name": "ThatGuy | Sanity Era",
+     "id": 1468877199734419457,
+     "id_str": "1468877199734419457",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 13:47:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "comic_marina",
+     "name": "Marina",
+     "id": 1541705922384465920,
+     "id_str": "1541705922384465920",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627085097706082305,
+     "id_str": "1627085097706082305",
+     "indices": [
+      49,
+      72
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpSRRpQaUAE6IxN.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpSRRpQaUAE6IxN.jpg",
+     "url": "https://t.co/eXkBhjWw8U",
+     "display_url": "pic.twitter.com/eXkBhjWw8U",
+     "expanded_url": "https://twitter.com/comic_marina/status/1627085102374359042/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1916,
+       "h": 1076,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 382,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 674,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627085102374359042,
+     "source_status_id_str": "1627085102374359042",
+     "source_user_id": 1541705922384465920,
+     "source_user_id_str": "1541705922384465920"
+    }
+   ]
+  },
+  "Sun Feb 19 13:44:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MationMiss",
+     "name": "Anny Mation",
+     "id": 1347216358614970368,
+     "id_str": "1347216358614970368",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "_Velvet64",
+     "name": "vel #TeamMario \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+     "id": 1352597829924093953,
+     "id_str": "1352597829924093953",
+     "indices": [
+      16,
+      26
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626733834870960131,
+     "id_str": "1626733834870960131",
+     "indices": [
+      27,
+      50
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpNRzdOXsAMxakB.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpNRzdOXsAMxakB.jpg",
+     "url": "https://t.co/9zEAOJqwNS",
+     "display_url": "pic.twitter.com/9zEAOJqwNS",
+     "expanded_url": "https://twitter.com/MationMiss/status/1626733842231963648/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 622,
+       "h": 603,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 622,
+       "h": 603,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 622,
+       "h": 603,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626733842231963648,
+     "source_status_id_str": "1626733842231963648",
+     "source_user_id": 1347216358614970368,
+     "source_user_id_str": "1347216358614970368"
+    }
+   ]
+  },
+  "Sun Feb 19 13:44:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Gojimus_prime",
+     "name": "Godzilla_fan200",
+     "id": 1005772792581840897,
+     "id_str": "1005772792581840897",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "_Velvet64",
+     "name": "vel #TeamMario \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+     "id": 1352597829924093953,
+     "id_str": "1352597829924093953",
+     "indices": [
+      19,
+      29
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626727634854969344,
+     "id_str": "1626727634854969344",
+     "indices": [
+      66,
+      89
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpNMKkXXgAAcA9b.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpNMKkXXgAAcA9b.jpg",
+     "url": "https://t.co/r2mP937Vu5",
+     "display_url": "pic.twitter.com/r2mP937Vu5",
+     "expanded_url": "https://twitter.com/Gojimus_prime/status/1626727637061103618/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 400,
+       "h": 294,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 400,
+       "h": 294,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 400,
+       "h": 294,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626727637061103618,
+     "source_status_id_str": "1626727637061103618",
+     "source_user_id": 1005772792581840897,
+     "source_user_id_str": "1005772792581840897"
+    }
+   ]
+  },
+  "Sun Feb 19 13:43:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Magiciannn",
+     "name": "Magician",
+     "id": 3254507572,
+     "id_str": "3254507572",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626985122053464065,
+     "id_str": "1626985122053464065",
+     "indices": [
+      116,
+      139
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1626985122053464065/pu/img/fhBSkNQZhF4Utg8e.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1626985122053464065/pu/img/fhBSkNQZhF4Utg8e.jpg",
+     "url": "https://t.co/prukWGKBVO",
+     "display_url": "pic.twitter.com/prukWGKBVO",
+     "expanded_url": "https://twitter.com/Magiciannn/status/1626985233957457921/video/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 293,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 517,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1254,
+       "h": 540,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626985233957457921,
+     "source_status_id_str": "1626985233957457921",
+     "source_user_id": 3254507572,
+     "source_user_id_str": "3254507572"
+    }
+   ]
+  },
+  "Sun Feb 19 13:41:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GoddessOfWvr",
+     "name": "\ud835\udc06\ud835\udc0e\ud835\udc03\ud835\udc03\ud835\udc04\ud835\udc12\ud835\udc12 \ud835\udc0e\ud835\udc05 \ud835\udc16\ud835\udc00\ud835\udc11 \u2728",
+     "id": 1347003890013769730,
+     "id_str": "1347003890013769730",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627301142249046017,
+     "id_str": "1627301142249046017",
+     "indices": [
+      65,
+      88
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpVVxF5XgAE1lKf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpVVxF5XgAE1lKf.jpg",
+     "url": "https://t.co/m1JvwLTUI4",
+     "display_url": "pic.twitter.com/m1JvwLTUI4",
+     "expanded_url": "https://twitter.com/GoddessOfWvr/status/1627301148041289731/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 463,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 732,
+       "h": 498,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 732,
+       "h": 498,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627301148041289731,
+     "source_status_id_str": "1627301148041289731",
+     "source_user_id": 1347003890013769730,
+     "source_user_id_str": "1347003890013769730"
+    }
+   ]
+  },
+  "Sun Feb 19 13:37:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GoddessOfWvr",
+     "name": "\ud835\udc06\ud835\udc0e\ud835\udc03\ud835\udc03\ud835\udc04\ud835\udc12\ud835\udc12 \ud835\udc0e\ud835\udc05 \ud835\udc16\ud835\udc00\ud835\udc11 \u2728",
+     "id": 1347003890013769730,
+     "id_str": "1347003890013769730",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627296962780270592,
+     "id_str": "1627296962780270592",
+     "indices": [
+      41,
+      64
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpVR90KXEAA57xD.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpVR90KXEAA57xD.jpg",
+     "url": "https://t.co/CTowUF2meD",
+     "display_url": "pic.twitter.com/CTowUF2meD",
+     "expanded_url": "https://twitter.com/GoddessOfWvr/status/1627296978307624961/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 640,
+       "h": 888,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 888,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 490,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627296978307624961,
+     "source_status_id_str": "1627296978307624961",
+     "source_user_id": 1347003890013769730,
+     "source_user_id_str": "1347003890013769730"
+    }
+   ]
+  },
+  "Sun Feb 19 13:37:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "VegasBabyKJ",
+     "name": "\ud835\udd42\ud835\udd41 \uea00",
+     "id": 853690311868010497,
+     "id_str": "853690311868010497",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627049912121827328,
+     "id_str": "1627049912121827328",
+     "indices": [
+      91,
+      114
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpRxRkvaIAAK3ir.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpRxRkvaIAAK3ir.jpg",
+     "url": "https://t.co/UeK2blnko0",
+     "display_url": "pic.twitter.com/UeK2blnko0",
+     "expanded_url": "https://twitter.com/VegasBabyKJ/status/1627049915728941063/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1089,
+       "h": 495,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 309,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1089,
+       "h": 495,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627049915728941063,
+     "source_status_id_str": "1627049915728941063",
+     "source_user_id": 853690311868010497,
+     "source_user_id_str": "853690311868010497"
+    }
+   ]
+  },
+  "Sun Feb 19 12:46:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RegularNiko",
+     "name": "Niko W \ud83c\udf4a",
+     "id": 1257204194450292736,
+     "id_str": "1257204194450292736",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626957816744271872,
+     "id_str": "1626957816744271872",
+     "indices": [
+      63,
+      86
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQdg6uWYAApgZx.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQdg6uWYAApgZx.jpg",
+     "url": "https://t.co/A4iH4lc454",
+     "display_url": "pic.twitter.com/A4iH4lc454",
+     "expanded_url": "https://twitter.com/RegularNiko/status/1626957821232222208/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 600,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2000,
+       "h": 1000,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 340,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626957821232222208,
+     "source_status_id_str": "1626957821232222208",
+     "source_user_id": 1257204194450292736,
+     "source_user_id_str": "1257204194450292736"
+    }
+   ]
+  },
+  "Sun Feb 19 12:40:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "blurayangel",
+     "name": "BLURAYANGEL \ud83e\udd87",
+     "id": 1146517684655230977,
+     "id_str": "1146517684655230977",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 12:39:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AntManAndTheWaspQuantumania",
+     "indices": [
+      17,
+      45
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "blurayangel",
+     "name": "BLURAYANGEL \ud83e\udd87",
+     "id": 1146517684655230977,
+     "id_str": "1146517684655230977",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627171888802955271,
+     "id_str": "1627171888802955271",
+     "indices": [
+      91,
+      114
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpTgNjSaAAc6AdW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpTgNjSaAAc6AdW.jpg",
+     "url": "https://t.co/qiTB7TXTtP",
+     "display_url": "pic.twitter.com/qiTB7TXTtP",
+     "expanded_url": "https://twitter.com/blurayangel/status/1627171893748047872/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 510,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 700,
+       "h": 525,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 700,
+       "h": 525,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627171893748047872,
+     "source_status_id_str": "1627171893748047872",
+     "source_user_id": 1146517684655230977,
+     "source_user_id_str": "1146517684655230977"
+    }
+   ]
+  },
+  "Sun Feb 19 12:38:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HIDEO_KOJIMA_EN",
+     "name": "HIDEO_KOJIMA",
+     "id": 117652722,
+     "id_str": "117652722",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627087358079430658,
+     "id_str": "1627087358079430658",
+     "indices": [
+      34,
+      57
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpSTVNzacAI8-8H.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpSTVNzacAI8-8H.jpg",
+     "url": "https://t.co/AIAuGeNhRI",
+     "display_url": "pic.twitter.com/AIAuGeNhRI",
+     "expanded_url": "https://twitter.com/HIDEO_KOJIMA_EN/status/1627087366556106752/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 473,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1426,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 836,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627087366556106752,
+     "source_status_id_str": "1627087366556106752",
+     "source_user_id": 117652722,
+     "source_user_id_str": "117652722"
+    }
+   ]
+  },
+  "Sun Feb 19 08:57:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kingbchalla",
+     "name": "s\u1d1c\u1d18\u1d07\u0280\u1d0d\u1d00\u028f\u0274\u1d07",
+     "id": 1262098685497880577,
+     "id_str": "1262098685497880577",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 06:39:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627196168999677952,
+     "id_str": "1627196168999677952",
+     "indices": [
+      111,
+      134
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpT2S2EaMAAZacV.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpT2S2EaMAAZacV.jpg",
+     "url": "https://t.co/INtfxPW0QE",
+     "display_url": "pic.twitter.com/INtfxPW0QE",
+     "expanded_url": "https://twitter.com/mbaku__/status/1627196205607555072/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 475,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 917,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 640,
+       "h": 917,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Sun Feb 19 06:34:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "amencavill",
+     "name": "henry cavill",
+     "id": 766938097691033600,
+     "id_str": "766938097691033600",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626627975532670976,
+     "id_str": "1626627975532670976",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpLxhodWcAAKBE0.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpLxhodWcAAKBE0.jpg",
+     "url": "https://t.co/qmIwrTtp5m",
+     "display_url": "pic.twitter.com/qmIwrTtp5m",
+     "expanded_url": "https://twitter.com/amencavill/status/1626627980997820432/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 382,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1128,
+       "h": 2006,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626627980997820432,
+     "source_status_id_str": "1626627980997820432",
+     "source_user_id": 766938097691033600,
+     "source_user_id_str": "766938097691033600"
+    }
+   ]
+  },
+  "Sun Feb 19 06:33:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JILexander",
+     "name": "James",
+     "id": 78358011,
+     "id_str": "78358011",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626932281238761472,
+     "id_str": "1626932281238761472",
+     "indices": [
+      66,
+      89
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQGSjjaMAA59fA.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQGSjjaMAA59fA.jpg",
+     "url": "https://t.co/l8LHuCPJYU",
+     "display_url": "pic.twitter.com/l8LHuCPJYU",
+     "expanded_url": "https://twitter.com/JILexander/status/1626932290281693184/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1200,
+       "h": 1167,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1290,
+       "h": 1255,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 662,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626932290281693184,
+     "source_status_id_str": "1626932290281693184",
+     "source_user_id": 78358011,
+     "source_user_id_str": "78358011"
+    }
+   ]
+  },
+  "Sun Feb 19 06:23:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "OSthatguy",
+     "name": "ThatGuy | Sanity Era",
+     "id": 1468877199734419457,
+     "id_str": "1468877199734419457",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 06:21:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tarastrong",
+     "name": "tara strong",
+     "id": 35472060,
+     "id_str": "35472060",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "RealKevinConroy",
+     "name": "Kevin Conroy",
+     "id": 1292288262,
+     "id_str": "1292288262",
+     "indices": [
+      102,
+      118
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627123797903167488,
+     "id_str": "1627123797903167488",
+     "indices": [
+      119,
+      142
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpS0eSuaUAA7xh8.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpS0eSuaUAA7xh8.jpg",
+     "url": "https://t.co/544rgdIkQL",
+     "display_url": "pic.twitter.com/544rgdIkQL",
+     "expanded_url": "https://twitter.com/tarastrong/status/1627123808367943681/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1856,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1088,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 616,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627123808367943681,
+     "source_status_id_str": "1627123808367943681",
+     "source_user_id": 35472060,
+     "source_user_id_str": "35472060"
+    }
+   ]
+  },
+  "Sun Feb 19 06:21:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kamkenobi",
+     "name": "Kam Kenobi \ud83d\udcab",
+     "id": 956616084559409152,
+     "id_str": "956616084559409152",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 06:19:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "InternetH0F",
+     "name": "internet hall of fame",
+     "id": 1486473049146904576,
+     "id_str": "1486473049146904576",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 06:19:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "InternetH0F",
+     "name": "internet hall of fame",
+     "id": 1486473049146904576,
+     "id_str": "1486473049146904576",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 06:18:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "InternetH0F",
+     "name": "internet hall of fame",
+     "id": 1486473049146904576,
+     "id_str": "1486473049146904576",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626978664624582656,
+     "id_str": "1626978664624582656",
+     "indices": [
+      17,
+      40
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQwebIWcAAFlE8.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQwebIWcAAFlE8.jpg",
+     "url": "https://t.co/nCJWiPW5MN",
+     "display_url": "pic.twitter.com/nCJWiPW5MN",
+     "expanded_url": "https://twitter.com/InternetH0F/status/1626978668600823813/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 630,
+       "h": 658,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 630,
+       "h": 658,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 630,
+       "h": 658,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626978668600823813,
+     "source_status_id_str": "1626978668600823813",
+     "source_user_id": 1486473049146904576,
+     "source_user_id_str": "1486473049146904576"
+    }
+   ]
+  },
+  "Sun Feb 19 06:17:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627055208844103680,
+     "id_str": "1627055208844103680",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpR2F4kaEAAE9Xk.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpR2F4kaEAAE9Xk.jpg",
+     "url": "https://t.co/4HgUSONvzw",
+     "display_url": "pic.twitter.com/4HgUSONvzw",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627055215601147904/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1284,
+       "h": 906,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 847,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 480,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627055215601147904,
+     "source_status_id_str": "1627055215601147904",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 06:15:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AMagicWriter",
+     "name": "Z",
+     "id": 2228511739,
+     "id_str": "2228511739",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626930081074380800,
+     "id_str": "1626930081074380800",
+     "indices": [
+      94,
+      117
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQESfTWAAAdXO4.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQESfTWAAAdXO4.jpg",
+     "url": "https://t.co/C4o8Wx4lUy",
+     "display_url": "pic.twitter.com/C4o8Wx4lUy",
+     "expanded_url": "https://twitter.com/AMagicWriter/status/1626930088443772929/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 283,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 500,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1920,
+       "h": 800,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626930088443772929,
+     "source_status_id_str": "1626930088443772929",
+     "source_user_id": 2228511739,
+     "source_user_id_str": "2228511739"
+    }
+   ]
+  },
+  "Sun Feb 19 06:13:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "steusmotus",
+     "name": "STEM",
+     "id": 1262815438309900288,
+     "id_str": "1262815438309900288",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "Zentreonthehero",
+     "name": "Zentreon",
+     "id": 1681231231,
+     "id_str": "1681231231",
+     "indices": [
+      16,
+      32
+     ]
+    },
+    {
+     "screen_name": "drewexmachina",
+     "name": "Dr\u00fc \ud83d\udf03",
+     "id": 4055852782,
+     "id_str": "4055852782",
+     "indices": [
+      33,
+      47
+     ]
+    },
+    {
+     "screen_name": "JamesGunn",
+     "name": "James Gunn",
+     "id": 14982315,
+     "id_str": "14982315",
+     "indices": [
+      48,
+      58
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 06:13:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Ollie_EarthOne",
+     "name": "\ud835\udde2\ud835\udddf\ud835\udddf\ud835\udddc\ud835\uddd8 \ud835\uddfc\ud835\uddf3 \ud835\udde6\ud835\uddfb\ud835\ude06\ud835\uddf1\ud835\uddf2\ud835\uddff\ud835\udde9\ud835\uddf2\ud835\uddff\ud835\ude00\ud835\uddf2 \ud83c\uddeb\ud83c\uddf7",
+     "id": 1311542416466497536,
+     "id_str": "1311542416466497536",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 06:11:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/w0aEoZwqXH",
+     "expanded_url": "https://twitter.com/i/web/status/1627188994583961600",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "Sun Feb 19 03:39:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SriniMaama16",
+     "name": "Mama | 360\u00b0 Entertainment",
+     "id": 954302570079469568,
+     "id_str": "954302570079469568",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 02:51:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kamkenobi",
+     "name": "Kam Kenobi \ud83d\udcab",
+     "id": 956616084559409152,
+     "id_str": "956616084559409152",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626935198226042882,
+     "id_str": "1626935198226042882",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQI8WLX0AIZBdG.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQI8WLX0AIZBdG.jpg",
+     "url": "https://t.co/m4kD8uc5mS",
+     "display_url": "pic.twitter.com/m4kD8uc5mS",
+     "expanded_url": "https://twitter.com/kamkenobi/status/1626935201975730177/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 591,
+       "h": 745,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 591,
+       "h": 745,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 539,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626935201975730177,
+     "source_status_id_str": "1626935201975730177",
+     "source_user_id": 956616084559409152,
+     "source_user_id_str": "956616084559409152"
+    }
+   ]
+  },
+  "Sun Feb 19 02:51:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TarantinoWorld",
+     "name": "Tarantino Universe",
+     "id": 781257660276609024,
+     "id_str": "781257660276609024",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626999474135486466,
+     "id_str": "1626999474135486466",
+     "indices": [
+      24,
+      47
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpRDZsmX0AIlsuJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpRDZsmX0AIlsuJ.jpg",
+     "url": "https://t.co/dkGyMd2Vp8",
+     "display_url": "pic.twitter.com/dkGyMd2Vp8",
+     "expanded_url": "https://twitter.com/TarantinoWorld/status/1626999477721616386/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 736,
+       "h": 920,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 736,
+       "h": 920,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626999477721616386,
+     "source_status_id_str": "1626999477721616386",
+     "source_user_id": 781257660276609024,
+     "source_user_id_str": "781257660276609024"
+    }
+   ]
+  },
+  "Sun Feb 19 02:50:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SupesBatsy",
+     "name": "\u2022\u9ea6\u308f\u3089\u306e\u30de\u30c3\u30af\u30b9\u2022 ZSJL's Associate Producer",
+     "id": 586884216,
+     "id_str": "586884216",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626987620814258176,
+     "id_str": "1626987620814258176",
+     "indices": [
+      94,
+      117
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQ4nviXgAAfY3e.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQ4nviXgAAfY3e.jpg",
+     "url": "https://t.co/xKtax8LocI",
+     "display_url": "pic.twitter.com/xKtax8LocI",
+     "expanded_url": "https://twitter.com/SupesBatsy/status/1626987638518415360/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626987638518415360,
+     "source_status_id_str": "1626987638518415360",
+     "source_user_id": 586884216,
+     "source_user_id_str": "586884216"
+    }
+   ]
+  },
+  "Sat Feb 18 17:31:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GoddessOfWvr",
+     "name": "\ud835\udc06\ud835\udc0e\ud835\udc03\ud835\udc03\ud835\udc04\ud835\udc12\ud835\udc12 \ud835\udc0e\ud835\udc05 \ud835\udc16\ud835\udc00\ud835\udc11 \u2728",
+     "id": 1347003890013769730,
+     "id_str": "1347003890013769730",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 17:29:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GoddessOfWvr",
+     "name": "\ud835\udc06\ud835\udc0e\ud835\udc03\ud835\udc03\ud835\udc04\ud835\udc12\ud835\udc12 \ud835\udc0e\ud835\udc05 \ud835\udc16\ud835\udc00\ud835\udc11 \u2728",
+     "id": 1347003890013769730,
+     "id_str": "1347003890013769730",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 17:29:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "theeSNYDERVERSE",
+     "name": "\ud835\udde0\ud835\uddd8\ud835\udde5\ud835\uddd6\u01b1\ud835\udde5\ud835\uddec",
+     "id": 1306950337245458432,
+     "id_str": "1306950337245458432",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 17:28:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TimophyDrake",
+     "name": "Xena\ud83d\udee1\ufe0f",
+     "id": 1483172195551617027,
+     "id_str": "1483172195551617027",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "CastleDead",
+     "name": "Castle",
+     "id": 1624500336651038720,
+     "id_str": "1624500336651038720",
+     "indices": [
+      18,
+      29
+     ]
+    },
+    {
+     "screen_name": "OSthatguy",
+     "name": "ThatGuy | Sanity Era",
+     "id": 1468877199734419457,
+     "id_str": "1468877199734419457",
+     "indices": [
+      30,
+      40
+     ]
+    },
+    {
+     "screen_name": "BoosterRdT",
+     "name": "RdT",
+     "id": 1157560495471235072,
+     "id_str": "1157560495471235072",
+     "indices": [
+      41,
+      52
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626914912583946240,
+     "id_str": "1626914912583946240",
+     "indices": [
+      105,
+      128
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpP2fkRaEAAh34-.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpP2fkRaEAAh34-.jpg",
+     "url": "https://t.co/LYJOeUDVAH",
+     "display_url": "pic.twitter.com/LYJOeUDVAH",
+     "expanded_url": "https://twitter.com/TimophyDrake/status/1626914926869778432/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 600,
+       "h": 507,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 600,
+       "h": 507,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 600,
+       "h": 507,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626914926869778432,
+     "source_status_id_str": "1626914926869778432",
+     "source_user_id": 1483172195551617027,
+     "source_user_id_str": "1483172195551617027"
+    }
+   ]
+  },
+  "Sat Feb 18 17:28:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "OSthatguy",
+     "name": "ThatGuy | Sanity Era",
+     "id": 1468877199734419457,
+     "id_str": "1468877199734419457",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "CastleDead",
+     "name": "Castle",
+     "id": 1624500336651038720,
+     "id_str": "1624500336651038720",
+     "indices": [
+      15,
+      26
+     ]
+    },
+    {
+     "screen_name": "BoosterRdT",
+     "name": "RdT",
+     "id": 1157560495471235072,
+     "id_str": "1157560495471235072",
+     "indices": [
+      27,
+      38
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626911847512256512,
+     "id_str": "1626911847512256512",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpPztJ_XsAAyedD.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpPztJ_XsAAyedD.jpg",
+     "url": "https://t.co/mZ4yDSYllY",
+     "display_url": "pic.twitter.com/mZ4yDSYllY",
+     "expanded_url": "https://twitter.com/OSthatguy/status/1626911851345747970/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 388,
+       "h": 600,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 388,
+       "h": 600,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 388,
+       "h": 600,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626911851345747970,
+     "source_status_id_str": "1626911851345747970",
+     "source_user_id": 1468877199734419457,
+     "source_user_id_str": "1468877199734419457"
+    }
+   ]
+  },
+  "Sat Feb 18 17:27:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SupermanEnjoyer",
+     "name": "\ud835\udc12\ud835\udc04",
+     "id": 1389698807500320777,
+     "id_str": "1389698807500320777",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 17:23:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Djverse6",
+     "name": "DJ ENKAY",
+     "id": 1360934152615251969,
+     "id_str": "1360934152615251969",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626925803169804289,
+     "id_str": "1626925803169804289",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQAZe3acAE0Yz5.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQAZe3acAE0Yz5.jpg",
+     "url": "https://t.co/93mQmUtrMX",
+     "display_url": "pic.twitter.com/93mQmUtrMX",
+     "expanded_url": "https://twitter.com/Djverse6/status/1626925807343108098/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 854,
+       "h": 712,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 854,
+       "h": 712,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 567,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626925807343108098,
+     "source_status_id_str": "1626925807343108098",
+     "source_user_id": 1360934152615251969,
+     "source_user_id_str": "1360934152615251969"
+    }
+   ]
+  },
+  "Sat Feb 18 14:40:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kingbchalla",
+     "name": "s\u1d1c\u1d18\u1d07\u0280\u1d0d\u1d00\u028f\u0274\u1d07",
+     "id": 1262098685497880577,
+     "id_str": "1262098685497880577",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 14:39:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/j93iiIggkX",
+     "expanded_url": "https://twitter.com/HamavalThorfinn/status/1626743018622427138",
+     "display_url": "twitter.com/HamavalThorfin\u2026",
+     "indices": [
+      85,
+      108
+     ]
+    }
+   ]
+  },
+  "Sat Feb 18 12:43:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ThomNelson21",
+     "name": "Tom",
+     "id": 1482162035962089479,
+     "id_str": "1482162035962089479",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 12:42:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626703662197387264,
+     "id_str": "1626703662197387264",
+     "indices": [
+      95,
+      118
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpM2XLQaMAAsnhY.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpM2XLQaMAAsnhY.jpg",
+     "url": "https://t.co/vbeOOqKuyT",
+     "display_url": "pic.twitter.com/vbeOOqKuyT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626703667591270400/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1159,
+       "h": 845,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1159,
+       "h": 845,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 496,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626703667591270400,
+     "source_status_id_str": "1626703667591270400",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sat Feb 18 12:38:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kamkenobi",
+     "name": "Kam Kenobi \ud83d\udcab",
+     "id": 956616084559409152,
+     "id_str": "956616084559409152",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:57:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheNotoriousMMA",
+     "name": "Conor McGregor",
+     "id": 369583954,
+     "id_str": "369583954",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "ufc",
+     "name": "UFC",
+     "id": 6446742,
+     "id_str": "6446742",
+     "indices": [
+      24,
+      28
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626853110072373249,
+     "id_str": "1626853110072373249",
+     "indices": [
+      29,
+      52
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpO-SL-acAEBtSL.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpO-SL-acAEBtSL.jpg",
+     "url": "https://t.co/LC4f69c1pp",
+     "display_url": "pic.twitter.com/LC4f69c1pp",
+     "expanded_url": "https://twitter.com/TheNotoriousMMA/status/1626853116183478272/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1152,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626853116183478272,
+     "source_status_id_str": "1626853116183478272",
+     "source_user_id": 369583954,
+     "source_user_id_str": "369583954"
+    }
+   ]
+  },
+  "Sat Feb 18 10:56:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TimophyDrake",
+     "name": "Xena\ud83d\udee1\ufe0f",
+     "id": 1483172195551617027,
+     "id_str": "1483172195551617027",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "ThomNelson21",
+     "name": "Tom",
+     "id": 1482162035962089479,
+     "id_str": "1482162035962089479",
+     "indices": [
+      14,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:56:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TimophyDrake",
+     "name": "Xena\ud83d\udee1\ufe0f",
+     "id": 1483172195551617027,
+     "id_str": "1483172195551617027",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:55:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "OSthatguy",
+     "name": "ThatGuy | Sanity Era",
+     "id": 1468877199734419457,
+     "id_str": "1468877199734419457",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:54:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ItsJustN1ck",
+     "name": "Nick",
+     "id": 1395041909496815619,
+     "id_str": "1395041909496815619",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:53:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DahiyaKnight",
+     "name": "King Messi \ud83d\udc51\u2665\ufe0fTHE GREATEST",
+     "id": 1441758216447160333,
+     "id_str": "1441758216447160333",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626226712676814852,
+     "id_str": "1626226712676814852",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpGElD1aUAQinXn.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpGElD1aUAQinXn.jpg",
+     "url": "https://t.co/qMyQlNUAOv",
+     "display_url": "pic.twitter.com/qMyQlNUAOv",
+     "expanded_url": "https://twitter.com/DahiyaKnight/status/1626226716581703681/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 749,
+       "h": 534,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 485,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 749,
+       "h": 534,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626226716581703681,
+     "source_status_id_str": "1626226716581703681",
+     "source_user_id": 1441758216447160333,
+     "source_user_id_str": "1441758216447160333"
+    }
+   ]
+  },
+  "Sat Feb 18 10:53:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "VegasBabyKJ",
+     "name": "\ud835\udd42\ud835\udd41 \uea00",
+     "id": 853690311868010497,
+     "id_str": "853690311868010497",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:38:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EllaLisa15",
+     "name": "Ella L",
+     "id": 1190395597649596417,
+     "id_str": "1190395597649596417",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:37:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "washingtonpost",
+     "name": "The Washington Post",
+     "id": 2467791,
+     "id_str": "2467791",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:36:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Sukuna_Persist",
+     "name": "SKN jAy",
+     "id": 289705254,
+     "id_str": "289705254",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626750157298728962,
+     "id_str": "1626750157298728962",
+     "indices": [
+      113,
+      136
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpNgpjAaAAIaCVO.png",
+     "media_url_https": "https://pbs.twimg.com/media/FpNgpjAaAAIaCVO.png",
+     "url": "https://t.co/Iw05ndiJWW",
+     "display_url": "pic.twitter.com/Iw05ndiJWW",
+     "expanded_url": "https://twitter.com/Sukuna_Persist/status/1626750534148567040/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 747,
+       "h": 748,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 679,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 747,
+       "h": 748,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1626750534148567040,
+     "source_status_id_str": "1626750534148567040",
+     "source_user_id": 289705254,
+     "source_user_id_str": "289705254"
+    }
+   ]
+  },
+  "Sat Feb 18 10:36:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HailEternal",
+     "name": "\u200ekang\u2019s whore",
+     "id": 2770050261,
+     "id_str": "2770050261",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626560184121171968,
+     "id_str": "1626560184121171968",
+     "indices": [
+      44,
+      67
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpKz3pxWIAA3ch9.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpKz3pxWIAA3ch9.jpg",
+     "url": "https://t.co/sjgxmsLcIw",
+     "display_url": "pic.twitter.com/sjgxmsLcIw",
+     "expanded_url": "https://twitter.com/HailEternal/status/1626560188550459399/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 853,
+       "h": 853,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 853,
+       "h": 853,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626560188550459399,
+     "source_status_id_str": "1626560188550459399",
+     "source_user_id": 2770050261,
+     "source_user_id_str": "2770050261"
+    }
+   ]
+  },
+  "Sat Feb 18 06:32:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nightwaynes",
+     "name": "sabrina \ud83e\udd87",
+     "id": 1233076435528622081,
+     "id_str": "1233076435528622081",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:31:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nightwaynes",
+     "name": "sabrina \ud83e\udd87",
+     "id": 1233076435528622081,
+     "id_str": "1233076435528622081",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:31:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "GRDecter",
+     "name": "Genevieve Roch-Decter, CFA",
+     "id": 1281457267582177280,
+     "id_str": "1281457267582177280",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:30:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TasamLover",
+     "name": "Jacob T",
+     "id": 1437795822402510854,
+     "id_str": "1437795822402510854",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:26:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HOUSEOFEL38",
+     "name": "Movies And Games Related",
+     "id": 1254181371171549185,
+     "id_str": "1254181371171549185",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "DCComics",
+     "name": "DC",
+     "id": 18173624,
+     "id_str": "18173624",
+     "indices": [
+      17,
+      26
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626712120745242625,
+     "id_str": "1626712120745242625",
+     "indices": [
+      102,
+      125
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1626712120745242625/pu/img/TukaDOgaDU3WykSi.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1626712120745242625/pu/img/TukaDOgaDU3WykSi.jpg",
+     "url": "https://t.co/li9uRvKido",
+     "display_url": "pic.twitter.com/li9uRvKido",
+     "expanded_url": "https://twitter.com/HOUSEOFEL38/status/1626712290857820161/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626712290857820161,
+     "source_status_id_str": "1626712290857820161",
+     "source_user_id": 1254181371171549185,
+     "source_user_id_str": "1254181371171549185"
+    }
+   ]
+  },
+  "Sat Feb 18 06:25:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "wondermeg_",
+     "name": "meg.",
+     "id": 940479836,
+     "id_str": "940479836",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "DCComics",
+     "name": "DC",
+     "id": 18173624,
+     "id_str": "18173624",
+     "indices": [
+      16,
+      25
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626708045005836290,
+     "id_str": "1626708045005836290",
+     "indices": [
+      58,
+      81
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpM6WSfX0AIC4cK.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpM6WSfX0AIC4cK.jpg",
+     "url": "https://t.co/PtQvJyD6TK",
+     "display_url": "pic.twitter.com/PtQvJyD6TK",
+     "expanded_url": "https://twitter.com/wondermeg_/status/1626708075217551360/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 509,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 898,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1444,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626708075217551360,
+     "source_status_id_str": "1626708075217551360",
+     "source_user_id": 940479836,
+     "source_user_id_str": "940479836"
+    }
+   ]
+  },
+  "Sat Feb 18 06:25:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DCComics",
+     "name": "DC",
+     "id": 18173624,
+     "id_str": "18173624",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 04:59:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DailyLoud",
+     "name": "Daily Loud",
+     "id": 452540168,
+     "id_str": "452540168",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 04:59:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "itsmukil",
+     "name": "Kaladin",
+     "id": 1208726760579203077,
+     "id_str": "1208726760579203077",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 04:55:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallCrawler_Sam",
+     "name": "Sam",
+     "id": 1532958609377591296,
+     "id_str": "1532958609377591296",
+     "indices": [
+      0,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 02:51:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "boo",
+     "name": "bruce.falck() \ud83e\udd97",
+     "id": 37290907,
+     "id_str": "37290907",
+     "indices": [
+      14,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 02:46:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "VegasBabyKJ",
+     "name": "\ud835\udd42\ud835\udd41 \uea00",
+     "id": 853690311868010497,
+     "id_str": "853690311868010497",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 02:45:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ubZy90SoUt",
+     "expanded_url": "https://twitter.com/pozmyneghole1/status/1626371672918970368",
+     "display_url": "twitter.com/pozmyneghole1/\u2026",
+     "indices": [
+      49,
+      72
+     ]
+    }
+   ]
+  },
+  "Sat Feb 18 02:42:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DailyLoud",
+     "name": "Daily Loud",
+     "id": 452540168,
+     "id_str": "452540168",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626496569875759104,
+     "id_str": "1626496569875759104",
+     "indices": [
+      109,
+      132
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpJ6A0PWAAABqZ4.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpJ6A0PWAAABqZ4.jpg",
+     "url": "https://t.co/zuw7R2VNKV",
+     "display_url": "pic.twitter.com/zuw7R2VNKV",
+     "expanded_url": "https://twitter.com/DailyLoud/status/1626575944973701120/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1200,
+       "h": 872,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1489,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 494,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626575944973701120,
+     "source_status_id_str": "1626575944973701120",
+     "source_user_id": 452540168,
+     "source_user_id_str": "452540168"
+    }
+   ]
+  },
+  "Sat Feb 18 02:42:04 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Batman",
+     "indices": [
+      66,
+      73
+     ]
+    },
+    {
+     "text": "ThePenguin",
+     "indices": [
+      96,
+      107
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheBatmanFilm_",
+     "name": "The Batman Film News \ud83e\udd87",
+     "id": 1467240839407714305,
+     "id_str": "1467240839407714305",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/VbfuB922EV",
+     "expanded_url": "https://www.youtube.com/live/TNXyRiufg8M?feature=share",
+     "display_url": "youtube.com/live/TNXyRiufg\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "Sat Feb 18 02:41:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "blurayangel",
+     "name": "BLURAYANGEL \ud83e\udd87",
+     "id": 1146517684655230977,
+     "id_str": "1146517684655230977",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 02:40:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "snyderanti",
+     "name": "Snyder Haters Cringe",
+     "id": 1261058948838289408,
+     "id_str": "1261058948838289408",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626725051377586178,
+     "id_str": "1626725051377586178",
+     "indices": [
+      20,
+      43
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpNJ0MKXEAImK__.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpNJ0MKXEAImK__.jpg",
+     "url": "https://t.co/aP58hiz2nY",
+     "display_url": "pic.twitter.com/aP58hiz2nY",
+     "expanded_url": "https://twitter.com/snyderanti/status/1626725114191441922/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1114,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1260,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 631,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626725114191441922,
+     "source_status_id_str": "1626725114191441922",
+     "source_user_id": 1261058948838289408,
+     "source_user_id_str": "1261058948838289408"
+    }
+   ]
+  },
+  "Sat Feb 18 02:38:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UsUnitedJustice",
+     "name": "Teej",
+     "id": 1373514730292314113,
+     "id_str": "1373514730292314113",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626656772176941088,
+     "id_str": "1626656772176941088",
+     "indices": [
+      105,
+      128
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpMLt0UXECAYayI.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpMLt0UXECAYayI.jpg",
+     "url": "https://t.co/YY41q5nuXA",
+     "display_url": "pic.twitter.com/YY41q5nuXA",
+     "expanded_url": "https://twitter.com/UsUnitedJustice/status/1626656776631291921/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 377,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1169,
+       "h": 648,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1169,
+       "h": 648,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626656776631291921,
+     "source_status_id_str": "1626656776631291921",
+     "source_user_id": 1373514730292314113,
+     "source_user_id_str": "1373514730292314113"
+    }
+   ]
+  },
+  "Fri Feb 17 18:46:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TimophyDrake",
+     "name": "Xena\ud83d\udee1\ufe0f",
+     "id": 1483172195551617027,
+     "id_str": "1483172195551617027",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 18:45:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MarvelStudios",
+     "name": "Marvel Studios",
+     "id": 750751206427860992,
+     "id_str": "750751206427860992",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 11:49:02 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SellZSJLtoNetflix",
+     "indices": [
+      102,
+      120
+     ]
+    },
+    {
+     "text": "SellZSJLtoNetflix",
+     "indices": [
+      121,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ItsJustN1ck",
+     "name": "Nick",
+     "id": 1395041909496815619,
+     "id_str": "1395041909496815619",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 11:47:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kingbchalla",
+     "name": "s\u1d1c\u1d18\u1d07\u0280\u1d0d\u1d00\u028f\u0274\u1d07",
+     "id": 1262098685497880577,
+     "id_str": "1262098685497880577",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 11:38:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kingbchalla",
+     "name": "s\u1d1c\u1d18\u1d07\u0280\u1d0d\u1d00\u028f\u0274\u1d07",
+     "id": 1262098685497880577,
+     "id_str": "1262098685497880577",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 11:38:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kingbchalla",
+     "name": "s\u1d1c\u1d18\u1d07\u0280\u1d0d\u1d00\u028f\u0274\u1d07",
+     "id": 1262098685497880577,
+     "id_str": "1262098685497880577",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 11:37:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kingbchalla",
+     "name": "s\u1d1c\u1d18\u1d07\u0280\u1d0d\u1d00\u028f\u0274\u1d07",
+     "id": 1262098685497880577,
+     "id_str": "1262098685497880577",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 11:37:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kingbchalla",
+     "name": "s\u1d1c\u1d18\u1d07\u0280\u1d0d\u1d00\u028f\u0274\u1d07",
+     "id": 1262098685497880577,
+     "id_str": "1262098685497880577",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 11:04:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "officialtharun_",
+     "name": "Tharun\ud83e\udd81",
+     "id": 1502324990255181825,
+     "id_str": "1502324990255181825",
+     "indices": [
+      0,
+      16
+     ]
+    },
+    {
+     "screen_name": "Vitamin_is_back",
+     "name": "\ud835\udc12\ud835\udc00\ud835\udc0c\u2623\u2070\u2077",
+     "id": 1572170754254569473,
+     "id_str": "1572170754254569473",
+     "indices": [
+      17,
+      33
+     ]
+    },
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      34,
+      49
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 08:30:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BlackMajikMan90",
+     "name": "The Moonlight Warrior \ud83c\udf19",
+     "id": 2458315074,
+     "id_str": "2458315074",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 08:29:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UsUnitedJustice",
+     "name": "Teej",
+     "id": 1373514730292314113,
+     "id_str": "1373514730292314113",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 08:29:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealScreenGeek",
+     "name": "ScreenGeek",
+     "id": 3233508981,
+     "id_str": "3233508981",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/wZ3DmNrLpe",
+     "expanded_url": "http://bit.ly/3xpGHq6",
+     "display_url": "bit.ly/3xpGHq6",
+     "indices": [
+      86,
+      109
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1626316481272184833,
+     "id_str": "1626316481272184833",
+     "indices": [
+      110,
+      133
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpHWOR6XgAE-wTI.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpHWOR6XgAE-wTI.jpg",
+     "url": "https://t.co/sCgRzDFrcX",
+     "display_url": "pic.twitter.com/sCgRzDFrcX",
+     "expanded_url": "https://twitter.com/RealScreenGeek/status/1626318755209924609/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1124,
+       "h": 682,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1124,
+       "h": 682,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 413,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626318755209924609,
+     "source_status_id_str": "1626318755209924609",
+     "source_user_id": 3233508981,
+     "source_user_id_str": "3233508981"
+    }
+   ]
+  },
+  "Fri Feb 17 08:29:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nightwaynes",
+     "name": "sabrina \ud83e\udd87",
+     "id": 1233076435528622081,
+     "id_str": "1233076435528622081",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 08:28:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JamesCultist",
+     "name": "Gunn Cultist Archive",
+     "id": 1546280680736165889,
+     "id_str": "1546280680736165889",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626486449125171200,
+     "id_str": "1626486449125171200",
+     "indices": [
+      70,
+      93
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpJwztgXoAAXtSy.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpJwztgXoAAXtSy.jpg",
+     "url": "https://t.co/KRLrHS9UEs",
+     "display_url": "pic.twitter.com/KRLrHS9UEs",
+     "expanded_url": "https://twitter.com/JamesCultist/status/1626486455206805505/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1380,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 939,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 532,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626486455206805505,
+     "source_status_id_str": "1626486455206805505",
+     "source_user_id": 1546280680736165889,
+     "source_user_id_str": "1546280680736165889"
+    }
+   ]
+  },
+  "Fri Feb 17 08:28:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ItsJustN1ck",
+     "name": "Nick",
+     "id": 1395041909496815619,
+     "id_str": "1395041909496815619",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 08:26:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DiscussingFilm",
+     "name": "DiscussingFilm",
+     "id": 780460754910732288,
+     "id_str": "780460754910732288",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/P3UUjlClcD",
+     "expanded_url": "http://bit.ly/AntDF",
+     "display_url": "bit.ly/AntDF",
+     "indices": [
+      103,
+      126
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 08:22:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ItsJustN1ck",
+     "name": "Nick",
+     "id": 1395041909496815619,
+     "id_str": "1395041909496815619",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 08:22:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/khVHQzFC9w",
+     "expanded_url": "https://twitter.com/NicholasPascar5/status/1626423461915631616",
+     "display_url": "twitter.com/NicholasPascar\u2026",
+     "indices": [
+      36,
+      59
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 08:10:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JeffLoveness",
+     "name": "Jeff Loveness",
+     "id": 111712557,
+     "id_str": "111712557",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 08:10:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheCabageMann",
+     "name": "Alfie the Cabbage Farmer \ud83e\udd6c",
+     "id": 1030124255105769474,
+     "id_str": "1030124255105769474",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 07:57:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "officialtharun_",
+     "name": "Tharun\ud83e\udd81",
+     "id": 1502324990255181825,
+     "id_str": "1502324990255181825",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "Vitamin_is_back",
+     "name": "\ud835\udc12\ud835\udc00\ud835\udc0c\u2623\u2070\u2077",
+     "id": 1572170754254569473,
+     "id_str": "1572170754254569473",
+     "indices": [
+      21,
+      37
+     ]
+    },
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      38,
+      53
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 07:55:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "officialtharun_",
+     "name": "Tharun\ud83e\udd81",
+     "id": 1502324990255181825,
+     "id_str": "1502324990255181825",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "Vitamin_is_back",
+     "name": "\ud835\udc12\ud835\udc00\ud835\udc0c\u2623\u2070\u2077",
+     "id": 1572170754254569473,
+     "id_str": "1572170754254569473",
+     "indices": [
+      21,
+      37
+     ]
+    },
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      38,
+      53
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 07:53:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CricCrazyJohns",
+     "name": "Johns.",
+     "id": 743735095308099585,
+     "id_str": "743735095308099585",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625904915565486080,
+     "id_str": "1625904915565486080",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBf6ALXoAAsJyr.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBf6ALXoAAsJyr.jpg",
+     "url": "https://t.co/5S4Hb9MaMe",
+     "display_url": "pic.twitter.com/5S4Hb9MaMe",
+     "expanded_url": "https://twitter.com/CricCrazyJohns/status/1625904919139213312/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 664,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1054,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1054,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625904919139213312,
+     "source_status_id_str": "1625904919139213312",
+     "source_user_id": 743735095308099585,
+     "source_user_id_str": "743735095308099585"
+    }
+   ]
+  },
+  "Fri Feb 17 03:17:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UsUnitedJustice",
+     "name": "Teej",
+     "id": 1373514730292314113,
+     "id_str": "1373514730292314113",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626408495812681731,
+     "id_str": "1626408495812681731",
+     "indices": [
+      21,
+      44
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpIp6OyXoAMyC_J.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpIp6OyXoAMyC_J.jpg",
+     "url": "https://t.co/CnAFrifTLJ",
+     "display_url": "pic.twitter.com/CnAFrifTLJ",
+     "expanded_url": "https://twitter.com/UsUnitedJustice/status/1626408500447399936/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 863,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1169,
+       "h": 1626,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 489,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626408500447399936,
+     "source_status_id_str": "1626408500447399936",
+     "source_user_id": 1373514730292314113,
+     "source_user_id_str": "1373514730292314113"
+    }
+   ]
+  },
+  "Fri Feb 17 03:17:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "pingpongflix",
+     "name": "Chris Wong-Swenson\u26a1",
+     "id": 2725347015,
+     "id_str": "2725347015",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 03:16:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "snyderanti",
+     "name": "Snyder Haters Cringe",
+     "id": 1261058948838289408,
+     "id_str": "1261058948838289408",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626334544629579776,
+     "id_str": "1626334544629579776",
+     "indices": [
+      21,
+      44
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpHmptKXwAAFFTV.png",
+     "media_url_https": "https://pbs.twimg.com/media/FpHmptKXwAAFFTV.png",
+     "url": "https://t.co/NlXhyKRVFI",
+     "display_url": "pic.twitter.com/NlXhyKRVFI",
+     "expanded_url": "https://twitter.com/snyderanti/status/1626334550061113348/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 677,
+       "h": 680,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 677,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 677,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1626334550061113348,
+     "source_status_id_str": "1626334550061113348",
+     "source_user_id": 1261058948838289408,
+     "source_user_id_str": "1261058948838289408"
+    }
+   ]
+  },
+  "Fri Feb 17 03:15:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HailEternal",
+     "name": "\u200ekang\u2019s whore",
+     "id": 2770050261,
+     "id_str": "2770050261",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 03:14:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AntManandtheWaspQuantumania",
+     "indices": [
+      18,
+      46
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GoddessOfWvr",
+     "name": "\ud835\udc06\ud835\udc0e\ud835\udc03\ud835\udc03\ud835\udc04\ud835\udc12\ud835\udc12 \ud835\udc0e\ud835\udc05 \ud835\udc16\ud835\udc00\ud835\udc11 \u2728",
+     "id": 1347003890013769730,
+     "id_str": "1347003890013769730",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626034239937384448,
+     "id_str": "1626034239937384448",
+     "indices": [
+      86,
+      109
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1626034239937384448/pu/img/a6zdsOuA-otpQRDu.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1626034239937384448/pu/img/a6zdsOuA-otpQRDu.jpg",
+     "url": "https://t.co/Sq8502doH0",
+     "display_url": "pic.twitter.com/Sq8502doH0",
+     "expanded_url": "https://twitter.com/ZeroYear97/status/1626034421496250368/video/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 633,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 774,
+       "h": 720,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 774,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626034421496250368,
+     "source_status_id_str": "1626034421496250368",
+     "source_user_id": 1432316684694695936,
+     "source_user_id_str": "1432316684694695936"
+    }
+   ]
+  },
+  "Fri Feb 17 03:13:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ItsJustN1ck",
+     "name": "Nick",
+     "id": 1395041909496815619,
+     "id_str": "1395041909496815619",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 03:13:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ItsJustN1ck",
+     "name": "Nick",
+     "id": 1395041909496815619,
+     "id_str": "1395041909496815619",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 03:12:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jayoliva1",
+     "name": "Jay Oliva",
+     "id": 849458468,
+     "id_str": "849458468",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "ItsJustN1ck",
+     "name": "Nick",
+     "id": 1395041909496815619,
+     "id_str": "1395041909496815619",
+     "indices": [
+      15,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 03:10:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RohitBoga",
+     "name": "Rohit Boga",
+     "id": 3413835059,
+     "id_str": "3413835059",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "blurayangel",
+     "name": "BLURAYANGEL \ud83e\udd87",
+     "id": 1146517684655230977,
+     "id_str": "1146517684655230977",
+     "indices": [
+      11,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 03:08:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Snyderbot2049",
+     "name": "Mike Schwifty",
+     "id": 1612600401831886850,
+     "id_str": "1612600401831886850",
+     "indices": [
+      0,
+      14
+     ]
+    },
+    {
+     "screen_name": "blurayangel",
+     "name": "BLURAYANGEL \ud83e\udd87",
+     "id": 1146517684655230977,
+     "id_str": "1146517684655230977",
+     "indices": [
+      15,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 03:06:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Alessan57282473",
+     "name": "Alessandro",
+     "id": 1538839818293153792,
+     "id_str": "1538839818293153792",
+     "indices": [
+      0,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/SVV1Je9jcd",
+     "expanded_url": "https://twitter.com/i/web/status/1626417817120804864",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 02:58:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "blurayangel",
+     "name": "BLURAYANGEL \ud83e\udd87",
+     "id": 1146517684655230977,
+     "id_str": "1146517684655230977",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 18:05:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "callouswayne",
+     "name": "Morgan",
+     "id": 1439331314025607171,
+     "id_str": "1439331314025607171",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626256310793560064,
+     "id_str": "1626256310793560064",
+     "indices": [
+      37,
+      60
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpGff5aWYAAxUqj.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpGff5aWYAAxUqj.jpg",
+     "url": "https://t.co/ZoSFQeI0F4",
+     "display_url": "pic.twitter.com/ZoSFQeI0F4",
+     "expanded_url": "https://twitter.com/callouswayne/status/1626256318020435969/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1537,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 901,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626256318020435969,
+     "source_status_id_str": "1626256318020435969",
+     "source_user_id": 1439331314025607171,
+     "source_user_id_str": "1439331314025607171"
+    }
+   ]
+  },
+  "Thu Feb 16 18:05:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DiscussingFilm",
+     "name": "DiscussingFilm",
+     "id": 780460754910732288,
+     "id_str": "780460754910732288",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 18:04:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kingbchalla",
+     "name": "s\u1d1c\u1d18\u1d07\u0280\u1d0d\u1d00\u028f\u0274\u1d07",
+     "id": 1262098685497880577,
+     "id_str": "1262098685497880577",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 16:58:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MrNobodyy666",
+     "name": "Mr Nobody",
+     "id": 1570894652940898304,
+     "id_str": "1570894652940898304",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/wbLysDzcMv",
+     "expanded_url": "https://twitter.com/i/web/status/1626264666422022145",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 14:59:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ZyAWlSDMNo",
+     "expanded_url": "https://twitter.com/i/web/status/1626234852101210119",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 14:53:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nightwaynes",
+     "name": "sabrina \ud83e\udd87",
+     "id": 1233076435528622081,
+     "id_str": "1233076435528622081",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 14:53:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nightwaynes",
+     "name": "sabrina \ud83e\udd87",
+     "id": 1233076435528622081,
+     "id_str": "1233076435528622081",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625892763542728716,
+     "id_str": "1625892763542728716",
+     "indices": [
+      60,
+      83
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBU2qXXsAwvxqG.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBU2qXXsAwvxqG.jpg",
+     "url": "https://t.co/TlgPiqJzVn",
+     "display_url": "pic.twitter.com/TlgPiqJzVn",
+     "expanded_url": "https://twitter.com/nightwaynes/status/1625892775542632449/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625892775542632449,
+     "source_status_id_str": "1625892775542632449",
+     "source_user_id": 1233076435528622081,
+     "source_user_id_str": "1233076435528622081"
+    }
+   ]
+  },
+  "Thu Feb 16 14:52:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LouAyeBurner",
+     "name": "LouAye",
+     "id": 1600634189652664326,
+     "id_str": "1600634189652664326",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "Rap",
+     "name": "RapTV",
+     "id": 1062107257167593479,
+     "id_str": "1062107257167593479",
+     "indices": [
+      18,
+      22
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625905715163410445,
+     "id_str": "1625905715163410445",
+     "indices": [
+      70,
+      93
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBgoi6XsA0jC-J.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBgoi6XsA0jC-J.jpg",
+     "url": "https://t.co/Np71JWkWiv",
+     "display_url": "pic.twitter.com/Np71JWkWiv",
+     "expanded_url": "https://twitter.com/LouAyeBurner/status/1625905719827476493/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 748,
+       "h": 979,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 520,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 748,
+       "h": 979,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625905719827476493,
+     "source_status_id_str": "1625905719827476493",
+     "source_user_id": 1600634189652664326,
+     "source_user_id_str": "1600634189652664326"
+    }
+   ]
+  },
+  "Thu Feb 16 14:50:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bluboy43",
+     "name": "Blu \u84dd\u5175",
+     "id": 1297204830231040005,
+     "id_str": "1297204830231040005",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 13:32:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626212925370400768,
+     "id_str": "1626212925370400768",
+     "indices": [
+      0,
+      23
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpF4CiHaAAADJXx.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpF4CiHaAAADJXx.jpg",
+     "url": "https://t.co/eGsRg16ORz",
+     "display_url": "pic.twitter.com/eGsRg16ORz",
+     "expanded_url": "https://twitter.com/mbaku__/status/1626212928977526784/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 679,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 385,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 719,
+       "h": 1271,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Thu Feb 16 13:10:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DMcIntyreWWE",
+     "name": "Drew McIntyre",
+     "id": 299932350,
+     "id_str": "299932350",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 13:09:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MontezFordWWE",
+     "name": "\ud835\udd42\ud835\udd5a\ud835\udd5f\ud835\udd58 \ud835\udd4b\ud835\udd56\ud835\udd6b",
+     "id": 3164774627,
+     "id_str": "3164774627",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625572075732623381,
+     "id_str": "1625572075732623381",
+     "indices": [
+      109,
+      132
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8xMLLWYBUTgv7.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8xMLLWYBUTgv7.jpg",
+     "url": "https://t.co/3yYf9ITLEo",
+     "display_url": "pic.twitter.com/3yYf9ITLEo",
+     "expanded_url": "https://twitter.com/MontezFordWWE/status/1625572083890634752/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1213,
+       "h": 1509,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 547,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 965,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625572083890634752,
+     "source_status_id_str": "1625572083890634752",
+     "source_user_id": 3164774627,
+     "source_user_id_str": "3164774627"
+    }
+   ]
+  },
+  "Thu Feb 16 12:52:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/RNmm1rsenH",
+     "expanded_url": "https://twitter.com/harleysuniverse/status/1625956786581766148",
+     "display_url": "twitter.com/harleysunivers\u2026",
+     "indices": [
+      109,
+      132
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 08:40:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bluboy43",
+     "name": "Blu \u84dd\u5175",
+     "id": 1297204830231040005,
+     "id_str": "1297204830231040005",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 08:40:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "snyderanti",
+     "name": "Snyder Haters Cringe",
+     "id": 1261058948838289408,
+     "id_str": "1261058948838289408",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626093033904128001,
+     "id_str": "1626093033904128001",
+     "indices": [
+      64,
+      87
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpEK_7mXwAELBsQ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpEK_7mXwAELBsQ.jpg",
+     "url": "https://t.co/Do7voF5cO0",
+     "display_url": "pic.twitter.com/Do7voF5cO0",
+     "expanded_url": "https://twitter.com/snyderanti/status/1626093047070048256/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 719,
+       "h": 719,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 719,
+       "h": 719,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626093047070048256,
+     "source_status_id_str": "1626093047070048256",
+     "source_user_id": 1261058948838289408,
+     "source_user_id_str": "1261058948838289408"
+    }
+   ]
+  },
+  "Thu Feb 16 08:37:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "blurayangel",
+     "name": "BLURAYANGEL \ud83e\udd87",
+     "id": 1146517684655230977,
+     "id_str": "1146517684655230977",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 08:37:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DoreddoSuit",
+     "name": "Justin. \ud83c\udf4a\ud83c\udf47",
+     "id": 1415908524174028800,
+     "id_str": "1415908524174028800",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625969826077310989,
+     "id_str": "1625969826077310989",
+     "indices": [
+      72,
+      95
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpCa8SrXgA0-bwD.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpCa8SrXgA0-bwD.jpg",
+     "url": "https://t.co/DDigwBwsxm",
+     "display_url": "pic.twitter.com/DDigwBwsxm",
+     "expanded_url": "https://twitter.com/DoreddoSuit/status/1625969835392860175/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 448,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1216,
+       "h": 802,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 791,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625969835392860175,
+     "source_status_id_str": "1625969835392860175",
+     "source_user_id": 1415908524174028800,
+     "source_user_id_str": "1415908524174028800"
+    }
+   ]
+  },
+  "Thu Feb 16 08:35:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AaronBaileyArt",
+     "name": "Aaron S Bailey \ud83d\ude80\u26a1",
+     "id": 2436998671,
+     "id_str": "2436998671",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 08:34:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jayoliva1",
+     "name": "Jay Oliva",
+     "id": 849458468,
+     "id_str": "849458468",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "BatmanTLG",
+     "name": "Batman: The Last Goodbye",
+     "id": 1541449925061480448,
+     "id_str": "1541449925061480448",
+     "indices": [
+      15,
+      25
+     ]
+    },
+    {
+     "screen_name": "thetanmaygupta",
+     "name": "Tanmay Gupta",
+     "id": 1041698670129737728,
+     "id_str": "1041698670129737728",
+     "indices": [
+      26,
+      41
+     ]
+    },
+    {
+     "screen_name": "Clay_Staub",
+     "name": "Clay Staub",
+     "id": 837436579845058560,
+     "id_str": "837436579845058560",
+     "indices": [
+      42,
+      53
+     ]
+    },
+    {
+     "screen_name": "BenAffleck",
+     "name": "Ben Affleck",
+     "id": 329746058,
+     "id_str": "329746058",
+     "indices": [
+      54,
+      65
+     ]
+    },
+    {
+     "screen_name": "JoeManganiello",
+     "name": "JOE MANGANIELLO",
+     "id": 33452466,
+     "id_str": "33452466",
+     "indices": [
+      66,
+      81
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 08:33:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/SngNwMkvqv",
+     "expanded_url": "https://twitter.com/i/web/status/1626137805343830016",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 08:33:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/gb5z2pSSTs",
+     "expanded_url": "https://twitter.com/i/web/status/1626137794019233793",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 08:31:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CBMshots",
+     "name": "CBM Shots",
+     "id": 1031014269612056577,
+     "id_str": "1031014269612056577",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625513666841038850,
+     "id_str": "1625513666841038850",
+     "indices": [
+      28,
+      51
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fo78EVGaUAIIiTv.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fo78EVGaUAIIiTv.jpg",
+     "url": "https://t.co/ghk8tKvhm2",
+     "display_url": "pic.twitter.com/ghk8tKvhm2",
+     "expanded_url": "https://twitter.com/CBMshots/status/1625993358609973251/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 906,
+       "h": 470,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 353,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 906,
+       "h": 470,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625993358609973251,
+     "source_status_id_str": "1625993358609973251",
+     "source_user_id": 1031014269612056577,
+     "source_user_id_str": "1031014269612056577"
+    }
+   ]
+  },
+  "Thu Feb 16 06:44:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kingbchalla",
+     "name": "s\u1d1c\u1d18\u1d07\u0280\u1d0d\u1d00\u028f\u0274\u1d07",
+     "id": 1262098685497880577,
+     "id_str": "1262098685497880577",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:03:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/fMC4Pm7DXS",
+     "expanded_url": "https://twitter.com/MrNobodyy666/status/1625969343984185345",
+     "display_url": "twitter.com/MrNobodyy666/s\u2026",
+     "indices": [
+      99,
+      122
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 02:52:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/EgGXkSwTpV",
+     "expanded_url": "https://twitter.com/Rap/status/1626000303161057281",
+     "display_url": "twitter.com/Rap/status/162\u2026",
+     "indices": [
+      2,
+      25
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 02:49:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "theeSNYDERVERSE",
+     "name": "\ud835\udde0\ud835\uddd8\ud835\udde5\ud835\uddd6\u01b1\ud835\udde5\ud835\uddec",
+     "id": 1306950337245458432,
+     "id_str": "1306950337245458432",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 02:49:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ItsJustN1ck",
+     "name": "Nick",
+     "id": 1395041909496815619,
+     "id_str": "1395041909496815619",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

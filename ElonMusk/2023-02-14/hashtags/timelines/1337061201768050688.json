@@ -1,0 +1,2862 @@
+{
+ "1337061201768050688": {
+  "Mon Feb 06 12:25:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tedcruz",
+     "name": "Ted Cruz",
+     "id": 23022687,
+     "id_str": "23022687",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 12:12:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621182950418124800,
+     "id_str": "1621182950418124800",
+     "indices": [
+      101,
+      124
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1621182950418124800/img/ju9GR0BmbgTVOQjv.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1621182950418124800/img/ju9GR0BmbgTVOQjv.jpg",
+     "url": "https://t.co/UhHBpRy4H8",
+     "display_url": "pic.twitter.com/UhHBpRy4H8",
+     "expanded_url": "https://twitter.com/SpeakerMcCarthy/status/1621900156114276352/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621900156114276352,
+     "source_status_id_str": "1621900156114276352",
+     "source_user_id": 19739126,
+     "source_user_id_str": "19739126"
+    }
+   ]
+  },
+  "Mon Feb 06 12:11:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Q1VvqV58aK",
+     "expanded_url": "http://Starlink.com",
+     "display_url": "Starlink.com",
+     "indices": [
+      37,
+      60
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1622307420516106246,
+     "id_str": "1622307420516106246",
+     "indices": [
+      61,
+      84
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoOYAOxXwAYDOdh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoOYAOxXwAYDOdh.jpg",
+     "url": "https://t.co/CbTQCMg7oT",
+     "display_url": "pic.twitter.com/CbTQCMg7oT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622307425226313729/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 654,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 654,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 434,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622307425226313729,
+     "source_status_id_str": "1622307425226313729",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 06 12:11:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GregAbbott_TX",
+     "name": "Greg Abbott",
+     "id": 90651198,
+     "id_str": "90651198",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622410488167514112,
+     "id_str": "1622410488167514112",
+     "indices": [
+      58,
+      81
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622410488167514112/pu/img/1qqTb7LD0aojfbDx.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622410488167514112/pu/img/1qqTb7LD0aojfbDx.jpg",
+     "url": "https://t.co/Ff72b2ZwJQ",
+     "display_url": "pic.twitter.com/Ff72b2ZwJQ",
+     "expanded_url": "https://twitter.com/GregAbbott_TX/status/1622410565091037185/video/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 720,
+       "h": 732,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 669,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 720,
+       "h": 732,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622410565091037185,
+     "source_status_id_str": "1622410565091037185",
+     "source_user_id": 90651198,
+     "source_user_id_str": "90651198"
+    }
+   ]
+  },
+  "Mon Feb 06 12:11:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 00:48:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 00:48:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 00:48:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GregAbbott_TX",
+     "name": "Greg Abbott",
+     "id": 90651198,
+     "id_str": "90651198",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622287725201182723,
+     "id_str": "1622287725201182723",
+     "indices": [
+      116,
+      139
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoOGF0AX0AM9squ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoOGF0AX0AM9squ.jpg",
+     "url": "https://t.co/W1GH3FSyxA",
+     "display_url": "pic.twitter.com/W1GH3FSyxA",
+     "expanded_url": "https://twitter.com/GregAbbott_TX/status/1622287747275804672/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 800,
+       "h": 541,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 800,
+       "h": 541,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 460,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622287747275804672,
+     "source_status_id_str": "1622287747275804672",
+     "source_user_id": 90651198,
+     "source_user_id_str": "90651198"
+    }
+   ]
+  },
+  "Sun Feb 05 14:26:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 23:31:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 23:31:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 23:30:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621994246625443840,
+     "id_str": "1621994246625443840",
+     "indices": [
+      94,
+      117
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoJ7LHHWQAAIwBL.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoJ7LHHWQAAIwBL.jpg",
+     "url": "https://t.co/ZfxhcouhTa",
+     "display_url": "pic.twitter.com/ZfxhcouhTa",
+     "expanded_url": "https://twitter.com/POTUS/status/1621994255475425287/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621994255475425287,
+     "source_status_id_str": "1621994255475425287",
+     "source_user_id": 1349149096909668363,
+     "source_user_id_str": "1349149096909668363"
+    }
+   ]
+  },
+  "Sat Feb 04 23:29:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 23:29:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 23:28:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 23:28:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 17:54:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "newtgingrich",
+     "name": "Newt Gingrich",
+     "id": 20713061,
+     "id_str": "20713061",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 17:52:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CarolineForTX",
+     "name": "State Representative Caroline Harris",
+     "id": 4444609994,
+     "id_str": "4444609994",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "TFRW",
+     "name": "Texas Federation of Republican Women",
+     "id": 58592705,
+     "id_str": "58592705",
+     "indices": [
+      91,
+      96
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 17:51:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 17:51:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 23:51:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DonaldJTrumpJr",
+     "name": "Donald Trump Jr.",
+     "id": 39344374,
+     "id_str": "39344374",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 23:51:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "newtgingrich",
+     "name": "Newt Gingrich",
+     "id": 20713061,
+     "id_str": "20713061",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 23:51:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "govkristinoem",
+     "name": "Governor Kristi Noem",
+     "id": 235251868,
+     "id_str": "235251868",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 23:50:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "chiproytx",
+     "name": "Chip Roy",
+     "id": 1257667158,
+     "id_str": "1257667158",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 23:50:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      23,
+      29
+     ]
+    },
+    {
+     "screen_name": "mayemusk",
+     "name": "Maye Musk",
+     "id": 14171401,
+     "id_str": "14171401",
+     "indices": [
+      30,
+      39
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      40,
+      47
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 23:50:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      14,
+      20
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 23:49:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JDVance1",
+     "name": "J.D. Vance",
+     "id": 1542228578,
+     "id_str": "1542228578",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621622459450494976,
+     "id_str": "1621622459450494976",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoEpCP9XkAAApCH.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoEpCP9XkAAApCH.jpg",
+     "url": "https://t.co/mkF7DIN43q",
+     "display_url": "pic.twitter.com/mkF7DIN43q",
+     "expanded_url": "https://twitter.com/JDVance1/status/1621622465096028160/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1512,
+       "h": 2016,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621622465096028160,
+     "source_status_id_str": "1621622465096028160",
+     "source_user_id": 1542228578,
+     "source_user_id_str": "1542228578"
+    }
+   ]
+  },
+  "Fri Feb 03 23:49:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MarshaBlackburn",
+     "name": "Sen. Marsha Blackburn",
+     "id": 278145569,
+     "id_str": "278145569",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "JoeBiden",
+     "name": "Joe Biden",
+     "id": 939091,
+     "id_str": "939091",
+     "indices": [
+      93,
+      102
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 23:48:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TomCottonAR",
+     "name": "Tom Cotton",
+     "id": 343041182,
+     "id_str": "343041182",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 23:48:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:23:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JerryMoran",
+     "name": "Senator Jerry Moran",
+     "id": 18632666,
+     "id_str": "18632666",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:20:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenRickScott",
+     "name": "Rick Scott",
+     "id": 131546062,
+     "id_str": "131546062",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:20:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "laralogan",
+     "name": "Lara Logan",
+     "id": 1098091506886471680,
+     "id_str": "1098091506886471680",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:20:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "larryelder",
+     "name": "Larry Elder",
+     "id": 195271137,
+     "id_str": "195271137",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:19:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SayNoToSino",
+     "name": "Say No To Sino",
+     "id": 1257878321901137920,
+     "id_str": "1257878321901137920",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1609425178513244160,
+     "id_str": "1609425178513244160",
+     "indices": [
+      36,
+      59
+     ],
+     "media_url": "http://pbs.twimg.com/media/FlXTrDnaAAAD1Jm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FlXTrDnaAAAD1Jm.jpg",
+     "url": "https://t.co/8LtrBiEQuT",
+     "display_url": "pic.twitter.com/8LtrBiEQuT",
+     "expanded_url": "https://twitter.com/SayNoToSino/status/1609425248239353861/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 978,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1669,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 554,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1609425248239353861,
+     "source_status_id_str": "1609425248239353861",
+     "source_user_id": 1257878321901137920,
+     "source_user_id_str": "1257878321901137920"
+    }
+   ]
+  },
+  "Fri Feb 03 20:19:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HawleyMO",
+     "name": "Josh Hawley",
+     "id": 2352629311,
+     "id_str": "2352629311",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:19:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RubinReport",
+     "name": "Dave Rubin",
+     "id": 18379614,
+     "id_str": "18379614",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:19:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "glennbeck",
+     "name": "Glenn Beck",
+     "id": 17454769,
+     "id_str": "17454769",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:19:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "theRealKiyosaki",
+     "name": "Robert Kiyosaki",
+     "id": 29856819,
+     "id_str": "29856819",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:18:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepRosendale",
+     "name": "Matt Rosendale",
+     "id": 1344751420139040783,
+     "id_str": "1344751420139040783",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:18:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KariLake",
+     "name": "Kari Lake",
+     "id": 1082197856,
+     "id_str": "1082197856",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:18:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Eric_Schmitt",
+     "name": "Eric Schmitt",
+     "id": 101852818,
+     "id_str": "101852818",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:16:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EliseStefanik",
+     "name": "Elise Stefanik",
+     "id": 109579534,
+     "id_str": "109579534",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:16:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RedState",
+     "name": "RedState",
+     "id": 3135241,
+     "id_str": "3135241",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/cJ0u1Tkljm",
+     "expanded_url": "https://redstate.com/jenvanlaar/2023/02/03/pentagon-briefing-on-chinese-spy-balloon-signals-massive-weakness-n698207",
+     "display_url": "redstate.com/jenvanlaar/202\u2026",
+     "indices": [
+      80,
+      103
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 20:15:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JennaEllisEsq",
+     "name": "Jenna Ellis \ud83c\uddfa\ud83c\uddf8",
+     "id": 778763106289758208,
+     "id_str": "778763106289758208",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/kAsP4Eblpa",
+     "expanded_url": "https://trendingpoliticsnews.com/us-air-force-scrambles-to-send-three-planes-to-confront-chinese-spy-balloon-over-montana/?utm_source=JE99&utm_medium=twitter",
+     "display_url": "trendingpoliticsnews.com/us-air-force-s\u2026",
+     "indices": [
+      34,
+      57
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 20:15:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KatiePavlich",
+     "name": "Katie Pavlich",
+     "id": 48459553,
+     "id_str": "48459553",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/9PmbBkgnU6",
+     "expanded_url": "https://townhall.com/columnists/katiepavlich/2023/02/03/so-we-cant-even-handle-a-chinese-spy-balloon-n2619144",
+     "display_url": "townhall.com/columnists/kat\u2026",
+     "indices": [
+      66,
+      89
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 20:15:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepRWilliams",
+     "name": "Rep. Roger Williams",
+     "id": 1077446982,
+     "id_str": "1077446982",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:15:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JudiciaryGOP",
+     "name": "House Judiciary GOP",
+     "id": 1131917492,
+     "id_str": "1131917492",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:15:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    },
+    {
+     "screen_name": "mayemusk",
+     "name": "Maye Musk",
+     "id": 14171401,
+     "id_str": "14171401",
+     "indices": [
+      23,
+      32
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      33,
+      39
+     ]
+    },
+    {
+     "screen_name": "Twitter",
+     "name": "Twitter",
+     "id": 783214,
+     "id_str": "783214",
+     "indices": [
+      40,
+      48
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:14:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DonaldJTrumpJr",
+     "name": "Donald Trump Jr.",
+     "id": 39344374,
+     "id_str": "39344374",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:13:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HawleyMO",
+     "name": "Josh Hawley",
+     "id": 2352629311,
+     "id_str": "2352629311",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:13:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HawleyMO",
+     "name": "Josh Hawley",
+     "id": 2352629311,
+     "id_str": "2352629311",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:13:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenateGOP",
+     "name": "Senate Republicans",
+     "id": 14344823,
+     "id_str": "14344823",
+     "indices": [
+      0,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:12:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenateGOP",
+     "name": "Senate Republicans",
+     "id": 14344823,
+     "id_str": "14344823",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:12:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheLeoTerrell",
+     "name": "TheLeoTerrell",
+     "id": 1212806053907185664,
+     "id_str": "1212806053907185664",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:11:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GregAbbott_TX",
+     "name": "Greg Abbott",
+     "id": 90651198,
+     "id_str": "90651198",
+     "indices": [
+      0,
+      14
+     ]
+    },
+    {
+     "screen_name": "GregAbbott_TX",
+     "name": "Greg Abbott",
+     "id": 90651198,
+     "id_str": "90651198",
+     "indices": [
+      52,
+      66
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:11:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GregAbbott_TX",
+     "name": "Greg Abbott",
+     "id": 90651198,
+     "id_str": "90651198",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:10:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EricMMatheny",
+     "name": "Eric Matheny \ud83c\udf99",
+     "id": 2730264319,
+     "id_str": "2730264319",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:10:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "grandoldmemes",
+     "name": "The Right To Bear Memes",
+     "id": 4865550959,
+     "id_str": "4865550959",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621556373887541249,
+     "id_str": "1621556373887541249",
+     "indices": [
+      19,
+      42
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoDs7kDWYAEdial.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoDs7kDWYAEdial.jpg",
+     "url": "https://t.co/sCBtrXQmGA",
+     "display_url": "pic.twitter.com/sCBtrXQmGA",
+     "expanded_url": "https://twitter.com/grandoldmemes/status/1621556379004567566/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621556379004567566,
+     "source_status_id_str": "1621556379004567566",
+     "source_user_id": 4865550959,
+     "source_user_id_str": "4865550959"
+    }
+   ]
+  },
+  "Fri Feb 03 20:10:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "memejority",
+     "name": "Silent Memejority",
+     "id": 1301600163190902784,
+     "id_str": "1301600163190902784",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621582891871502336,
+     "id_str": "1621582891871502336",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoEFDHPaAAALMtH.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoEFDHPaAAALMtH.jpg",
+     "url": "https://t.co/NsbCAl3B7v",
+     "display_url": "pic.twitter.com/NsbCAl3B7v",
+     "expanded_url": "https://twitter.com/memejority/status/1621582925350461440/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 440,
+       "h": 550,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 440,
+       "h": 550,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 440,
+       "h": 550,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621582925350461440,
+     "source_status_id_str": "1621582925350461440",
+     "source_user_id": 1301600163190902784,
+     "source_user_id_str": "1301600163190902784"
+    }
+   ]
+  },
+  "Fri Feb 03 20:09:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HouseGOP",
+     "name": "House Republicans",
+     "id": 15207668,
+     "id_str": "15207668",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:09:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealMattCouch",
+     "name": "Matt Couch",
+     "id": 601535938,
+     "id_str": "601535938",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:09:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MarshaBlackburn",
+     "name": "Sen. Marsha Blackburn",
+     "id": 278145569,
+     "id_str": "278145569",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:09:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JDVance1",
+     "name": "J.D. Vance",
+     "id": 1542228578,
+     "id_str": "1542228578",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:09:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DonaldJTrumpJr",
+     "name": "Donald Trump Jr.",
+     "id": 39344374,
+     "id_str": "39344374",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621518129192116228,
+     "id_str": "1621518129192116228",
+     "indices": [
+      110,
+      133
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoDKJbdaIAQSA94.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoDKJbdaIAQSA94.jpg",
+     "url": "https://t.co/EOmAASTuOp",
+     "display_url": "pic.twitter.com/EOmAASTuOp",
+     "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1621518136045617160/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 576,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1016,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1284,
+       "h": 1517,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621518136045617160,
+     "source_status_id_str": "1621518136045617160",
+     "source_user_id": 39344374,
+     "source_user_id_str": "39344374"
+    }
+   ]
+  },
+  "Fri Feb 03 20:08:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:08:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:08:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JudiciaryGOP",
+     "name": "House Judiciary GOP",
+     "id": 1131917492,
+     "id_str": "1131917492",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:08:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:07:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TomCottonAR",
+     "name": "Tom Cotton",
+     "id": 343041182,
+     "id_str": "343041182",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:07:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TomCottonAR",
+     "name": "Tom Cotton",
+     "id": 343041182,
+     "id_str": "343041182",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:06:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:06:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:05:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tedcruz",
+     "name": "Ted Cruz",
+     "id": 23022687,
+     "id_str": "23022687",
+     "indices": [
+      0,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 20:05:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tedcruz",
+     "name": "Ted Cruz",
+     "id": 23022687,
+     "id_str": "23022687",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 17:04:49 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "COVID19",
+     "indices": [
+      120,
+      128
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JudiciaryGOP",
+     "name": "House Judiciary GOP",
+     "id": 1131917492,
+     "id_str": "1131917492",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 17:00:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "benshapiro",
+     "name": "Ben Shapiro",
+     "id": 17995040,
+     "id_str": "17995040",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:59:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenEricSchmitt",
+     "name": "Senator Eric Schmitt",
+     "id": 1603540143872385026,
+     "id_str": "1603540143872385026",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:59:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SarahHuckabee",
+     "name": "Sarah Huckabee Sanders",
+     "id": 5509762,
+     "id_str": "5509762",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:58:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DonaldJTrumpJr",
+     "name": "Donald Trump Jr.",
+     "id": 39344374,
+     "id_str": "39344374",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:58:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RedState",
+     "name": "RedState",
+     "id": 3135241,
+     "id_str": "3135241",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/IdgPGZG5VB",
+     "expanded_url": "https://redstate.com/jerrywilson/2023/02/03/chinese-nationals-caught-entering-us-at-southern-border-paid-35k-each-to-smugglers-n698036",
+     "display_url": "redstate.com/jerrywilson/20\u2026",
+     "indices": [
+      98,
+      121
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 16:58:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepThomasMassie",
+     "name": "Thomas Massie",
+     "id": 975200486,
+     "id_str": "975200486",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:58:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Azerbaijan",
+     "indices": [
+      56,
+      67
+     ]
+    },
+    {
+     "text": "Azeris",
+     "indices": [
+      84,
+      91
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PeterZeihan",
+     "name": "Peter Zeihan",
+     "id": 1688796138,
+     "id_str": "1688796138",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:57:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "marcorubio",
+     "name": "Marco Rubio",
+     "id": 15745368,
+     "id_str": "15745368",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:57:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JennaEllisEsq",
+     "name": "Jenna Ellis \ud83c\uddfa\ud83c\uddf8",
+     "id": 778763106289758208,
+     "id_str": "778763106289758208",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/pqhkITNv5H",
+     "expanded_url": "https://thepostmillennial.com/breaking-trump-says-shoot-down-the-balloon?utm_campaign=64510",
+     "display_url": "thepostmillennial.com/breaking-trump\u2026",
+     "indices": [
+      65,
+      88
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 16:57:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mchooyah",
+     "name": "Robert J. O'Neill",
+     "id": 2315698776,
+     "id_str": "2315698776",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:57:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KariLake",
+     "name": "Kari Lake",
+     "id": 1082197856,
+     "id_str": "1082197856",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621506280316895235,
+     "id_str": "1621506280316895235",
+     "indices": [
+      73,
+      96
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoC_Xu9agAM8xEJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoC_Xu9agAM8xEJ.jpg",
+     "url": "https://t.co/k33onkFL3a",
+     "display_url": "pic.twitter.com/k33onkFL3a",
+     "expanded_url": "https://twitter.com/KariLake/status/1621506285765099520/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1170,
+       "h": 634,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 368,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1170,
+       "h": 634,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621506285765099520,
+     "source_status_id_str": "1621506285765099520",
+     "source_user_id": 1082197856,
+     "source_user_id_str": "1082197856"
+    }
+   ]
+  },
+  "Fri Feb 03 16:56:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "china",
+     "indices": [
+      126,
+      132
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChinaUncensored",
+     "name": "China Uncensored",
+     "id": 833100331,
+     "id_str": "833100331",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:56:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DonaldJTrumpJr",
+     "name": "Donald Trump Jr.",
+     "id": 39344374,
+     "id_str": "39344374",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:56:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PeterZeihan",
+     "name": "Peter Zeihan",
+     "id": 1688796138,
+     "id_str": "1688796138",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:56:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenatorTimScott",
+     "name": "Tim Scott",
+     "id": 217543151,
+     "id_str": "217543151",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:56:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DineshDSouza",
+     "name": "Dinesh D'Souza",
+     "id": 91882544,
+     "id_str": "91882544",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/4lYNGL3Szm",
+     "expanded_url": "https://thepostmillennial.com/breaking-trump-says-shoot-down-the-balloon?utm_campaign=64474",
+     "display_url": "thepostmillennial.com/breaking-trump\u2026",
+     "indices": [
+      65,
+      88
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 16:56:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MarshaBlackburn",
+     "name": "Sen. Marsha Blackburn",
+     "id": 278145569,
+     "id_str": "278145569",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:55:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:55:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "DontMessWithTexas",
+     "indices": [
+      107,
+      125
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MayraFlores2022",
+     "name": "Mayra Flores",
+     "id": 89469296,
+     "id_str": "89469296",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:55:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:55:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HawleyMO",
+     "name": "Josh Hawley",
+     "id": 2352629311,
+     "id_str": "2352629311",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:54:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tedcruz",
+     "name": "Ted Cruz",
+     "id": 23022687,
+     "id_str": "23022687",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:54:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "mtaibbi",
+     "name": "Matt Taibbi",
+     "id": 38271276,
+     "id_str": "38271276",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:54:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:54:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:54:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TimRunsHisMouth",
+     "name": "Tim Young",
+     "id": 34367582,
+     "id_str": "34367582",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:54:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:53:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NikkiHaley",
+     "name": "Nikki Haley",
+     "id": 1079776144524754944,
+     "id_str": "1079776144524754944",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 16:53:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JackPosobiec",
+     "name": "Jack Posobiec \ud83c\uddfa\ud83c\uddf8",
+     "id": 592730371,
+     "id_str": "592730371",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621294387702505476,
+     "id_str": "1621294387702505476",
+     "indices": [
+      83,
+      106
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1621294387702505476/img/Z8KxzWiJFMiyhm6x.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1621294387702505476/img/Z8KxzWiJFMiyhm6x.jpg",
+     "url": "https://t.co/USeUaIeEkz",
+     "display_url": "pic.twitter.com/USeUaIeEkz",
+     "expanded_url": "https://twitter.com/rawsalerts/status/1621294430081761280/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621294430081761280,
+     "source_status_id_str": "1621294430081761280",
+     "source_user_id": 1176026136117166080,
+     "source_user_id_str": "1176026136117166080"
+    }
+   ]
+  },
+  "Fri Feb 03 16:53:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ForAmerica",
+     "name": "ForAmerica",
+     "id": 190905427,
+     "id_str": "190905427",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621551420980723713,
+     "id_str": "1621551420980723713",
+     "indices": [
+      73,
+      96
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1621551420980723713/pu/img/lUo4mIXkMpjrXlIx.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1621551420980723713/pu/img/lUo4mIXkMpjrXlIx.jpg",
+     "url": "https://t.co/dYk3nK139d",
+     "display_url": "pic.twitter.com/dYk3nK139d",
+     "expanded_url": "https://twitter.com/ForAmerica/status/1621551916156084225/video/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 720,
+       "h": 400,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 720,
+       "h": 400,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 378,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621551916156084225,
+     "source_status_id_str": "1621551916156084225",
+     "source_user_id": 190905427,
+     "source_user_id_str": "190905427"
+    }
+   ]
+  },
+  "Fri Feb 03 16:53:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenatorRomney",
+     "name": "Senator Mitt Romney",
+     "id": 1078693601356509184,
+     "id_str": "1078693601356509184",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 14:21:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JohnCornyn",
+     "name": "Senator John Cornyn",
+     "id": 13218102,
+     "id_str": "13218102",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/kJ97sXMTED",
+     "expanded_url": "https://apnews.com/article/politics-antony-blinken-beijing-north-korea-china-9f9432c118f297fc27a9be01c460316e",
+     "display_url": "apnews.com/article/politi\u2026",
+     "indices": [
+      75,
+      98
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 03:50:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GregAbbott_TX",
+     "name": "Greg Abbott",
+     "id": 90651198,
+     "id_str": "90651198",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 03:49:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "TitterTakeover",
+     "name": "T(w)itter Takeover News \uea00",
+     "id": 752567226,
+     "id_str": "752567226",
+     "indices": [
+      14,
+      29
+     ]
+    },
+    {
+     "screen_name": "NFL",
+     "name": "NFL",
+     "id": 19426551,
+     "id_str": "19426551",
+     "indices": [
+      58,
+      62
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 03:47:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 03:46:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 21:32:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 21:31:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 21:31:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 21:29:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 21:28:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 21:28:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Ky6Xxd03OM",
+     "expanded_url": "https://twitter.com/i/broadcasts/1OdKrzNogllKX",
+     "display_url": "twitter.com/i/broadcasts/1\u2026",
+     "indices": [
+      74,
+      97
+     ]
+    }
+   ]
+  },
+  "Thu Feb 02 21:28:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

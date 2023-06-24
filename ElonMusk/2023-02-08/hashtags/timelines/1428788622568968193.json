@@ -1,0 +1,141 @@
+{
+ "1428788622568968193": {
+  "Wed Feb 08 17:27:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mtaibbi",
+     "name": "Matt Taibbi",
+     "id": 38271276,
+     "id_str": "38271276",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:28:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 00:51:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622758189602156546,
+     "id_str": "1622758189602156546",
+     "indices": [
+      43,
+      66
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoUx-ceXsAIx11q.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoUx-ceXsAIx11q.jpg",
+     "url": "https://t.co/DpVxOSqJ4M",
+     "display_url": "pic.twitter.com/DpVxOSqJ4M",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622758195268669442/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 283,
+       "h": 351,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 283,
+       "h": 351,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 283,
+       "h": 351,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622758195268669442,
+     "source_status_id_str": "1622758195268669442",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 06 23:37:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:36:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z6h5975anw",
+     "expanded_url": "https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/",
+     "display_url": "state.gov/bureaus-office\u2026",
+     "indices": [
+      118,
+      141
+     ]
+    }
+   ]
+  }
+ }
+}

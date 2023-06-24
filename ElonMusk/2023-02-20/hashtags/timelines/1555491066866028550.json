@@ -1,0 +1,403 @@
+{
+ "1555491066866028550": {
+  "Mon Feb 20 09:21:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 09:20:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627377245751857152,
+     "id_str": "1627377245751857152",
+     "indices": [
+      71,
+      94
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWa-5iX0AAU-8d.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWa-5iX0AAU-8d.jpg",
+     "url": "https://t.co/B1JQFC7Ojh",
+     "display_url": "pic.twitter.com/B1JQFC7Ojh",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627377252777226242/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 983,
+       "h": 554,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 983,
+       "h": 554,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627377252777226242,
+     "source_status_id_str": "1627377252777226242",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 20 09:20:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627380447431823363,
+     "id_str": "1627380447431823363",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWd5QuXEAMT3xP.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWd5QuXEAMT3xP.jpg",
+     "url": "https://t.co/qzDTuGsZY1",
+     "display_url": "pic.twitter.com/qzDTuGsZY1",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627380454067142658/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 480,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 499,
+       "h": 707,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 499,
+       "h": 707,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627380454067142658,
+     "source_status_id_str": "1627380454067142658",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 20 07:51:51 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ONS",
+     "indices": [
+      75,
+      79
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "opnamesorg",
+     "name": "OP Names - Optimism Name Service (ONS) (\u2728\ud83d\udd34_\ud83d\udd34\u2728)",
+     "id": 1474410593238990849,
+     "id_str": "1474410593238990849",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "optimismFND",
+     "name": "Optimism (\u2728\ud83d\udd34_\ud83d\udd34\u2728)",
+     "id": 1044836083530452992,
+     "id_str": "1044836083530452992",
+     "indices": [
+      20,
+      32
+     ]
+    },
+    {
+     "screen_name": "Galxe",
+     "name": "Galxe",
+     "id": 1375235209495388161,
+     "id_str": "1375235209495388161",
+     "indices": [
+      102,
+      108
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 07:51:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ONS",
+     "indices": [
+      20,
+      24
+     ]
+    },
+    {
+     "text": "Web3",
+     "indices": [
+      71,
+      76
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "opnamesorg",
+     "name": "OP Names - Optimism Name Service (ONS) (\u2728\ud83d\udd34_\ud83d\udd34\u2728)",
+     "id": 1474410593238990849,
+     "id_str": "1474410593238990849",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "optimismFND",
+     "name": "Optimism (\u2728\ud83d\udd34_\ud83d\udd34\u2728)",
+     "id": 1044836083530452992,
+     "id_str": "1044836083530452992",
+     "indices": [
+      104,
+      116
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 16:06:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626703662197387264,
+     "id_str": "1626703662197387264",
+     "indices": [
+      95,
+      118
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpM2XLQaMAAsnhY.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpM2XLQaMAAsnhY.jpg",
+     "url": "https://t.co/vbeOOqKuyT",
+     "display_url": "pic.twitter.com/vbeOOqKuyT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626703667591270400/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1159,
+       "h": 845,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1159,
+       "h": 845,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 496,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626703667591270400,
+     "source_status_id_str": "1626703667591270400",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 16:06:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627246530309627904,
+     "id_str": "1627246530309627904",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "url": "https://t.co/O3nGpfeRZ7",
+     "display_url": "pic.twitter.com/O3nGpfeRZ7",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627246535581761536/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627246535581761536,
+     "source_status_id_str": "1627246535581761536",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 16:06:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627055208844103680,
+     "id_str": "1627055208844103680",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpR2F4kaEAAE9Xk.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpR2F4kaEAAE9Xk.jpg",
+     "url": "https://t.co/4HgUSONvzw",
+     "display_url": "pic.twitter.com/4HgUSONvzw",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627055215601147904/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1284,
+       "h": 906,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 847,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 480,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627055215601147904,
+     "source_status_id_str": "1627055215601147904",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  }
+ }
+}

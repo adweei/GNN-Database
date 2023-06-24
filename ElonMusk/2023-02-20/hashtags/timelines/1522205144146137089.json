@@ -1,0 +1,640 @@
+{
+ "1522205144146137089": {
+  "Mon Feb 20 14:44:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627680626621939715,
+     "id_str": "1627680626621939715",
+     "indices": [
+      0,
+      23
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fpau5_WWAAMPkWg.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fpau5_WWAAMPkWg.jpg",
+     "url": "https://t.co/wOSlBl0YSl",
+     "display_url": "pic.twitter.com/wOSlBl0YSl",
+     "expanded_url": "https://twitter.com/ceozep815/status/1627680630774398977/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 314,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 946,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 554,
+       "h": 1200,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Mon Feb 20 01:03:26 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Bitcoin",
+     "indices": [
+      26,
+      34
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WatcherGuru",
+     "name": "Watcher.Guru",
+     "id": 1387497871751196672,
+     "id_str": "1387497871751196672",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 01:03:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627246530309627904,
+     "id_str": "1627246530309627904",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "url": "https://t.co/O3nGpfeRZ7",
+     "display_url": "pic.twitter.com/O3nGpfeRZ7",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627246535581761536/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627246535581761536,
+     "source_status_id_str": "1627246535581761536",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 20 01:03:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627381661997342721,
+     "id_str": "1627381661997342721",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWe_9VWIAEPAaM.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWe_9VWIAEPAaM.jpg",
+     "url": "https://t.co/Az4RSAMvoE",
+     "display_url": "pic.twitter.com/Az4RSAMvoE",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627381669601636358/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 521,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 951,
+       "h": 729,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 951,
+       "h": 729,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627381669601636358,
+     "source_status_id_str": "1627381669601636358",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 20 01:03:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627380447431823363,
+     "id_str": "1627380447431823363",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWd5QuXEAMT3xP.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWd5QuXEAMT3xP.jpg",
+     "url": "https://t.co/qzDTuGsZY1",
+     "display_url": "pic.twitter.com/qzDTuGsZY1",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627380454067142658/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 480,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 499,
+       "h": 707,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 499,
+       "h": 707,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627380454067142658,
+     "source_status_id_str": "1627380454067142658",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 20 01:03:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 01:03:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 01:02:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Bitcoin",
+     "indices": [
+      17,
+      25
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BTC_Archive",
+     "name": "Bitcoin Archive",
+     "id": 970994516357472257,
+     "id_str": "970994516357472257",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "888Velvet",
+     "name": "\u1d20\u1d07\u029f\u1d20\u1d07\u1d1b // \ud83c\udd99 MAXi",
+     "id": 956690261438009346,
+     "id_str": "956690261438009346",
+     "indices": [
+      93,
+      103
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 01:01:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MackAttackXRP",
+     "name": "\ud83c\uddf3\ud83c\uddf1 MackAttackXRP \ud83c\uddf3\ud83c\uddf1 58K-Followers",
+     "id": 1129664768753709056,
+     "id_str": "1129664768753709056",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 01:01:02 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "xrp",
+     "indices": [
+      0,
+      4
+     ]
+    },
+    {
+     "text": "ShibaArmy",
+     "indices": [
+      5,
+      15
+     ]
+    },
+    {
+     "text": "ddx",
+     "indices": [
+      16,
+      20
+     ]
+    },
+    {
+     "text": "hbar",
+     "indices": [
+      21,
+      26
+     ]
+    },
+    {
+     "text": "rich",
+     "indices": [
+      27,
+      32
+     ]
+    },
+    {
+     "text": "BTC",
+     "indices": [
+      33,
+      37
+     ]
+    },
+    {
+     "text": "crypto",
+     "indices": [
+      38,
+      45
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Mon Feb 20 00:59:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BTC_Archive",
+     "name": "Bitcoin Archive",
+     "id": 970994516357472257,
+     "id_str": "970994516357472257",
+     "indices": [
+      0,
+      12
+     ]
+    },
+    {
+     "screen_name": "StockmoneyL",
+     "name": "Stockmoney Lizards",
+     "id": 1491052911417344001,
+     "id_str": "1491052911417344001",
+     "indices": [
+      13,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 00:59:30 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Bitcoin",
+     "indices": [
+      17,
+      25
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BTC_Archive",
+     "name": "Bitcoin Archive",
+     "id": 970994516357472257,
+     "id_str": "970994516357472257",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "StockmoneyL",
+     "name": "Stockmoney Lizards",
+     "id": 1491052911417344001,
+     "id_str": "1491052911417344001",
+     "indices": [
+      61,
+      73
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627288549027418118,
+     "id_str": "1627288549027418118",
+     "indices": [
+      75,
+      98
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpVKUEfXEAYzEdl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpVKUEfXEAYzEdl.jpg",
+     "url": "https://t.co/FyKjqHeP8d",
+     "display_url": "pic.twitter.com/FyKjqHeP8d",
+     "expanded_url": "https://twitter.com/BTC_Archive/status/1627288553821507585/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 545,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 932,
+       "h": 1163,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 932,
+       "h": 1163,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627288553821507585,
+     "source_status_id_str": "1627288553821507585",
+     "source_user_id": 970994516357472257,
+     "source_user_id_str": "970994516357472257"
+    }
+   ]
+  },
+  "Mon Feb 20 00:59:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "XRP",
+     "indices": [
+      29,
+      33
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "XRP_Productions",
+     "name": "XRPP",
+     "id": 1131352246573195264,
+     "id_str": "1131352246573195264",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 00:59:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MackAttackXRP",
+     "name": "\ud83c\uddf3\ud83c\uddf1 MackAttackXRP \ud83c\uddf3\ud83c\uddf1 58K-Followers",
+     "id": 1129664768753709056,
+     "id_str": "1129664768753709056",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/yUBwCjN7RJ",
+     "expanded_url": "https://ripplecoinnews.com/ripple-focuses-on-singapore-as-the-firm-pursues-its-cbdc-goal-around-the-world/",
+     "display_url": "ripplecoinnews.com/ripple-focuses\u2026",
+     "indices": [
+      98,
+      121
+     ]
+    }
+   ]
+  },
+  "Mon Feb 20 00:59:12 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "XRP",
+     "indices": [
+      36,
+      40
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "XRPcryptowolf",
+     "name": "XRPcryptowolf",
+     "id": 944462285573099520,
+     "id_str": "944462285573099520",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 00:59:10 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "XRP",
+     "indices": [
+      21,
+      25
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "XRPNews_",
+     "name": "Ripple Van Winkle | XRP Researcher |",
+     "id": 39090194,
+     "id_str": "39090194",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 00:59:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "SHIB",
+     "indices": [
+      51,
+      56
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "ShibaInuHodler",
+     "name": "SHIB HODLER",
+     "id": 1411587179986489346,
+     "id_str": "1411587179986489346",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 00:58:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TechDev_52",
+     "name": "TechDev",
+     "id": 443073989,
+     "id_str": "443073989",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

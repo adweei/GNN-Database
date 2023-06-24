@@ -1,0 +1,151 @@
+{
+ "1096777586871537664": {
+  "Wed Feb 08 03:44:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      14,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 03:43:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EndWokeness",
+     "name": "End Wokeness",
+     "id": 1552795969959636992,
+     "id_str": "1552795969959636992",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622596899298582528,
+     "id_str": "1622596899298582528",
+     "indices": [
+      80,
+      103
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoSfSHRXoAAh-Gu.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoSfSHRXoAAh-Gu.jpg",
+     "url": "https://t.co/VnNWAnMBes",
+     "display_url": "pic.twitter.com/VnNWAnMBes",
+     "expanded_url": "https://twitter.com/EndWokeness/status/1622597129121288192/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622597129121288192,
+     "source_status_id_str": "1622597129121288192",
+     "source_user_id": 1552795969959636992,
+     "source_user_id_str": "1552795969959636992"
+    }
+   ]
+  },
+  "Wed Feb 08 03:41:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlexBerenson",
+     "name": "Alex Berenson",
+     "id": 87679233,
+     "id_str": "87679233",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 03:40:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z6h5975anw",
+     "expanded_url": "https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/",
+     "display_url": "state.gov/bureaus-office\u2026",
+     "indices": [
+      118,
+      141
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 03:39:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

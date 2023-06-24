@@ -1,0 +1,5244 @@
+{
+ "3035671982": {
+  "Mon Feb 06 19:43:15 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/6POpi9Dsze",
+     "expanded_url": "https://twitter.com/i/web/status/1622682353910026241",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 19:42:31 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen35",
+     "name": "\u504f\u95e8 \u641e\u94b1 \u7070\u4ea7 \u8dd1\u5206 \u6d17\u94b1 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3049630587,
+     "id_str": "3049630587",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 19:42:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen33",
+     "name": "\u7070\u4ea7 \u504f\u95e8 \u8d5a\u94b1 \u641e\u94b1 \u8dd1\u5206 \u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3124156453,
+     "id_str": "3124156453",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 19:42:26 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen32",
+     "name": "\u6d17\u94b1 \u8dd1\u5206 \u504f\u95e8 \u7070\u4ea7 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3316701194,
+     "id_str": "3316701194",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 19:42:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen31",
+     "name": "\u8dd1\u5206 \u6d17\u94b1 \u504f\u95e8 \u7070\u4ea7\u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3121092206,
+     "id_str": "3121092206",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 16:07:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/uAuQBOYDlO",
+     "expanded_url": "https://twitter.com/i/web/status/1622628090752143360",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 16:07:13 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen35",
+     "name": "\u504f\u95e8 \u641e\u94b1 \u7070\u4ea7 \u8dd1\u5206 \u6d17\u94b1 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3049630587,
+     "id_str": "3049630587",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 16:07:11 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen33",
+     "name": "\u7070\u4ea7 \u504f\u95e8 \u8d5a\u94b1 \u641e\u94b1 \u8dd1\u5206 \u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3124156453,
+     "id_str": "3124156453",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 16:07:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen31",
+     "name": "\u8dd1\u5206 \u6d17\u94b1 \u504f\u95e8 \u7070\u4ea7\u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3121092206,
+     "id_str": "3121092206",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 16:07:07 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen32",
+     "name": "\u6d17\u94b1 \u8dd1\u5206 \u504f\u95e8 \u7070\u4ea7 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3316701194,
+     "id_str": "3316701194",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 13:14:28 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen32",
+     "name": "\u6d17\u94b1 \u8dd1\u5206 \u504f\u95e8 \u7070\u4ea7 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3316701194,
+     "id_str": "3316701194",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 13:14:25 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen31",
+     "name": "\u8dd1\u5206 \u6d17\u94b1 \u504f\u95e8 \u7070\u4ea7\u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3121092206,
+     "id_str": "3121092206",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 13:14:21 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen35",
+     "name": "\u504f\u95e8 \u641e\u94b1 \u7070\u4ea7 \u8dd1\u5206 \u6d17\u94b1 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3049630587,
+     "id_str": "3049630587",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 13:14:18 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen33",
+     "name": "\u7070\u4ea7 \u504f\u95e8 \u8d5a\u94b1 \u641e\u94b1 \u8dd1\u5206 \u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3124156453,
+     "id_str": "3124156453",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 10:33:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Q1VvqV58aK",
+     "expanded_url": "http://Starlink.com",
+     "display_url": "Starlink.com",
+     "indices": [
+      37,
+      60
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1622307420516106246,
+     "id_str": "1622307420516106246",
+     "indices": [
+      61,
+      84
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoOYAOxXwAYDOdh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoOYAOxXwAYDOdh.jpg",
+     "url": "https://t.co/CbTQCMg7oT",
+     "display_url": "pic.twitter.com/CbTQCMg7oT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622307425226313729/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 654,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 654,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 434,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622307425226313729,
+     "source_status_id_str": "1622307425226313729",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 06 10:33:17 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/Web30FQzBs",
+     "expanded_url": "https://twitter.com/i/web/status/1622543950962921475",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 06:02:28 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen36",
+     "name": "\u6d17\u94b1 \u8dd1\u5206 \u641e\u94b1 \u504f\u95e8 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3035671982,
+     "id_str": "3035671982",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 06:02:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "emin_adin",
+     "name": "Mehmet Emin Adin, MD",
+     "id": 151329521,
+     "id_str": "151329521",
+     "indices": [
+      14,
+      24
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      25,
+      32
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 05:58:55 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen35",
+     "name": "\u504f\u95e8 \u641e\u94b1 \u7070\u4ea7 \u8dd1\u5206 \u6d17\u94b1 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3049630587,
+     "id_str": "3049630587",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 05:58:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/Bl8ykJcDYe",
+     "expanded_url": "https://twitter.com/i/web/status/1622474895526592512",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 05:58:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen31",
+     "name": "\u8dd1\u5206 \u6d17\u94b1 \u504f\u95e8 \u7070\u4ea7\u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3121092206,
+     "id_str": "3121092206",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 05:58:49 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen32",
+     "name": "\u6d17\u94b1 \u8dd1\u5206 \u504f\u95e8 \u7070\u4ea7 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3316701194,
+     "id_str": "3316701194",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 05:58:45 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen33",
+     "name": "\u7070\u4ea7 \u504f\u95e8 \u8d5a\u94b1 \u641e\u94b1 \u8dd1\u5206 \u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3124156453,
+     "id_str": "3124156453",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 21:16:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen35",
+     "name": "\u504f\u95e8 \u641e\u94b1 \u7070\u4ea7 \u8dd1\u5206 \u6d17\u94b1 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3049630587,
+     "id_str": "3049630587",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 21:15:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen33",
+     "name": "\u7070\u4ea7 \u504f\u95e8 \u8d5a\u94b1 \u641e\u94b1 \u8dd1\u5206 \u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3124156453,
+     "id_str": "3124156453",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 21:15:08 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen32",
+     "name": "\u6d17\u94b1 \u8dd1\u5206 \u504f\u95e8 \u7070\u4ea7 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3316701194,
+     "id_str": "3316701194",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 21:15:04 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen31",
+     "name": "\u8dd1\u5206 \u6d17\u94b1 \u504f\u95e8 \u7070\u4ea7\u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3121092206,
+     "id_str": "3121092206",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 21:14:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Zealots2022",
+     "name": "\u5f90\u601d\u8fdc | God wills it",
+     "id": 1516262944534892549,
+     "id_str": "1516262944534892549",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 21:14:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FHtxWIgJMI3yoLO",
+     "name": "\u6bcf\u65e5\u53cd\u5171\ud83c\uddfa\ud83c\udde6",
+     "id": 903140569685270528,
+     "id_str": "903140569685270528",
+     "indices": [
+      0,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 21:14:30 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/3EZD53958a",
+     "expanded_url": "https://twitter.com/i/web/status/1622342928764141569",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Sun Feb 05 18:22:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen35",
+     "name": "\u504f\u95e8 \u641e\u94b1 \u7070\u4ea7 \u8dd1\u5206 \u6d17\u94b1 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3049630587,
+     "id_str": "3049630587",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 18:22:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen33",
+     "name": "\u7070\u4ea7 \u504f\u95e8 \u8d5a\u94b1 \u641e\u94b1 \u8dd1\u5206 \u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3124156453,
+     "id_str": "3124156453",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 18:22:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen31",
+     "name": "\u8dd1\u5206 \u6d17\u94b1 \u504f\u95e8 \u7070\u4ea7\u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3121092206,
+     "id_str": "3121092206",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 18:21:59 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen32",
+     "name": "\u6d17\u94b1 \u8dd1\u5206 \u504f\u95e8 \u7070\u4ea7 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3316701194,
+     "id_str": "3316701194",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 18:15:58 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/7idromOf8F",
+     "expanded_url": "https://twitter.com/i/web/status/1622297998192701440",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Sun Feb 05 18:15:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "BBCBreaking",
+     "name": "BBC Breaking News",
+     "id": 5402612,
+     "id_str": "5402612",
+     "indices": [
+      14,
+      26
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622079827363635200,
+     "id_str": "1622079827363635200",
+     "indices": [
+      27,
+      50
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoLJAkNWIAA47K1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoLJAkNWIAA47K1.jpg",
+     "url": "https://t.co/sUIV9eYTWk",
+     "display_url": "pic.twitter.com/sUIV9eYTWk",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622079831000195072/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622079831000195072,
+     "source_status_id_str": "1622079831000195072",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 05 13:03:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen31",
+     "name": "\u8dd1\u5206 \u6d17\u94b1 \u504f\u95e8 \u7070\u4ea7\u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3121092206,
+     "id_str": "3121092206",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 13:03:22 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen32",
+     "name": "\u6d17\u94b1 \u8dd1\u5206 \u504f\u95e8 \u7070\u4ea7 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3316701194,
+     "id_str": "3316701194",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 13:03:18 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen33",
+     "name": "\u7070\u4ea7 \u504f\u95e8 \u8d5a\u94b1 \u641e\u94b1 \u8dd1\u5206 \u3010\u805a\u4e30\u8d44\u4ea7\u3011",
+     "id": 3124156453,
+     "id_str": "3124156453",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 13:03:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen35",
+     "name": "\u504f\u95e8 \u641e\u94b1 \u7070\u4ea7 \u8dd1\u5206 \u6d17\u94b1 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3049630587,
+     "id_str": "3049630587",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 13:03:13 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      87,
+      90
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      91,
+      94
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      99,
+      103
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      104,
+      107
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      109,
+      112
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      113,
+      116
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      117,
+      120
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "\u56db\u4ef6\u5957",
+     "indices": [
+      127,
+      131
+     ]
+    },
+    {
+     "text": "\u4ee3\u6536",
+     "indices": [
+      132,
+      135
+     ]
+    },
+    {
+     "text": "\u7eff\u5e3d",
+     "indices": [
+      136,
+      139
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paofen36",
+     "name": "\u6d17\u94b1 \u8dd1\u5206 \u641e\u94b1 \u504f\u95e8 \u3010\u805a\u4e30\u8054\u5408\u3011",
+     "id": 3035671982,
+     "id_str": "3035671982",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 12:54:04 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/7Qw8utPzu9",
+     "expanded_url": "https://twitter.com/i/web/status/1622216991435276289",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Sun Feb 05 12:07:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 10:33:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/lHDWVd0i9G",
+     "expanded_url": "https://twitter.com/i/web/status/1622181624258637824",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Sun Feb 05 07:27:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      0,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 07:27:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 07:27:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/aiTPfvEQHv",
+     "expanded_url": "https://twitter.com/i/web/status/1622134817092665346",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Sun Feb 05 07:27:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 21:14:54 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/7qrM4DEk28",
+     "expanded_url": "https://twitter.com/i/web/status/1621980640857178114",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Sat Feb 04 18:23:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Project_Veritas",
+     "name": "Project Veritas",
+     "id": 850036892,
+     "id_str": "850036892",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 18:23:17 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/aQauRrAoQM",
+     "expanded_url": "https://twitter.com/i/web/status/1621937452624785408",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Sat Feb 04 18:23:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 12:35:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/IInN1s81Iy",
+     "expanded_url": "https://twitter.com/i/web/status/1621849975583035392",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Sat Feb 04 09:05:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/sWjuQjl4xa",
+     "expanded_url": "https://twitter.com/i/web/status/1621797104090841090",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 18:00:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 18:00:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/8gbSVbIAM2",
+     "expanded_url": "https://twitter.com/i/web/status/1621569346660360192",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 14:32:12 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/oGPV54ON8A",
+     "expanded_url": "https://twitter.com/i/web/status/1621516912797822976",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 10:53:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/cIXajHMXq9",
+     "expanded_url": "https://twitter.com/i/web/status/1621461879620263937",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 07:39:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/hi7Enyeor7",
+     "expanded_url": "https://twitter.com/i/web/status/1621413162884153350",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 03:31:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Project_Veritas",
+     "name": "Project Veritas",
+     "id": 850036892,
+     "id_str": "850036892",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "pfizer",
+     "name": "Pfizer Inc.",
+     "id": 56488059,
+     "id_str": "56488059",
+     "indices": [
+      87,
+      94
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 17:43:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/z9L8nn35v7",
+     "expanded_url": "https://twitter.com/i/web/status/1621202637776621568",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Thu Feb 02 17:43:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Ayupasha007",
+     "name": "\u25ac\u2726\ud835\udcdf\ud835\udcea\ud835\udcfc\ud835\udcf1\ud835\udcea\u2726\u25ac",
+     "id": 1507985012339068931,
+     "id_str": "1507985012339068931",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/7nLZuQg4oG",
+     "expanded_url": "https://twitter.com/i/spaces/1jMJgLAlMDqxL",
+     "display_url": "twitter.com/i/spaces/1jMJg\u2026",
+     "indices": [
+      49,
+      72
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1620628209879625729,
+     "id_str": "1620628209879625729",
+     "indices": [
+      73,
+      96
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fn2gxTraMAEQgHu.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fn2gxTraMAEQgHu.jpg",
+     "url": "https://t.co/BGOlVVGcfH",
+     "display_url": "pic.twitter.com/BGOlVVGcfH",
+     "expanded_url": "https://twitter.com/Ayupasha007/status/1620628214195576833/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 720,
+       "h": 901,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 543,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 901,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1620628214195576833,
+     "source_status_id_str": "1620628214195576833",
+     "source_user_id": 1507985012339068931,
+     "source_user_id_str": "1507985012339068931"
+    }
+   ]
+  },
+  "Thu Feb 02 13:51:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Project_Veritas",
+     "name": "Project Veritas",
+     "id": 850036892,
+     "id_str": "850036892",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1618404115268227075,
+     "id_str": "1618404115268227075",
+     "indices": [
+      106,
+      129
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1618404115268227075/pu/img/Sa9_-0eft-NHvqA2.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1618404115268227075/pu/img/Sa9_-0eft-NHvqA2.jpg",
+     "url": "https://t.co/xaRvlD5qTo",
+     "display_url": "pic.twitter.com/xaRvlD5qTo",
+     "expanded_url": "https://twitter.com/Project_Veritas/status/1618405890612420609/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1618405890612420609,
+     "source_status_id_str": "1618405890612420609",
+     "source_user_id": 850036892,
+     "source_user_id_str": "850036892"
+    }
+   ]
+  },
+  "Thu Feb 02 13:51:18 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/yoCtoDovwl",
+     "expanded_url": "https://twitter.com/i/web/status/1621144228918349824",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Thu Feb 02 06:35:50 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/SNpgucQlN8",
+     "expanded_url": "https://twitter.com/i/web/status/1621034640466415616",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Thu Feb 02 03:15:18 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u504f\u95e8",
+     "indices": [
+      73,
+      76
+     ]
+    },
+    {
+     "text": "\u5e01\u5708",
+     "indices": [
+      77,
+      80
+     ]
+    },
+    {
+     "text": "\u5fae\u4fe1",
+     "indices": [
+      81,
+      84
+     ]
+    },
+    {
+     "text": "\u53cd\u5dee\u5a4a",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "\u7ea6\u70ae",
+     "indices": [
+      90,
+      93
+     ]
+    },
+    {
+     "text": "\u8dd1\u5206",
+     "indices": [
+      95,
+      98
+     ]
+    },
+    {
+     "text": "\u6d17\u94b1",
+     "indices": [
+      99,
+      102
+     ]
+    },
+    {
+     "text": "\u641e\u94b1",
+     "indices": [
+      103,
+      106
+     ]
+    },
+    {
+     "text": "\u94f6\u884c\u5361",
+     "indices": [
+      107,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/xEXQyof4tv",
+     "expanded_url": "https://twitter.com/i/web/status/1620984174957195264",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Thu Feb 02 03:14:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LeighWolf",
+     "name": "\ud83d\udc3a",
+     "id": 23359932,
+     "id_str": "23359932",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

@@ -1,0 +1,725 @@
+{
+ "1594286885148450818": {
+  "Sun Feb 05 23:03:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622370352411066369,
+     "id_str": "1622370352411066369",
+     "indices": [
+      7,
+      30
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoPRPWWWQAENGWz.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoPRPWWWQAENGWz.jpg",
+     "url": "https://t.co/T2PpTHy2H1",
+     "display_url": "pic.twitter.com/T2PpTHy2H1",
+     "expanded_url": "https://twitter.com/BettySaveUSA/status/1622370354277629955/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 720,
+       "h": 935,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 524,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 935,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Sun Feb 05 19:41:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "MichaelCoudrey",
+     "name": "Mike Coudrey",
+     "id": 264501955,
+     "id_str": "264501955",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 19:40:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Q1VvqV58aK",
+     "expanded_url": "http://Starlink.com",
+     "display_url": "Starlink.com",
+     "indices": [
+      37,
+      60
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1622307420516106246,
+     "id_str": "1622307420516106246",
+     "indices": [
+      61,
+      84
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoOYAOxXwAYDOdh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoOYAOxXwAYDOdh.jpg",
+     "url": "https://t.co/CbTQCMg7oT",
+     "display_url": "pic.twitter.com/CbTQCMg7oT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622307425226313729/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 654,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 654,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 434,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622307425226313729,
+     "source_status_id_str": "1622307425226313729",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 05 03:27:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622074392325885952,
+     "id_str": "1622074392325885952",
+     "indices": [
+      7,
+      30
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoLEENHXkAA2npT.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoLEENHXkAA2npT.jpg",
+     "url": "https://t.co/LAgTIhrG30",
+     "display_url": "pic.twitter.com/LAgTIhrG30",
+     "expanded_url": "https://twitter.com/BettySaveUSA/status/1622074394225922050/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 787,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 446,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1348,
+       "h": 884,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Sun Feb 05 03:24:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 02:04:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BillyM2k",
+     "name": "Shibetoshi Nakamoto",
+     "id": 30699048,
+     "id_str": "30699048",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621989976417394688,
+     "id_str": "1621989976417394688",
+     "indices": [
+      24,
+      47
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoJ3SjWaYAAvXNY.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoJ3SjWaYAAvXNY.jpg",
+     "url": "https://t.co/xpzTIM6k72",
+     "display_url": "pic.twitter.com/xpzTIM6k72",
+     "expanded_url": "https://twitter.com/BillyM2k/status/1621989990631882753/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 498,
+       "h": 372,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 498,
+       "h": 372,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 498,
+       "h": 372,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621989990631882753,
+     "source_status_id_str": "1621989990631882753",
+     "source_user_id": 30699048,
+     "source_user_id_str": "30699048"
+    }
+   ]
+  },
+  "Sat Feb 04 23:52:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621998710900101120,
+     "id_str": "1621998710900101120",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoJ_O91XkAANjfy.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoJ_O91XkAANjfy.jpg",
+     "url": "https://t.co/gbkqVT3MXq",
+     "display_url": "pic.twitter.com/gbkqVT3MXq",
+     "expanded_url": "https://twitter.com/elonmusk/status/1621998713806721025/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 640,
+       "h": 790,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 551,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 640,
+       "h": 790,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621998713806721025,
+     "source_status_id_str": "1621998713806721025",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sat Feb 04 23:51:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621996406482288640,
+     "id_str": "1621996406482288640",
+     "indices": [
+      38,
+      61
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoJ9I1NWQAA3zcL.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoJ9I1NWQAA3zcL.jpg",
+     "url": "https://t.co/TEkak5BcFZ",
+     "display_url": "pic.twitter.com/TEkak5BcFZ",
+     "expanded_url": "https://twitter.com/elonmusk/status/1621996414124310528/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1062,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1322,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 602,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621996414124310528,
+     "source_status_id_str": "1621996414124310528",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sat Feb 04 04:16:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621724451027951618,
+     "id_str": "1621724451027951618",
+     "indices": [
+      7,
+      30
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoGFy8MWIAI0Pqi.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoGFy8MWIAI0Pqi.jpg",
+     "url": "https://t.co/9JjZvJpN65",
+     "display_url": "pic.twitter.com/9JjZvJpN65",
+     "expanded_url": "https://twitter.com/BettySaveUSA/status/1621724453246799872/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 488,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1242,
+       "h": 1729,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 862,
+       "h": 1200,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Sat Feb 04 04:03:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CollinRugg",
+     "name": "Collin Rugg",
+     "id": 890061634181373952,
+     "id_str": "890061634181373952",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 04:03:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WhiteHouse",
+     "name": "The White House",
+     "id": 1323730225067339784,
+     "id_str": "1323730225067339784",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621721012097224704,
+     "id_str": "1621721012097224704",
+     "indices": [
+      12,
+      35
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoGCqxLXkAAi9i2.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoGCqxLXkAAi9i2.jpg",
+     "url": "https://t.co/BeJ8v6Ov0h",
+     "display_url": "pic.twitter.com/BeJ8v6Ov0h",
+     "expanded_url": "https://twitter.com/BettySaveUSA/status/1621721013758169089/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 957,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 957,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 542,
+       "h": 680,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Sat Feb 04 04:02:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621720840730550278,
+     "id_str": "1621720840730550278",
+     "indices": [
+      7,
+      30
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoGCgyyXoAYr93P.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoGCgyyXoAYr93P.jpg",
+     "url": "https://t.co/Eu9NDiPcoV",
+     "display_url": "pic.twitter.com/Eu9NDiPcoV",
+     "expanded_url": "https://twitter.com/BettySaveUSA/status/1621720842458513408/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 705,
+       "h": 900,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 705,
+       "h": 900,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 533,
+       "h": 680,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Fri Feb 03 08:51:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "realDonaldTrump",
+     "name": "Donald J. Trump",
+     "id": 25073877,
+     "id_str": "25073877",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 08:27:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bennash",
+     "name": "Ben Nash",
+     "id": 2066761,
+     "id_str": "2066761",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:26:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:26:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:26:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Rainmaker1973",
+     "name": "Massimo",
+     "id": 177101260,
+     "id_str": "177101260",
+     "indices": [
+      14,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 07:25:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 12:04:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DemsFails",
+     "name": "Dems Fails \ud83c\uddfa\ud83c\uddf8",
+     "id": 1613334953860730880,
+     "id_str": "1613334953860730880",
+     "indices": [
+      0,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

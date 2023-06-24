@@ -1,0 +1,227 @@
+{
+ "1265613216014614528": {
+  "Wed Feb 15 23:55:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Earthquake",
+     "indices": [
+      15,
+      26
+     ]
+    },
+    {
+     "text": "lindol",
+     "indices": [
+      28,
+      35
+     ]
+    },
+    {
+     "text": "Matnog",
+     "indices": [
+      101,
+      108
+     ]
+    },
+    {
+     "text": "Philippines",
+     "indices": [
+      110,
+      122
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LastQuake",
+     "name": "EMSC",
+     "id": 203226820,
+     "id_str": "203226820",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:47:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "YouTube",
+     "name": "YouTube",
+     "id": 10228272,
+     "id_str": "10228272",
+     "indices": [
+      86,
+      94
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/jo6GnIBHRf",
+     "expanded_url": "https://youtu.be/zTmKiwPi0o0",
+     "display_url": "youtu.be/zTmKiwPi0o0",
+     "indices": [
+      58,
+      81
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 23:31:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "YouTube",
+     "name": "YouTube",
+     "id": 10228272,
+     "id_str": "10228272",
+     "indices": [
+      75,
+      83
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/GNzn4dLGNE",
+     "expanded_url": "https://youtu.be/c5nhkTf0Usk",
+     "display_url": "youtu.be/c5nhkTf0Usk",
+     "indices": [
+      47,
+      70
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 23:29:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "YouTube",
+     "name": "YouTube",
+     "id": 10228272,
+     "id_str": "10228272",
+     "indices": [
+      80,
+      88
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/n71BLLZvj8",
+     "expanded_url": "https://youtu.be/5uBvrpfK1k4",
+     "display_url": "youtu.be/5uBvrpfK1k4",
+     "indices": [
+      52,
+      75
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 23:28:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "YouTube",
+     "name": "YouTube",
+     "id": 10228272,
+     "id_str": "10228272",
+     "indices": [
+      83,
+      91
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/2td4biKHun",
+     "expanded_url": "https://youtu.be/NbYIieQ51t8",
+     "display_url": "youtu.be/NbYIieQ51t8",
+     "indices": [
+      55,
+      78
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 23:23:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Leclerc6067",
+     "name": "Fred Dixon",
+     "id": 1548263840864866308,
+     "id_str": "1548263840864866308",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "nytimes",
+     "name": "The New York Times",
+     "id": 807095,
+     "id_str": "807095",
+     "indices": [
+      17,
+      25
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625985612191858694,
+     "id_str": "1625985612191858694",
+     "indices": [
+      36,
+      59
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpCpTKiXgAYOcML.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpCpTKiXgAYOcML.jpg",
+     "url": "https://t.co/KgwAuqIW8f",
+     "display_url": "pic.twitter.com/KgwAuqIW8f",
+     "expanded_url": "https://twitter.com/Leclerc6067/status/1625985626850861056/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 750,
+       "h": 938,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 750,
+       "h": 938,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625985626850861056,
+     "source_status_id_str": "1625985626850861056",
+     "source_user_id": 1548263840864866308,
+     "source_user_id_str": "1548263840864866308"
+    }
+   ]
+  }
+ }
+}

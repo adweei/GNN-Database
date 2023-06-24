@@ -1,0 +1,639 @@
+{
+ "25782041": {
+  "Mon Feb 20 15:00:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Biden",
+     "indices": [
+      7,
+      13
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/6HXXC7xbfS",
+     "expanded_url": "https://twitter.com/i/web/status/1627684537344958464",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Mon Feb 20 14:56:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 14:30:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "simonateba",
+     "name": "Simon Ateba",
+     "id": 130003441,
+     "id_str": "130003441",
+     "indices": [
+      0,
+      11
+     ]
+    },
+    {
+     "screen_name": "JoeBiden",
+     "name": "Joe Biden",
+     "id": 939091,
+     "id_str": "939091",
+     "indices": [
+      12,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 14:20:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mtaibbi",
+     "name": "Matt Taibbi",
+     "id": 38271276,
+     "id_str": "38271276",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 14:19:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627246530309627904,
+     "id_str": "1627246530309627904",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "url": "https://t.co/O3nGpfeRZ7",
+     "display_url": "pic.twitter.com/O3nGpfeRZ7",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627246535581761536/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627246535581761536,
+     "source_status_id_str": "1627246535581761536",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 14:18:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Lauren_Southern",
+     "name": "Lauren Southern",
+     "id": 164070785,
+     "id_str": "164070785",
+     "indices": [
+      0,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 14:18:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Lauren_Southern",
+     "name": "Lauren Southern",
+     "id": 164070785,
+     "id_str": "164070785",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 21:17:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "hodgetwins",
+     "name": "Hodgetwins",
+     "id": 18584875,
+     "id_str": "18584875",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 21:17:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "hodgetwins",
+     "name": "Hodgetwins",
+     "id": 18584875,
+     "id_str": "18584875",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 21:16:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jordanbpeterson",
+     "name": "Dr Jordan B Peterson",
+     "id": 95092020,
+     "id_str": "95092020",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 19:27:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "realstewpeters",
+     "name": "Stew Peters",
+     "id": 1288319695658135552,
+     "id_str": "1288319695658135552",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 19:27:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "incunabula",
+     "name": "Incunabula",
+     "id": 902011866091855873,
+     "id_str": "902011866091855873",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/4dnBSjHEvT",
+     "expanded_url": "https://telegraph.co.uk/news/2023/02/17/roald-dahl-books-rewritten-offensive-matilda-witches-twits/",
+     "display_url": "telegraph.co.uk/news/2023/02/1\u2026",
+     "indices": [
+      96,
+      119
+     ]
+    }
+   ]
+  },
+  "Sat Feb 18 19:26:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EndWokeness",
+     "name": "End Wokeness",
+     "id": 1552795969959636992,
+     "id_str": "1552795969959636992",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 19:00:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "VivekGRamaswamy",
+     "name": "Vivek Ramaswamy",
+     "id": 1227799690579718144,
+     "id_str": "1227799690579718144",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 19:00:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "VivekGRamaswamy",
+     "name": "Vivek Ramaswamy",
+     "id": 1227799690579718144,
+     "id_str": "1227799690579718144",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 18:59:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "laurenboebert",
+     "name": "Lauren Boebert",
+     "id": 1201670995435646976,
+     "id_str": "1201670995435646976",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 18:57:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "activeasian",
+     "name": "Asian Crime Report",
+     "id": 1365393266523267073,
+     "id_str": "1365393266523267073",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 18:43:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626727869148983297,
+     "id_str": "1626727869148983297",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpNMYNLacAEqWxS.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpNMYNLacAEqWxS.jpg",
+     "url": "https://t.co/2YnLMPZmXH",
+     "display_url": "pic.twitter.com/2YnLMPZmXH",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626727875960532992/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 663,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 948,
+       "h": 972,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 948,
+       "h": 972,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626727875960532992,
+     "source_status_id_str": "1626727875960532992",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sat Feb 18 16:15:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepJeffries",
+     "name": "Hakeem Jeffries",
+     "id": 467823431,
+     "id_str": "467823431",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 16:18:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 16:16:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 16:16:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 16:15:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "realDailyWire",
+     "name": "Daily Wire",
+     "id": 4081106480,
+     "id_str": "4081106480",
+     "indices": [
+      0,
+      14
+     ]
+    },
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      15,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 15:59:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LPofDelaware",
+     "name": "Libertarian Party of Delaware",
+     "id": 1456158682341855234,
+     "id_str": "1456158682341855234",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "Lauren_Southern",
+     "name": "Lauren Southern",
+     "id": 164070785,
+     "id_str": "164070785",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 15:58:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LPofDelaware",
+     "name": "Libertarian Party of Delaware",
+     "id": 1456158682341855234,
+     "id_str": "1456158682341855234",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 15:56:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 15:54:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "libsoftiktok",
+     "name": "Libs of TikTok",
+     "id": 1326229737551912960,
+     "id_str": "1326229737551912960",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 15:53:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "libsoftiktok",
+     "name": "Libs of TikTok",
+     "id": 1326229737551912960,
+     "id_str": "1326229737551912960",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 15:53:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepJeffries",
+     "name": "Hakeem Jeffries",
+     "id": 467823431,
+     "id_str": "467823431",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

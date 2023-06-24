@@ -1,0 +1,936 @@
+{
+ "1598106960636903427": {
+  "Wed Feb 15 22:56:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/kbIJXfXQoh",
+     "expanded_url": "https://nationalpost.com/news/politics/federal-ethics-commissioner-finds-another-liberal-broke-ethics-laws-calls-for-mandatory-training-for-all-mps",
+     "display_url": "nationalpost.com/news/politics/\u2026",
+     "indices": [
+      0,
+      23
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 22:56:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealAndyLeeShow",
+     "name": "The Real Andy Lee Show",
+     "id": 1505640052818268161,
+     "id_str": "1505640052818268161",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 22:55:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mtgreenee",
+     "name": "Marjorie Taylor Greene \ud83c\uddfa\ud83c\uddf8",
+     "id": 826065164504006657,
+     "id_str": "826065164504006657",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 22:55:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      0,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 22:54:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625851234233257985,
+     "id_str": "1625851234233257985",
+     "indices": [
+      75,
+      98
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625851234233257985/pu/img/ip-r3dncV5dfzIrF.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625851234233257985/pu/img/ip-r3dncV5dfzIrF.jpg",
+     "url": "https://t.co/XuY8lLfOjk",
+     "display_url": "pic.twitter.com/XuY8lLfOjk",
+     "expanded_url": "https://twitter.com/WallStreetSilv/status/1625851326302404609/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 376,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 854,
+       "h": 472,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 854,
+       "h": 472,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625851326302404609,
+     "source_status_id_str": "1625851326302404609",
+     "source_user_id": 1366565625401909249,
+     "source_user_id_str": "1366565625401909249"
+    }
+   ]
+  },
+  "Wed Feb 15 22:53:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WSJ",
+     "name": "The Wall Street Journal",
+     "id": 3108351,
+     "id_str": "3108351",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 22:53:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RWMaloneMD",
+     "name": "Robert W Malone, MD",
+     "id": 39844876,
+     "id_str": "39844876",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 22:53:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "cdnpoli",
+     "indices": [
+      106,
+      114
+     ]
+    },
+    {
+     "text": "abpoli",
+     "indices": [
+      115,
+      122
+     ]
+    },
+    {
+     "text": "ableg",
+     "indices": [
+      123,
+      129
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ABDanielleSmith",
+     "name": "Danielle Smith",
+     "id": 41514883,
+     "id_str": "41514883",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "PierrePoilievre",
+     "name": "Pierre Poilievre",
+     "id": 242827267,
+     "id_str": "242827267",
+     "indices": [
+      41,
+      57
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/M8KLy2DW6o",
+     "expanded_url": "https://globalnews.ca/news/9489052/pierre-poilievre-just-transition-danielle-smith/",
+     "display_url": "globalnews.ca/news/9489052/p\u2026",
+     "indices": [
+      82,
+      105
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 22:51:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/Ue27O8bE7Y",
+     "expanded_url": "https://reduxx.info/canada-man-who-raped-infant-quietly-moved-to-prison-with-mother-baby-unit-after-transgender-claim/",
+     "display_url": "reduxx.info/canada-man-who\u2026",
+     "indices": [
+      0,
+      23
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 22:51:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jordanbpeterson",
+     "name": "Dr Jordan B Peterson",
+     "id": 95092020,
+     "id_str": "95092020",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/TSgzyovLj5",
+     "expanded_url": "https://reduxx.info/canada-man-who-raped-infant-quietly-moved-to-prison-with-mother-baby-unit-after-transgender-claim/",
+     "display_url": "reduxx.info/canada-man-who\u2026",
+     "indices": [
+      90,
+      113
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 22:50:55 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "OhioChemicalDisaster",
+     "indices": [
+      63,
+      84
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TulsiGabbard",
+     "name": "Tulsi Gabbard \ud83c\udf3a",
+     "id": 26637348,
+     "id_str": "26637348",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:45:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ryancohen",
+     "name": "Ryan Cohen",
+     "id": 1146058067244486656,
+     "id_str": "1146058067244486656",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:44:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:43:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jordanbpeterson",
+     "name": "Dr Jordan B Peterson",
+     "id": 95092020,
+     "id_str": "95092020",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:42:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "thedetostore",
+     "name": "Deto",
+     "id": 1590215139906973696,
+     "id_str": "1590215139906973696",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:42:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ABDanielleSmith",
+     "name": "Danielle Smith",
+     "id": 41514883,
+     "id_str": "41514883",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:37:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MrAndyNgo",
+     "name": "Andy Ng\u00f4 \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+     "id": 2835451658,
+     "id_str": "2835451658",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:35:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Canadianautoman",
+     "name": "Arthur walsh",
+     "id": 1598106960636903427,
+     "id_str": "1598106960636903427",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "CitizenFreePres",
+     "name": "Citizen Free Press",
+     "id": 18929234,
+     "id_str": "18929234",
+     "indices": [
+      21,
+      37
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:34:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CitizenFreePres",
+     "name": "Citizen Free Press",
+     "id": 18929234,
+     "id_str": "18929234",
+     "indices": [
+      0,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:33:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "catturd2",
+     "name": "Catturd \u2122",
+     "id": 1043185714437992449,
+     "id_str": "1043185714437992449",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:32:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenTedCruz",
+     "name": "Senator Ted Cruz",
+     "id": 1074480192,
+     "id_str": "1074480192",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      21,
+      30
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625523869929930753,
+     "id_str": "1625523869929930753",
+     "indices": [
+      109,
+      132
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8FvBlWcAID8gH.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8FvBlWcAID8gH.jpg",
+     "url": "https://t.co/58K4Vc4GPt",
+     "display_url": "pic.twitter.com/58K4Vc4GPt",
+     "expanded_url": "https://twitter.com/SenTedCruz/status/1625524457438687233/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 540,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 960,
+       "h": 540,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625524457438687233,
+     "source_status_id_str": "1625524457438687233",
+     "source_user_id": 1074480192,
+     "source_user_id_str": "1074480192"
+    }
+   ]
+  },
+  "Tue Feb 14 22:32:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "TheChiefNerd",
+     "name": "Chief Nerd",
+     "id": 69156861,
+     "id_str": "69156861",
+     "indices": [
+      14,
+      27
+     ]
+    },
+    {
+     "screen_name": "mtaibbi",
+     "name": "Matt Taibbi",
+     "id": 38271276,
+     "id_str": "38271276",
+     "indices": [
+      28,
+      36
+     ]
+    },
+    {
+     "screen_name": "joerogan",
+     "name": "Joe Rogan",
+     "id": 18208354,
+     "id_str": "18208354",
+     "indices": [
+      37,
+      46
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:31:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheChiefNerd",
+     "name": "Chief Nerd",
+     "id": 69156861,
+     "id_str": "69156861",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:30:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:30:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AndrewLawton",
+     "name": "Andrew Lawton",
+     "id": 19472876,
+     "id_str": "19472876",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TulsiGabbard",
+     "name": "Tulsi Gabbard \ud83c\udf3a",
+     "id": 26637348,
+     "id_str": "26637348",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:26:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 22:25:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 18:30:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ABDanielleSmith",
+     "name": "Danielle Smith",
+     "id": 41514883,
+     "id_str": "41514883",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "JustinTrudeau",
+     "name": "Justin Trudeau",
+     "id": 14260960,
+     "id_str": "14260960",
+     "indices": [
+      112,
+      126
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 18:30:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ztCVFqJve6",
+     "expanded_url": "https://www.westernstandard.news/opinion/krayden-this-just-in-wefs-15-minute-cities-are-already-here-they-re-called-prisons/article_4b80dcc4-ac74-11ed-8309-3f513b1c6a8c.html?utm_campaign=blox&utm_source=twitter&utm_medium=social",
+     "display_url": "westernstandard.news/opinion/krayde\u2026",
+     "indices": [
+      0,
+      23
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 18:29:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 18:28:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 18:28:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 18:28:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "OntarioFarms",
+     "name": "Ontario Federation of Agriculture",
+     "id": 150381198,
+     "id_str": "150381198",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 18:28:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/BDbqnS8ndp",
+     "expanded_url": "https://homegrownofa.ca/z982dxncsm/",
+     "display_url": "homegrownofa.ca/z982dxncsm/",
+     "indices": [
+      0,
+      23
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 18:27:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625377140903653379,
+     "id_str": "1625377140903653379",
+     "indices": [
+      40,
+      63
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo5_5eWaMAMEPaf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo5_5eWaMAMEPaf.jpg",
+     "url": "https://t.co/92Ny452J9B",
+     "display_url": "pic.twitter.com/92Ny452J9B",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625377144137461761/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625377144137461761,
+     "source_status_id_str": "1625377144137461761",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 14 18:27:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 18:26:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TulsiGabbard",
+     "name": "Tulsi Gabbard \ud83c\udf3a",
+     "id": 26637348,
+     "id_str": "26637348",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 18:26:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 15:26:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "solmamakwa",
+     "name": "Sol Mamakwa",
+     "id": 48890510,
+     "id_str": "48890510",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

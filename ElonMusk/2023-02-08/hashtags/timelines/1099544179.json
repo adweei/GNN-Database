@@ -1,0 +1,2324 @@
+{
+ "1099544179": {
+  "Wed Feb 08 21:38:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KanekoaTheGreat",
+     "name": "kanekoa.substack.com",
+     "id": 1085225533623783424,
+     "id_str": "1085225533623783424",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:37:13 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SOTU",
+     "indices": [
+      24,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenTedCruz",
+     "name": "Senator Ted Cruz",
+     "id": 1074480192,
+     "id_str": "1074480192",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:36:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CollinRugg",
+     "name": "Collin Rugg",
+     "id": 890061634181373952,
+     "id_str": "890061634181373952",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:34:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheInsiderPaper",
+     "name": "Insider Paper",
+     "id": 1247223374717296647,
+     "id_str": "1247223374717296647",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:33:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:33:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TexasLindsay_",
+     "name": "TexasLindsay\u2122",
+     "id": 499479056,
+     "id_str": "499479056",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623381138675994624,
+     "id_str": "1623381138675994624",
+     "indices": [
+      109,
+      132
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fodoi2naEAATU-J.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fodoi2naEAATU-J.jpg",
+     "url": "https://t.co/joReiziKsg",
+     "display_url": "pic.twitter.com/joReiziKsg",
+     "expanded_url": "https://twitter.com/TexasLindsay_/status/1623381143801446400/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623381143801446400,
+     "source_status_id_str": "1623381143801446400",
+     "source_user_id": 499479056,
+     "source_user_id_str": "499479056"
+    }
+   ]
+  },
+  "Wed Feb 08 21:30:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Will_Tanner_1",
+     "name": "Will Tanner",
+     "id": 1504181287468339208,
+     "id_str": "1504181287468339208",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623157084324786176,
+     "id_str": "1623157084324786176",
+     "indices": [
+      70,
+      93
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoacxLHWcAAQ5wZ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoacxLHWcAAQ5wZ.jpg",
+     "url": "https://t.co/DgtCpNuv4s",
+     "display_url": "pic.twitter.com/DgtCpNuv4s",
+     "expanded_url": "https://twitter.com/Will_Tanner_1/status/1623157088179421185/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1536,
+       "h": 1536,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623157088179421185,
+     "source_status_id_str": "1623157088179421185",
+     "source_user_id": 1504181287468339208,
+     "source_user_id_str": "1504181287468339208"
+    }
+   ]
+  },
+  "Wed Feb 08 21:25:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DC_Draino",
+     "name": "DC_Draino",
+     "id": 875856268056969216,
+     "id_str": "875856268056969216",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "RepClayHiggins",
+     "name": "Rep. Clay Higgins",
+     "id": 843636970538618880,
+     "id_str": "843636970538618880",
+     "indices": [
+      20,
+      35
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:25:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DrEliDavid",
+     "name": "Dr. Eli David",
+     "id": 801203059359678464,
+     "id_str": "801203059359678464",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:25:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "thetimes",
+     "name": "The Times and The Sunday Times",
+     "id": 6107422,
+     "id_str": "6107422",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:24:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "liz_churchill8",
+     "name": "Liz Churchill",
+     "id": 855483824351924224,
+     "id_str": "855483824351924224",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:24:42 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "DiedSuddenly",
+     "indices": [
+      20,
+      33
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "realstewpeters",
+     "name": "Stew Peters",
+     "id": 1288319695658135552,
+     "id_str": "1288319695658135552",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623400163397054466,
+     "id_str": "1623400163397054466",
+     "indices": [
+      61,
+      84
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1623400163397054466/img/DiezVnfhhIxuva20.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1623400163397054466/img/DiezVnfhhIxuva20.jpg",
+     "url": "https://t.co/mX5o0zW0mT",
+     "display_url": "pic.twitter.com/mX5o0zW0mT",
+     "expanded_url": "https://twitter.com/realstewpeters/status/1623400234184310785/video/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1080,
+       "h": 580,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 580,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 365,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623400234184310785,
+     "source_status_id_str": "1623400234184310785",
+     "source_user_id": 1288319695658135552,
+     "source_user_id_str": "1288319695658135552"
+    }
+   ]
+  },
+  "Wed Feb 08 21:24:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RWMaloneMD",
+     "name": "Robert W Malone, MD",
+     "id": 39844876,
+     "id_str": "39844876",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:23:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CollinRugg",
+     "name": "Collin Rugg",
+     "id": 890061634181373952,
+     "id_str": "890061634181373952",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Wu2UjXhiKQ",
+     "expanded_url": "https://trendingpoliticsnews.com/breaking-rep-higgins-tells-twitter-executives-to-prepare-to-be-arrested-for-interfering-in-2020-election-mace/?utm_source=collin&utm_medium=twitter",
+     "display_url": "trendingpoliticsnews.com/breaking-rep-h\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 21:22:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CollinRugg",
+     "name": "Collin Rugg",
+     "id": 890061634181373952,
+     "id_str": "890061634181373952",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:22:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Deutschland",
+     "indices": [
+      29,
+      41
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:21:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/9hTiqlalZY",
+     "expanded_url": "https://www.fr.de/politik/erdbeben-tuerkei-recep-tayyip-erdogan-besuch-krisen-gebiet-kritik-akp-chp-news-ticker-zr-92076063.html",
+     "display_url": "fr.de/politik/erdbeb\u2026",
+     "indices": [
+      28,
+      51
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 21:21:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/wu9LgWQePc",
+     "expanded_url": "https://www.tagesschau.de/inland/gesellschaft/wechsel-geo-chefredaktion-101.html",
+     "display_url": "tagesschau.de/inland/gesells\u2026",
+     "indices": [
+      29,
+      52
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 21:21:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "StormyBotK",
+     "name": "\ud83c\uddfa\ud83c\uddf8StormyBotK\ud83c\uddfa\ud83c\uddf8",
+     "id": 1511429007639646209,
+     "id_str": "1511429007639646209",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623173049829978112,
+     "id_str": "1623173049829978112",
+     "indices": [
+      81,
+      104
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoarSfQacAAb9Yq.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoarSfQacAAb9Yq.jpg",
+     "url": "https://t.co/q0aH01Gf9e",
+     "display_url": "pic.twitter.com/q0aH01Gf9e",
+     "expanded_url": "https://twitter.com/StormyBotK/status/1623173058038218752/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 505,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1156,
+       "h": 859,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1156,
+       "h": 859,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623173058038218752,
+     "source_status_id_str": "1623173058038218752",
+     "source_user_id": 1511429007639646209,
+     "source_user_id_str": "1511429007639646209"
+    }
+   ]
+  },
+  "Wed Feb 08 21:21:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "dockyyyyyyyyy",
+     "name": "Wollfy",
+     "id": 1282296935316062208,
+     "id_str": "1282296935316062208",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:17:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sayitnspinit",
+     "name": "The Nasty Italian\ud83c\udf77\ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf9",
+     "id": 781639819600490500,
+     "id_str": "781639819600490500",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623347929023934468,
+     "id_str": "1623347929023934468",
+     "indices": [
+      18,
+      41
+     ],
+     "media_url": "http://pbs.twimg.com/media/FodKVzBWcAQGIZB.png",
+     "media_url_https": "https://pbs.twimg.com/media/FodKVzBWcAQGIZB.png",
+     "url": "https://t.co/GHJDTBeXcg",
+     "display_url": "pic.twitter.com/GHJDTBeXcg",
+     "expanded_url": "https://twitter.com/sayitnspinit/status/1623347943141961730/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 393,
+       "h": 555,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 393,
+       "h": 555,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 393,
+       "h": 555,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1623347943141961730,
+     "source_status_id_str": "1623347943141961730",
+     "source_user_id": 781639819600490500,
+     "source_user_id_str": "781639819600490500"
+    }
+   ]
+  },
+  "Wed Feb 08 21:16:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "george_orwell3",
+     "name": "GeorgeOrwell3",
+     "id": 1509525279454076931,
+     "id_str": "1509525279454076931",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:15:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DC_Draino",
+     "name": "DC_Draino",
+     "id": 875856268056969216,
+     "id_str": "875856268056969216",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:15:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "healthbyjames",
+     "name": "James Cintolo, RN FN CPT",
+     "id": 1478792963090169860,
+     "id_str": "1478792963090169860",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:10:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/wu9LgWQePc",
+     "expanded_url": "https://www.tagesschau.de/inland/gesellschaft/wechsel-geo-chefredaktion-101.html",
+     "display_url": "tagesschau.de/inland/gesells\u2026",
+     "indices": [
+      13,
+      36
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 21:08:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/9hTiqlalZY",
+     "expanded_url": "https://www.fr.de/politik/erdbeben-tuerkei-recep-tayyip-erdogan-besuch-krisen-gebiet-kritik-akp-chp-news-ticker-zr-92076063.html",
+     "display_url": "fr.de/politik/erdbeb\u2026",
+     "indices": [
+      12,
+      35
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 18:19:55 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Deutschland",
+     "indices": [
+      13,
+      25
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/YtCTVRIL9k",
+     "expanded_url": "https://www.focus.de/panorama/welt/freiburg-kommt-wegen-fluechtlingsheim-nicht-zur-ruhe-neue-blutige-attacke_id_185266379.html",
+     "display_url": "focus.de/panorama/welt/\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 18:16:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "oliver93877389",
+     "name": "\ud83d\udc99oliver\ud83d\udc99 AfD, seit 2014 \ud83c\udde9\ud83c\uddea\ud83c\uddee\ud83c\uddf1 \ud83d\udc00",
+     "id": 1025680304349081601,
+     "id_str": "1025680304349081601",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/u7njCAUsJ2",
+     "expanded_url": "https://www.focus.de/panorama/welt/freiburg-kommt-wegen-fluechtlingsheim-nicht-zur-ruhe-neue-blutige-attacke_id_185266379.html",
+     "display_url": "focus.de/panorama/welt/\u2026",
+     "indices": [
+      100,
+      123
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 18:15:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LionessDeb19",
+     "name": "Lioness Deb",
+     "id": 1534206384396546049,
+     "id_str": "1534206384396546049",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623185788388114433,
+     "id_str": "1623185788388114433",
+     "indices": [
+      56,
+      79
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1623185788388114433/img/B-yafbYdyZCFgRc2.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1623185788388114433/img/B-yafbYdyZCFgRc2.jpg",
+     "url": "https://t.co/eZhU1M94Ec",
+     "display_url": "pic.twitter.com/eZhU1M94Ec",
+     "expanded_url": "https://twitter.com/LionessDeb19/status/1623186838490947585/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 888,
+       "h": 496,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 888,
+       "h": 496,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 380,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623186838490947585,
+     "source_status_id_str": "1623186838490947585",
+     "source_user_id": 1534206384396546049,
+     "source_user_id_str": "1534206384396546049"
+    }
+   ]
+  },
+  "Wed Feb 08 18:15:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "memejority",
+     "name": "Silent Memejority",
+     "id": 1301600163190902784,
+     "id_str": "1301600163190902784",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623170829130559488,
+     "id_str": "1623170829130559488",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoapROgacAAckTw.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoapROgacAAckTw.jpg",
+     "url": "https://t.co/Ja8exNvDKZ",
+     "display_url": "pic.twitter.com/Ja8exNvDKZ",
+     "expanded_url": "https://twitter.com/memejority/status/1623170846729854978/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 367,
+       "h": 550,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 367,
+       "h": 550,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 367,
+       "h": 550,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623170846729854978,
+     "source_status_id_str": "1623170846729854978",
+     "source_user_id": 1301600163190902784,
+     "source_user_id_str": "1301600163190902784"
+    }
+   ]
+  },
+  "Wed Feb 08 18:15:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "george_orwell3",
+     "name": "GeorgeOrwell3",
+     "id": 1509525279454076931,
+     "id_str": "1509525279454076931",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 18:14:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "amuse",
+     "name": "@amuse",
+     "id": 4239551,
+     "id_str": "4239551",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623317811501142017,
+     "id_str": "1623317811501142017",
+     "indices": [
+      105,
+      128
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1623317811501142017/img/MnCuGBPTPbcWuB4V.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1623317811501142017/img/MnCuGBPTPbcWuB4V.jpg",
+     "url": "https://t.co/XnerXfJqTp",
+     "display_url": "pic.twitter.com/XnerXfJqTp",
+     "expanded_url": "https://twitter.com/WadeMiller_USMC/status/1623317856468303875/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 654,
+       "h": 496,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 654,
+       "h": 496,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 654,
+       "h": 496,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623317856468303875,
+     "source_status_id_str": "1623317856468303875",
+     "source_user_id": 1324206908660715520,
+     "source_user_id_str": "1324206908660715520"
+    }
+   ]
+  },
+  "Wed Feb 08 18:14:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "stkirsch",
+     "name": "Steve Kirsch",
+     "id": 37491797,
+     "id_str": "37491797",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 18:14:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "george_orwell3",
+     "name": "GeorgeOrwell3",
+     "id": 1509525279454076931,
+     "id_str": "1509525279454076931",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 18:14:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kripp_m",
+     "name": "Kripp-M",
+     "id": 1544305114336428032,
+     "id_str": "1544305114336428032",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 18:13:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "healthbyjames",
+     "name": "James Cintolo, RN FN CPT",
+     "id": 1478792963090169860,
+     "id_str": "1478792963090169860",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623137165554188288,
+     "id_str": "1623137165554188288",
+     "indices": [
+      117,
+      140
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1623137165554188288/img/H8Vtvy5Mg3FPW_04.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1623137165554188288/img/H8Vtvy5Mg3FPW_04.jpg",
+     "url": "https://t.co/9W90gSGUlv",
+     "display_url": "pic.twitter.com/9W90gSGUlv",
+     "expanded_url": "https://twitter.com/healthbyjames/status/1623137232549826560/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623137232549826560,
+     "source_status_id_str": "1623137232549826560",
+     "source_user_id": 1478792963090169860,
+     "source_user_id_str": "1478792963090169860"
+    }
+   ]
+  },
+  "Wed Feb 08 18:13:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "stkirsch",
+     "name": "Steve Kirsch",
+     "id": 37491797,
+     "id_str": "37491797",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/MzFkakZWd0",
+     "expanded_url": "https://open.substack.com/pub/alexberenson/p/dr-anthony-fauci-now-admits-the-mrna?r=o7iqo&utm_medium=ios&utm_campaign=post",
+     "display_url": "open.substack.com/pub/alexberens\u2026",
+     "indices": [
+      77,
+      100
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 18:12:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "vegastarr",
+     "name": "vegastar",
+     "id": 18822926,
+     "id_str": "18822926",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 18:11:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/G2occrhwOG",
+     "expanded_url": "https://twitter.com/i/web/status/1623383976781008896",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 17:43:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623376857147052036,
+     "id_str": "1623376857147052036",
+     "indices": [
+      62,
+      85
+     ],
+     "media_url": "http://pbs.twimg.com/media/FodkporXEAQ5nOf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FodkporXEAQ5nOf.jpg",
+     "url": "https://t.co/RdZzAQVfVp",
+     "display_url": "pic.twitter.com/RdZzAQVfVp",
+     "expanded_url": "https://twitter.com/Jeana_Luft/status/1623376861358133252/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 375,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 706,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 662,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623376861358133252,
+     "source_status_id_str": "1623376861358133252",
+     "source_user_id": 1099544179,
+     "source_user_id_str": "1099544179"
+    }
+   ]
+  },
+  "Wed Feb 08 17:42:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623376857147052036,
+     "id_str": "1623376857147052036",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/FodkporXEAQ5nOf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FodkporXEAQ5nOf.jpg",
+     "url": "https://t.co/RdZzAQVfVp",
+     "display_url": "pic.twitter.com/RdZzAQVfVp",
+     "expanded_url": "https://twitter.com/Jeana_Luft/status/1623376861358133252/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 375,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 706,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 662,
+       "h": 1200,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 08 17:42:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:32:59 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "vonderLeyen",
+     "indices": [
+      16,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BH67605640",
+     "name": "BH",
+     "id": 1427986267099238403,
+     "id_str": "1427986267099238403",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:29:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:26:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ImMeme0",
+     "name": "I Meme Therefore I Am \ud83c\uddfa\ud83c\uddf8",
+     "id": 1511074777708085258,
+     "id_str": "1511074777708085258",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:26:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "george_orwell3",
+     "name": "GeorgeOrwell3",
+     "id": 1509525279454076931,
+     "id_str": "1509525279454076931",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:25:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RomanLasota",
+     "name": "Roman Lasota",
+     "id": 48306422,
+     "id_str": "48306422",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:25:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RickyDoggin",
+     "name": "A Man Of Memes",
+     "id": 1494513441234636815,
+     "id_str": "1494513441234636815",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623331331060162561,
+     "id_str": "1623331331060162561",
+     "indices": [
+      64,
+      87
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foc7PqyaYAEbdmH.png",
+     "media_url_https": "https://pbs.twimg.com/media/Foc7PqyaYAEbdmH.png",
+     "url": "https://t.co/7rnqoyQSND",
+     "display_url": "pic.twitter.com/7rnqoyQSND",
+     "expanded_url": "https://twitter.com/RickyDoggin/status/1623331516838445058/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 575,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 640,
+       "h": 757,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 757,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1623331516838445058,
+     "source_status_id_str": "1623331516838445058",
+     "source_user_id": 1494513441234636815,
+     "source_user_id_str": "1494513441234636815"
+    }
+   ]
+  },
+  "Wed Feb 08 17:24:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "UkraineKrieg",
+     "indices": [
+      20,
+      33
+     ]
+    },
+    {
+     "text": "Melnyk",
+     "indices": [
+      39,
+      46
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "george_orwell3",
+     "name": "GeorgeOrwell3",
+     "id": 1509525279454076931,
+     "id_str": "1509525279454076931",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:23:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "aaronjmate",
+     "name": "Aaron Mat\u00e9",
+     "id": 153517357,
+     "id_str": "153517357",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:23:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kripp_m",
+     "name": "Kripp-M",
+     "id": 1544305114336428032,
+     "id_str": "1544305114336428032",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/BRFk6cij13",
+     "expanded_url": "https://uncutnews.ch/pfizer-raeumt-ein-die-entwicklung-des-covid-19-virus-gesteuert-zu-haben/",
+     "display_url": "uncutnews.ch/pfizer-raeumt-\u2026",
+     "indices": [
+      88,
+      111
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 17:23:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CEMPERTrading",
+     "name": "Semper Occasionem Trading",
+     "id": 1559592089607983106,
+     "id_str": "1559592089607983106",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "healthbyjames",
+     "name": "James Cintolo, RN FN CPT",
+     "id": 1478792963090169860,
+     "id_str": "1478792963090169860",
+     "indices": [
+      19,
+      33
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623344756012056576,
+     "id_str": "1623344756012056576",
+     "indices": [
+      34,
+      57
+     ],
+     "media_url": "http://pbs.twimg.com/media/FodHdGoXgAAqzAq.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FodHdGoXgAAqzAq.jpg",
+     "url": "https://t.co/EQX60XA1uX",
+     "display_url": "pic.twitter.com/EQX60XA1uX",
+     "expanded_url": "https://twitter.com/CEMPERTrading/status/1623344762962018306/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 677,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1165,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1170,
+       "h": 1165,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623344762962018306,
+     "source_status_id_str": "1623344762962018306",
+     "source_user_id": 1559592089607983106,
+     "source_user_id_str": "1559592089607983106"
+    }
+   ]
+  },
+  "Wed Feb 08 17:22:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "healthbyjames",
+     "name": "James Cintolo, RN FN CPT",
+     "id": 1478792963090169860,
+     "id_str": "1478792963090169860",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:21:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Wed Feb 08 17:21:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 17:04:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/cJIedzNFUw",
+     "expanded_url": "https://twitter.com/i/web/status/1623367105692241941",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 17:01:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ofV1pGyqQT",
+     "expanded_url": "https://www.tagesschau.de/newsticker/liveblog-erdbeben-tuerkei-syrien-mittwoch-101.html",
+     "display_url": "tagesschau.de/newsticker/liv\u2026",
+     "indices": [
+      54,
+      77
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 16:09:11 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Erdbeben",
+     "indices": [
+      37,
+      46
+     ]
+    },
+    {
+     "text": "Tuerkei",
+     "indices": [
+      73,
+      81
+     ]
+    },
+    {
+     "text": "Syrien",
+     "indices": [
+      85,
+      92
+     ]
+    },
+    {
+     "text": "USA",
+     "indices": [
+      119,
+      123
+     ]
+    },
+    {
+     "text": "EU",
+     "indices": [
+      128,
+      131
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Unwoke_Berlin",
+     "name": "DER PATRI\u272aT \ud83c\udde9\ud83c\uddea\ud83e\udd1d\ud83c\uddf7\ud83c\uddfa",
+     "id": 1517995237687414784,
+     "id_str": "1517995237687414784",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 16:08:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Scholz",
+     "indices": [
+      22,
+      29
+     ]
+    },
+    {
+     "text": "Selenskyj",
+     "indices": [
+      48,
+      58
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "freiheit3_0",
+     "name": "Freiheitsmensch 2.0",
+     "id": 1521554432776937480,
+     "id_str": "1521554432776937480",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 16:06:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/UuWipRUyC1",
+     "expanded_url": "https://www.nzz.ch/schweiz/suche-nach-messina-denaros-geldern-2016-abgebrochen-ld.1721712",
+     "display_url": "nzz.ch/schweiz/suche-\u2026",
+     "indices": [
+      16,
+      39
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 16:06:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/nomdei4DvV",
+     "expanded_url": "https://www.spiegel.de/politik/deutschland/bundesanwaltschaft-karlsruhe-anklage-gegen-mutmassliche-mitglieder-von-tuerkischer-extremistengruppe-dhkp-c-a-eea8d3df-87bc-4287-9153-f81caa292ee5",
+     "display_url": "spiegel.de/politik/deutsc\u2026",
+     "indices": [
+      16,
+      39
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 16:06:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/wu748r8ess",
+     "expanded_url": "https://www.stern.de/gesellschaft/regional/hessen/verfassungsschutz--kabinett-stimmt-fuer-neumann-als-neuen-lfv-praesidenten-33176066.html",
+     "display_url": "stern.de/gesellschaft/r\u2026",
+     "indices": [
+      88,
+      111
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 16:06:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Neuseeland",
+     "indices": [
+      31,
+      42
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/UCypri1yVe",
+     "expanded_url": "https://www.n-tv.de/panorama/Polizei-findet-drei-Tonnen-Kokain-im-Ozean-article23901743.html",
+     "display_url": "n-tv.de/panorama/Poliz\u2026",
+     "indices": [
+      88,
+      111
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 16:06:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/XveWszdnsa",
+     "expanded_url": "https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/terrorismus--haft-fuer-deutsche-und-partner-nach-hilfe-fuer-is-33175914.html",
+     "display_url": "stern.de/gesellschaft/r\u2026",
+     "indices": [
+      78,
+      101
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 16:06:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jeana_Luft",
+     "name": "Jeana Luft",
+     "id": 1099544179,
+     "id_str": "1099544179",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 16:06:10 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "TwitterFiles",
+     "indices": [
+      32,
+      45
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KanekoaTheGreat",
+     "name": "kanekoa.substack.com",
+     "id": 1085225533623783424,
+     "id_str": "1085225533623783424",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      47,
+      56
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 16:05:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z6h5975anw",
+     "expanded_url": "https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/",
+     "display_url": "state.gov/bureaus-office\u2026",
+     "indices": [
+      118,
+      141
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 15:55:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 15:55:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 15:55:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623182543620132869,
+     "id_str": "1623182543620132869",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "url": "https://t.co/jL5fjQxTcz",
+     "display_url": "pic.twitter.com/jL5fjQxTcz",
+     "expanded_url": "https://twitter.com/elonmusk/status/1623182547373985793/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 572,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623182547373985793,
+     "source_status_id_str": "1623182547373985793",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 08 15:55:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/oaDId6ba5I",
+     "expanded_url": "https://twitter.com/i/web/status/1623349724014166018",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 15:53:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/z6uGAQVE8Y",
+     "expanded_url": "https://twitter.com/i/web/status/1623349284585328640",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 15:50:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "N\u00fcrnberg",
+     "indices": [
+      95,
+      104
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Wed Feb 08 15:48:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/oKIWV1kbIX",
+     "expanded_url": "https://www.idowa.de/inhalt.ransomware-attacke-bundeskriminalamt-verzeichnet-mehr-cyberangriffe.6364da48-87d4-4f0d-ae5f-aad9bafd782b.html",
+     "display_url": "idowa.de/inhalt.ransomw\u2026",
+     "indices": [
+      0,
+      23
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 15:48:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/XveWszdnsa",
+     "expanded_url": "https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/terrorismus--haft-fuer-deutsche-und-partner-nach-hilfe-fuer-is-33175914.html",
+     "display_url": "stern.de/gesellschaft/r\u2026",
+     "indices": [
+      62,
+      85
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 15:46:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Neuseeland",
+     "indices": [
+      15,
+      26
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/UCypri1yVe",
+     "expanded_url": "https://www.n-tv.de/panorama/Polizei-findet-drei-Tonnen-Kokain-im-Ozean-article23901743.html",
+     "display_url": "n-tv.de/panorama/Poliz\u2026",
+     "indices": [
+      72,
+      95
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 15:45:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/wu748r8ess",
+     "expanded_url": "https://www.stern.de/gesellschaft/regional/hessen/verfassungsschutz--kabinett-stimmt-fuer-neumann-als-neuen-lfv-praesidenten-33176066.html",
+     "display_url": "stern.de/gesellschaft/r\u2026",
+     "indices": [
+      72,
+      95
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 15:44:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/nomdei4DvV",
+     "expanded_url": "https://www.spiegel.de/politik/deutschland/bundesanwaltschaft-karlsruhe-anklage-gegen-mutmassliche-mitglieder-von-tuerkischer-extremistengruppe-dhkp-c-a-eea8d3df-87bc-4287-9153-f81caa292ee5",
+     "display_url": "spiegel.de/politik/deutsc\u2026",
+     "indices": [
+      0,
+      23
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 15:43:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/UuWipRUyC1",
+     "expanded_url": "https://www.nzz.ch/schweiz/suche-nach-messina-denaros-geldern-2016-abgebrochen-ld.1721712",
+     "display_url": "nzz.ch/schweiz/suche-\u2026",
+     "indices": [
+      0,
+      23
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 15:41:42 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "rcmtl",
+     "indices": [
+      125,
+      131
+     ]
+    },
+    {
+     "text": "laval",
+     "indices": [
+      132,
+      138
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MatGT_SRC",
+     "name": "Mat\u00e9o Garcia-Tremblay",
+     "id": 1534217963993194496,
+     "id_str": "1534217963993194496",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 15:39:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "justinemercier",
+     "name": "Justine Mercier",
+     "id": 89249915,
+     "id_str": "89249915",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 15:39:07 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BREAKING",
+     "indices": [
+      19,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WeAreCanProud",
+     "name": "Canada Proud",
+     "id": 1082730144794587137,
+     "id_str": "1082730144794587137",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 15:37:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tvanouvelles",
+     "name": "TVA nouvelles",
+     "id": 85334007,
+     "id_str": "85334007",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 15:36:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "7sur7",
+     "name": "7sur7",
+     "id": 57332764,
+     "id_str": "57332764",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/t9QurX0tgb",
+     "expanded_url": "http://dlvr.it/Sj6s1m",
+     "display_url": "dlvr.it/Sj6s1m",
+     "indices": [
+      94,
+      117
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 15:35:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "catturd2",
+     "name": "Catturd \u2122",
+     "id": 1043185714437992449,
+     "id_str": "1043185714437992449",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 15:34:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bennyjohnson",
+     "name": "Benny Johnson",
+     "id": 15212187,
+     "id_str": "15212187",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

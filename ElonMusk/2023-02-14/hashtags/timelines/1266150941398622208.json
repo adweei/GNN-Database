@@ -1,0 +1,130 @@
+{
+ "1266150941398622208": {
+  "Mon Feb 06 21:18:25 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Turquia",
+     "indices": [
+      27,
+      35
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UKR_token",
+     "name": "Noticias de Ucrania 24 horas",
+     "id": 1491380637625991172,
+     "id_str": "1491380637625991172",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 21:18:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MarkitoShango",
+     "name": "Markito Shango",
+     "id": 1533481113578049537,
+     "id_str": "1533481113578049537",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 21:18:17 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AlO\u00eddo",
+     "indices": [
+      20,
+      27
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Horadelaverdad",
+     "name": "La Hora de La Verdad",
+     "id": 112412293,
+     "id_str": "112412293",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 21:18:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "seanmamo_11tw",
+     "name": "Nomo leste!! progre \u0646 \u26d4\ud83d\udd3b\u26d4",
+     "id": 1119649273736499203,
+     "id_str": "1119649273736499203",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622405783718608898,
+     "id_str": "1622405783718608898",
+     "indices": [
+      41,
+      64
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoPxduQWQAIuTlc.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoPxduQWQAIuTlc.jpg",
+     "url": "https://t.co/S0kUezlytz",
+     "display_url": "pic.twitter.com/S0kUezlytz",
+     "expanded_url": "https://twitter.com/seanmamo_11tw/status/1622405786080104448/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 502,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 709,
+       "h": 960,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 709,
+       "h": 960,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622405786080104448,
+     "source_status_id_str": "1622405786080104448",
+     "source_user_id": 1119649273736499203,
+     "source_user_id_str": "1119649273736499203"
+    }
+   ]
+  }
+ }
+}

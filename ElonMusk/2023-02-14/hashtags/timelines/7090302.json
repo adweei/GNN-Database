@@ -1,0 +1,662 @@
+{
+ "7090302": {
+  "Mon Feb 06 23:13:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 02:16:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/LH7wTj8D27",
+     "expanded_url": "https://twitter.com/SPACEdotcom/status/1622264221357543430",
+     "display_url": "twitter.com/SPACEdotcom/st\u2026",
+     "indices": [
+      30,
+      53
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 02:15:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AaronJoelGeorge",
+     "name": "Aaron George",
+     "id": 1316423444603510785,
+     "id_str": "1316423444603510785",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      45,
+      51
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      113,
+      122
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 23:27:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "DriveTeslaca",
+     "name": "Drive Tesla \ud83c\udde8\ud83c\udde6",
+     "id": 1169348503975317504,
+     "id_str": "1169348503975317504",
+     "indices": [
+      14,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 21:00:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabeSpeed",
+     "name": "Tesla Speed Babe",
+     "id": 1206625032807604224,
+     "id_str": "1206625032807604224",
+     "indices": [
+      0,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 19:31:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DoctorJack16",
+     "name": "Doctor Jack",
+     "id": 1361704632284684290,
+     "id_str": "1361704632284684290",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 18:11:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DoctorJack16",
+     "name": "Doctor Jack",
+     "id": 1361704632284684290,
+     "id_str": "1361704632284684290",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 18:00:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaAIBot",
+     "name": "Optimus",
+     "id": 1428789207825256453,
+     "id_str": "1428789207825256453",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      20,
+      29
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622075535957364737,
+     "id_str": "1622075535957364737",
+     "indices": [
+      30,
+      53
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoLFGxeXEAEQo1u.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoLFGxeXEAEQo1u.jpg",
+     "url": "https://t.co/ykm7LnYEiU",
+     "display_url": "pic.twitter.com/ykm7LnYEiU",
+     "expanded_url": "https://twitter.com/TeslaAIBot/status/1622075538360639515/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622075538360639515,
+     "source_status_id_str": "1622075538360639515",
+     "source_user_id": 1428789207825256453,
+     "source_user_id_str": "1428789207825256453"
+    }
+   ]
+  },
+  "Sun Feb 05 18:00:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cybrtrkguy",
+     "name": "The Cybertruck Guy",
+     "id": 1198313150858383360,
+     "id_str": "1198313150858383360",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622085703386415110,
+     "id_str": "1622085703386415110",
+     "indices": [
+      106,
+      129
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoLOWmGWQAYvY32.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoLOWmGWQAYvY32.jpg",
+     "url": "https://t.co/0eklhu9nWy",
+     "display_url": "pic.twitter.com/0eklhu9nWy",
+     "expanded_url": "https://twitter.com/cybrtrkguy/status/1622086111798476800/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622086111798476800,
+     "source_status_id_str": "1622086111798476800",
+     "source_user_id": 1198313150858383360,
+     "source_user_id_str": "1198313150858383360"
+    }
+   ]
+  },
+  "Sun Feb 05 18:00:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Investingcom",
+     "name": "Investing.com",
+     "id": 988955288,
+     "id_str": "988955288",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622294046575136770,
+     "id_str": "1622294046575136770",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoOL1w9XkAICOqy.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoOL1w9XkAICOqy.jpg",
+     "url": "https://t.co/yTZOd33Bpe",
+     "display_url": "pic.twitter.com/yTZOd33Bpe",
+     "expanded_url": "https://twitter.com/davidjkon/status/1622294053596401664/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 480,
+       "h": 320,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 320,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 480,
+       "h": 320,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Sun Feb 05 16:38:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "seniorsgift",
+     "name": "Funny Tees",
+     "id": 1597814713143787520,
+     "id_str": "1597814713143787520",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 15:37:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/fMMrxlHRW8",
+     "expanded_url": "https://twitter.com/i/web/status/1622258105877929984",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Sun Feb 05 15:09:12 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MoneyMinded",
+     "indices": [
+      28,
+      40
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ripsawwealth",
+     "name": "RIPSAW\u00ae WEALTH TOOLS",
+     "id": 974381223291142144,
+     "id_str": "974381223291142144",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 15:01:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Lyndonx",
+     "name": "Lyndon Wood \u270c\ufe0f\ud83d\udc7d\ud83d\ude4f",
+     "id": 83197153,
+     "id_str": "83197153",
+     "indices": [
+      0,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 15:00:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "teslaownersSV",
+     "name": "Tesla Owners Silicon Valley",
+     "id": 1016059981907386368,
+     "id_str": "1016059981907386368",
+     "indices": [
+      14,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 04:10:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "RipsawWealthTool",
+     "indices": [
+      89,
+      106
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ripsawwealth",
+     "name": "RIPSAW\u00ae WEALTH TOOLS",
+     "id": 974381223291142144,
+     "id_str": "974381223291142144",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 03:52:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "teslaownersSV",
+     "name": "Tesla Owners Silicon Valley",
+     "id": 1016059981907386368,
+     "id_str": "1016059981907386368",
+     "indices": [
+      10,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 03:51:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Teslaconomics",
+     "name": "Teslaconomics",
+     "id": 985243593538338816,
+     "id_str": "985243593538338816",
+     "indices": [
+      14,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 03:50:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "RipsawWealthTool",
+     "indices": [
+      79,
+      96
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ripsawwealth",
+     "name": "RIPSAW\u00ae WEALTH TOOLS",
+     "id": 974381223291142144,
+     "id_str": "974381223291142144",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 04 22:31:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/XX1gQXHKMy",
+     "expanded_url": "https://twitter.com/i/web/status/1621999863205593089",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Fri Feb 03 20:32:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rachellee221",
+     "name": "Rachel \ud83c\udf31\u26a1\ufe0f\ud83c\udf0e",
+     "id": 1534704049,
+     "id_str": "1534704049",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 14:52:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "hwfeinstein",
+     "name": "TeslaHowie the $tsla\ud83d\udc02 in Washington",
+     "id": 3309067506,
+     "id_str": "3309067506",
+     "indices": [
+      0,
+      12
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      13,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 14:21:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "DriveTeslaca",
+     "name": "Drive Tesla \ud83c\udde8\ud83c\udde6",
+     "id": 1169348503975317504,
+     "id_str": "1169348503975317504",
+     "indices": [
+      14,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 01:53:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaAIBot",
+     "name": "Optimus",
+     "id": 1428789207825256453,
+     "id_str": "1428789207825256453",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 02 14:10:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ReDKeV32",
+     "name": "ReDKeV",
+     "id": 1465543570509684746,
+     "id_str": "1465543570509684746",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

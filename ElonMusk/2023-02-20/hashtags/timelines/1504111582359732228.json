@@ -1,0 +1,5550 @@
+{
+ "1504111582359732228": {
+  "Mon Feb 20 16:50:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "platis_e",
+     "name": "ELLIE (\ud83e\uddc1) | \ud83c\udde6\ud83c\uddfa\ud83e\udd98 HH- Feb. 20-24",
+     "id": 1487948727419486208,
+     "id_str": "1487948727419486208",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "hackerhouses",
+     "name": "Solana Hacker House | \ud83c\udde6\ud83c\uddfa Melbourne Feb. 20-24",
+     "id": 1491138594697797640,
+     "id_str": "1491138594697797640",
+     "indices": [
+      29,
+      42
+     ]
+    },
+    {
+     "screen_name": "bonk_inu",
+     "name": "Bonk!",
+     "id": 1553567565577854976,
+     "id_str": "1553567565577854976",
+     "indices": [
+      54,
+      63
+     ]
+    },
+    {
+     "screen_name": "cupcakeprotocol",
+     "name": "cupcake",
+     "id": 1539616551564877824,
+     "id_str": "1539616551564877824",
+     "indices": [
+      64,
+      80
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627578640769875968,
+     "id_str": "1627578640769875968",
+     "indices": [
+      81,
+      104
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpZSJocaAAAHfCs.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpZSJocaAAAHfCs.jpg",
+     "url": "https://t.co/BmDpH89TZg",
+     "display_url": "pic.twitter.com/BmDpH89TZg",
+     "expanded_url": "https://twitter.com/platis_e/status/1627578663104548864/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 900,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1536,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 510,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627578663104548864,
+     "source_status_id_str": "1627578663104548864",
+     "source_user_id": 1487948727419486208,
+     "source_user_id_str": "1487948727419486208"
+    }
+   ]
+  },
+  "Mon Feb 20 16:50:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "BONK",
+     "indices": [
+      27,
+      32
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "bonk_inu",
+     "name": "Bonk!",
+     "id": 1553567565577854976,
+     "id_str": "1553567565577854976",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627666430521999360,
+     "id_str": "1627666430521999360",
+     "indices": [
+      44,
+      67
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fpah_qwXgAAhV7e.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fpah_qwXgAAhV7e.jpg",
+     "url": "https://t.co/EztrVCRS8i",
+     "display_url": "pic.twitter.com/EztrVCRS8i",
+     "expanded_url": "https://twitter.com/bonk_inu/status/1627666433281753089/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1024,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1024,
+       "h": 1024,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627666433281753089,
+     "source_status_id_str": "1627666433281753089",
+     "source_user_id": 1553567565577854976,
+     "source_user_id_str": "1553567565577854976"
+    }
+   ]
+  },
+  "Mon Feb 20 16:50:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BiconomyCom",
+     "name": "Biconomy \ud83c\udf10",
+     "id": 1164460518049906695,
+     "id_str": "1164460518049906695",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 11:29:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "enterprimal",
+     "name": "PRIMAL \u26bd\ufe0f 40 Days to Fan Tokens",
+     "id": 1508890950159978500,
+     "id_str": "1508890950159978500",
+     "indices": [
+      14,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 11:28:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "enterprimal",
+     "name": "PRIMAL \u26bd\ufe0f 40 Days to Fan Tokens",
+     "id": 1508890950159978500,
+     "id_str": "1508890950159978500",
+     "indices": [
+      81,
+      93
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/UAopqn3msj",
+     "expanded_url": "http://BabyDogeSwap.com",
+     "display_url": "BabyDogeSwap.com",
+     "indices": [
+      97,
+      120
+     ]
+    }
+   ]
+  },
+  "Mon Feb 20 06:52:12 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MondayMotivation",
+     "indices": [
+      60,
+      77
+     ]
+    },
+    {
+     "text": "DuttsTheWay",
+     "indices": [
+      78,
+      90
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "duttsanjay",
+     "name": "Sanjay Dutt",
+     "id": 149198901,
+     "id_str": "149198901",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627527446693281797,
+     "id_str": "1627527446693281797",
+     "indices": [
+      91,
+      114
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpYjlvpaAAUNX3w.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpYjlvpaAAUNX3w.jpg",
+     "url": "https://t.co/zse0bqFhZk",
+     "display_url": "pic.twitter.com/zse0bqFhZk",
+     "expanded_url": "https://twitter.com/duttsanjay/status/1627527454922534912/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 768,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 768,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627527454922534912,
+     "source_status_id_str": "1627527454922534912",
+     "source_user_id": 149198901,
+     "source_user_id_str": "149198901"
+    }
+   ]
+  },
+  "Mon Feb 20 06:52:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "BONK",
+     "indices": [
+      27,
+      32
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "bonk_inu",
+     "name": "Bonk!",
+     "id": 1553567565577854976,
+     "id_str": "1553567565577854976",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627334943318704128,
+     "id_str": "1627334943318704128",
+     "indices": [
+      44,
+      67
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpV0gksXgAAtXZe.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpV0gksXgAAtXZe.jpg",
+     "url": "https://t.co/n1fgByotKx",
+     "display_url": "pic.twitter.com/n1fgByotKx",
+     "expanded_url": "https://twitter.com/bonk_inu/status/1627334946208595969/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1024,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1024,
+       "h": 1024,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627334946208595969,
+     "source_status_id_str": "1627334946208595969",
+     "source_user_id": 1553567565577854976,
+     "source_user_id_str": "1553567565577854976"
+    }
+   ]
+  },
+  "Mon Feb 20 03:53:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bonk_inu",
+     "name": "Bonk!",
+     "id": 1553567565577854976,
+     "id_str": "1553567565577854976",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 03:52:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BSCNews",
+     "name": "BSC News",
+     "id": 1323762343302615040,
+     "id_str": "1323762343302615040",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      23,
+      36
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 03:51:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "onetailatatime",
+     "name": "One Tail at a Time (OTAT)",
+     "id": 70419855,
+     "id_str": "70419855",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      34,
+      47
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 03:51:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BNBChain",
+     "indices": [
+      25,
+      34
+     ]
+    },
+    {
+     "text": "BABYDOGE",
+     "indices": [
+      77,
+      86
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "CFX",
+     "indices": [
+      103,
+      107
+     ]
+    },
+    {
+     "text": "CAKE",
+     "indices": [
+      127,
+      132
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "CryptoInsightsX",
+     "name": "Crypto Insights",
+     "id": 1463919070735003648,
+     "id_str": "1463919070735003648",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      87,
+      100
+     ]
+    },
+    {
+     "screen_name": "Conflux_Network",
+     "name": "Conflux Network Official",
+     "id": 1082011146117439491,
+     "id_str": "1082011146117439491",
+     "indices": [
+      108,
+      124
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 03:51:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      18,
+      27
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627378638357241857,
+     "id_str": "1627378638357241857",
+     "indices": [
+      78,
+      101
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWcP9ZXoAEiUiS.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWcP9ZXoAEiUiS.jpg",
+     "url": "https://t.co/DPfupGd96I",
+     "display_url": "pic.twitter.com/DPfupGd96I",
+     "expanded_url": "https://twitter.com/BabyDogeCoin/status/1627378642383777792/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1201,
+       "h": 1201,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627378642383777792,
+     "source_status_id_str": "1627378642383777792",
+     "source_user_id": 1354781680943431681,
+     "source_user_id_str": "1354781680943431681"
+    }
+   ]
+  },
+  "Mon Feb 20 03:51:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627377245751857152,
+     "id_str": "1627377245751857152",
+     "indices": [
+      71,
+      94
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWa-5iX0AAU-8d.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWa-5iX0AAU-8d.jpg",
+     "url": "https://t.co/B1JQFC7Ojh",
+     "display_url": "pic.twitter.com/B1JQFC7Ojh",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627377252777226242/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 983,
+       "h": 554,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 983,
+       "h": 554,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627377252777226242,
+     "source_status_id_str": "1627377252777226242",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 20 03:51:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 18:04:51 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BABYDOGE",
+     "indices": [
+      79,
+      88
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "babydogeburn_",
+     "name": "Burn BabyDoge",
+     "id": 1519178917349060608,
+     "id_str": "1519178917349060608",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 18:04:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BNBSwap",
+     "name": "BNB Swap",
+     "id": 1300649161025400832,
+     "id_str": "1300649161025400832",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      15,
+      28
+     ]
+    },
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      59,
+      68
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:43:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:43:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626663163902169088,
+     "id_str": "1626663163902169088",
+     "indices": [
+      90,
+      113
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1626663163902169088/img/I2DVtcoKxSei4NEj.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1626663163902169088/img/I2DVtcoKxSei4NEj.jpg",
+     "url": "https://t.co/CPoMMzPDgS",
+     "display_url": "pic.twitter.com/CPoMMzPDgS",
+     "expanded_url": "https://twitter.com/SpaceX/status/1626663252624285696/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626663252624285696,
+     "source_status_id_str": "1626663252624285696",
+     "source_user_id": 34743251,
+     "source_user_id_str": "34743251"
+    }
+   ]
+  },
+  "Sun Feb 19 08:42:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tesla_Megapack",
+     "name": "Tesla Megapack",
+     "id": 1618601297510383616,
+     "id_str": "1618601297510383616",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626683596911136776,
+     "id_str": "1626683596911136776",
+     "indices": [
+      104,
+      127
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1626683596911136776/pu/img/HHPMleImSLINWXEb.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1626683596911136776/pu/img/HHPMleImSLINWXEb.jpg",
+     "url": "https://t.co/4HRDH3xHKN",
+     "display_url": "pic.twitter.com/4HRDH3xHKN",
+     "expanded_url": "https://twitter.com/Tesla_Megapack/status/1626683712938168330/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626683712938168330,
+     "source_status_id_str": "1626683712938168330",
+     "source_user_id": 1618601297510383616,
+     "source_user_id_str": "1618601297510383616"
+    }
+   ]
+  },
+  "Sun Feb 19 08:42:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:42:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "BONK",
+     "indices": [
+      45,
+      50
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "bonk_inu",
+     "name": "Bonk!",
+     "id": 1553567565577854976,
+     "id_str": "1553567565577854976",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625998270399975424,
+     "id_str": "1625998270399975424",
+     "indices": [
+      51,
+      74
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1625998270399975424/img/1bkFUjhpCI_bBTTn.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1625998270399975424/img/1bkFUjhpCI_bBTTn.jpg",
+     "url": "https://t.co/8Ur5bdial7",
+     "display_url": "pic.twitter.com/8Ur5bdial7",
+     "expanded_url": "https://twitter.com/bonk_inu/status/1625998350834073601/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625998350834073601,
+     "source_status_id_str": "1625998350834073601",
+     "source_user_id": 1553567565577854976,
+     "source_user_id_str": "1553567565577854976"
+    }
+   ]
+  },
+  "Sun Feb 19 08:42:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "BONK",
+     "indices": [
+      27,
+      32
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "bonk_inu",
+     "name": "Bonk!",
+     "id": 1553567565577854976,
+     "id_str": "1553567565577854976",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626585746453970947,
+     "id_str": "1626585746453970947",
+     "indices": [
+      44,
+      67
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpLLHk4aQAMY1TX.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpLLHk4aQAMY1TX.jpg",
+     "url": "https://t.co/ZSs86e0xh7",
+     "display_url": "pic.twitter.com/ZSs86e0xh7",
+     "expanded_url": "https://twitter.com/bonk_inu/status/1626585753429090305/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1024,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1024,
+       "h": 1024,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626585753429090305,
+     "source_status_id_str": "1626585753429090305",
+     "source_user_id": 1553567565577854976,
+     "source_user_id_str": "1553567565577854976"
+    }
+   ]
+  },
+  "Sun Feb 19 08:42:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "BONK",
+     "indices": [
+      120,
+      125
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "bonk_inu",
+     "name": "Bonk!",
+     "id": 1553567565577854976,
+     "id_str": "1553567565577854976",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:34:02 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      107,
+      113
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:33:11 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      18,
+      24
+     ]
+    },
+    {
+     "text": "KuCoin",
+     "indices": [
+      58,
+      65
+     ]
+    },
+    {
+     "text": "FlokiFi",
+     "indices": [
+      70,
+      78
+     ]
+    },
+    {
+     "text": "Twitter",
+     "indices": [
+      86,
+      94
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:32:49 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FlokiFi",
+     "indices": [
+      18,
+      26
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "FlokiFi",
+     "name": "FlokiFi",
+     "id": 1569704100660658177,
+     "id_str": "1569704100660658177",
+     "indices": [
+      66,
+      74
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:32:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      18,
+      24
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:32:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      46,
+      52
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:32:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      130,
+      139
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 03:57:49 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BabyDoge",
+     "indices": [
+      74,
+      83
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BNBSwap",
+     "name": "BNB Swap",
+     "id": 1300649161025400832,
+     "id_str": "1300649161025400832",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      15,
+      28
+     ]
+    },
+    {
+     "screen_name": "BiconomyCom",
+     "name": "Biconomy \ud83c\udf10",
+     "id": 1164460518049906695,
+     "id_str": "1164460518049906695",
+     "indices": [
+      59,
+      71
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 03:57:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BABYDOGE",
+     "indices": [
+      100,
+      109
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bsc_daily",
+     "name": "BSCDaily",
+     "id": 1358688239037546500,
+     "id_str": "1358688239037546500",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      56,
+      69
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 03:56:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "BTC",
+     "indices": [
+      54,
+      58
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "BSCNews",
+     "name": "BSC News",
+     "id": 1323762343302615040,
+     "id_str": "1323762343302615040",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      67,
+      80
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 03:56:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BabyDoge",
+     "indices": [
+      65,
+      74
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/UAopqn3msj",
+     "expanded_url": "http://BabyDogeSwap.com",
+     "display_url": "BabyDogeSwap.com",
+     "indices": [
+      90,
+      113
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1626993915130793985,
+     "id_str": "1626993915130793985",
+     "indices": [
+      114,
+      137
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQ-WHsX0AErQ5V.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQ-WHsX0AErQ5V.jpg",
+     "url": "https://t.co/LUnAiI4UcL",
+     "display_url": "pic.twitter.com/LUnAiI4UcL",
+     "expanded_url": "https://twitter.com/BabyDogeCoin/status/1626993921191555073/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626993921191555073,
+     "source_status_id_str": "1626993921191555073",
+     "source_user_id": 1354781680943431681,
+     "source_user_id_str": "1354781680943431681"
+    }
+   ]
+  },
+  "Sun Feb 19 03:56:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "iamRashmika",
+     "name": "Rashmika Mandanna",
+     "id": 722067485613277186,
+     "id_str": "722067485613277186",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626929383347986434,
+     "id_str": "1626929383347986434",
+     "indices": [
+      65,
+      88
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQDp4EaIAIfNDu.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQDp4EaIAIfNDu.jpg",
+     "url": "https://t.co/IeceWcIiOt",
+     "display_url": "pic.twitter.com/IeceWcIiOt",
+     "expanded_url": "https://twitter.com/iamRashmika/status/1626929393779224576/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626929393779224576,
+     "source_status_id_str": "1626929393779224576",
+     "source_user_id": 722067485613277186,
+     "source_user_id_str": "722067485613277186"
+    }
+   ]
+  },
+  "Sat Feb 18 13:15:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      18,
+      27
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626708303156838400,
+     "id_str": "1626708303156838400",
+     "indices": [
+      55,
+      78
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpM6lULXgAAEQ62.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpM6lULXgAAEQ62.jpg",
+     "url": "https://t.co/oSRDHI3zAM",
+     "display_url": "pic.twitter.com/oSRDHI3zAM",
+     "expanded_url": "https://twitter.com/BabyDogeCoin/status/1626708307447582726/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 414,
+       "h": 230,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 414,
+       "h": 230,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 414,
+       "h": 230,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626708307447582726,
+     "source_status_id_str": "1626708307447582726",
+     "source_user_id": 1354781680943431681,
+     "source_user_id_str": "1354781680943431681"
+    }
+   ]
+  },
+  "Sat Feb 18 13:15:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626703662197387264,
+     "id_str": "1626703662197387264",
+     "indices": [
+      95,
+      118
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpM2XLQaMAAsnhY.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpM2XLQaMAAsnhY.jpg",
+     "url": "https://t.co/vbeOOqKuyT",
+     "display_url": "pic.twitter.com/vbeOOqKuyT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626703667591270400/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1159,
+       "h": 845,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1159,
+       "h": 845,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 496,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626703667591270400,
+     "source_status_id_str": "1626703667591270400",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sat Feb 18 12:34:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 12:29:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626882884580638723,
+     "id_str": "1626882884580638723",
+     "indices": [
+      34,
+      57
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpPZXSqXgAMNWuk.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpPZXSqXgAMNWuk.jpg",
+     "url": "https://t.co/sykhvK8GGb",
+     "display_url": "pic.twitter.com/sykhvK8GGb",
+     "expanded_url": "https://twitter.com/RealFlokiInu/status/1626882904352604160/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 720,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626882904352604160,
+     "source_status_id_str": "1626882904352604160",
+     "source_user_id": 1408806420233916416,
+     "source_user_id_str": "1408806420233916416"
+    }
+   ]
+  },
+  "Sat Feb 18 12:29:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 12:29:21 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BabyDogeArmy",
+     "indices": [
+      73,
+      86
+     ]
+    },
+    {
+     "text": "BabyDoge",
+     "indices": [
+      89,
+      98
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:16:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:16:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      34,
+      40
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:05:05 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BNB",
+     "indices": [
+      53,
+      57
+     ]
+    },
+    {
+     "text": "Floki",
+     "indices": [
+      112,
+      118
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      18,
+      24
+     ]
+    },
+    {
+     "text": "DOGE",
+     "indices": [
+      83,
+      88
+     ]
+    },
+    {
+     "text": "SHIB",
+     "indices": [
+      90,
+      95
+     ]
+    },
+    {
+     "text": "GMT",
+     "indices": [
+      101,
+      105
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:05:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      56,
+      62
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "kucoincom",
+     "name": "KUCOIN",
+     "id": 910110294625492992,
+     "id_str": "910110294625492992",
+     "indices": [
+      107,
+      117
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:04:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "IvanOnTech",
+     "name": "Ivan on Tech \ud83c\uddfa\ud83c\udde6\ud83e\udd51 - Building Moralis Web3",
+     "id": 390627208,
+     "id_str": "390627208",
+     "indices": [
+      63,
+      74
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:04:49 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "cryptocurrency",
+     "indices": [
+      52,
+      67
+     ]
+    },
+    {
+     "text": "Web3",
+     "indices": [
+      99,
+      104
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      18,
+      24
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:04:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "crypto",
+     "indices": [
+      70,
+      77
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:02:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "lovely_swap",
+     "name": "LOVELY SWAP",
+     "id": 1522603514014224384,
+     "id_str": "1522603514014224384",
+     "indices": [
+      23,
+      35
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:02:40 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BabyDoge",
+     "indices": [
+      16,
+      25
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Ben_000777",
+     "name": "Ben\uea00",
+     "id": 748231698102517760,
+     "id_str": "748231698102517760",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "BiconomyCom",
+     "name": "Biconomy \ud83c\udf10",
+     "id": 1164460518049906695,
+     "id_str": "1164460518049906695",
+     "indices": [
+      51,
+      63
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      69,
+      82
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:01:43 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BabyDogeSwap",
+     "indices": [
+      45,
+      58
+     ]
+    },
+    {
+     "text": "BabyDoge",
+     "indices": [
+      60,
+      69
+     ]
+    },
+    {
+     "text": "BabyDogeArmy",
+     "indices": [
+      70,
+      83
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626637151705128960,
+     "id_str": "1626637151705128960",
+     "indices": [
+      84,
+      107
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpL53wXWYAABMii.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpL53wXWYAABMii.jpg",
+     "url": "https://t.co/jJf48LG8nB",
+     "display_url": "pic.twitter.com/jJf48LG8nB",
+     "expanded_url": "https://twitter.com/BabyDogeCoin/status/1626637476545630215/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1966,
+       "h": 1966,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626637476545630215,
+     "source_status_id_str": "1626637476545630215",
+     "source_user_id": 1354781680943431681,
+     "source_user_id_str": "1354781680943431681"
+    }
+   ]
+  },
+  "Fri Feb 17 16:41:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ShibArmy",
+     "indices": [
+      85,
+      94
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ShibariumNet",
+     "name": "Shibarium Network",
+     "id": 1398812050869080064,
+     "id_str": "1398812050869080064",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 16:39:55 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BABYDOGE",
+     "indices": [
+      78,
+      87
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "babydogeburn_",
+     "name": "Burn BabyDoge",
+     "id": 1519178917349060608,
+     "id_str": "1519178917349060608",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 16:38:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cz_binance",
+     "name": "CZ \ud83d\udd36 Binance",
+     "id": 902926941413453824,
+     "id_str": "902926941413453824",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 16:38:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      18,
+      24
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 16:38:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "CoinMarketCap",
+     "name": "CoinMarketCap",
+     "id": 2260491445,
+     "id_str": "2260491445",
+     "indices": [
+      57,
+      71
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 12:51:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BABYDOGE",
+     "indices": [
+      34,
+      43
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "adrianoroberta1",
+     "name": "BABYDOGE",
+     "id": 2950191201,
+     "id_str": "2950191201",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      51,
+      64
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 12:51:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SwyftxAU",
+     "name": "Swyftx",
+     "id": 946379850826125313,
+     "id_str": "946379850826125313",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      35,
+      48
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 12:51:30 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BabyDoge",
+     "indices": [
+      19,
+      28
+     ]
+    },
+    {
+     "text": "Biconomy",
+     "indices": [
+      43,
+      52
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BiconomyCom",
+     "name": "Biconomy \ud83c\udf10",
+     "id": 1164460518049906695,
+     "id_str": "1164460518049906695",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 12:51:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/SmsbnSP92I",
+     "expanded_url": "https://poloniex.com/spot/BABYDOGE_USDT",
+     "display_url": "poloniex.com/spot/BABYDOGE_\u2026",
+     "indices": [
+      81,
+      104
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1626417169243201536,
+     "id_str": "1626417169243201536",
+     "indices": [
+      105,
+      128
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpIxzF1WYAAYCbM.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpIxzF1WYAAYCbM.jpg",
+     "url": "https://t.co/W3eLMTZD0A",
+     "display_url": "pic.twitter.com/W3eLMTZD0A",
+     "expanded_url": "https://twitter.com/Poloniex/status/1626476540224737281/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1200,
+       "h": 628,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 628,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 356,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626476540224737281,
+     "source_status_id_str": "1626476540224737281",
+     "source_user_id": 2288889440,
+     "source_user_id_str": "2288889440"
+    }
+   ]
+  },
+  "Fri Feb 17 12:50:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 12:50:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      45,
+      54
+     ]
+    },
+    {
+     "screen_name": "Coredao_Org",
+     "name": "Core DAO",
+     "id": 1526895064869486592,
+     "id_str": "1526895064869486592",
+     "indices": [
+      55,
+      67
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/bHgJ34TxqN",
+     "expanded_url": "https://gleam.io/sDYrp/gleam-sweepstakes",
+     "display_url": "gleam.io/sDYrp/gleam-sw\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 12:50:15 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BABYDOGE",
+     "indices": [
+      39,
+      48
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 12:34:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      18,
+      24
+     ]
+    },
+    {
+     "text": "Binance",
+     "indices": [
+      82,
+      90
+     ]
+    },
+    {
+     "text": "Polygon",
+     "indices": [
+      92,
+      100
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      53,
+      59
+     ]
+    },
+    {
+     "text": "MAGIC",
+     "indices": [
+      106,
+      112
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626550105305227267,
+     "id_str": "1626550105305227267",
+     "indices": [
+      114,
+      137
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpKqs_QXoAMc2xC.png",
+     "media_url_https": "https://pbs.twimg.com/media/FpKqs_QXoAMc2xC.png",
+     "url": "https://t.co/ObMrSXpMYF",
+     "display_url": "pic.twitter.com/ObMrSXpMYF",
+     "expanded_url": "https://twitter.com/RealFlokiInu/status/1626550528585920512/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 394,
+       "h": 411,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 394,
+       "h": 411,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 394,
+       "h": 411,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626550528585920512,
+     "source_status_id_str": "1626550528585920512",
+     "source_user_id": 1408806420233916416,
+     "source_user_id_str": "1408806420233916416"
+    }
+   ]
+  },
+  "Fri Feb 17 11:03:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ShibArmy",
+     "indices": [
+      33,
+      42
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ShibaSwapDEX",
+     "name": "ShibaSwapDEX",
+     "id": 1397172651211296769,
+     "id_str": "1397172651211296769",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 11:02:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 11:02:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626357244869873666,
+     "id_str": "1626357244869873666",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpH7TCJaEAIziQ1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpH7TCJaEAIziQ1.jpg",
+     "url": "https://t.co/gdqWTsHy14",
+     "display_url": "pic.twitter.com/gdqWTsHy14",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626357251094249472/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626357251094249472,
+     "source_status_id_str": "1626357251094249472",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Fri Feb 17 11:02:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 11:01:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:59:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:59:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:59:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:59:04 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "phase2",
+     "indices": [
+      72,
+      79
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "BONK",
+     "indices": [
+      65,
+      70
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "bonk_inu",
+     "name": "Bonk!",
+     "id": 1553567565577854976,
+     "id_str": "1553567565577854976",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:59:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "BONK",
+     "indices": [
+      87,
+      92
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "bonk_inu",
+     "name": "Bonk!",
+     "id": 1553567565577854976,
+     "id_str": "1553567565577854976",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:58:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ShibArmy",
+     "indices": [
+      82,
+      91
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Shibtoken",
+     "name": "Shib",
+     "id": 1356248804899565569,
+     "id_str": "1356248804899565569",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:56:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      71,
+      77
+     ]
+    },
+    {
+     "text": "Ethereum",
+     "indices": [
+      93,
+      102
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:56:37 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      120,
+      126
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      18,
+      24
+     ]
+    },
+    {
+     "text": "CFX",
+     "indices": [
+      86,
+      90
+     ]
+    },
+    {
+     "text": "APT",
+     "indices": [
+      92,
+      96
+     ]
+    },
+    {
+     "text": "STG",
+     "indices": [
+      98,
+      102
+     ]
+    },
+    {
+     "text": "RNDR",
+     "indices": [
+      108,
+      113
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:56:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      112,
+      118
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      29,
+      35
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "BNBSwap",
+     "name": "BNB Swap",
+     "id": 1300649161025400832,
+     "id_str": "1300649161025400832",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      15,
+      28
+     ]
+    },
+    {
+     "screen_name": "kucoincom",
+     "name": "KUCOIN",
+     "id": 910110294625492992,
+     "id_str": "910110294625492992",
+     "indices": [
+      54,
+      64
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:56:26 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "crypto",
+     "indices": [
+      87,
+      94
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      33,
+      39
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "BSCNews",
+     "name": "BSC News",
+     "id": 1323762343302615040,
+     "id_str": "1323762343302615040",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      116,
+      129
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:56:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "Floki",
+     "indices": [
+      9,
+      15
+     ]
+    },
+    {
+     "text": "Floki",
+     "indices": [
+      112,
+      118
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "lcx",
+     "name": "LCX",
+     "id": 968864939699064833,
+     "id_str": "968864939699064833",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:55:59 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      104,
+      110
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      50,
+      56
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "SabreEthereum",
+     "name": "Sabre",
+     "id": 1400577822167556098,
+     "id_str": "1400577822167556098",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:55:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      18,
+      24
+     ]
+    },
+    {
+     "text": "Pyth",
+     "indices": [
+      27,
+      32
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:55:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      18,
+      24
+     ]
+    },
+    {
+     "text": "KuCoin",
+     "indices": [
+      48,
+      55
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:55:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kucoincom",
+     "name": "KUCOIN",
+     "id": 910110294625492992,
+     "id_str": "910110294625492992",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      54,
+      67
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:55:16 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626501650809602050,
+     "id_str": "1626501650809602050",
+     "indices": [
+      66,
+      89
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1626501650809602050/pu/img/lg3iNAUj8871fvkY.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1626501650809602050/pu/img/lg3iNAUj8871fvkY.jpg",
+     "url": "https://t.co/n6WbjaCWTE",
+     "display_url": "pic.twitter.com/n6WbjaCWTE",
+     "expanded_url": "https://twitter.com/RealFlokiInu/status/1626501842162135041/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626501842162135041,
+     "source_status_id_str": "1626501842162135041",
+     "source_user_id": 1408806420233916416,
+     "source_user_id_str": "1408806420233916416"
+    }
+   ]
+  },
+  "Fri Feb 17 04:12:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 04:12:13 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "memecoins",
+     "indices": [
+      21,
+      31
+     ]
+    },
+    {
+     "text": "dogecoin",
+     "indices": [
+      83,
+      92
+     ]
+    },
+    {
+     "text": "babydoge",
+     "indices": [
+      93,
+      102
+     ]
+    },
+    {
+     "text": "ShibaInu",
+     "indices": [
+      103,
+      112
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626430837318189056,
+     "id_str": "1626430837318189056",
+     "indices": [
+      113,
+      136
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1626430837318189056/pu/img/i7Pu78gYbLR0-LBs.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1626430837318189056/pu/img/i7Pu78gYbLR0-LBs.jpg",
+     "url": "https://t.co/nw3xzEIG1x",
+     "display_url": "pic.twitter.com/nw3xzEIG1x",
+     "expanded_url": "https://twitter.com/Poloniex/status/1626431147881234433/video/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 720,
+       "h": 900,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 900,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626431147881234433,
+     "source_status_id_str": "1626431147881234433",
+     "source_user_id": 2288889440,
+     "source_user_id_str": "2288889440"
+    }
+   ]
+  },
+  "Fri Feb 17 04:09:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 04:09:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "CAKE",
+     "indices": [
+      119,
+      124
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "bsc_daily",
+     "name": "BSCDaily",
+     "id": 1358688239037546500,
+     "id_str": "1358688239037546500",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "BNBCHAIN",
+     "name": "BNB Chain",
+     "id": 1052454006537314306,
+     "id_str": "1052454006537314306",
+     "indices": [
+      30,
+      39
+     ]
+    },
+    {
+     "screen_name": "Twitter",
+     "name": "Twitter",
+     "id": 783214,
+     "id_str": "783214",
+     "indices": [
+      79,
+      87
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      103,
+      116
+     ]
+    },
+    {
+     "screen_name": "PancakeSwap",
+     "name": "PancakeSwap \ud83e\udd5e #Multichain",
+     "id": 1305349277422477313,
+     "id_str": "1305349277422477313",
+     "indices": [
+      125,
+      137
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 04:08:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "IGU",
+     "indices": [
+      121,
+      125
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "iguverse",
+     "name": "IguVerse \ud83e\udd8e Public Beta Live",
+     "id": 1491036276258189314,
+     "id_str": "1491036276258189314",
+     "indices": [
+      25,
+      34
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 04:08:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 04:08:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      42,
+      51
+     ]
+    },
+    {
+     "screen_name": "Carmin_Labs",
+     "name": "Carmin",
+     "id": 1573560496329875456,
+     "id_str": "1573560496329875456",
+     "indices": [
+      53,
+      65
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/isepDhHAGS",
+     "expanded_url": "https://gleam.io/PWRlt/win-2000",
+     "display_url": "gleam.io/PWRlt/win-2000",
+     "indices": [
+      109,
+      132
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 04:08:02 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Dogecoin",
+     "indices": [
+      106,
+      115
+     ]
+    },
+    {
+     "text": "BABYDOGE",
+     "indices": [
+      118,
+      127
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Poloniex",
+     "name": "Poloniex Exchange",
+     "id": 2288889440,
+     "id_str": "2288889440",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      25,
+      38
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 04:07:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Bitcoin",
+     "indices": [
+      76,
+      84
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "BTC",
+     "indices": [
+      18,
+      22
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 16:56:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bitgertbrise",
+     "name": "Bitgert - $BRISE",
+     "id": 1411205588801908736,
+     "id_str": "1411205588801908736",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "SolidProof_io",
+     "name": "SolidProof.io Official",
+     "id": 1398253738905714690,
+     "id_str": "1398253738905714690",
+     "indices": [
+      37,
+      51
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 16:56:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "BONK",
+     "indices": [
+      27,
+      32
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "bonk_inu",
+     "name": "Bonk!",
+     "id": 1553567565577854976,
+     "id_str": "1553567565577854976",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626221470623088644,
+     "id_str": "1626221470623088644",
+     "indices": [
+      78,
+      101
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpF_z7qaQAQUpkZ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpF_z7qaQAQUpkZ.jpg",
+     "url": "https://t.co/wjvuist1P1",
+     "display_url": "pic.twitter.com/wjvuist1P1",
+     "expanded_url": "https://twitter.com/bonk_inu/status/1626221477296222208/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1024,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1024,
+       "h": 1024,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626221477296222208,
+     "source_status_id_str": "1626221477296222208",
+     "source_user_id": 1553567565577854976,
+     "source_user_id_str": "1553567565577854976"
+    }
+   ]
+  },
+  "Thu Feb 16 16:56:25 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      118,
+      124
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      68,
+      74
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 16:56:19 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      18,
+      24
+     ]
+    },
+    {
+     "text": "FlokiVikings",
+     "indices": [
+      65,
+      78
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 16:56:16 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ShibSwap",
+     "indices": [
+      61,
+      70
+     ]
+    },
+    {
+     "text": "BabyDoge",
+     "indices": [
+      79,
+      88
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "Shib",
+     "indices": [
+      73,
+      78
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/UAopqn3UhR",
+     "expanded_url": "http://BabyDogeSwap.com",
+     "display_url": "BabyDogeSwap.com",
+     "indices": [
+      34,
+      57
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1626222177271046145,
+     "id_str": "1626222177271046145",
+     "indices": [
+      89,
+      112
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpGAdEIaYAE8af-.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpGAdEIaYAE8af-.jpg",
+     "url": "https://t.co/ExHXHaQQaP",
+     "display_url": "pic.twitter.com/ExHXHaQQaP",
+     "expanded_url": "https://twitter.com/BabyDogeCoin/status/1626222250289696769/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626222250289696769,
+     "source_status_id_str": "1626222250289696769",
+     "source_user_id": 1354781680943431681,
+     "source_user_id_str": "1354781680943431681"
+    }
+   ]
+  },
+  "Thu Feb 16 12:41:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheDeverakonda",
+     "name": "Vijay Deverakonda",
+     "id": 902792503094525952,
+     "id_str": "902792503094525952",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "DaburIndia",
+     "name": "Dabur India Ltd",
+     "id": 127809688,
+     "id_str": "127809688",
+     "indices": [
+      32,
+      43
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:40:31 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BABYDOGE",
+     "indices": [
+      36,
+      45
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "babydogeburn_",
+     "name": "Burn BabyDoge",
+     "id": 1519178917349060608,
+     "id_str": "1519178917349060608",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/R97eALrEIS",
+     "expanded_url": "https://www.crypteye.io/burntracker/coins/baby-doge-coin/btx/0xe0b3ab2a5490487fad21677ac837498e61f3644adff41f26e391f43aa70493dd/503049",
+     "display_url": "crypteye.io/burntracker/co\u2026",
+     "indices": [
+      90,
+      113
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 12:39:31 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Biconomy",
+     "indices": [
+      19,
+      28
+     ]
+    },
+    {
+     "text": "BabyDoge",
+     "indices": [
+      51,
+      60
+     ]
+    },
+    {
+     "text": "BiconomyEarn",
+     "indices": [
+      81,
+      94
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BiconomyCom",
+     "name": "Biconomy \ud83c\udf10",
+     "id": 1164460518049906695,
+     "id_str": "1164460518049906695",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      104,
+      117
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:39:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Phemex",
+     "indices": [
+      44,
+      51
+     ]
+    },
+    {
+     "text": "PhemexNewListing",
+     "indices": [
+      69,
+      86
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Phemex_official",
+     "name": "Phemex",
+     "id": 1171719416389591041,
+     "id_str": "1171719416389591041",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:39:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BABYDOGE",
+     "indices": [
+      78,
+      87
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CryptoInsightsX",
+     "name": "Crypto Insights",
+     "id": 1463919070735003648,
+     "id_str": "1463919070735003648",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      31,
+      44
+     ]
+    },
+    {
+     "screen_name": "BiconomyCom",
+     "name": "Biconomy \ud83c\udf10",
+     "id": 1164460518049906695,
+     "id_str": "1164460518049906695",
+     "indices": [
+      63,
+      75
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:38:42 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Binance",
+     "indices": [
+      49,
+      57
+     ]
+    },
+    {
+     "text": "Binance",
+     "indices": [
+      118,
+      126
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/zzchxFnHUs",
+     "expanded_url": "https://www.binance.com/en/altcoins/trending",
+     "display_url": "binance.com/en/altcoins/tr\u2026",
+     "indices": [
+      77,
+      100
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 12:38:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NFTs",
+     "indices": [
+      31,
+      36
+     ]
+    },
+    {
+     "text": "Floki",
+     "indices": [
+      42,
+      48
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:38:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "litebiteu",
+     "name": "LiteBit.eu",
+     "id": 2229769334,
+     "id_str": "2229769334",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:38:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      120,
+      126
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      77,
+      83
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:37:54 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "cryptocurrencies",
+     "indices": [
+      65,
+      82
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      18,
+      24
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "coingecko",
+     "name": "CoinGecko",
+     "id": 2412652615,
+     "id_str": "2412652615",
+     "indices": [
+      115,
+      125
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:37:48 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FlokiFi",
+     "indices": [
+      18,
+      26
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "FlokiFi",
+     "name": "FlokiFi",
+     "id": 1569704100660658177,
+     "id_str": "1569704100660658177",
+     "indices": [
+      81,
+      89
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:37:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "Aymen75340946",
+     "name": "Aymen",
+     "id": 1405578718605713414,
+     "id_str": "1405578718605713414",
+     "indices": [
+      18,
+      32
+     ]
+    },
+    {
+     "screen_name": "Avatariio",
+     "name": "\u16a8\u16b1\u16c1\u16da\u16de",
+     "id": 338169468,
+     "id_str": "338169468",
+     "indices": [
+      33,
+      43
+     ]
+    },
+    {
+     "screen_name": "Lonexzo",
+     "name": "LoneXZo",
+     "id": 1372719699130077186,
+     "id_str": "1372719699130077186",
+     "indices": [
+      44,
+      52
+     ]
+    },
+    {
+     "screen_name": "MagifyCrypto",
+     "name": "\ud83e\uddd9\u200d\u2640\ufe0f CryptoMagic | Abracadabra",
+     "id": 1539726586009817090,
+     "id_str": "1539726586009817090",
+     "indices": [
+      53,
+      66
+     ]
+    },
+    {
+     "screen_name": "NuriSargen",
+     "name": "Nuri Sar\u0131gen\u00e7",
+     "id": 596426062,
+     "id_str": "596426062",
+     "indices": [
+      67,
+      78
+     ]
+    },
+    {
+     "screen_name": "cibngzhng4",
+     "name": "C B Z",
+     "id": 1587618486087520256,
+     "id_str": "1587618486087520256",
+     "indices": [
+      79,
+      90
+     ]
+    },
+    {
+     "screen_name": "hhyr131",
+     "name": "haider",
+     "id": 991784127056809986,
+     "id_str": "991784127056809986",
+     "indices": [
+      91,
+      99
+     ]
+    },
+    {
+     "screen_name": "optikyus",
+     "name": "Bilgin Y\u0131lmaz \ud83d\uddef\ud83d\uddef",
+     "id": 896536986525327360,
+     "id_str": "896536986525327360",
+     "indices": [
+      100,
+      109
+     ]
+    },
+    {
+     "screen_name": "RaziyaS27427459",
+     "name": "Raziya Sultana",
+     "id": 1580798804915531776,
+     "id_str": "1580798804915531776",
+     "indices": [
+      110,
+      126
+     ]
+    },
+    {
+     "screen_name": "liaoyayun77",
+     "name": "liaoyayun77",
+     "id": 1457115219734323201,
+     "id_str": "1457115219734323201",
+     "indices": [
+      127,
+      139
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:37:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:37:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "mustafa44629787",
+     "name": "mustafa raza",
+     "id": 1401191598612836359,
+     "id_str": "1401191598612836359",
+     "indices": [
+      18,
+      34
+     ]
+    },
+    {
+     "screen_name": "Checkpoint373",
+     "name": "checkpoint",
+     "id": 1466024341804564483,
+     "id_str": "1466024341804564483",
+     "indices": [
+      35,
+      49
+     ]
+    },
+    {
+     "screen_name": "Mudassi54980091",
+     "name": "Mudassir Alam",
+     "id": 1366557482634502148,
+     "id_str": "1366557482634502148",
+     "indices": [
+      50,
+      66
+     ]
+    },
+    {
+     "screen_name": "leotheviking1",
+     "name": "Leo da Viking \u2694\ufe0f",
+     "id": 1352681505139679234,
+     "id_str": "1352681505139679234",
+     "indices": [
+      67,
+      81
+     ]
+    },
+    {
+     "screen_name": "tusunu",
+     "name": "Real tusunu",
+     "id": 1594044635147649024,
+     "id_str": "1594044635147649024",
+     "indices": [
+      82,
+      89
+     ]
+    },
+    {
+     "screen_name": "ElanJihad",
+     "name": "Elan Maments",
+     "id": 424732509,
+     "id_str": "424732509",
+     "indices": [
+      90,
+      100
+     ]
+    },
+    {
+     "screen_name": "RealPuggy",
+     "name": "Puggy \u516b \u2022VV\u2022",
+     "id": 1436848022307155969,
+     "id_str": "1436848022307155969",
+     "indices": [
+      101,
+      111
+     ]
+    },
+    {
+     "screen_name": "samthecryptoguy",
+     "name": "Crypto Patron",
+     "id": 1392519527443861504,
+     "id_str": "1392519527443861504",
+     "indices": [
+      112,
+      128
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:37:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "BSCNews",
+     "name": "BSC News",
+     "id": 1323762343302615040,
+     "id_str": "1323762343302615040",
+     "indices": [
+      63,
+      71
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:37:08 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "flokiinu",
+     "indices": [
+      21,
+      30
+     ]
+    },
+    {
+     "text": "TrustWallet",
+     "indices": [
+      116,
+      128
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "ETH",
+     "indices": [
+      85,
+      89
+     ]
+    },
+    {
+     "text": "FLOKI",
+     "indices": [
+      92,
+      98
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "TrustWallet",
+     "name": "Trust - Crypto Wallet",
+     "id": 911011433147654144,
+     "id_str": "911011433147654144",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:36:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Valhalla",
+     "indices": [
+      68,
+      77
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/pLyCDRhsxg",
+     "expanded_url": "http://Valhalla.game",
+     "display_url": "Valhalla.game",
+     "indices": [
+      91,
+      114
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1626185655993655296,
+     "id_str": "1626185655993655296",
+     "indices": [
+      115,
+      138
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpFfPPxWYAALUWw.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpFfPPxWYAALUWw.jpg",
+     "url": "https://t.co/T7J5tlndwo",
+     "display_url": "pic.twitter.com/T7J5tlndwo",
+     "expanded_url": "https://twitter.com/RealFlokiInu/status/1626185660653608961/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1280,
+       "h": 959,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 509,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 899,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626185660653608961,
+     "source_status_id_str": "1626185660653608961",
+     "source_user_id": 1408806420233916416,
+     "source_user_id_str": "1408806420233916416"
+    }
+   ]
+  },
+  "Thu Feb 16 12:36:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      25,
+      31
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "fcfpay",
+     "name": "FCF PAY - Blockchain Payment System",
+     "id": 1478031071350566912,
+     "id_str": "1478031071350566912",
+     "indices": [
+      3,
+      10
+     ]
+    },
+    {
+     "screen_name": "fcfpay",
+     "name": "FCF PAY - Blockchain Payment System",
+     "id": 1478031071350566912,
+     "id_str": "1478031071350566912",
+     "indices": [
+      36,
+      43
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 12:36:18 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "floki",
+     "indices": [
+      104,
+      110
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      42,
+      48
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AtomicWallet",
+     "name": "Atomic - Crypto Wallet",
+     "id": 960930668246167553,
+     "id_str": "960930668246167553",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      22,
+      35
+     ]
+    },
+    {
+     "screen_name": "AtomicWallet",
+     "name": "Atomic - Crypto Wallet",
+     "id": 960930668246167553,
+     "id_str": "960930668246167553",
+     "indices": [
+      66,
+      79
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:26:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      105,
+      111
+     ]
+    },
+    {
+     "text": "LCX",
+     "indices": [
+      114,
+      118
+     ]
+    },
+    {
+     "text": "FLOKI",
+     "indices": [
+      120,
+      126
+     ]
+    },
+    {
+     "text": "USDC",
+     "indices": [
+      129,
+      134
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "lcx",
+     "name": "LCX",
+     "id": 968864939699064833,
+     "id_str": "968864939699064833",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:26:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      105,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CertiK",
+     "name": "CertiK",
+     "id": 993673575230996480,
+     "id_str": "993673575230996480",
+     "indices": [
+      3,
+      10
+     ]
+    },
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      51,
+      64
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/1NH1b0VJLB",
+     "expanded_url": "https://www.certik.com/projects/floki?utm_source=Twitter&utm_medium=SkynetPage&utm_campaign=PromoteFloki",
+     "display_url": "certik.com/projects/floki\u2026",
+     "indices": [
+      114,
+      137
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 03:26:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      18,
+      27
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      74,
+      83
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:26:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      52,
+      58
+     ]
+    },
+    {
+     "text": "DeFi",
+     "indices": [
+      103,
+      108
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CryptoEights",
+     "name": "CryptoEights | AMA+Space",
+     "id": 199776410,
+     "id_str": "199776410",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      20,
+      33
+     ]
+    },
+    {
+     "screen_name": "PythNetwork",
+     "name": "Pyth Network \ud83d\udd2e",
+     "id": 1376553581508059144,
+     "id_str": "1376553581508059144",
+     "indices": [
+      36,
+      48
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:26:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/ZM5DvDJi3D",
+     "expanded_url": "https://twitter.com/i/spaces/1kvJpmdOrAgxE",
+     "display_url": "twitter.com/i/spaces/1kvJp\u2026",
+     "indices": [
+      18,
+      41
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 03:26:28 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      18,
+      24
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      125,
+      131
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:26:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      18,
+      24
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:26:20 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      19,
+      25
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TCryptochicks",
+     "name": "TCC\ud83d\udd36\ufe0f\ud83d\udc36",
+     "id": 1451186401744064518,
+     "id_str": "1451186401744064518",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:26:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      68,
+      74
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:26:11 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:26:06 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      48,
+      54
+     ]
+    },
+    {
+     "text": "DEXs",
+     "indices": [
+      132,
+      137
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:26:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoinSwitch",
+     "name": "CoinSwitch: India's Largest Crypto App \ud83d\ude80",
+     "id": 1258075532945588224,
+     "id_str": "1258075532945588224",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:25:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      27,
+      33
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "cmcal_bot",
+     "name": "CoinMarketCal Bot",
+     "id": 964161357959651328,
+     "id_str": "964161357959651328",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/LKfqUMiKJk",
+     "expanded_url": "https://coinmarketcal.com/en/event/kucoin-listing-148457",
+     "display_url": "coinmarketcal.com/en/event/kucoi\u2026",
+     "indices": [
+      89,
+      112
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1626054721545940995,
+     "id_str": "1626054721545940995",
+     "indices": [
+      113,
+      136
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpDoJ28XsAMyFwM.png",
+     "media_url_https": "https://pbs.twimg.com/media/FpDoJ28XsAMyFwM.png",
+     "url": "https://t.co/36gd6r52iT",
+     "display_url": "pic.twitter.com/36gd6r52iT",
+     "expanded_url": "https://twitter.com/cmcal_bot/status/1626054723638898688/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 881,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 499,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 960,
+       "h": 1308,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626054723638898688,
+     "source_status_id_str": "1626054723638898688",
+     "source_user_id": 964161357959651328,
+     "source_user_id_str": "964161357959651328"
+    }
+   ]
+  },
+  "Thu Feb 16 03:22:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "saeedp3008",
+     "name": "saeed",
+     "id": 1585186147499737089,
+     "id_str": "1585186147499737089",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      16,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:22:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BabyDoge",
+     "indices": [
+      40,
+      49
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625929309574529049,
+     "id_str": "1625929309574529049",
+     "indices": [
+      81,
+      104
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpB2F68WABksCFb.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpB2F68WABksCFb.jpg",
+     "url": "https://t.co/Pwi1sioV7a",
+     "display_url": "pic.twitter.com/Pwi1sioV7a",
+     "expanded_url": "https://twitter.com/BabyDogeCoin/status/1625929313215184989/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625929313215184989,
+     "source_status_id_str": "1625929313215184989",
+     "source_user_id": 1354781680943431681,
+     "source_user_id_str": "1354781680943431681"
+    }
+   ]
+  },
+  "Thu Feb 16 03:21:48 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MathWallet",
+     "indices": [
+      91,
+      102
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bsc_daily",
+     "name": "BSCDaily",
+     "id": 1358688239037546500,
+     "id_str": "1358688239037546500",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      17,
+      30
+     ]
+    },
+    {
+     "screen_name": "BabyDogeSwap",
+     "name": "Baby Doge Swap",
+     "id": 1426979526454792197,
+     "id_str": "1426979526454792197",
+     "indices": [
+      31,
+      44
+     ]
+    },
+    {
+     "screen_name": "MathWallet",
+     "name": "MathWallet",
+     "id": 1069827177527431168,
+     "id_str": "1069827177527431168",
+     "indices": [
+      76,
+      87
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:21:33 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Tesla",
+     "indices": [
+      55,
+      61
+     ]
+    },
+    {
+     "text": "BabyDoge",
+     "indices": [
+      88,
+      97
+     ]
+    },
+    {
+     "text": "Airdrop",
+     "indices": [
+      115,
+      123
+     ]
+    },
+    {
+     "text": "Deposit",
+     "indices": [
+      134,
+      142
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BiconomyCom",
+     "name": "Biconomy \ud83c\udf10",
+     "id": 1164460518049906695,
+     "id_str": "1164460518049906695",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      17,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:20:58 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BNBCHAIN",
+     "indices": [
+      21,
+      30
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "QUACK",
+     "indices": [
+      101,
+      107
+     ]
+    },
+    {
+     "text": "CAKE",
+     "indices": [
+      121,
+      126
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "bsc_daily",
+     "name": "BSCDaily",
+     "id": 1358688239037546500,
+     "id_str": "1358688239037546500",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      85,
+      98
+     ]
+    },
+    {
+     "screen_name": "RichQuack",
+     "name": "RichQuack",
+     "id": 1392385621243535361,
+     "id_str": "1392385621243535361",
+     "indices": [
+      108,
+      118
+     ]
+    },
+    {
+     "screen_name": "PancakeSwap",
+     "name": "PancakeSwap \ud83e\udd5e #Multichain",
+     "id": 1305349277422477313,
+     "id_str": "1305349277422477313",
+     "indices": [
+      127,
+      139
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:20:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Bitcoin",
+     "indices": [
+      90,
+      98
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "BTC",
+     "indices": [
+      30,
+      34
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 03:20:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Binance",
+     "indices": [
+      58,
+      66
+     ]
+    },
+    {
+     "text": "BabyDoge",
+     "indices": [
+      84,
+      93
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

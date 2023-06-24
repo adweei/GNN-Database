@@ -1,0 +1,500 @@
+{
+ "553656381": {
+  "Mon Feb 06 23:27:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BillyM2k",
+     "name": "Shibetoshi Nakamoto",
+     "id": 30699048,
+     "id_str": "30699048",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622668871751671820,
+     "id_str": "1622668871751671820",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622668871751671820/pu/img/lhBLVQc6Mr-XjNNG.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622668871751671820/pu/img/lhBLVQc6Mr-XjNNG.jpg",
+     "url": "https://t.co/NM1wiDIoeL",
+     "display_url": "pic.twitter.com/NM1wiDIoeL",
+     "expanded_url": "https://twitter.com/BillyM2k/status/1622669205156896772/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 576,
+       "h": 720,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 576,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622669205156896772,
+     "source_status_id_str": "1622669205156896772",
+     "source_user_id": 30699048,
+     "source_user_id_str": "30699048"
+    }
+   ]
+  },
+  "Mon Feb 06 20:50:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "TSLA",
+     "indices": [
+      98,
+      103
+     ]
+    },
+    {
+     "text": "F",
+     "indices": [
+      109,
+      111
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "SquawkStreet",
+     "name": "Squawk on the Street",
+     "id": 106498703,
+     "id_str": "106498703",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "jimcramer",
+     "name": "Jim Cramer",
+     "id": 14216123,
+     "id_str": "14216123",
+     "indices": [
+      19,
+      29
+     ]
+    },
+    {
+     "screen_name": "davidfaber",
+     "name": "David Faber",
+     "id": 140912249,
+     "id_str": "140912249",
+     "indices": [
+      40,
+      51
+     ]
+    },
+    {
+     "screen_name": "carlquintanilla",
+     "name": "Carl Quintanilla",
+     "id": 114782468,
+     "id_str": "114782468",
+     "indices": [
+      56,
+      72
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622603040086798336,
+     "id_str": "1622603040086798336",
+     "indices": [
+      113,
+      136
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoSk7ytXsAgabOA.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoSk7ytXsAgabOA.jpg",
+     "url": "https://t.co/pDYW4g8ifr",
+     "display_url": "pic.twitter.com/pDYW4g8ifr",
+     "expanded_url": "https://twitter.com/SquawkStreet/status/1622603118297989120/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622603118297989120,
+     "source_status_id_str": "1622603118297989120",
+     "source_user_id": 106498703,
+     "source_user_id_str": "106498703"
+    }
+   ]
+  },
+  "Mon Feb 06 19:50:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "emin_adin",
+     "name": "Mehmet Emin Adin, MD",
+     "id": 151329521,
+     "id_str": "151329521",
+     "indices": [
+      14,
+      24
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      25,
+      32
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 21:11:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      10,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 21:10:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "WSJ",
+     "name": "The Wall Street Journal",
+     "id": 3108351,
+     "id_str": "3108351",
+     "indices": [
+      14,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 05 01:26:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BREAKING",
+     "indices": [
+      17,
+      26
+     ]
+    },
+    {
+     "text": "MyrtleBeach",
+     "indices": [
+      104,
+      116
+     ]
+    },
+    {
+     "text": "SC",
+     "indices": [
+      119,
+      122
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rawsalerts",
+     "name": "R A W S A L E R T S",
+     "id": 1176026136117166080,
+     "id_str": "1176026136117166080",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 19:48:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "BillyM2k",
+     "name": "Shibetoshi Nakamoto",
+     "id": 30699048,
+     "id_str": "30699048",
+     "indices": [
+      14,
+      23
+     ]
+    },
+    {
+     "screen_name": "ericnakagawa",
+     "name": "Eric Nakagawa \u25d8",
+     "id": 2349251,
+     "id_str": "2349251",
+     "indices": [
+      24,
+      37
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 19:45:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "DriveTeslaca",
+     "name": "Drive Tesla \ud83c\udde8\ud83c\udde6",
+     "id": 1169348503975317504,
+     "id_str": "1169348503975317504",
+     "indices": [
+      14,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 17:55:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 17:54:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 17:50:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      10,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 17:50:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      14,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 17:50:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ClownWorld_",
+     "name": "Clown World \u2122 \ud83e\udd21",
+     "id": 1446932149148344320,
+     "id_str": "1446932149148344320",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 17:49:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Liz_Wheeler",
+     "name": "Liz Wheeler",
+     "id": 264361128,
+     "id_str": "264361128",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 03 08:02:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "garyblack00",
+     "name": "Gary Black",
+     "id": 1161703589942878208,
+     "id_str": "1161703589942878208",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "821572340664455169": {
+  "Mon Feb 06 23:39:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KariLakeWarRoom",
+     "name": "Kari Lake War Room",
+     "id": 1492670054541844482,
+     "id_str": "1492670054541844482",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "katiehobbs",
+     "name": "Katie Hobbs",
+     "id": 26659619,
+     "id_str": "26659619",
+     "indices": [
+      22,
+      33
+     ]
+    },
+    {
+     "screen_name": "Adrian_Fontes",
+     "name": "Adrian Fontes",
+     "id": 517319985,
+     "id_str": "517319985",
+     "indices": [
+      112,
+      126
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:38:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TiffMoodNukes",
+     "name": "It's \ud83c\uddfa\ud83c\uddf8 Tiff \ud83c\uddfa\ud83c\uddf8",
+     "id": 1570179010445058048,
+     "id_str": "1570179010445058048",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:17:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FloydEv66156970",
+     "name": "Les White IV",
+     "id": 1520378352246444032,
+     "id_str": "1520378352246444032",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622685263645343744,
+     "id_str": "1622685263645343744",
+     "indices": [
+      67,
+      90
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTvpmHXgAA8GJ6.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTvpmHXgAA8GJ6.jpg",
+     "url": "https://t.co/cDQ7M4Yw2R",
+     "display_url": "pic.twitter.com/cDQ7M4Yw2R",
+     "expanded_url": "https://twitter.com/FloydEv66156970/status/1622685269999685654/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 616,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 979,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 979,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622685269999685654,
+     "source_status_id_str": "1622685269999685654",
+     "source_user_id": 1520378352246444032,
+     "source_user_id_str": "1520378352246444032"
+    }
+   ]
+  },
+  "Mon Feb 06 23:06:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MayraFlores2022",
+     "name": "Mayra Flores",
+     "id": 89469296,
+     "id_str": "89469296",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 22:57:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Project_Veritas",
+     "name": "Project Veritas",
+     "id": 850036892,
+     "id_str": "850036892",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "pfizer",
+     "name": "Pfizer Inc.",
+     "id": 56488059,
+     "id_str": "56488059",
+     "indices": [
+      53,
+      60
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

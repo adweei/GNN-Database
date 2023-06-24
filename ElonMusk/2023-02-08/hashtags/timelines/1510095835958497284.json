@@ -1,0 +1,1535 @@
+{
+ "1510095835958497284": {
+  "Wed Feb 08 23:23:04 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "nhk_news",
+     "indices": [
+      45,
+      54
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nhk_news",
+     "name": "NHK\u30cb\u30e5\u30fc\u30b9",
+     "id": 204245399,
+     "id_str": "204245399",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/bks94G8dHV",
+     "expanded_url": "https://www3.nhk.or.jp/news/html/20230209/k10013975271000.html",
+     "display_url": "www3.nhk.or.jp/news/html/2023\u2026",
+     "indices": [
+      55,
+      78
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 23:22:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bbcnewsjapan",
+     "name": "BBC News Japan",
+     "id": 2394709974,
+     "id_str": "2394709974",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/vroDmHgdxp",
+     "expanded_url": "https://www.bbc.com/japanese/video-64564337",
+     "display_url": "bbc.com/japanese/video\u2026",
+     "indices": [
+      61,
+      84
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1623200609657823232,
+     "id_str": "1623200609657823232",
+     "indices": [
+      85,
+      108
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1623200609657823232/img/VReLPmGdNNcpjgHK.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1623200609657823232/img/VReLPmGdNNcpjgHK.jpg",
+     "url": "https://t.co/TwTpJTYRb4",
+     "display_url": "pic.twitter.com/TwTpJTYRb4",
+     "expanded_url": "https://twitter.com/bbcnewsjapan/status/1623460668094525440/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623460668094525440,
+     "source_status_id_str": "1623460668094525440",
+     "source_user_id": 2394709974,
+     "source_user_id_str": "2394709974"
+    }
+   ]
+  },
+  "Wed Feb 08 10:09:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "600Jreast",
+     "name": "JREast Series 600",
+     "id": 1475306011468926984,
+     "id_str": "1475306011468926984",
+     "indices": [
+      0,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623262615706435585,
+     "id_str": "1623262615706435585",
+     "indices": [
+      11,
+      34
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fob8v6JagAE_lMj.png",
+     "media_url_https": "https://pbs.twimg.com/media/Fob8v6JagAE_lMj.png",
+     "url": "https://t.co/cpyVCDttNB",
+     "display_url": "pic.twitter.com/cpyVCDttNB",
+     "expanded_url": "https://twitter.com/AaaaaaTakanosu/status/1623262628465504256/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 480,
+       "h": 410,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 480,
+       "h": 410,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 480,
+       "h": 410,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 08 10:05:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623182543620132869,
+     "id_str": "1623182543620132869",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "url": "https://t.co/jL5fjQxTcz",
+     "display_url": "pic.twitter.com/jL5fjQxTcz",
+     "expanded_url": "https://twitter.com/elonmusk/status/1623182547373985793/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 572,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623182547373985793,
+     "source_status_id_str": "1623182547373985793",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 08 10:04:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "600Jreast",
+     "name": "JREast Series 600",
+     "id": 1475306011468926984,
+     "id_str": "1475306011468926984",
+     "indices": [
+      0,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623261415212720128,
+     "id_str": "1623261415212720128",
+     "indices": [
+      11,
+      34
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fob7qB9aIAAuJv8.png",
+     "media_url_https": "https://pbs.twimg.com/media/Fob7qB9aIAAuJv8.png",
+     "url": "https://t.co/yDLVnBmmbG",
+     "display_url": "pic.twitter.com/yDLVnBmmbG",
+     "expanded_url": "https://twitter.com/AaaaaaTakanosu/status/1623261426537365504/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 500,
+       "h": 427,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 500,
+       "h": 427,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 500,
+       "h": 427,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 08 04:35:19 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u30ed\u30fc\u30bd\u30f3",
+     "indices": [
+      99,
+      104
+     ]
+    },
+    {
+     "text": "\u30ed\u30fc\u30bd\u30f3\u76db\u308a\u3059\u304e\u30c1\u30e3\u30ec\u30f3\u30b8",
+     "indices": [
+      105,
+      119
+     ]
+    },
+    {
+     "text": "\u76db\u308a\u904e\u304e\u30c1\u30e3\u30ec\u30f3\u30b8",
+     "indices": [
+      120,
+      130
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "fatechan",
+     "name": "\u3075\u3041\u3066\u3061\u3083\u63d0\u7763@1/28-29\u5317\u9678",
+     "id": 43335299,
+     "id_str": "43335299",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 04:24:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "official_nihon",
+     "name": "\u65e5\u672c\u306e\u672a\u6765\u3092\u8003\u3048\u308b\u4f1a \u5e83\u5831\u5ba4",
+     "id": 1018650880793444354,
+     "id_str": "1018650880793444354",
+     "indices": [
+      0,
+      15
+     ]
+    },
+    {
+     "screen_name": "nhk_news",
+     "name": "NHK\u30cb\u30e5\u30fc\u30b9",
+     "id": 204245399,
+     "id_str": "204245399",
+     "indices": [
+      16,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 04:19:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bbcnewsjapan",
+     "name": "BBC News Japan",
+     "id": 2394709974,
+     "id_str": "2394709974",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/iBCGJhzp8W",
+     "expanded_url": "https://www.bbc.com/japanese/64533839",
+     "display_url": "bbc.com/japanese/64533\u2026",
+     "indices": [
+      72,
+      95
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 04:19:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UN_NERV",
+     "name": "\u7279\u52d9\u6a5f\u95a2NERV",
+     "id": 116548789,
+     "id_str": "116548789",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 04:19:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bbcnewsjapan",
+     "name": "BBC News Japan",
+     "id": 2394709974,
+     "id_str": "2394709974",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/891HG73V3a",
+     "expanded_url": "https://www.bbc.com/japanese/64521414",
+     "display_url": "bbc.com/japanese/64521\u2026",
+     "indices": [
+      61,
+      84
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 04:19:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Nintendo",
+     "name": "\u4efb\u5929\u5802\u682a\u5f0f\u4f1a\u793e",
+     "id": 307902310,
+     "id_str": "307902310",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 04:16:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bbcnewsjapan",
+     "name": "BBC News Japan",
+     "id": 2394709974,
+     "id_str": "2394709974",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/mqCvB2EiKO",
+     "expanded_url": "https://www.bbc.com/japanese/features-and-analysis-64564025",
+     "display_url": "bbc.com/japanese/featu\u2026",
+     "indices": [
+      60,
+      83
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 04:16:12 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "nhk_news",
+     "indices": [
+      45,
+      54
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nhk_news",
+     "name": "NHK\u30cb\u30e5\u30fc\u30b9",
+     "id": 204245399,
+     "id_str": "204245399",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/tlklPUOwSz",
+     "expanded_url": "https://www3.nhk.or.jp/news/html/20230208/k10013974091000.html",
+     "display_url": "www3.nhk.or.jp/news/html/2023\u2026",
+     "indices": [
+      55,
+      78
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 04:15:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "d_d_osorezan",
+     "name": "\u30c0\u30fb\u30c0\u30fb\u6050\u5c71",
+     "id": 316402450,
+     "id_str": "316402450",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 02:29:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "col_gashi10",
+     "name": "\u30b3\u30eb\u30af\u30ac\u30b7",
+     "id": 1405495994960076808,
+     "id_str": "1405495994960076808",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 02:29:11 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "nhk_news",
+     "indices": [
+      46,
+      55
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nhk_news",
+     "name": "NHK\u30cb\u30e5\u30fc\u30b9",
+     "id": 204245399,
+     "id_str": "204245399",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/V8pGFpmdBT",
+     "expanded_url": "https://www3.nhk.or.jp/news/html/20230208/k10013974231000.html",
+     "display_url": "www3.nhk.or.jp/news/html/2023\u2026",
+     "indices": [
+      56,
+      79
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 02:28:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yaginome",
+     "name": "\u6797 \u96c4\u53f8",
+     "id": 5706622,
+     "id_str": "5706622",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 02:28:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yaginome",
+     "name": "\u6797 \u96c4\u53f8",
+     "id": 5706622,
+     "id_str": "5706622",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 02:28:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yaginome",
+     "name": "\u6797 \u96c4\u53f8",
+     "id": 5706622,
+     "id_str": "5706622",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 02:27:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:03:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PaulHook_em",
+     "name": "Paul Hookem \ud83c\uddfa\ud83c\uddf8",
+     "id": 2246299058,
+     "id_str": "2246299058",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      17,
+      26
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623015043112570887,
+     "id_str": "1623015043112570887",
+     "indices": [
+      27,
+      50
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoYblSXXEAc175o.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoYblSXXEAc175o.jpg",
+     "url": "https://t.co/hYGDEaYw5g",
+     "display_url": "pic.twitter.com/hYGDEaYw5g",
+     "expanded_url": "https://twitter.com/PaulHook_em/status/1623015048363839525/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 861,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 894,
+       "h": 1246,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 488,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623015048363839525,
+     "source_status_id_str": "1623015048363839525",
+     "source_user_id": 2246299058,
+     "source_user_id_str": "2246299058"
+    }
+   ]
+  },
+  "Tue Feb 07 22:03:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 13:00:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Spainkiller",
+     "name": "Sam",
+     "id": 18684681,
+     "id_str": "18684681",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      17,
+      26
+     ]
+    },
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      27,
+      43
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622772836061388802,
+     "id_str": "1622772836061388802",
+     "indices": [
+      100,
+      123
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoU_S-yXoAIRABm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoU_S-yXoAIRABm.jpg",
+     "url": "https://t.co/XTHnGKeCGx",
+     "display_url": "pic.twitter.com/XTHnGKeCGx",
+     "expanded_url": "https://twitter.com/Spainkiller/status/1622772841211887616/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1000,
+       "h": 752,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1000,
+       "h": 752,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 511,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622772841211887616,
+     "source_status_id_str": "1622772841211887616",
+     "source_user_id": 18684681,
+     "source_user_id_str": "18684681"
+    }
+   ]
+  },
+  "Tue Feb 07 12:59:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 12:59:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622760676929200128,
+     "id_str": "1622760676929200128",
+     "indices": [
+      51,
+      74
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoU0POfWYAAe8Lh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoU0POfWYAAe8Lh.jpg",
+     "url": "https://t.co/3dIFkIh6qA",
+     "display_url": "pic.twitter.com/3dIFkIh6qA",
+     "expanded_url": "https://twitter.com/Lukewearechange/status/1622760680372723714/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 668,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1170,
+       "h": 1150,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1150,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622760680372723714,
+     "source_status_id_str": "1622760680372723714",
+     "source_user_id": 95994080,
+     "source_user_id_str": "95994080"
+    }
+   ]
+  },
+  "Tue Feb 07 12:56:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nhk_news",
+     "name": "NHK\u30cb\u30e5\u30fc\u30b9",
+     "id": 204245399,
+     "id_str": "204245399",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 12:55:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bbcnewsjapan",
+     "name": "BBC News Japan",
+     "id": 2394709974,
+     "id_str": "2394709974",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/y9SKgbyh8B",
+     "expanded_url": "https://www.bbc.com/japanese/64550005",
+     "display_url": "bbc.com/japanese/64550\u2026",
+     "indices": [
+      53,
+      76
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 10:37:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622907268756049921,
+     "id_str": "1622907268756049921",
+     "indices": [
+      0,
+      23
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoW5j_makAEzhht.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoW5j_makAEzhht.jpg",
+     "url": "https://t.co/YYhy7j71QJ",
+     "display_url": "pic.twitter.com/YYhy7j71QJ",
+     "expanded_url": "https://twitter.com/AaaaaaTakanosu/status/1622907283092164608/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1200,
+       "h": 613,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 347,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1542,
+       "h": 788,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 09:53:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Tue Feb 07 09:48:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622895045392343042,
+     "id_str": "1622895045392343042",
+     "indices": [
+      5,
+      28
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoWucgBaIAIIXVn.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoWucgBaIAIIXVn.jpg",
+     "url": "https://t.co/F8i9NoinHL",
+     "display_url": "pic.twitter.com/F8i9NoinHL",
+     "expanded_url": "https://twitter.com/AaaaaaTakanosu/status/1622895075641663491/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1200,
+       "h": 632,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 358,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1491,
+       "h": 785,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 09:32:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Tue Feb 07 09:32:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/CMqyMTloZU",
+     "expanded_url": "https://twitter.com/i/web/status/1622891058895155201",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 05:14:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "wni_jp",
+     "name": "\u30a6\u30a7\u30b6\u30fc\u30cb\u30e5\u30fc\u30b9",
+     "id": 712914636203433984,
+     "id_str": "712914636203433984",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 05:13:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "wni_jp",
+     "name": "\u30a6\u30a7\u30b6\u30fc\u30cb\u30e5\u30fc\u30b9",
+     "id": 712914636203433984,
+     "id_str": "712914636203433984",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/6Qvo6D1NyL",
+     "expanded_url": "https://weathernews.jp/s/topics/202302/070075/",
+     "display_url": "weathernews.jp/s/topics/20230\u2026",
+     "indices": [
+      111,
+      134
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 05:13:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bbcnewsjapan",
+     "name": "BBC News Japan",
+     "id": 2394709974,
+     "id_str": "2394709974",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/lsMYaa1HVJ",
+     "expanded_url": "https://www.bbc.com/japanese/64535564",
+     "display_url": "bbc.com/japanese/64535\u2026",
+     "indices": [
+      55,
+      78
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 05:10:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "halnohanabasi",
+     "name": "\u8272\u84ee",
+     "id": 1386711676624412674,
+     "id_str": "1386711676624412674",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "amneris84",
+     "name": "Shoko Egawa",
+     "id": 101428190,
+     "id_str": "101428190",
+     "indices": [
+      19,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 05:09:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "random20022",
+     "name": "random2002",
+     "id": 1251354427522379777,
+     "id_str": "1251354427522379777",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "amneris84",
+     "name": "Shoko Egawa",
+     "id": 101428190,
+     "id_str": "101428190",
+     "indices": [
+      17,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 03:43:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "d_d_osorezan",
+     "name": "\u30c0\u30fb\u30c0\u30fb\u6050\u5c71",
+     "id": 316402450,
+     "id_str": "316402450",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622747229307166720,
+     "id_str": "1622747229307166720",
+     "indices": [
+      47,
+      70
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoUoAeMaYAAApBP.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoUoAeMaYAAApBP.jpg",
+     "url": "https://t.co/07sYTjpJHb",
+     "display_url": "pic.twitter.com/07sYTjpJHb",
+     "expanded_url": "https://twitter.com/d_d_osorezan/status/1622747233937489922/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 450,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 714,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 714,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622747233937489922,
+     "source_status_id_str": "1622747233937489922",
+     "source_user_id": 316402450,
+     "source_user_id_str": "316402450"
+    }
+   ]
+  },
+  "Tue Feb 07 03:43:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "P_Shoki",
+     "name": "\u3057\u3087\u304dP",
+     "id": 758276287379087360,
+     "id_str": "758276287379087360",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "d_d_osorezan",
+     "name": "\u30c0\u30fb\u30c0\u30fb\u6050\u5c71",
+     "id": 316402450,
+     "id_str": "316402450",
+     "indices": [
+      13,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 03:43:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "d_d_osorezan",
+     "name": "\u30c0\u30fb\u30c0\u30fb\u6050\u5c71",
+     "id": 316402450,
+     "id_str": "316402450",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622789479038857216,
+     "id_str": "1622789479038857216",
+     "indices": [
+      25,
+      48
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoVObutaMAAQRoX.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoVObutaMAAQRoX.jpg",
+     "url": "https://t.co/9QnEzTl9vl",
+     "display_url": "pic.twitter.com/9QnEzTl9vl",
+     "expanded_url": "https://twitter.com/d_d_osorezan/status/1622789536236572672/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 635,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 659,
+       "h": 706,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 659,
+       "h": 706,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622789536236572672,
+     "source_status_id_str": "1622789536236572672",
+     "source_user_id": 316402450,
+     "source_user_id_str": "316402450"
+    }
+   ]
+  },
+  "Tue Feb 07 03:42:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "d_d_osorezan",
+     "name": "\u30c0\u30fb\u30c0\u30fb\u6050\u5c71",
+     "id": 316402450,
+     "id_str": "316402450",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 03:41:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bbcnewsjapan",
+     "name": "BBC News Japan",
+     "id": 2394709974,
+     "id_str": "2394709974",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/vQI3mdQYza",
+     "expanded_url": "https://www.bbc.com/japanese/features-and-analysis-64550004",
+     "display_url": "bbc.com/japanese/featu\u2026",
+     "indices": [
+      61,
+      84
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 03:39:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "600Jreast",
+     "name": "JREast Series 600",
+     "id": 1475306011468926984,
+     "id_str": "1475306011468926984",
+     "indices": [
+      0,
+      10
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/YRB9rJqxPg",
+     "expanded_url": "https://www.youtube.com/watch?v=W1iwjWmOkuI&t=101s",
+     "display_url": "youtube.com/watch?v=W1iwjW\u2026",
+     "indices": [
+      11,
+      34
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 23:39:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bbcnewsjapan",
+     "name": "BBC News Japan",
+     "id": 2394709974,
+     "id_str": "2394709974",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/mpR7PgZj4a",
+     "expanded_url": "https://www.bbc.com/japanese/features-and-analysis-64533687",
+     "display_url": "bbc.com/japanese/featu\u2026",
+     "indices": [
+      59,
+      82
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 09:44:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622531482068881408,
+     "id_str": "1622531482068881408",
+     "indices": [
+      15,
+      38
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoRjyVGakAAeyCi.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoRjyVGakAAeyCi.jpg",
+     "url": "https://t.co/l56NhC7xSG",
+     "display_url": "pic.twitter.com/l56NhC7xSG",
+     "expanded_url": "https://twitter.com/AaaaaaTakanosu/status/1622531567754309632/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1151,
+       "h": 624,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 369,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1151,
+       "h": 624,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Mon Feb 06 09:10:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Mon Feb 06 06:44:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeimurazLezhava",
+     "name": "\u99d0\u65e5\u30b8\u30e7\u30fc\u30b8\u30a2\u5927\u4f7f \u30c6\u30a3\u30e0\u30e9\u30ba\u30fb\u30ec\u30b8\u30e3\u30d0",
+     "id": 398541089,
+     "id_str": "398541089",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622128086589526016,
+     "id_str": "1622128086589526016",
+     "indices": [
+      21,
+      44
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoL05n1aUAAWfX-.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoL05n1aUAAWfX-.jpg",
+     "url": "https://t.co/100eMIMBC9",
+     "display_url": "pic.twitter.com/100eMIMBC9",
+     "expanded_url": "https://twitter.com/TeimurazLezhava/status/1622128122916405248/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 768,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 768,
+       "h": 1024,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622128122916405248,
+     "source_status_id_str": "1622128122916405248",
+     "source_user_id": 398541089,
+     "source_user_id_str": "398541089"
+    }
+   ]
+  },
+  "Mon Feb 06 06:42:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "d_d_osorezan",
+     "name": "\u30c0\u30fb\u30c0\u30fb\u6050\u5c71",
+     "id": 316402450,
+     "id_str": "316402450",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

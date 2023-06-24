@@ -1,0 +1,212 @@
+{
+ "25782502": {
+  "Wed Feb 08 19:38:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Madonna",
+     "name": "Madonna",
+     "id": 512700138,
+     "id_str": "512700138",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 00:36:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CNNPolitics",
+     "name": "CNN Politics",
+     "id": 13850422,
+     "id_str": "13850422",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:57:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cnnbrk",
+     "name": "CNN Breaking News",
+     "id": 428333,
+     "id_str": "428333",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:00:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z6h5975anw",
+     "expanded_url": "https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/",
+     "display_url": "state.gov/bureaus-office\u2026",
+     "indices": [
+      118,
+      141
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 18:00:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:46:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:02:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622758189602156546,
+     "id_str": "1622758189602156546",
+     "indices": [
+      43,
+      66
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoUx-ceXsAIx11q.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoUx-ceXsAIx11q.jpg",
+     "url": "https://t.co/DpVxOSqJ4M",
+     "display_url": "pic.twitter.com/DpVxOSqJ4M",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622758195268669442/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 283,
+       "h": 351,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 283,
+       "h": 351,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 283,
+       "h": 351,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622758195268669442,
+     "source_status_id_str": "1622758195268669442",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 06 15:36:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CNNPolitics",
+     "name": "CNN Politics",
+     "id": 13850422,
+     "id_str": "13850422",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/8tNiKJtcRK",
+     "expanded_url": "https://cnn.it/3RQg7Qt",
+     "display_url": "cnn.it/3RQg7Qt",
+     "indices": [
+      106,
+      129
+     ]
+    }
+   ]
+  }
+ }
+}

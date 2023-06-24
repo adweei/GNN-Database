@@ -1,0 +1,200 @@
+{
+ "1624388259454545921": {
+  "Wed Feb 15 03:52:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GretaThunberg",
+     "name": "Greta Thunberg",
+     "id": 1006419421244678144,
+     "id_str": "1006419421244678144",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 08:12:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 12:04:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "konstructivizm",
+     "name": "Black Hole",
+     "id": 138882249,
+     "id_str": "138882249",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/033W4tVIsi",
+     "expanded_url": "https://t.ly/6RRI",
+     "display_url": "t.ly/6RRI",
+     "indices": [
+      106,
+      129
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 12:02:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WorldAndScience",
+     "name": "World and Science",
+     "id": 511402689,
+     "id_str": "511402689",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624580834823925760,
+     "id_str": "1624580834823925760",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624580834823925760/pu/img/RnGo2NJlfMmU_5gq.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624580834823925760/pu/img/RnGo2NJlfMmU_5gq.jpg",
+     "url": "https://t.co/zq7kBQI2jv",
+     "display_url": "pic.twitter.com/zq7kBQI2jv",
+     "expanded_url": "https://twitter.com/WorldAndScience/status/1624580880072163328/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624580880072163328,
+     "source_status_id_str": "1624580880072163328",
+     "source_user_id": 511402689,
+     "source_user_id_str": "511402689"
+    }
+   ]
+  },
+  "Sun Feb 12 06:24:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624653748701388801,
+     "id_str": "1624653748701388801",
+     "indices": [
+      62,
+      85
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fovt-gZaYAEGVpI.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fovt-gZaYAEGVpI.jpg",
+     "url": "https://t.co/kASyhCqrko",
+     "display_url": "pic.twitter.com/kASyhCqrko",
+     "expanded_url": "https://twitter.com/SpaceX/status/1624653996517359617/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 800,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1365,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 453,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624653996517359617,
+     "source_status_id_str": "1624653996517359617",
+     "source_user_id": 34743251,
+     "source_user_id_str": "34743251"
+    }
+   ]
+  },
+  "Sun Feb 12 02:31:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Teslaconomics",
+     "name": "Teslaconomics",
+     "id": 985243593538338816,
+     "id_str": "985243593538338816",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

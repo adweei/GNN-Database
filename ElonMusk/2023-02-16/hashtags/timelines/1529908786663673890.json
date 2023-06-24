@@ -1,0 +1,900 @@
+{
+ "1529908786663673890": {
+  "Wed Feb 15 22:15:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:01:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/jLZnBwJhDt",
+     "expanded_url": "https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/",
+     "display_url": "stratechery.com/2023/from-bing\u2026",
+     "indices": [
+      26,
+      49
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 15:56:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      65,
+      74
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625733763752943617,
+     "id_str": "1625733763752943617",
+     "indices": [
+      75,
+      98
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1625733763752943617/img/aQ493BEUeGMR4qU9.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1625733763752943617/img/aQ493BEUeGMR4qU9.jpg",
+     "url": "https://t.co/Pt9elRlac7",
+     "display_url": "pic.twitter.com/Pt9elRlac7",
+     "expanded_url": "https://twitter.com/cb_doge/status/1625733839141343233/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 378,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1566,
+       "h": 870,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 667,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625733839141343233,
+     "source_status_id_str": "1625733839141343233",
+     "source_user_id": 1389913567671975937,
+     "source_user_id_str": "1389913567671975937"
+    }
+   ]
+  },
+  "Wed Feb 15 15:35:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/pig6aOwBuS",
+     "expanded_url": "https://youtu.be/mw15d-QZasI",
+     "display_url": "youtu.be/mw15d-QZasI",
+     "indices": [
+      71,
+      94
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 10:29:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "alx",
+     "name": "ALX \ud83c\uddfa\ud83c\uddf8",
+     "id": 534023,
+     "id_str": "534023",
+     "indices": [
+      14,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 09:03:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 16:34:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 13:38:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NASASun",
+     "name": "NASA Sun & Space",
+     "id": 15102849,
+     "id_str": "15102849",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "NASAEarth",
+     "name": "NASA Earth",
+     "id": 24919888,
+     "id_str": "24919888",
+     "indices": [
+      90,
+      100
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625221047665434625,
+     "id_str": "1625221047665434625",
+     "indices": [
+      104,
+      127
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo3x7puWIAEhptA.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo3x7puWIAEhptA.jpg",
+     "url": "https://t.co/pfPdIkbp9v",
+     "display_url": "pic.twitter.com/pfPdIkbp9v",
+     "expanded_url": "https://twitter.com/NASASun/status/1625221054766489600/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625221054766489600,
+     "source_status_id_str": "1625221054766489600",
+     "source_user_id": 15102849,
+     "source_user_id_str": "15102849"
+    }
+   ]
+  },
+  "Tue Feb 14 13:37:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "buitengebieden",
+     "name": "Buitengebieden",
+     "id": 1130021685351079938,
+     "id_str": "1130021685351079938",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625428906701381632,
+     "id_str": "1625428906701381632",
+     "indices": [
+      65,
+      88
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625428906701381632/pu/img/6dVr3M7_3uiey_xb.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625428906701381632/pu/img/6dVr3M7_3uiey_xb.jpg",
+     "url": "https://t.co/fzsIto0nCh",
+     "display_url": "pic.twitter.com/fzsIto0nCh",
+     "expanded_url": "https://twitter.com/buitengebieden/status/1625428953145004044/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625428953145004044,
+     "source_status_id_str": "1625428953145004044",
+     "source_user_id": 1130021685351079938,
+     "source_user_id_str": "1130021685351079938"
+    }
+   ]
+  },
+  "Tue Feb 14 09:07:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/kdmKaogkLA",
+     "expanded_url": "https://youtu.be/pGIxd4ixNFo",
+     "display_url": "youtu.be/pGIxd4ixNFo",
+     "indices": [
+      92,
+      115
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 08:37:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CatherinScience",
+     "name": "Laura Catherine \u2728\u2728\ud83d\ude80\ud83d\udcda",
+     "id": 1449512167708012548,
+     "id_str": "1449512167708012548",
+     "indices": [
+      0,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625414012526555136,
+     "id_str": "1625414012526555136",
+     "indices": [
+      17,
+      40
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fo6hbr2WcAA6rS3.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fo6hbr2WcAA6rS3.jpg",
+     "url": "https://t.co/M0itUqmbQP",
+     "display_url": "pic.twitter.com/M0itUqmbQP",
+     "expanded_url": "https://twitter.com/SusanneWLein/status/1625414021133266945/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 448,
+       "h": 480,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 448,
+       "h": 480,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 448,
+       "h": 480,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 14 07:31:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/RiHWSGsxTR",
+     "expanded_url": "https://twitter.com/i/web/status/1625397248711327746",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 19:04:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 15:31:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ValentinesDay",
+     "indices": [
+      85,
+      99
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "bethesda",
+     "name": "Bethesda",
+     "id": 23645599,
+     "id_str": "23645599",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625147798164234241,
+     "id_str": "1625147798164234241",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo2vT-EWYAE8Rml.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo2vT-EWYAE8Rml.jpg",
+     "url": "https://t.co/Y9GeJcR4Ok",
+     "display_url": "pic.twitter.com/Y9GeJcR4Ok",
+     "expanded_url": "https://twitter.com/bethesda/status/1625147806234079234/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1680,
+       "h": 1680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625147806234079234,
+     "source_status_id_str": "1625147806234079234",
+     "source_user_id": 23645599,
+     "source_user_id_str": "23645599"
+    }
+   ]
+  },
+  "Mon Feb 13 15:18:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "QuerDenkender",
+     "name": "Aleksander Knauerhase",
+     "id": 207051298,
+     "id_str": "207051298",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625152342625771521,
+     "id_str": "1625152342625771521",
+     "indices": [
+      15,
+      38
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fo2zcfgaYAEnZ2c.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fo2zcfgaYAEnZ2c.jpg",
+     "url": "https://t.co/hJRohmMS4a",
+     "display_url": "pic.twitter.com/hJRohmMS4a",
+     "expanded_url": "https://twitter.com/SusanneWLein/status/1625152355502096385/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 498,
+       "h": 352,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 498,
+       "h": 352,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 498,
+       "h": 352,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Mon Feb 13 13:23:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FHollwarth",
+     "name": "Florian H\u00f6llwarth",
+     "id": 1249465483432087552,
+     "id_str": "1249465483432087552",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 11:27:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/M76casU5gm",
+     "expanded_url": "https://youtu.be/-WYYlRArn3g",
+     "display_url": "youtu.be/-WYYlRArn3g",
+     "indices": [
+      92,
+      115
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 23:44:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/sjban6T4yA",
+     "expanded_url": "https://youtu.be/T45ROgh1ChQ",
+     "display_url": "youtu.be/T45ROgh1ChQ",
+     "indices": [
+      52,
+      75
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 23:32:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      13,
+      22
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624898685208522752,
+     "id_str": "1624898685208522752",
+     "indices": [
+      34,
+      57
+     ],
+     "media_url": "http://pbs.twimg.com/media/FozMvr_acAA-myV.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FozMvr_acAA-myV.jpg",
+     "url": "https://t.co/a5LUK3WESX",
+     "display_url": "pic.twitter.com/a5LUK3WESX",
+     "expanded_url": "https://twitter.com/cb_doge/status/1624898692074405894/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 521,
+       "h": 510,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 521,
+       "h": 510,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 521,
+       "h": 510,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624898692074405894,
+     "source_status_id_str": "1624898692074405894",
+     "source_user_id": 1389913567671975937,
+     "source_user_id_str": "1389913567671975937"
+    }
+   ]
+  },
+  "Sun Feb 12 12:01:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ur5E4kYSDX",
+     "expanded_url": "https://youtu.be/JM1DHrOWxlM",
+     "display_url": "youtu.be/JM1DHrOWxlM",
+     "indices": [
+      121,
+      144
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 08:47:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ace_constantine",
+     "name": "ace constantine",
+     "id": 28841476,
+     "id_str": "28841476",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      21,
+      30
+     ]
+    },
+    {
+     "screen_name": "MuskUniversity",
+     "name": "Musk University | Quotes",
+     "id": 1495956968640421893,
+     "id_str": "1495956968640421893",
+     "indices": [
+      31,
+      46
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624550153620258816,
+     "id_str": "1624550153620258816",
+     "indices": [
+      47,
+      70
+     ],
+     "media_url": "http://pbs.twimg.com/media/FouPwepXgAAaMSO.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FouPwepXgAAaMSO.jpg",
+     "url": "https://t.co/8p2P0NA3TM",
+     "display_url": "pic.twitter.com/8p2P0NA3TM",
+     "expanded_url": "https://twitter.com/ace_constantine/status/1624550158196256768/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 600,
+       "h": 596,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 600,
+       "h": 596,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 600,
+       "h": 596,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624550158196256768,
+     "source_status_id_str": "1624550158196256768",
+     "source_user_id": 28841476,
+     "source_user_id_str": "28841476"
+    }
+   ]
+  },
+  "Sun Feb 12 07:40:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/bJFjLCiTbK",
+     "expanded_url": "http://spacex.com/launches",
+     "display_url": "spacex.com/launches",
+     "indices": [
+      68,
+      91
+     ]
+    },
+    {
+     "url": "https://t.co/ylTHl0fe03",
+     "expanded_url": "https://twitter.com/i/broadcasts/1OyKAVAoPrrGb",
+     "display_url": "twitter.com/i/broadcasts/1\u2026",
+     "indices": [
+      92,
+      115
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 07:23:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 12:19:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/DFW0PfF2yq",
+     "expanded_url": "https://youtu.be/Nv3ypNepnlk",
+     "display_url": "youtu.be/Nv3ypNepnlk",
+     "indices": [
+      98,
+      121
+     ]
+    }
+   ]
+  },
+  "Sat Feb 11 09:28:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MAstronomers",
+     "name": "Amazing Astronomy",
+     "id": 750683331260321792,
+     "id_str": "750683331260321792",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624311697186889735,
+     "id_str": "1624311697186889735",
+     "indices": [
+      37,
+      60
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foq24fNWIAcdOSf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foq24fNWIAcdOSf.jpg",
+     "url": "https://t.co/eWWgyYgAhP",
+     "display_url": "pic.twitter.com/eWWgyYgAhP",
+     "expanded_url": "https://twitter.com/MAstronomers/status/1624311707865587715/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 526,
+       "h": 526,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 526,
+       "h": 526,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 526,
+       "h": 526,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624311707865587715,
+     "source_status_id_str": "1624311707865587715",
+     "source_user_id": 750683331260321792,
+     "source_user_id_str": "750683331260321792"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,5340 @@
+{
+ "1883253186": {
+  "Wed Feb 08 21:23:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RZitelmann",
+     "name": "Dr. Dr. Rainer Zitelmann",
+     "id": 1218947359033393153,
+     "id_str": "1218947359033393153",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623092416889688064,
+     "id_str": "1623092416889688064",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoZh9CJXEAAieRd.png",
+     "media_url_https": "https://pbs.twimg.com/media/FoZh9CJXEAAieRd.png",
+     "url": "https://t.co/HTVMCZB5oW",
+     "display_url": "pic.twitter.com/HTVMCZB5oW",
+     "expanded_url": "https://twitter.com/RZitelmann/status/1623092563803611141/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 542,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 542,
+       "h": 680,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 542,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1623092563803611141,
+     "source_status_id_str": "1623092563803611141",
+     "source_user_id": 1218947359033393153,
+     "source_user_id_str": "1218947359033393153"
+    }
+   ]
+  },
+  "Wed Feb 08 21:23:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "apmassaro3",
+     "name": "Paul Massaro",
+     "id": 888183349864476672,
+     "id_str": "888183349864476672",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623314257025634305,
+     "id_str": "1623314257025634305",
+     "indices": [
+      107,
+      130
+     ],
+     "media_url": "http://pbs.twimg.com/media/Focs10vXwAMubuC.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Focs10vXwAMubuC.jpg",
+     "url": "https://t.co/8oajkAungS",
+     "display_url": "pic.twitter.com/8oajkAungS",
+     "expanded_url": "https://twitter.com/BloombergUK/status/1623315438603063296/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623315438603063296,
+     "source_status_id_str": "1623315438603063296",
+     "source_user_id": 774195721000087552,
+     "source_user_id_str": "774195721000087552"
+    }
+   ]
+  },
+  "Wed Feb 08 21:22:54 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SlavaUkraini",
+     "indices": [
+      67,
+      80
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RishiSunak",
+     "name": "Rishi Sunak",
+     "id": 1168968080690749441,
+     "id_str": "1168968080690749441",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "ZelenskyyUa",
+     "name": "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+     "id": 1120633726478823425,
+     "id_str": "1120633726478823425",
+     "indices": [
+      45,
+      57
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623272361813319681,
+     "id_str": "1623272361813319681",
+     "indices": [
+      81,
+      104
+     ],
+     "media_url": "http://pbs.twimg.com/media/FocFnNOXoAEE3Re.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FocFnNOXoAEE3Re.jpg",
+     "url": "https://t.co/rMoBTC3ken",
+     "display_url": "pic.twitter.com/rMoBTC3ken",
+     "expanded_url": "https://twitter.com/RishiSunak/status/1623272630143918080/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623272630143918080,
+     "source_status_id_str": "1623272630143918080",
+     "source_user_id": 1168968080690749441,
+     "source_user_id_str": "1168968080690749441"
+    }
+   ]
+  },
+  "Wed Feb 08 21:22:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KatesPowerSuit",
+     "name": "Kate\u2019s Power Suit",
+     "id": 1443662092863787008,
+     "id_str": "1443662092863787008",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623425197716930562,
+     "id_str": "1623425197716930562",
+     "indices": [
+      34,
+      57
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoeQnbVWAAI_360.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoeQnbVWAAI_360.jpg",
+     "url": "https://t.co/QcSJHmNO5B",
+     "display_url": "pic.twitter.com/QcSJHmNO5B",
+     "expanded_url": "https://twitter.com/KatesPowerSuit/status/1623425200892088324/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 453,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 720,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 480,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623425200892088324,
+     "source_status_id_str": "1623425200892088324",
+     "source_user_id": 1443662092863787008,
+     "source_user_id_str": "1443662092863787008"
+    }
+   ]
+  },
+  "Wed Feb 08 21:22:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AZ_Brittney",
+     "name": "\ud83d\udc99Brittney\ud83d\udc99",
+     "id": 1424033022,
+     "id_str": "1424033022",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 21:22:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AZ_Brittney",
+     "name": "\ud83d\udc99Brittney\ud83d\udc99",
+     "id": 1424033022,
+     "id_str": "1424033022",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:55:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ReallyAmerican1",
+     "name": "Really American \ud83c\uddfa\ud83c\uddf8",
+     "id": 767788995962998784,
+     "id_str": "767788995962998784",
+     "indices": [
+      0,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:55:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ReallyAmerican1",
+     "name": "Really American \ud83c\uddfa\ud83c\uddf8",
+     "id": 767788995962998784,
+     "id_str": "767788995962998784",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:54:43 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Merz",
+     "indices": [
+      97,
+      102
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PapkeGerhard",
+     "name": "Gerhard Papke",
+     "id": 1316690533180420096,
+     "id_str": "1316690533180420096",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:54:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MelnykAndrij",
+     "name": "Andrij Melnyk",
+     "id": 2959037001,
+     "id_str": "2959037001",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "nouripour",
+     "name": "Omid Nouripour",
+     "id": 16674128,
+     "id_str": "16674128",
+     "indices": [
+      48,
+      58
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:53:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RZitelmann",
+     "name": "Dr. Dr. Rainer Zitelmann",
+     "id": 1218947359033393153,
+     "id_str": "1218947359033393153",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:53:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_FriedrichMerz",
+     "name": "Friedrich Merz",
+     "id": 1059395748289232896,
+     "id_str": "1059395748289232896",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:52:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ukrainiansquad",
+     "name": "UKRAINIAN SQUAD\ud83c\uddfa\ud83c\udde6",
+     "id": 1266213324481593347,
+     "id_str": "1266213324481593347",
+     "indices": [
+      0,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:52:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ukrainiansquad",
+     "name": "UKRAINIAN SQUAD\ud83c\uddfa\ud83c\udde6",
+     "id": 1266213324481593347,
+     "id_str": "1266213324481593347",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623288816332070913,
+     "id_str": "1623288816332070913",
+     "indices": [
+      38,
+      61
+     ],
+     "media_url": "http://pbs.twimg.com/media/FocUk_FWYAEz8xW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FocUk_FWYAEz8xW.jpg",
+     "url": "https://t.co/AXuOtYL6cK",
+     "display_url": "pic.twitter.com/AXuOtYL6cK",
+     "expanded_url": "https://twitter.com/ukrainiansquad/status/1623288821679783937/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 700,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 700,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 465,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623288821679783937,
+     "source_status_id_str": "1623288821679783937",
+     "source_user_id": 1266213324481593347,
+     "source_user_id_str": "1266213324481593347"
+    }
+   ]
+  },
+  "Wed Feb 08 20:51:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ZelenskyyUa",
+     "name": "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+     "id": 1120633726478823425,
+     "id_str": "1120633726478823425",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      23,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:51:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WindsorDynasty",
+     "name": "Royal Watcher",
+     "id": 1510989634339233798,
+     "id_str": "1510989634339233798",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:51:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "QueenLilibet_",
+     "name": "Lilibet \u265b",
+     "id": 1350780410641395712,
+     "id_str": "1350780410641395712",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:50:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ronzheimer",
+     "name": "Paul Ronzheimer",
+     "id": 323968570,
+     "id_str": "323968570",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 11:00:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "joncoopertweets",
+     "name": "Jon Cooper",
+     "id": 27493883,
+     "id_str": "27493883",
+     "indices": [
+      0,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 11:00:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "joncoopertweets",
+     "name": "Jon Cooper",
+     "id": 27493883,
+     "id_str": "27493883",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 10:59:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 08:43:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "vaninaswchindt",
+     "name": "Queen Maxima and Royal Ladies",
+     "id": 1024230680,
+     "id_str": "1024230680",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 08:43:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623182543620132869,
+     "id_str": "1623182543620132869",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "url": "https://t.co/jL5fjQxTcz",
+     "display_url": "pic.twitter.com/jL5fjQxTcz",
+     "expanded_url": "https://twitter.com/elonmusk/status/1623182547373985793/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 572,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623182547373985793,
+     "source_status_id_str": "1623182547373985793",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 08 08:42:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RZitelmann",
+     "name": "Dr. Dr. Rainer Zitelmann",
+     "id": 1218947359033393153,
+     "id_str": "1218947359033393153",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 08:41:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JenCarsonTaylor",
+     "name": "jen \u2728",
+     "id": 1256672146610425857,
+     "id_str": "1256672146610425857",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/4ZTIQcADMA",
+     "expanded_url": "https://www.thetimes.co.uk/article/2cf9b69a-a72e-11ed-b9b7-9e487a0455d5?shareToken=7182355b136d7e4377dcdc35882842b8",
+     "display_url": "thetimes.co.uk/article/2cf9b6\u2026",
+     "indices": [
+      70,
+      93
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 08:39:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "QueenElizabeth",
+     "indices": [
+      30,
+      45
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "QueenLilibet_",
+     "name": "Queen Lilibet \u265b",
+     "id": 1350780410641395712,
+     "id_str": "1350780410641395712",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623226399099060225,
+     "id_str": "1623226399099060225",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fobbz0xWAAE5tC4.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fobbz0xWAAE5tC4.jpg",
+     "url": "https://t.co/WRKTFoe3Vw",
+     "display_url": "pic.twitter.com/WRKTFoe3Vw",
+     "expanded_url": "https://twitter.com/QueenLilibet_/status/1623226402811047936/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 387,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 986,
+       "h": 561,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 986,
+       "h": 561,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623226402811047936,
+     "source_status_id_str": "1623226402811047936",
+     "source_user_id": 1350780410641395712,
+     "source_user_id_str": "1350780410641395712"
+    }
+   ]
+  },
+  "Wed Feb 08 08:37:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ZelenskyyUa",
+     "name": "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+     "id": 1120633726478823425,
+     "id_str": "1120633726478823425",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      27,
+      33
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 08:37:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IBM",
+     "name": "IBM",
+     "id": 18994444,
+     "id_str": "18994444",
+     "indices": [
+      3,
+      7
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 08:36:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "unusual_whales",
+     "name": "unusual_whales",
+     "id": 1200616796295847936,
+     "id_str": "1200616796295847936",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 08:36:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WalesRoyals",
+     "name": "Liana\ud83e\udd8b",
+     "id": 1214211312126812160,
+     "id_str": "1214211312126812160",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623226289342537728,
+     "id_str": "1623226289342537728",
+     "indices": [
+      30,
+      53
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fobbtb5WYAAhd1f.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fobbtb5WYAAhd1f.jpg",
+     "url": "https://t.co/5GpStDXqPy",
+     "display_url": "pic.twitter.com/5GpStDXqPy",
+     "expanded_url": "https://twitter.com/WalesRoyals/status/1623226308162383872/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 800,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 900,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 453,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623226308162383872,
+     "source_status_id_str": "1623226308162383872",
+     "source_user_id": 1214211312126812160,
+     "source_user_id_str": "1214211312126812160"
+    }
+   ]
+  },
+  "Tue Feb 07 21:03:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "royalinstablog",
+     "name": "Royalinstablog",
+     "id": 1385276434093051907,
+     "id_str": "1385276434093051907",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 21:03:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WalesRoyals",
+     "name": "Liana\ud83e\udd8b",
+     "id": 1214211312126812160,
+     "id_str": "1214211312126812160",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622863354493562882,
+     "id_str": "1622863354493562882",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoWRn2OWcAImnk7.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoWRn2OWcAImnk7.jpg",
+     "url": "https://t.co/bo1QheKOeK",
+     "display_url": "pic.twitter.com/bo1QheKOeK",
+     "expanded_url": "https://twitter.com/WalesRoyals/status/1622863374240342019/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 496,
+       "h": 648,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 496,
+       "h": 648,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 496,
+       "h": 648,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622863374240342019,
+     "source_status_id_str": "1622863374240342019",
+     "source_user_id": 1214211312126812160,
+     "source_user_id_str": "1214211312126812160"
+    }
+   ]
+  },
+  "Tue Feb 07 20:41:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ZelenskyyUa",
+     "name": "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+     "id": 1120633726478823425,
+     "id_str": "1120633726478823425",
+     "indices": [
+      0,
+      12
+     ]
+    },
+    {
+     "screen_name": "RTErdogan",
+     "name": "Recep Tayyip Erdo\u011fan",
+     "id": 68034431,
+     "id_str": "68034431",
+     "indices": [
+      13,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:40:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ZelenskyyUa",
+     "name": "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+     "id": 1120633726478823425,
+     "id_str": "1120633726478823425",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "RTErdogan",
+     "name": "Recep Tayyip Erdo\u011fan",
+     "id": 68034431,
+     "id_str": "68034431",
+     "indices": [
+      29,
+      39
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:34:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:34:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:31:44 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Ukraine",
+     "indices": [
+      128,
+      136
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BMVg_Bundeswehr",
+     "name": "Verteidigungsministerium",
+     "id": 1121700961125314560,
+     "id_str": "1121700961125314560",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:31:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RoyalFamilyGB",
+     "name": "RoyalFamilyGB",
+     "id": 1063646964712202241,
+     "id_str": "1063646964712202241",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622637420259733504,
+     "id_str": "1622637420259733504",
+     "indices": [
+      27,
+      50
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTEIvnWcAAC47-.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTEIvnWcAAC47-.jpg",
+     "url": "https://t.co/tVZfRgmTZa",
+     "display_url": "pic.twitter.com/tVZfRgmTZa",
+     "expanded_url": "https://twitter.com/RoyalFamilyGB/status/1622637424231739393/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1125,
+       "h": 1250,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 612,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622637424231739393,
+     "source_status_id_str": "1622637424231739393",
+     "source_user_id": 1063646964712202241,
+     "source_user_id_str": "1063646964712202241"
+    }
+   ]
+  },
+  "Tue Feb 07 20:30:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "royalinstablog",
+     "name": "Royalinstablog",
+     "id": 1385276434093051907,
+     "id_str": "1385276434093051907",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:28:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BMLange1",
+     "name": "Bj\u00f6rn-Michael Lange \ud83c\uddea\ud83c\uddfa\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8",
+     "id": 1307390559301120014,
+     "id_str": "1307390559301120014",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:25:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AZ_Brittney",
+     "name": "\ud83d\udc99Brittney\ud83d\udc99",
+     "id": 1424033022,
+     "id_str": "1424033022",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:23:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ukrainiansquad",
+     "name": "UKRAINIAN SQUAD\ud83c\uddfa\ud83c\udde6",
+     "id": 1266213324481593347,
+     "id_str": "1266213324481593347",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622974993574334464,
+     "id_str": "1622974993574334464",
+     "indices": [
+      102,
+      125
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoX3KGNXEAAIl_u.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoX3KGNXEAAIl_u.jpg",
+     "url": "https://t.co/4o5RClbDRz",
+     "display_url": "pic.twitter.com/4o5RClbDRz",
+     "expanded_url": "https://twitter.com/ukrainiansquad/status/1622975000880742400/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1462,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622975000880742400,
+     "source_status_id_str": "1622975000880742400",
+     "source_user_id": 1266213324481593347,
+     "source_user_id_str": "1266213324481593347"
+    }
+   ]
+  },
+  "Tue Feb 07 16:38:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622965908867104769,
+     "id_str": "1622965908867104769",
+     "indices": [
+      50,
+      73
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoXu5TCXwAE_f52.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoXu5TCXwAE_f52.jpg",
+     "url": "https://t.co/5YvftWL6yV",
+     "display_url": "pic.twitter.com/5YvftWL6yV",
+     "expanded_url": "https://twitter.com/POTUS/status/1622965916282793984/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622965916282793984,
+     "source_status_id_str": "1622965916282793984",
+     "source_user_id": 1349149096909668363,
+     "source_user_id_str": "1349149096909668363"
+    }
+   ]
+  },
+  "Tue Feb 07 16:37:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PrincessCatherine",
+     "indices": [
+      32,
+      50
+     ]
+    },
+    {
+     "text": "PrinceLouis",
+     "indices": [
+      51,
+      63
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jandai8",
+     "name": "\ud83c\udf31\ud83c\udf33Aileen\ud83c\udfde\ufe0f\ud83e\uddd8\ud83c\udffb\u200d\u2640\ufe0f",
+     "id": 1158576821169840130,
+     "id_str": "1158576821169840130",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622950830759637000,
+     "id_str": "1622950830759637000",
+     "indices": [
+      64,
+      87
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoXhLotacAgjm_X.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoXhLotacAgjm_X.jpg",
+     "url": "https://t.co/Ip4Sa9jt2G",
+     "display_url": "pic.twitter.com/Ip4Sa9jt2G",
+     "expanded_url": "https://twitter.com/jandai8/status/1622950836149317634/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1638,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622950836149317634,
+     "source_status_id_str": "1622950836149317634",
+     "source_user_id": 1158576821169840130,
+     "source_user_id_str": "1158576821169840130"
+    }
+   ]
+  },
+  "Tue Feb 07 16:37:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepJeffries",
+     "name": "Hakeem Jeffries",
+     "id": 467823431,
+     "id_str": "467823431",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:37:17 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PrincessofWales",
+     "indices": [
+      37,
+      53
+     ]
+    },
+    {
+     "text": "PrincessCatherine",
+     "indices": [
+      62,
+      80
+     ]
+    },
+    {
+     "text": "RoyalFamily",
+     "indices": [
+      85,
+      97
+     ]
+    },
+    {
+     "text": "RealRoyals",
+     "indices": [
+      99,
+      110
+     ]
+    },
+    {
+     "text": "KateTheGreat",
+     "indices": [
+      111,
+      124
+     ]
+    },
+    {
+     "text": "TeamWales",
+     "indices": [
+      127,
+      137
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "christo34036850",
+     "name": "C \u2654\"Art For Art`s Sake\" \u2653",
+     "id": 1404539084484263941,
+     "id_str": "1404539084484263941",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:36:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ZelenskyyUa",
+     "name": "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+     "id": 1120633726478823425,
+     "id_str": "1120633726478823425",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "RTErdogan",
+     "name": "Recep Tayyip Erdo\u011fan",
+     "id": 68034431,
+     "id_str": "68034431",
+     "indices": [
+      29,
+      39
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:36:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WalesRoyals",
+     "name": "Liana\ud83e\udd8b",
+     "id": 1214211312126812160,
+     "id_str": "1214211312126812160",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622728259120013312,
+     "id_str": "1622728259120013312",
+     "indices": [
+      27,
+      50
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoUWwQvWIAA5q4S.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoUWwQvWIAA5q4S.jpg",
+     "url": "https://t.co/MbNTTsoZKO",
+     "display_url": "pic.twitter.com/MbNTTsoZKO",
+     "expanded_url": "https://twitter.com/WalesRoyals/status/1622728280620015619/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 809,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 537,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 809,
+       "h": 1024,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622728280620015619,
+     "source_status_id_str": "1622728280620015619",
+     "source_user_id": 1214211312126812160,
+     "source_user_id_str": "1214211312126812160"
+    }
+   ]
+  },
+  "Tue Feb 07 16:36:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RZitelmann",
+     "name": "Dr. Dr. Rainer Zitelmann",
+     "id": 1218947359033393153,
+     "id_str": "1218947359033393153",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:36:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RZitelmann",
+     "name": "Dr. Dr. Rainer Zitelmann",
+     "id": 1218947359033393153,
+     "id_str": "1218947359033393153",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:36:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BorisJohnson",
+     "name": "Boris Johnson",
+     "id": 3131144855,
+     "id_str": "3131144855",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:35:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TandCmag",
+     "name": "TOWN&COUNTRY",
+     "id": 124219349,
+     "id_str": "124219349",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/TPoxTwG2JB",
+     "expanded_url": "http://twnctry.co/cb6GUvo",
+     "display_url": "twnctry.co/cb6GUvo",
+     "indices": [
+      109,
+      132
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 16:35:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Forschung",
+     "indices": [
+      36,
+      46
+     ]
+    },
+    {
+     "text": "Hightech",
+     "indices": [
+      82,
+      91
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Markus_Soeder",
+     "name": "Markus S\u00f6der",
+     "id": 793778228,
+     "id_str": "793778228",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:35:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RosieLee777",
+     "name": "Rosie Lee \ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7 (Rho)",
+     "id": 2763997308,
+     "id_str": "2763997308",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622656865527033858,
+     "id_str": "1622656865527033858",
+     "indices": [
+      17,
+      40
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTV0m4WcAIuywB.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTV0m4WcAIuywB.jpg",
+     "url": "https://t.co/Li8JbQNJw4",
+     "display_url": "pic.twitter.com/Li8JbQNJw4",
+     "expanded_url": "https://twitter.com/RosieLee777/status/1622656868337295373/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 517,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 750,
+       "h": 570,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 750,
+       "h": 570,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622656868337295373,
+     "source_status_id_str": "1622656868337295373",
+     "source_user_id": 2763997308,
+     "source_user_id_str": "2763997308"
+    }
+   ]
+  },
+  "Tue Feb 07 16:34:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenatorWicker",
+     "name": "Senator Roger Wicker",
+     "id": 264219447,
+     "id_str": "264219447",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:34:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ronzheimer",
+     "name": "Paul Ronzheimer",
+     "id": 323968570,
+     "id_str": "323968570",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "DasErste",
+     "name": "Das Erste",
+     "id": 28964208,
+     "id_str": "28964208",
+     "indices": [
+      33,
+      42
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:33:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CoutureRoyals",
+     "name": "CoutureAndRoyals",
+     "id": 1297555145857945605,
+     "id_str": "1297555145857945605",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622959002874159105,
+     "id_str": "1622959002874159105",
+     "indices": [
+      98,
+      121
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoXonUNWIAEqeIw.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoXonUNWIAEqeIw.jpg",
+     "url": "https://t.co/ID73plSVpQ",
+     "display_url": "pic.twitter.com/ID73plSVpQ",
+     "expanded_url": "https://twitter.com/CoutureRoyals/status/1622959014291165184/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1186,
+       "h": 1482,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622959014291165184,
+     "source_status_id_str": "1622959014291165184",
+     "source_user_id": 1297555145857945605,
+     "source_user_id_str": "1297555145857945605"
+    }
+   ]
+  },
+  "Tue Feb 07 16:32:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:31:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "n_roettgen",
+     "name": "Norbert R\u00f6ttgen",
+     "id": 1040160799208161280,
+     "id_str": "1040160799208161280",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:30:54 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Ukraine",
+     "indices": [
+      44,
+      52
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "n_roettgen",
+     "name": "Norbert R\u00f6ttgen",
+     "id": 1040160799208161280,
+     "id_str": "1040160799208161280",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:30:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "messiecondo",
+     "name": "Messie Condo",
+     "id": 15768587,
+     "id_str": "15768587",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622632401951240196,
+     "id_str": "1622632401951240196",
+     "indices": [
+      34,
+      57
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoS_ko9XsAQWk4L.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoS_ko9XsAQWk4L.jpg",
+     "url": "https://t.co/dFToWjc6m7",
+     "display_url": "pic.twitter.com/dFToWjc6m7",
+     "expanded_url": "https://twitter.com/messiecondo/status/1622632407814864899/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 531,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 799,
+       "h": 1023,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 799,
+       "h": 1023,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622632407814864899,
+     "source_status_id_str": "1622632407814864899",
+     "source_user_id": 15768587,
+     "source_user_id_str": "15768587"
+    }
+   ]
+  },
+  "Tue Feb 07 16:30:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "walesloyal",
+     "name": "WalesRoyals\ud83d\udc51",
+     "id": 699745837283438592,
+     "id_str": "699745837283438592",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622648825834766343,
+     "id_str": "1622648825834766343",
+     "indices": [
+      42,
+      65
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTOgosWAAcZhQS.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTOgosWAAcZhQS.jpg",
+     "url": "https://t.co/ixrFt1Kv8d",
+     "display_url": "pic.twitter.com/ixrFt1Kv8d",
+     "expanded_url": "https://twitter.com/walesloyal/status/1622648838916800535/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 629,
+       "h": 750,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 629,
+       "h": 750,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 570,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622648838916800535,
+     "source_status_id_str": "1622648838916800535",
+     "source_user_id": 699745837283438592,
+     "source_user_id_str": "699745837283438592"
+    }
+   ]
+  },
+  "Tue Feb 07 16:25:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "joncoopertweets",
+     "name": "Jon Cooper",
+     "id": 27493883,
+     "id_str": "27493883",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:24:44 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Habeck",
+     "indices": [
+      28,
+      35
+     ]
+    },
+    {
+     "text": "Gr\u00fcnen",
+     "indices": [
+      44,
+      51
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PapkeGerhard",
+     "name": "Gerhard Papke",
+     "id": 1316690533180420096,
+     "id_str": "1316690533180420096",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:24:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sarahdiaryz",
+     "name": "\ud83c\udf3bSarahsecret",
+     "id": 582798470,
+     "id_str": "582798470",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:23:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ukrainiansquad",
+     "name": "UKRAINIAN SQUAD\ud83c\uddfa\ud83c\udde6",
+     "id": 1266213324481593347,
+     "id_str": "1266213324481593347",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:23:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WalesRoyals",
+     "name": "Liana\ud83e\udd8b",
+     "id": 1214211312126812160,
+     "id_str": "1214211312126812160",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:23:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WalesRoyals",
+     "name": "Liana\ud83e\udd8b",
+     "id": 1214211312126812160,
+     "id_str": "1214211312126812160",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622901334683930625,
+     "id_str": "1622901334683930625",
+     "indices": [
+      29,
+      52
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoW0KldX0AEj5Ry.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoW0KldX0AEj5Ry.jpg",
+     "url": "https://t.co/4T5ta8Gi5s",
+     "display_url": "pic.twitter.com/4T5ta8Gi5s",
+     "expanded_url": "https://twitter.com/WalesRoyals/status/1622901346901938176/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1365,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622901346901938176,
+     "source_status_id_str": "1622901346901938176",
+     "source_user_id": 1214211312126812160,
+     "source_user_id_str": "1214211312126812160"
+    }
+   ]
+  },
+  "Tue Feb 07 16:23:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "QueenElizabeth",
+     "indices": [
+      37,
+      52
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "QueenLilibet_",
+     "name": "Queen Lilibet \u265b",
+     "id": 1350780410641395712,
+     "id_str": "1350780410641395712",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622655863189118988,
+     "id_str": "1622655863189118988",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTU6Q4XoAw2pFo.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTU6Q4XoAw2pFo.jpg",
+     "url": "https://t.co/CHS804qXNp",
+     "display_url": "pic.twitter.com/CHS804qXNp",
+     "expanded_url": "https://twitter.com/QueenLilibet_/status/1622655871594504211/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1004,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 569,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1125,
+       "h": 1345,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622655871594504211,
+     "source_status_id_str": "1622655871594504211",
+     "source_user_id": 1350780410641395712,
+     "source_user_id_str": "1350780410641395712"
+    }
+   ]
+  },
+  "Tue Feb 07 16:22:13 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Ukraine",
+     "indices": [
+      20,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "n_roettgen",
+     "name": "Norbert R\u00f6ttgen",
+     "id": 1040160799208161280,
+     "id_str": "1040160799208161280",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:21:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "T\u00fcrkei",
+     "indices": [
+      52,
+      59
+     ]
+    },
+    {
+     "text": "Syrien",
+     "indices": [
+      67,
+      74
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "n_roettgen",
+     "name": "Norbert R\u00f6ttgen",
+     "id": 1040160799208161280,
+     "id_str": "1040160799208161280",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:21:32 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Pflege",
+     "indices": [
+      38,
+      45
+     ]
+    },
+    {
+     "text": "Medizin",
+     "indices": [
+      50,
+      58
+     ]
+    },
+    {
+     "text": "Pflegepl\u00e4tze",
+     "indices": [
+      121,
+      134
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Markus_Soeder",
+     "name": "Markus S\u00f6der",
+     "id": 793778228,
+     "id_str": "793778228",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:21:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WalesRoyals",
+     "name": "Liana\ud83e\udd8b",
+     "id": 1214211312126812160,
+     "id_str": "1214211312126812160",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622638458534494211,
+     "id_str": "1622638458534494211",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTFFLfWAAMPVZi.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTFFLfWAAMPVZi.jpg",
+     "url": "https://t.co/ia2BFL1uGi",
+     "display_url": "pic.twitter.com/ia2BFL1uGi",
+     "expanded_url": "https://twitter.com/WalesRoyals/status/1622638506374836230/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 468,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 826,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1410,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622638506374836230,
+     "source_status_id_str": "1622638506374836230",
+     "source_user_id": 1214211312126812160,
+     "source_user_id_str": "1214211312126812160"
+    }
+   ]
+  },
+  "Tue Feb 07 16:21:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ukrainiansquad",
+     "name": "UKRAINIAN SQUAD\ud83c\uddfa\ud83c\udde6",
+     "id": 1266213324481593347,
+     "id_str": "1266213324481593347",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622647986827190272,
+     "id_str": "1622647986827190272",
+     "indices": [
+      59,
+      82
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTNvzJWYAA2wGg.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTNvzJWYAA2wGg.jpg",
+     "url": "https://t.co/9HNUiFC5bF",
+     "display_url": "pic.twitter.com/9HNUiFC5bF",
+     "expanded_url": "https://twitter.com/ukrainiansquad/status/1622647997535223816/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1128,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1170,
+       "h": 1128,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 656,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622647997535223816,
+     "source_status_id_str": "1622647997535223816",
+     "source_user_id": 1266213324481593347,
+     "source_user_id_str": "1266213324481593347"
+    }
+   ]
+  },
+  "Tue Feb 07 16:20:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622618180521803776,
+     "id_str": "1622618180521803776",
+     "indices": [
+      26,
+      49
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoSyo2AXwAA0OLt.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoSyo2AXwAA0OLt.jpg",
+     "url": "https://t.co/UhERyDuxTO",
+     "display_url": "pic.twitter.com/UhERyDuxTO",
+     "expanded_url": "https://twitter.com/POTUS/status/1622618185621987330/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1365,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622618185621987330,
+     "source_status_id_str": "1622618185621987330",
+     "source_user_id": 1349149096909668363,
+     "source_user_id_str": "1349149096909668363"
+    }
+   ]
+  },
+  "Tue Feb 07 16:20:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MelnykAndrij",
+     "name": "Andrij Melnyk",
+     "id": 2959037001,
+     "id_str": "2959037001",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:19:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EndWokeness",
+     "name": "End Wokeness",
+     "id": 1552795969959636992,
+     "id_str": "1552795969959636992",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622727623360086017,
+     "id_str": "1622727623360086017",
+     "indices": [
+      81,
+      104
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622727623360086017/pu/img/SM-0RuFOpaLfgmr1.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622727623360086017/pu/img/SM-0RuFOpaLfgmr1.jpg",
+     "url": "https://t.co/MJpiBeYs4u",
+     "display_url": "pic.twitter.com/MJpiBeYs4u",
+     "expanded_url": "https://twitter.com/EndWokeness/status/1622727909139005447/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1052,
+       "h": 576,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 372,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1052,
+       "h": 576,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622727909139005447,
+     "source_status_id_str": "1622727909139005447",
+     "source_user_id": 1552795969959636992,
+     "source_user_id_str": "1552795969959636992"
+    }
+   ]
+  },
+  "Tue Feb 07 16:19:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "QueenLilibet_",
+     "name": "Queen Lilibet \u265b",
+     "id": 1350780410641395712,
+     "id_str": "1350780410641395712",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:18:37 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "QueenElizabeth",
+     "indices": [
+      35,
+      50
+     ]
+    },
+    {
+     "text": "Princephilip",
+     "indices": [
+      51,
+      64
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "QueenLilibet_",
+     "name": "Lilibet \u265b",
+     "id": 1350780410641395712,
+     "id_str": "1350780410641395712",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622888082251849731,
+     "id_str": "1622888082251849731",
+     "indices": [
+      65,
+      88
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoWoHMTWIAM5EXl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoWoHMTWIAM5EXl.jpg",
+     "url": "https://t.co/VNKW9eFhNK",
+     "display_url": "pic.twitter.com/VNKW9eFhNK",
+     "expanded_url": "https://twitter.com/QueenLilibet_/status/1622888088182706180/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 911,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 516,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1125,
+       "h": 1482,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622888088182706180,
+     "source_status_id_str": "1622888088182706180",
+     "source_user_id": 1350780410641395712,
+     "source_user_id_str": "1350780410641395712"
+    }
+   ]
+  },
+  "Tue Feb 07 16:18:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Tafeln",
+     "indices": [
+      78,
+      85
+     ]
+    },
+    {
+     "text": "Mitmenschlichkeit",
+     "indices": [
+      99,
+      117
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Markus_Soeder",
+     "name": "Markus S\u00f6der",
+     "id": 793778228,
+     "id_str": "793778228",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:18:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Erdbeben",
+     "indices": [
+      19,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "csu_bt",
+     "name": "CSU im Bundestag",
+     "id": 747696132495650816,
+     "id_str": "747696132495650816",
+     "indices": [
+      3,
+      10
+     ]
+    },
+    {
+     "screen_name": "csu_bt",
+     "name": "CSU im Bundestag",
+     "id": 747696132495650816,
+     "id_str": "747696132495650816",
+     "indices": [
+      49,
+      56
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:17:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sarahdiaryz",
+     "name": "\ud83c\udf3bSarahsecret",
+     "id": 582798470,
+     "id_str": "582798470",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:16:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Revolutionsgarden",
+     "indices": [
+      81,
+      99
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "n_roettgen",
+     "name": "Norbert R\u00f6ttgen",
+     "id": 1040160799208161280,
+     "id_str": "1040160799208161280",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:16:13 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "IranRevolution",
+     "indices": [
+      20,
+      35
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "n_roettgen",
+     "name": "Norbert R\u00f6ttgen",
+     "id": 1040160799208161280,
+     "id_str": "1040160799208161280",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:15:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "McFaul",
+     "name": "Michael McFaul",
+     "id": 454099919,
+     "id_str": "454099919",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:14:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Markus_Soeder",
+     "name": "Markus S\u00f6der",
+     "id": 793778228,
+     "id_str": "793778228",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:14:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Migrationsgipfel",
+     "indices": [
+      56,
+      73
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Markus_Soeder",
+     "name": "Markus S\u00f6der",
+     "id": 793778228,
+     "id_str": "793778228",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 14:51:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622758189602156546,
+     "id_str": "1622758189602156546",
+     "indices": [
+      43,
+      66
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoUx-ceXsAIx11q.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoUx-ceXsAIx11q.jpg",
+     "url": "https://t.co/DpVxOSqJ4M",
+     "display_url": "pic.twitter.com/DpVxOSqJ4M",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622758195268669442/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 283,
+       "h": 351,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 283,
+       "h": 351,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 283,
+       "h": 351,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622758195268669442,
+     "source_status_id_str": "1622758195268669442",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 07 14:51:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 14:47:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 14:43:07 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "QueenElizabeth",
+     "indices": [
+      121,
+      136
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "QueenLilibet_",
+     "name": "Queen Lilibet \u265b",
+     "id": 1350780410641395712,
+     "id_str": "1350780410641395712",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 14:42:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622825970385453057,
+     "id_str": "1622825970385453057",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg",
+     "url": "https://t.co/tiPbKP8B77",
+     "display_url": "pic.twitter.com/tiPbKP8B77",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622825979021492229/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 853,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1173,
+       "h": 1651,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 483,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622825979021492229,
+     "source_status_id_str": "1622825979021492229",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 07 14:41:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Liv_Boeree",
+     "name": "Liv Boeree",
+     "id": 25422302,
+     "id_str": "25422302",
+     "indices": [
+      14,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 14:40:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "HowThingsWork_",
+     "name": "H0W_THlNGS_W0RK",
+     "id": 1444760227576881156,
+     "id_str": "1444760227576881156",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 14:34:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:33:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "axis92413191",
+     "name": "axis",
+     "id": 1494634885717364750,
+     "id_str": "1494634885717364750",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      18,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:32:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RubioKarcz",
+     "name": "Salina Rubio Karcz (Ill Ink)",
+     "id": 2988051970,
+     "id_str": "2988051970",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      16,
+      25
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622674389610242069,
+     "id_str": "1622674389610242069",
+     "indices": [
+      54,
+      77
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTlwpLXoBU_YVz.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTlwpLXoBU_YVz.jpg",
+     "url": "https://t.co/DQ6q0St4ww",
+     "display_url": "pic.twitter.com/DQ6q0St4ww",
+     "expanded_url": "https://twitter.com/RubioKarcz/status/1622674396123996161/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622674396123996161,
+     "source_status_id_str": "1622674396123996161",
+     "source_user_id": 2988051970,
+     "source_user_id_str": "2988051970"
+    }
+   ]
+  },
+  "Mon Feb 06 20:29:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RaiBhumiraj",
+     "name": "Bhumiraj Rai",
+     "id": 323749441,
+     "id_str": "323749441",
+     "indices": [
+      0,
+      12
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      13,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:29:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RaiBhumiraj",
+     "name": "Bhumiraj Rai",
+     "id": 323749441,
+     "id_str": "323749441",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      17,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:28:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AltJaqen",
+     "name": "Altcoin Jaqen \ud83d\udfe5 \ud83d\udc63 \ud83c\udf55",
+     "id": 1481926280719507463,
+     "id_str": "1481926280719507463",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622668816244441088,
+     "id_str": "1622668816244441088",
+     "indices": [
+      40,
+      63
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoTgsOxagAAarKH.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoTgsOxagAAarKH.jpg",
+     "url": "https://t.co/0JMKiNInSj",
+     "display_url": "pic.twitter.com/0JMKiNInSj",
+     "expanded_url": "https://twitter.com/AltJaqen/status/1622668826977660928/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622668826977660928,
+     "source_status_id_str": "1622668826977660928",
+     "source_user_id": 1481926280719507463,
+     "source_user_id_str": "1481926280719507463"
+    }
+   ]
+  },
+  "Mon Feb 06 20:27:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LifeboatHQ",
+     "name": "Lifeboat Foundation",
+     "id": 21558596,
+     "id_str": "21558596",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      16,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:27:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "GameStop",
+     "indices": [
+      46,
+      55
+     ]
+    },
+    {
+     "text": "GameStopNFT",
+     "indices": [
+      56,
+      68
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "GME",
+     "indices": [
+      41,
+      45
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "EvaderDirt",
+     "name": "Dirt\u039evader",
+     "id": 1368388530062393349,
+     "id_str": "1368388530062393349",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      16,
+      25
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622680231189381122,
+     "id_str": "1622680231189381122",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTrEqwXgAIDkdN.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTrEqwXgAIDkdN.jpg",
+     "url": "https://t.co/s5BxirqFTi",
+     "display_url": "pic.twitter.com/s5BxirqFTi",
+     "expanded_url": "https://twitter.com/EvaderDirt/status/1622680336961241095/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1125,
+       "h": 1525,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 502,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 885,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622680336961241095,
+     "source_status_id_str": "1622680336961241095",
+     "source_user_id": 1368388530062393349,
+     "source_user_id_str": "1368388530062393349"
+    }
+   ]
+  },
+  "Mon Feb 06 20:26:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PhobiesGame",
+     "name": "Phobies",
+     "id": 898645900679036928,
+     "id_str": "898645900679036928",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      17,
+      26
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      27,
+      36
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622679479951970304,
+     "id_str": "1622679479951970304",
+     "indices": [
+      99,
+      122
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622679479951970304/pu/img/dI9U66gJ1izu301N.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622679479951970304/pu/img/dI9U66gJ1izu301N.jpg",
+     "url": "https://t.co/4gXPGQtNtK",
+     "display_url": "pic.twitter.com/4gXPGQtNtK",
+     "expanded_url": "https://twitter.com/PhobiesGame/status/1622679726887407616/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622679726887407616,
+     "source_status_id_str": "1622679726887407616",
+     "source_user_id": 898645900679036928,
+     "source_user_id_str": "898645900679036928"
+    }
+   ]
+  },
+  "Mon Feb 06 20:25:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChrisLaRose11",
+     "name": "Chris LaRose",
+     "id": 1593282896063655937,
+     "id_str": "1593282896063655937",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      19,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:25:13 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PrayForTurkey",
+     "indices": [
+      31,
+      45
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Fisherman150871",
+     "name": "\ud83c\udf39\u0b89\u0bb2\u0b95\ud83c\udf39\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u2764\u0ba8\u0ba3\u0bcd\u0baa\u0ba9\u0bcd\u2764",
+     "id": 1276061182567215104,
+     "id_str": "1276061182567215104",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      21,
+      30
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622668592381845504,
+     "id_str": "1622668592381845504",
+     "indices": [
+      49,
+      72
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTgfM0aYAALf6B.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTgfM0aYAALf6B.jpg",
+     "url": "https://t.co/UKPNQTvW8N",
+     "display_url": "pic.twitter.com/UKPNQTvW8N",
+     "expanded_url": "https://twitter.com/Fisherman150871/status/1622668596999749632/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 600,
+       "h": 600,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 600,
+       "h": 600,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 600,
+       "h": 600,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622668596999749632,
+     "source_status_id_str": "1622668596999749632",
+     "source_user_id": 1276061182567215104,
+     "source_user_id_str": "1276061182567215104"
+    }
+   ]
+  },
+  "Mon Feb 06 20:24:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Shamara94785766",
+     "name": "Shamara Myers",
+     "id": 1500729710715846658,
+     "id_str": "1500729710715846658",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      21,
+      30
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622673891838631951,
+     "id_str": "1622673891838631951",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoTlTq1XoA8h71G.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoTlTq1XoA8h71G.jpg",
+     "url": "https://t.co/R28gqf1wSz",
+     "display_url": "pic.twitter.com/R28gqf1wSz",
+     "expanded_url": "https://twitter.com/Shamara94785766/status/1622673898604044302/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 344,
+       "h": 338,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 344,
+       "h": 338,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 344,
+       "h": 338,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622673898604044302,
+     "source_status_id_str": "1622673898604044302",
+     "source_user_id": 1500729710715846658,
+     "source_user_id_str": "1500729710715846658"
+    }
+   ]
+  },
+  "Mon Feb 06 20:24:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "joshuaolaiyaa",
+     "name": "Joshua Olaiya",
+     "id": 1394160641229869058,
+     "id_str": "1394160641229869058",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      19,
+      28
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      29,
+      38
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:24:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tigerwillca",
+     "name": "\ud83e\udeacTIGERWILLCA\ud83d\udc05William Shaffer Jr.",
+     "id": 25767138,
+     "id_str": "25767138",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      17,
+      26
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622676064177905666,
+     "id_str": "1622676064177905666",
+     "indices": [
+      49,
+      72
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoTnSHbaYAIqIcN.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoTnSHbaYAIqIcN.jpg",
+     "url": "https://t.co/SYPThpyy1k",
+     "display_url": "pic.twitter.com/SYPThpyy1k",
+     "expanded_url": "https://twitter.com/tigerwillca/status/1622676071236911104/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 320,
+       "h": 160,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 320,
+       "h": 160,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 320,
+       "h": 160,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622676071236911104,
+     "source_status_id_str": "1622676071236911104",
+     "source_user_id": 25767138,
+     "source_user_id_str": "25767138"
+    }
+   ]
+  },
+  "Mon Feb 06 20:23:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "saylorenergy1",
+     "name": "saylorenergy#0086 Discord",
+     "id": 1377610884055511047,
+     "id_str": "1377610884055511047",
+     "indices": [
+      0,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      15,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:23:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "saylorenergy1",
+     "name": "saylorenergy#0086 Discord",
+     "id": 1377610884055511047,
+     "id_str": "1377610884055511047",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      19,
+      28
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622671657876832256,
+     "id_str": "1622671657876832256",
+     "indices": [
+      104,
+      127
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTjRorXwAAIz5L.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTjRorXwAAIz5L.jpg",
+     "url": "https://t.co/iUw5GAr0cw",
+     "display_url": "pic.twitter.com/iUw5GAr0cw",
+     "expanded_url": "https://twitter.com/saylorenergy1/status/1622671661337137152/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 866,
+       "h": 857,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 673,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 866,
+       "h": 857,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622671661337137152,
+     "source_status_id_str": "1622671661337137152",
+     "source_user_id": 1377610884055511047,
+     "source_user_id_str": "1377610884055511047"
+    }
+   ]
+  },
+  "Mon Feb 06 20:22:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SirineAti",
+     "name": "\ud83d\udcabSirine\ud83d\udcab",
+     "id": 1285872552766734346,
+     "id_str": "1285872552766734346",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      15,
+      24
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622668878332428288,
+     "id_str": "1622668878332428288",
+     "indices": [
+      41,
+      64
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTgv2EWAAA8i-i.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTgv2EWAAA8i-i.jpg",
+     "url": "https://t.co/jA8VdpJqZB",
+     "display_url": "pic.twitter.com/jA8VdpJqZB",
+     "expanded_url": "https://twitter.com/SirineAti/status/1622668884351254529/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1200,
+       "h": 641,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1560,
+       "h": 833,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 363,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622668884351254529,
+     "source_status_id_str": "1622668884351254529",
+     "source_user_id": 1285872552766734346,
+     "source_user_id_str": "1285872552766734346"
+    }
+   ]
+  },
+  "Mon Feb 06 20:22:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HiCryptoAnthony",
+     "name": "Crypto | Anthony \ud83d\ude80\ud83d\ude80",
+     "id": 1387542375669579778,
+     "id_str": "1387542375669579778",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      21,
+      30
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622668843305865216,
+     "id_str": "1622668843305865216",
+     "indices": [
+      100,
+      123
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTgtzlXEAAP5lj.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTgtzlXEAAP5lj.jpg",
+     "url": "https://t.co/KTDH54uqux",
+     "display_url": "pic.twitter.com/KTDH54uqux",
+     "expanded_url": "https://twitter.com/HiCryptoAnthony/status/1622668850742403090/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 609,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 897,
+       "h": 803,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 897,
+       "h": 803,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622668850742403090,
+     "source_status_id_str": "1622668850742403090",
+     "source_user_id": 1387542375669579778,
+     "source_user_id_str": "1387542375669579778"
+    }
+   ]
+  },
+  "Mon Feb 06 20:22:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NSuresh_ECW",
+     "name": "N Suresh",
+     "id": 1259506669295296513,
+     "id_str": "1259506669295296513",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      17,
+      26
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622670518423019520,
+     "id_str": "1622670518423019520",
+     "indices": [
+      81,
+      104
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622670518423019520/pu/img/cKMO5lEUPjsIsW5G.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622670518423019520/pu/img/cKMO5lEUPjsIsW5G.jpg",
+     "url": "https://t.co/vl2pjLTY4Y",
+     "display_url": "pic.twitter.com/vl2pjLTY4Y",
+     "expanded_url": "https://twitter.com/NSuresh_ECW/status/1622670634609414145/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 640,
+       "h": 360,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622670634609414145,
+     "source_status_id_str": "1622670634609414145",
+     "source_user_id": 1259506669295296513,
+     "source_user_id_str": "1259506669295296513"
+    }
+   ]
+  },
+  "Mon Feb 06 20:22:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GailAlfarATX",
+     "name": "Gail Alfar \ud83d\udc99",
+     "id": 1233929232432205827,
+     "id_str": "1233929232432205827",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      18,
+      27
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622670677860917265,
+     "id_str": "1622670677860917265",
+     "indices": [
+      43,
+      66
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoTiYl1XoBEOIwi.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoTiYl1XoBEOIwi.jpg",
+     "url": "https://t.co/xmZ9gMPqYR",
+     "display_url": "pic.twitter.com/xmZ9gMPqYR",
+     "expanded_url": "https://twitter.com/GailAlfarATX/status/1622670683829411853/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 480,
+       "h": 270,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 480,
+       "h": 270,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 480,
+       "h": 270,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622670683829411853,
+     "source_status_id_str": "1622670683829411853",
+     "source_user_id": 1233929232432205827,
+     "source_user_id_str": "1233929232432205827"
+    }
+   ]
+  },
+  "Mon Feb 06 20:21:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kissdLA",
+     "name": "Dylan Schwartz",
+     "id": 76192407,
+     "id_str": "76192407",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      13,
+      22
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622669189885599744,
+     "id_str": "1622669189885599744",
+     "indices": [
+      33,
+      56
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1622669189885599744/img/0GmcC-G0MlgYQDTo.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1622669189885599744/img/0GmcC-G0MlgYQDTo.jpg",
+     "url": "https://t.co/IaWsDkgEMB",
+     "display_url": "pic.twitter.com/IaWsDkgEMB",
+     "expanded_url": "https://twitter.com/kissdLA/status/1622669292780265472/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1920,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622669292780265472,
+     "source_status_id_str": "1622669292780265472",
+     "source_user_id": 76192407,
+     "source_user_id_str": "76192407"
+    }
+   ]
+  },
+  "Mon Feb 06 20:20:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AliKrupp",
+     "name": "Alexandra \ud83d\ude80",
+     "id": 985661159922655232,
+     "id_str": "985661159922655232",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      14,
+      23
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      38,
+      47
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622668937224749056,
+     "id_str": "1622668937224749056",
+     "indices": [
+      97,
+      120
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622668937224749056/pu/img/f8XaZXdoXtaI8hm4.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622668937224749056/pu/img/f8XaZXdoXtaI8hm4.jpg",
+     "url": "https://t.co/H7KYgeESQz",
+     "display_url": "pic.twitter.com/H7KYgeESQz",
+     "expanded_url": "https://twitter.com/AliKrupp/status/1622668990039433227/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 576,
+       "h": 484,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 576,
+       "h": 484,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 576,
+       "h": 484,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622668990039433227,
+     "source_status_id_str": "1622668990039433227",
+     "source_user_id": 985661159922655232,
+     "source_user_id_str": "985661159922655232"
+    }
+   ]
+  },
+  "Mon Feb 06 20:20:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jasonkneen",
+     "name": "Jason Kneen",
+     "id": 6392872,
+     "id_str": "6392872",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "hnky",
+     "name": "\u1d34\u1d32\u1d3b\u1d37",
+     "id": 15088387,
+     "id_str": "15088387",
+     "indices": [
+      16,
+      21
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      22,
+      31
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:19:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "SANI",
+     "indices": [
+      30,
+      35
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "William1794267",
+     "name": "William Hodling",
+     "id": 1462081559612334088,
+     "id_str": "1462081559612334088",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      20,
+      29
+     ]
+    },
+    {
+     "screen_name": "SANININU",
+     "name": "SANIN - The SHIBA INU Killer",
+     "id": 1508585538755854337,
+     "id_str": "1508585538755854337",
+     "indices": [
+      36,
+      45
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622668410017521666,
+     "id_str": "1622668410017521666",
+     "indices": [
+      60,
+      83
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTgUldXoAIDGwj.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTgUldXoAIDGwj.jpg",
+     "url": "https://t.co/hbx52avpwB",
+     "display_url": "pic.twitter.com/hbx52avpwB",
+     "expanded_url": "https://twitter.com/William1794267/status/1622668414006296577/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1280,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622668414006296577,
+     "source_status_id_str": "1622668414006296577",
+     "source_user_id": 1462081559612334088,
+     "source_user_id_str": "1462081559612334088"
+    }
+   ]
+  },
+  "Mon Feb 06 20:19:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "WOOF",
+     "indices": [
+      118,
+      123
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "WoofYoshi",
+     "name": "WoofWork YOSHI",
+     "id": 1618320105221283858,
+     "id_str": "1618320105221283858",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      15,
+      24
+     ]
+    },
+    {
+     "screen_name": "woof_work",
+     "name": "WoofWork.io ($WOOF)",
+     "id": 1420744420740124685,
+     "id_str": "1420744420740124685",
+     "indices": [
+      58,
+      68
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:19:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ThatWTFGuy",
+     "name": "Joseph Adams",
+     "id": 1518739804455948288,
+     "id_str": "1518739804455948288",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      16,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:18:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "the_viiibe",
+     "name": "$the viiibe \u1d49\u1d57\u02b0",
+     "id": 511921428,
+     "id_str": "511921428",
+     "indices": [
+      0,
+      11
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      12,
+      21
+     ]
+    },
+    {
+     "screen_name": "THEProtocolERC",
+     "name": "THE Protocol - Official",
+     "id": 1581011322237587456,
+     "id_str": "1581011322237587456",
+     "indices": [
+      22,
+      37
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622691302579048459,
+     "id_str": "1622691302579048459",
+     "indices": [
+      38,
+      61
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoT1JG5XEAsy8Ud.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoT1JG5XEAsy8Ud.jpg",
+     "url": "https://t.co/Qnb2XssqPF",
+     "display_url": "pic.twitter.com/Qnb2XssqPF",
+     "expanded_url": "https://twitter.com/ElkeHoppeDolan/status/1622691310749552670/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 498,
+       "h": 498,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 498,
+       "h": 498,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 498,
+       "h": 498,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Mon Feb 06 20:16:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "the",
+     "indices": [
+      37,
+      41
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "the_viiibe",
+     "name": "$the viiibe \u1d49\u1d57\u02b0",
+     "id": 511921428,
+     "id_str": "511921428",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      16,
+      25
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622669328553320454,
+     "id_str": "1622669328553320454",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622669328553320454/pu/img/ZoaPb9HWryeg-c-2.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622669328553320454/pu/img/ZoaPb9HWryeg-c-2.jpg",
+     "url": "https://t.co/P3JoCspM1w",
+     "display_url": "pic.twitter.com/P3JoCspM1w",
+     "expanded_url": "https://twitter.com/the_viiibe/status/1622669362229387284/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 372,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 464,
+       "h": 848,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 464,
+       "h": 848,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622669362229387284,
+     "source_status_id_str": "1622669362229387284",
+     "source_user_id": 511921428,
+     "source_user_id_str": "511921428"
+    }
+   ]
+  },
+  "Mon Feb 06 20:16:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheDaoMaker",
+     "name": "DAO Maker",
+     "id": 1143108958326054912,
+     "id_str": "1143108958326054912",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      17,
+      26
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622675165069942784,
+     "id_str": "1622675165069942784",
+     "indices": [
+      27,
+      50
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoTmdx_XoAAEpJ4.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoTmdx_XoAAEpJ4.jpg",
+     "url": "https://t.co/jRBFI1jZ78",
+     "display_url": "pic.twitter.com/jRBFI1jZ78",
+     "expanded_url": "https://twitter.com/TheDaoMaker/status/1622675172393197588/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 480,
+       "h": 206,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 480,
+       "h": 206,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 480,
+       "h": 206,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622675172393197588,
+     "source_status_id_str": "1622675172393197588",
+     "source_user_id": 1143108958326054912,
+     "source_user_id_str": "1143108958326054912"
+    }
+   ]
+  },
+  "Mon Feb 06 20:15:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "brockpierson",
+     "name": "Brock Pierson",
+     "id": 26335586,
+     "id_str": "26335586",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      18,
+      27
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/xPyANG9BCs",
+     "expanded_url": "https://twitter.com/brockpierson/status/1622635606852632579?s=20&t=h72uNbRmjF-f9n4r6_0p2A",
+     "display_url": "twitter.com/brockpierson/s\u2026",
+     "indices": [
+      28,
+      51
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 20:14:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ShibcraftERC",
+     "name": "Shibcraft \u26cf",
+     "id": 1378111811778662401,
+     "id_str": "1378111811778662401",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      18,
+      27
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622678268666122244,
+     "id_str": "1622678268666122244",
+     "indices": [
+      115,
+      138
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622678268666122244/pu/img/jPRDbiPfpzXl-0lf.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622678268666122244/pu/img/jPRDbiPfpzXl-0lf.jpg",
+     "url": "https://t.co/A750WhCkh1",
+     "display_url": "pic.twitter.com/A750WhCkh1",
+     "expanded_url": "https://twitter.com/ShibcraftERC/status/1622678386760884224/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 640,
+       "h": 464,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 464,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 640,
+       "h": 464,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622678386760884224,
+     "source_status_id_str": "1622678386760884224",
+     "source_user_id": 1378111811778662401,
+     "source_user_id_str": "1378111811778662401"
+    }
+   ]
+  },
+  "Mon Feb 06 20:14:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "vhanagwal",
+     "name": "Vardhan",
+     "id": 60159019,
+     "id_str": "60159019",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      15,
+      24
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622670885017776128,
+     "id_str": "1622670885017776128",
+     "indices": [
+      43,
+      66
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoTikpjacAAswHV.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoTikpjacAAswHV.jpg",
+     "url": "https://t.co/fxLsl5BsOr",
+     "display_url": "pic.twitter.com/fxLsl5BsOr",
+     "expanded_url": "https://twitter.com/vhanagwal/status/1622670890814287872/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 480,
+       "h": 360,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 360,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 480,
+       "h": 360,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622670890814287872,
+     "source_status_id_str": "1622670890814287872",
+     "source_user_id": 60159019,
+     "source_user_id_str": "60159019"
+    }
+   ]
+  },
+  "Mon Feb 06 20:14:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ownthedoge",
+     "name": "Own The Doge \ud83d\udc36\ud83d\uddbc",
+     "id": 1436448375931506688,
+     "id_str": "1436448375931506688",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      16,
+      25
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622670347568025600,
+     "id_str": "1622670347568025600",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTiFXZaEAAYgkk.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTiFXZaEAAYgkk.jpg",
+     "url": "https://t.co/B7jcPUfirW",
+     "display_url": "pic.twitter.com/B7jcPUfirW",
+     "expanded_url": "https://twitter.com/ownthedoge/status/1622670366777954304/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1890,
+       "h": 1083,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 390,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 688,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622670366777954304,
+     "source_status_id_str": "1622670366777954304",
+     "source_user_id": 1436448375931506688,
+     "source_user_id_str": "1436448375931506688"
+    }
+   ]
+  },
+  "Mon Feb 06 20:14:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "OPhommachanh",
+     "name": "Oukham",
+     "id": 1232787923445178369,
+     "id_str": "1232787923445178369",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:12:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "OPhommachanh",
+     "name": "Oukham",
+     "id": 1232787923445178369,
+     "id_str": "1232787923445178369",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      18,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:11:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:25:06 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PrincessofWales",
+     "indices": [
+      34,
+      50
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RoyallyBelle_",
+     "name": "Belle",
+     "id": 1280255233579507712,
+     "id_str": "1280255233579507712",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622303745982844929,
+     "id_str": "1622303745982844929",
+     "indices": [
+      51,
+      74
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoOUqWEX0AEvSBK.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoOUqWEX0AEvSBK.jpg",
+     "url": "https://t.co/XPrGRd2zb1",
+     "display_url": "pic.twitter.com/XPrGRd2zb1",
+     "expanded_url": "https://twitter.com/RoyallyBelle_/status/1622303750084874240/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 631,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 631,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 419,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622303750084874240,
+     "source_status_id_str": "1622303750084874240",
+     "source_user_id": 1280255233579507712,
+     "source_user_id_str": "1280255233579507712"
+    }
+   ]
+  },
+  "Mon Feb 06 15:24:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "royalinstablog",
+     "name": "Royalinstablog",
+     "id": 1385276434093051907,
+     "id_str": "1385276434093051907",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:24:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MAStrackZi",
+     "name": "Marie-Agnes Strack-Zimmermann",
+     "id": 3047392319,
+     "id_str": "3047392319",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "larsklingbeil",
+     "name": "Lars Klingbeil \ud83c\uddea\ud83c\uddfa",
+     "id": 16255941,
+     "id_str": "16255941",
+     "indices": [
+      21,
+      35
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:24:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ZelenskyyUa",
+     "name": "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+     "id": 1120633726478823425,
+     "id_str": "1120633726478823425",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "RTErdogan",
+     "name": "Recep Tayyip Erdo\u011fan",
+     "id": 68034431,
+     "id_str": "68034431",
+     "indices": [
+      53,
+      63
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:23:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sarahdiaryz",
+     "name": "\ud83c\udf3bSarahsecret",
+     "id": 582798470,
+     "id_str": "582798470",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:22:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Markus_Soeder",
+     "name": "Markus S\u00f6der",
+     "id": 793778228,
+     "id_str": "793778228",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:22:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ukrainiansquad",
+     "name": "UKRAINIAN SQUAD\ud83c\uddfa\ud83c\udde6",
+     "id": 1266213324481593347,
+     "id_str": "1266213324481593347",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622269322038050819,
+     "id_str": "1622269322038050819",
+     "indices": [
+      91,
+      114
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoN1Wm4XgAMlX_b.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoN1Wm4XgAMlX_b.jpg",
+     "url": "https://t.co/zePQwk2G4D",
+     "display_url": "pic.twitter.com/zePQwk2G4D",
+     "expanded_url": "https://twitter.com/ukrainiansquad/status/1622269327482228740/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 373,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1124,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 659,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622269327482228740,
+     "source_status_id_str": "1622269327482228740",
+     "source_user_id": 1266213324481593347,
+     "source_user_id_str": "1266213324481593347"
+    }
+   ]
+  },
+  "Mon Feb 06 15:22:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AZ_Brittney",
+     "name": "\ud83d\udc99Brittney\ud83d\udc99",
+     "id": 1424033022,
+     "id_str": "1424033022",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

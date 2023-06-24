@@ -1,0 +1,414 @@
+{
+ "3536592377": {
+  "Wed Feb 08 12:10:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JoeBiden",
+     "name": "Joe Biden",
+     "id": 939091,
+     "id_str": "939091",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 12:09:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Timcast",
+     "name": "Tim Pool",
+     "id": 27000730,
+     "id_str": "27000730",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623166876204277760,
+     "id_str": "1623166876204277760",
+     "indices": [
+      23,
+      46
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoalrItWIAAkATh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoalrItWIAAkATh.jpg",
+     "url": "https://t.co/4CFzrKziJG",
+     "display_url": "pic.twitter.com/4CFzrKziJG",
+     "expanded_url": "https://twitter.com/Timcast/status/1623166879475945472/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 510,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1536,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 900,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623166879475945472,
+     "source_status_id_str": "1623166879475945472",
+     "source_user_id": 27000730,
+     "source_user_id_str": "27000730"
+    }
+   ]
+  },
+  "Tue Feb 07 12:08:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622825970385453057,
+     "id_str": "1622825970385453057",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg",
+     "url": "https://t.co/tiPbKP8B77",
+     "display_url": "pic.twitter.com/tiPbKP8B77",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622825979021492229/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 853,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1173,
+       "h": 1651,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 483,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622825979021492229,
+     "source_status_id_str": "1622825979021492229",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 07 04:59:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      14,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 04:46:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WVGovernor",
+     "name": "Governor Jim Justice",
+     "id": 607332953,
+     "id_str": "607332953",
+     "indices": [
+      0,
+      11
+     ]
+    },
+    {
+     "screen_name": "JimJusticeWV",
+     "name": "Jim Justice",
+     "id": 3167789983,
+     "id_str": "3167789983",
+     "indices": [
+      12,
+      25
+     ]
+    },
+    {
+     "screen_name": "Sen_JoeManchin",
+     "name": "Senator Joe Manchin",
+     "id": 234374703,
+     "id_str": "234374703",
+     "indices": [
+      26,
+      41
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/vL0B0QgTlt",
+     "expanded_url": "https://twitter.com/Project_Veritas/status/1622675391285497870",
+     "display_url": "twitter.com/Project_Verita\u2026",
+     "indices": [
+      63,
+      86
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 03:24:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z6h5975anw",
+     "expanded_url": "https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/",
+     "display_url": "state.gov/bureaus-office\u2026",
+     "indices": [
+      118,
+      141
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 01:51:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:38:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Project_Veritas",
+     "name": "Project Veritas",
+     "id": 850036892,
+     "id_str": "850036892",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "pfizer",
+     "name": "Pfizer Inc.",
+     "id": 56488059,
+     "id_str": "56488059",
+     "indices": [
+      53,
+      60
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 13:02:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChuckCallesto",
+     "name": "Chuck Callesto",
+     "id": 4765364386,
+     "id_str": "4765364386",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 12:57:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "VigilantFox",
+     "name": "The Vigilant Fox \ud83e\udd8a",
+     "id": 191871143,
+     "id_str": "191871143",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 12:55:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "realstewpeters",
+     "name": "Stew Peters",
+     "id": 1288319695658135552,
+     "id_str": "1288319695658135552",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 05:22:31 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "DirectedEvolution",
+     "indices": [
+      104,
+      122
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EricSpracklen",
+     "name": "Eric Spracklen\ud83c\uddfa\ud83c\uddf8",
+     "id": 705902960967094272,
+     "id_str": "705902960967094272",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "pfizer",
+     "name": "Pfizer Inc.",
+     "id": 56488059,
+     "id_str": "56488059",
+     "indices": [
+      123,
+      130
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 04:35:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "SPACEdotcom",
+     "name": "SPACE.com",
+     "id": 15431856,
+     "id_str": "15431856",
+     "indices": [
+      14,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 00:09:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GenFlynn",
+     "name": "LTG (R) Mike Flynn",
+     "id": 240454812,
+     "id_str": "240454812",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

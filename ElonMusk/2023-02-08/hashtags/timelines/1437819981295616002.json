@@ -1,0 +1,624 @@
+{
+ "1437819981295616002": {
+  "Tue Feb 07 21:56:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 21:55:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RevRayCistman",
+     "name": "Rev. Ray Cistman \u270a\ud83c\udffe\ud83d\ude4f\ud83c\udffe",
+     "id": 1052722633152679936,
+     "id_str": "1052722633152679936",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 21:53:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ExposePfizer",
+     "indices": [
+      36,
+      49
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Project_Veritas",
+     "name": "Project Veritas",
+     "id": 850036892,
+     "id_str": "850036892",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1618404115268227075,
+     "id_str": "1618404115268227075",
+     "indices": [
+      52,
+      75
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1618404115268227075/pu/img/Sa9_-0eft-NHvqA2.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1618404115268227075/pu/img/Sa9_-0eft-NHvqA2.jpg",
+     "url": "https://t.co/xaRvlD5qTo",
+     "display_url": "pic.twitter.com/xaRvlD5qTo",
+     "expanded_url": "https://twitter.com/Project_Veritas/status/1618405890612420609/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1618405890612420609,
+     "source_status_id_str": "1618405890612420609",
+     "source_user_id": 850036892,
+     "source_user_id_str": "850036892"
+    }
+   ]
+  },
+  "Tue Feb 07 21:52:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CalltoActivism",
+     "name": "CALL TO ACTIVISM",
+     "id": 819994707061248001,
+     "id_str": "819994707061248001",
+     "indices": [
+      0,
+      15
+     ]
+    },
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      16,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 21:50:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "David_Leavitt",
+     "name": "David Leavitt",
+     "id": 63514682,
+     "id_str": "63514682",
+     "indices": [
+      0,
+      14
+     ]
+    },
+    {
+     "screen_name": "RepMTG",
+     "name": "Rep. Marjorie Taylor Greene\ud83c\uddfa\ud83c\uddf8",
+     "id": 1344356576786866176,
+     "id_str": "1344356576786866176",
+     "indices": [
+      15,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 21:48:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "KanekoaTheGreat",
+     "name": "kanekoa.substack.com",
+     "id": 1085225533623783424,
+     "id_str": "1085225533623783424",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 21:48:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EndWokeness",
+     "name": "End Wokeness",
+     "id": 1552795969959636992,
+     "id_str": "1552795969959636992",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 04:56:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KanekoaTheGreat",
+     "name": "kanekoa.substack.com",
+     "id": 1085225533623783424,
+     "id_str": "1085225533623783424",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 04:50:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AdamKinzinger",
+     "name": "Adam Kinzinger #fella",
+     "id": 18004222,
+     "id_str": "18004222",
+     "indices": [
+      0,
+      14
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      15,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 04:47:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ForgiatoBlow47",
+     "name": "Trumps Nephew",
+     "id": 1299776558354366465,
+     "id_str": "1299776558354366465",
+     "indices": [
+      0,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 04:45:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      14,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 03:50:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "ClownWorld_",
+     "name": "Clown World \u2122 \ud83e\udd21",
+     "id": 1446932149148344320,
+     "id_str": "1446932149148344320",
+     "indices": [
+      14,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 03:34:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paulsperry_",
+     "name": "Paul Sperry",
+     "id": 739610364975808513,
+     "id_str": "739610364975808513",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 03:33:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "realstewpeters",
+     "name": "Stew Peters",
+     "id": 1288319695658135552,
+     "id_str": "1288319695658135552",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 03:33:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SHOsports",
+     "name": "SHOWTIME SPORTS",
+     "id": 39623638,
+     "id_str": "39623638",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "Showtime",
+     "name": "SHOWTIME",
+     "id": 257548783,
+     "id_str": "257548783",
+     "indices": [
+      11,
+      20
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 03:28:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CBS",
+     "name": "CBS",
+     "id": 97739866,
+     "id_str": "97739866",
+     "indices": [
+      0,
+      4
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 03:15:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Project_Veritas",
+     "name": "Project Veritas",
+     "id": 850036892,
+     "id_str": "850036892",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "pfizer",
+     "name": "Pfizer Inc.",
+     "id": 56488059,
+     "id_str": "56488059",
+     "indices": [
+      53,
+      60
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 01:29:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z6h5975anw",
+     "expanded_url": "https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/",
+     "display_url": "state.gov/bureaus-office\u2026",
+     "indices": [
+      118,
+      141
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 02:55:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SaraGonzalesTX",
+     "name": "Sara Gonzales",
+     "id": 375852740,
+     "id_str": "375852740",
+     "indices": [
+      0,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 02:54:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SaraGonzalesTX",
+     "name": "Sara Gonzales",
+     "id": 375852740,
+     "id_str": "375852740",
+     "indices": [
+      0,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 02:53:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SaraGonzalesTX",
+     "name": "Sara Gonzales",
+     "id": 375852740,
+     "id_str": "375852740",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/q3LDkrJ6tF",
+     "expanded_url": "http://RealWomensClub.com",
+     "display_url": "RealWomensClub.com",
+     "indices": [
+      45,
+      68
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1622314863719596032,
+     "id_str": "1622314863719596032",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoOexe3XwAA7gk7.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoOexe3XwAA7gk7.jpg",
+     "url": "https://t.co/gvCWcZcqql",
+     "display_url": "pic.twitter.com/gvCWcZcqql",
+     "expanded_url": "https://twitter.com/SaraGonzalesTX/status/1622314872414371843/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1638,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622314872414371843,
+     "source_status_id_str": "1622314872414371843",
+     "source_user_id": 375852740,
+     "source_user_id_str": "375852740"
+    }
+   ]
+  },
+  "Mon Feb 06 02:46:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Alphafox78",
+     "name": "AlphaFox",
+     "id": 36749572,
+     "id_str": "36749572",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 01:56:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "chrissaccoccia1",
+     "name": "Chris Sky\ud83e\uddf1",
+     "id": 338426064,
+     "id_str": "338426064",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "NaturallyFTW",
+     "name": "Natural Immunity FTW",
+     "id": 1262182550656757768,
+     "id_str": "1262182550656757768",
+     "indices": [
+      21,
+      34
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 01:48:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AshenOn3",
+     "name": "Phil Jennis",
+     "id": 40199637,
+     "id_str": "40199637",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "FightHaven",
+     "name": "Fight Haven",
+     "id": 3939574932,
+     "id_str": "3939574932",
+     "indices": [
+      10,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

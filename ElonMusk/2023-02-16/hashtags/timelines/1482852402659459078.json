@@ -1,0 +1,689 @@
+{
+ "1482852402659459078": {
+  "Wed Feb 15 15:47:44 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625884570183962626,
+     "id_str": "1625884570183962626",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBNZvuakAIARZu.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBNZvuakAIARZu.jpg",
+     "url": "https://t.co/zAGdtPdnHu",
+     "display_url": "pic.twitter.com/zAGdtPdnHu",
+     "expanded_url": "https://twitter.com/satendra1008/status/1625884575439392770/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 548,
+       "h": 496,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 548,
+       "h": 496,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 548,
+       "h": 496,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 15 10:08:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "minliangtan",
+     "name": "Min-Liang Tan",
+     "id": 26906309,
+     "id_str": "26906309",
+     "indices": [
+      14,
+      26
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625557181520318467,
+     "id_str": "1625557181520318467",
+     "indices": [
+      77,
+      100
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8jpN6akAMsqMm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8jpN6akAMsqMm.jpg",
+     "url": "https://t.co/0pLkDOYmLe",
+     "display_url": "pic.twitter.com/0pLkDOYmLe",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625557187321020416/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1280,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625557187321020416,
+     "source_status_id_str": "1625557187321020416",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 09:13:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 09:13:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "BillyM2k",
+     "name": "Shibetoshi Nakamoto",
+     "id": 30699048,
+     "id_str": "30699048",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 09:13:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BillyM2k",
+     "name": "Shibetoshi Nakamoto",
+     "id": 30699048,
+     "id_str": "30699048",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 09:13:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 09:13:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      49,
+      58
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625720649468760069,
+     "id_str": "1625720649468760069",
+     "indices": [
+      59,
+      82
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-4UTeaUAU6OEE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-4UTeaUAU6OEE.jpg",
+     "url": "https://t.co/ZALeah6zWg",
+     "display_url": "pic.twitter.com/ZALeah6zWg",
+     "expanded_url": "https://twitter.com/cb_doge/status/1625720658801078272/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1326,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 440,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 777,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625720658801078272,
+     "source_status_id_str": "1625720658801078272",
+     "source_user_id": 1389913567671975937,
+     "source_user_id_str": "1389913567671975937"
+    }
+   ]
+  },
+  "Wed Feb 15 09:12:20 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      18,
+      24
+     ]
+    },
+    {
+     "text": "cryptocurrency",
+     "indices": [
+      59,
+      74
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "satendra1008",
+     "name": "ASCrypto",
+     "id": 1482852402659459078,
+     "id_str": "1482852402659459078",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 09:10:26 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      0,
+      6
+     ]
+    },
+    {
+     "text": "cryptocurrency",
+     "indices": [
+      41,
+      56
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Wed Feb 15 08:11:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625696829743702016,
+     "id_str": "1625696829743702016",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-ip0FaIAAf0v1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-ip0FaIAAf0v1.jpg",
+     "url": "https://t.co/9rcEtu9w1Z",
+     "display_url": "pic.twitter.com/9rcEtu9w1Z",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625696836886614018/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1600,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625696836886614018,
+     "source_status_id_str": "1625696836886614018",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 04:34:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625695868711215104,
+     "id_str": "1625695868711215104",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "url": "https://t.co/yBqWFUDIQH",
+     "display_url": "pic.twitter.com/yBqWFUDIQH",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625695877326340102/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 532,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1248,
+       "h": 1594,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 940,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625695877326340102,
+     "source_status_id_str": "1625695877326340102",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 14 03:42:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625339643259666432,
+     "id_str": "1625339643259666432",
+     "indices": [
+      42,
+      65
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo5dy0vaQAAMK3D.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo5dy0vaQAAMK3D.jpg",
+     "url": "https://t.co/dAUmNzk0IM",
+     "display_url": "pic.twitter.com/dAUmNzk0IM",
+     "expanded_url": "https://twitter.com/satendra1008/status/1625339654911455233/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1024,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1024,
+       "h": 1024,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Mon Feb 13 08:25:15 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "cryptocurrency",
+     "indices": [
+      18,
+      33
+     ]
+    },
+    {
+     "text": "cryptotrading",
+     "indices": [
+      35,
+      49
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "FET",
+     "indices": [
+      52,
+      56
+     ]
+    },
+    {
+     "text": "AION",
+     "indices": [
+      57,
+      62
+     ]
+    },
+    {
+     "text": "PHA",
+     "indices": [
+      63,
+      67
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/2SwyxIMonP",
+     "expanded_url": "https://twitter.com/i/web/status/1625048444812562432",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 03:37:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Bitcoin",
+     "indices": [
+      0,
+      8
+     ]
+    },
+    {
+     "text": "cryptotrading",
+     "indices": [
+      82,
+      96
+     ]
+    },
+    {
+     "text": "cryptomarket",
+     "indices": [
+      98,
+      111
+     ]
+    },
+    {
+     "text": "cryptocurrencies",
+     "indices": [
+      113,
+      130
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Mon Feb 13 03:34:58 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Cryptos",
+     "indices": [
+      13,
+      21
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624975378568847360,
+     "id_str": "1624975378568847360",
+     "indices": [
+      24,
+      47
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo0Sf1BaIAAsoIb.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo0Sf1BaIAAsoIb.jpg",
+     "url": "https://t.co/VhDwwd3sR7",
+     "display_url": "pic.twitter.com/VhDwwd3sR7",
+     "expanded_url": "https://twitter.com/satendra1008/status/1624975391462162432/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 226,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1024,
+       "h": 341,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1024,
+       "h": 341,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Sun Feb 12 09:11:05 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "crypto",
+     "indices": [
+      5,
+      12
+     ]
+    },
+    {
+     "text": "CryptoInvestor",
+     "indices": [
+      58,
+      73
+     ]
+    },
+    {
+     "text": "cryptocurrencies",
+     "indices": [
+      75,
+      92
+     ]
+    },
+    {
+     "text": "cryptotrading",
+     "indices": [
+      94,
+      108
+     ]
+    },
+    {
+     "text": "cryptoworld",
+     "indices": [
+      110,
+      122
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  }
+ }
+}

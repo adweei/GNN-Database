@@ -1,0 +1,3032 @@
+{
+ "1060089687749128194": {
+  "Wed Feb 15 21:17:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "19feb",
+     "indices": [
+      86,
+      92
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:12:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlcaldiaMHmx",
+     "name": "Alcald\u00eda Miguel Hidalgo",
+     "id": 119819829,
+     "id_str": "119819829",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "cancerwarriors_",
+     "name": "Fundaci\u00f3n C\u00e1ncer Warriors de M\u00e9xico",
+     "id": 788497536898076672,
+     "id_str": "788497536898076672",
+     "indices": [
+      14,
+      30
+     ]
+    },
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      31,
+      44
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/3RdSrHS67o",
+     "expanded_url": "https://twitter.com/i/web/status/1625966193684217877",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 21:07:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "RealMadridElche",
+     "indices": [
+      116,
+      132
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elchecf",
+     "name": "Elche Club de F\u00fatbol\ud83c\udf34\ud83d\udcaf\ud83e\udd47",
+     "id": 224660508,
+     "id_str": "224660508",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:06:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625695868711215104,
+     "id_str": "1625695868711215104",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "url": "https://t.co/yBqWFUDIQH",
+     "display_url": "pic.twitter.com/yBqWFUDIQH",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625695877326340102/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 532,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1248,
+       "h": 1594,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 940,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625695877326340102,
+     "source_status_id_str": "1625695877326340102",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 21:06:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:06:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:06:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625696829743702016,
+     "id_str": "1625696829743702016",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-ip0FaIAAf0v1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-ip0FaIAAf0v1.jpg",
+     "url": "https://t.co/9rcEtu9w1Z",
+     "display_url": "pic.twitter.com/9rcEtu9w1Z",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625696836886614018/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1600,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625696836886614018,
+     "source_status_id_str": "1625696836886614018",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 21:06:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "chicago3734",
+     "name": "alberto",
+     "id": 140118245,
+     "id_str": "140118245",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:06:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:06:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AdrianRiveraC",
+     "name": "Adri\u00e1n Rivera \ud83c\uddf2\ud83c\uddfd",
+     "id": 350635816,
+     "id_str": "350635816",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:06:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625696546082947072,
+     "id_str": "1625696546082947072",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-iZTXagAAxPFY.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-iZTXagAAxPFY.jpg",
+     "url": "https://t.co/auv5M1stUS",
+     "display_url": "pic.twitter.com/auv5M1stUS",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625696554467344384/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 896,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1195,
+       "h": 1600,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 508,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625696554467344384,
+     "source_status_id_str": "1625696554467344384",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 21:06:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "oficial_ginob",
+     "name": "\u5f61\ud83c\udf43Yoi Gamer\ud83c\udf68\u2604\u5f61",
+     "id": 1517095105110458368,
+     "id_str": "1517095105110458368",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:06:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:05:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LAM_Oficial",
+     "name": "LazosdeAmorMariano",
+     "id": 167900487,
+     "id_str": "167900487",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:05:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sandra1_lopez",
+     "name": "Sandra",
+     "id": 2425871048,
+     "id_str": "2425871048",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625639502159945728,
+     "id_str": "1625639502159945728",
+     "indices": [
+      55,
+      78
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo9ug6MWIAA5pHu.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo9ug6MWIAA5pHu.jpg",
+     "url": "https://t.co/faVH2lBn6e",
+     "display_url": "pic.twitter.com/faVH2lBn6e",
+     "expanded_url": "https://twitter.com/sandra1_lopez/status/1625639507918831616/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 695,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 394,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1866,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625639507918831616,
+     "source_status_id_str": "1625639507918831616",
+     "source_user_id": 2425871048,
+     "source_user_id_str": "2425871048"
+    }
+   ]
+  },
+  "Wed Feb 15 21:05:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:05:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "oficial_ginob",
+     "name": "\u5f61\ud83c\udf43Yoi Gamer\ud83c\udf68\u2604\u5f61",
+     "id": 1517095105110458368,
+     "id_str": "1517095105110458368",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "LaLiga",
+     "name": "LaLiga",
+     "id": 423384542,
+     "id_str": "423384542",
+     "indices": [
+      53,
+      60
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 21:05:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625678659267833857,
+     "id_str": "1625678659267833857",
+     "indices": [
+      55,
+      78
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-SIJyXsAE7np2.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-SIJyXsAE7np2.jpg",
+     "url": "https://t.co/FqUhBDJVYA",
+     "display_url": "pic.twitter.com/FqUhBDJVYA",
+     "expanded_url": "https://twitter.com/PGuillermoSerra/status/1625678663357177856/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 540,
+       "h": 540,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 540,
+       "h": 540,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 540,
+       "h": 540,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625678663357177856,
+     "source_status_id_str": "1625678663357177856",
+     "source_user_id": 295198494,
+     "source_user_id_str": "295198494"
+    }
+   ]
+  },
+  "Tue Feb 14 23:18:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Tue Feb 14 23:18:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Tue Feb 14 23:18:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  },
+  "Tue Feb 14 19:58:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "MuseoMyT",
+     "name": "Memoria y Tolerancia",
+     "id": 362803086,
+     "id_str": "362803086",
+     "indices": [
+      14,
+      23
+     ]
+    },
+    {
+     "screen_name": "ppolas",
+     "name": "Pola Salmun",
+     "id": 255269352,
+     "id_str": "255269352",
+     "indices": [
+      24,
+      31
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/nlaSKKhN19",
+     "expanded_url": "https://twitter.com/i/web/status/1625585261294805022",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Tue Feb 14 19:30:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FabyzAzul",
+     "name": "Seguidores Team \ud83d\udca5",
+     "id": 1149669738014027777,
+     "id_str": "1149669738014027777",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:30:31 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "EspanyolRealSociedad",
+     "indices": [
+      49,
+      70
+     ]
+    },
+    {
+     "text": "AurreraReala",
+     "indices": [
+      73,
+      86
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RealSociedad",
+     "name": "Real Sociedad F\u00fatbol",
+     "id": 390545466,
+     "id_str": "390545466",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625245119384281088,
+     "id_str": "1625245119384281088",
+     "indices": [
+      87,
+      110
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo4H0z3WYAAJr5j.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo4H0z3WYAAJr5j.jpg",
+     "url": "https://t.co/ZQ6hn1OOpC",
+     "display_url": "pic.twitter.com/ZQ6hn1OOpC",
+     "expanded_url": "https://twitter.com/RealSociedad/status/1625245237617520651/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1350,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625245237617520651,
+     "source_status_id_str": "1625245237617520651",
+     "source_user_id": 390545466,
+     "source_user_id_str": "390545466"
+    }
+   ]
+  },
+  "Tue Feb 14 19:30:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:30:19 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Champions",
+     "indices": [
+      99,
+      109
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SC_ESPN",
+     "name": "SportsCenter",
+     "id": 524531680,
+     "id_str": "524531680",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625574242275274753,
+     "id_str": "1625574242275274753",
+     "indices": [
+      111,
+      134
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8zKSLXsAEYK3a.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8zKSLXsAEYK3a.jpg",
+     "url": "https://t.co/Qs6qAjnwp0",
+     "display_url": "pic.twitter.com/Qs6qAjnwp0",
+     "expanded_url": "https://twitter.com/SC_ESPN/status/1625574395887378435/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1365,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625574395887378435,
+     "source_status_id_str": "1625574395887378435",
+     "source_user_id": 524531680,
+     "source_user_id_str": "524531680"
+    }
+   ]
+  },
+  "Tue Feb 14 19:30:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:30:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:30:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:30:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LAM_Oficial",
+     "name": "LazosdeAmorMariano",
+     "id": 167900487,
+     "id_str": "167900487",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:30:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:29:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SiguemeyRTs",
+     "name": "\ud83d\ude0d #SiguemeyTeSigo \ud83d\ude0d",
+     "id": 1212748470370439168,
+     "id_str": "1212748470370439168",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:29:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:29:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:28:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:28:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:28:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:28:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Hi_ImEnmanuel",
+     "name": "\ud835\udc6f\ud835\udc86\ud835\udc8d\ud835\udc8d\ud835\udc90...",
+     "id": 1549499398131814400,
+     "id_str": "1549499398131814400",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:27:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625377140903653379,
+     "id_str": "1625377140903653379",
+     "indices": [
+      40,
+      63
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo5_5eWaMAMEPaf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo5_5eWaMAMEPaf.jpg",
+     "url": "https://t.co/92Ny452J9B",
+     "display_url": "pic.twitter.com/92Ny452J9B",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625377144137461761/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625377144137461761,
+     "source_status_id_str": "1625377144137461761",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 14 19:27:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheKingThor981",
+     "name": "- TheKing Thor! -",
+     "id": 1225261453118144512,
+     "id_str": "1225261453118144512",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625280631264673793,
+     "id_str": "1625280631264673793",
+     "indices": [
+      74,
+      97
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo4oH37agAEGSTQ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo4oH37agAEGSTQ.jpg",
+     "url": "https://t.co/KxnPV1KL8y",
+     "display_url": "pic.twitter.com/KxnPV1KL8y",
+     "expanded_url": "https://twitter.com/TheKingThor981/status/1625280648385634304/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 647,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 2002,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 367,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625280648385634304,
+     "source_status_id_str": "1625280648385634304",
+     "source_user_id": 1225261453118144512,
+     "source_user_id_str": "1225261453118144512"
+    }
+   ]
+  },
+  "Tue Feb 14 19:27:25 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Valladolid",
+     "indices": [
+      81,
+      92
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "__realsociedad",
+     "name": "real sociedad",
+     "id": 1406353114681196544,
+     "id_str": "1406353114681196544",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "RealSociedad",
+     "name": "Real Sociedad F\u00fatbol",
+     "id": 390545466,
+     "id_str": "390545466",
+     "indices": [
+      49,
+      62
+     ]
+    },
+    {
+     "screen_name": "RCDEspanyol",
+     "name": "RCD Espanyol de Barcelona",
+     "id": 114516774,
+     "id_str": "114516774",
+     "indices": [
+      106,
+      118
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:27:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:27:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:27:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625368103285846016,
+     "id_str": "1625368103285846016",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo53ramacAAigCq.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo53ramacAAigCq.jpg",
+     "url": "https://t.co/iZUukCVrl5",
+     "display_url": "pic.twitter.com/iZUukCVrl5",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625368108461613057/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 810,
+       "h": 880,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 626,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 810,
+       "h": 880,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625368108461613057,
+     "source_status_id_str": "1625368108461613057",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 13 21:37:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "oficial_ginob",
+     "name": "\u5f61\ud83c\udf43Yoi Gamer\ud83c\udf68\u2604\u5f61",
+     "id": 1517095105110458368,
+     "id_str": "1517095105110458368",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:37:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CgsAlmis",
+     "name": "\ud83c\udf3aAlmis C\ud83c\udf3aG\ud83c\udf3aS\ud83c\udf3a",
+     "id": 911299413657702400,
+     "id_str": "911299413657702400",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:37:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:37:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AdrianRiveraC",
+     "name": "Adri\u00e1n Rivera \ud83c\uddf2\ud83c\uddfd",
+     "id": 350635816,
+     "id_str": "350635816",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:37:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:37:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:37:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "diego_dhcb",
+     "name": "Dieg\ud83c\udf1a",
+     "id": 699052758259912704,
+     "id_str": "699052758259912704",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625152922131775488,
+     "id_str": "1625152922131775488",
+     "indices": [
+      37,
+      60
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo2z-OVaQAARLJD.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo2z-OVaQAARLJD.jpg",
+     "url": "https://t.co/Lf0eSShSrx",
+     "display_url": "pic.twitter.com/Lf0eSShSrx",
+     "expanded_url": "https://twitter.com/diego_dhcb/status/1625152928758505473/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 720,
+       "h": 1032,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 474,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 1032,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625152928758505473,
+     "source_status_id_str": "1625152928758505473",
+     "source_user_id": 699052758259912704,
+     "source_user_id_str": "699052758259912704"
+    }
+   ]
+  },
+  "Mon Feb 13 21:36:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    },
+    {
+     "screen_name": "daily_stardust",
+     "name": "The Daily Stardust",
+     "id": 1298766072338722816,
+     "id_str": "1298766072338722816",
+     "indices": [
+      23,
+      38
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:36:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mori__tas2",
+     "name": "bee\ud83d\udc1d\ud83d\udc8c",
+     "id": 1496439510040821763,
+     "id_str": "1496439510040821763",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:36:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/sjban6T4yA",
+     "expanded_url": "https://youtu.be/T45ROgh1ChQ",
+     "display_url": "youtu.be/T45ROgh1ChQ",
+     "indices": [
+      52,
+      75
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 21:36:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlcaldiaMHmx",
+     "name": "Alcald\u00eda Miguel Hidalgo",
+     "id": 119819829,
+     "id_str": "119819829",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "BlindarMH",
+     "name": "Blindar MH",
+     "id": 2826777356,
+     "id_str": "2826777356",
+     "indices": [
+      79,
+      89
+     ]
+    },
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      121,
+      134
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:36:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:36:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlcaldiaMHmx",
+     "name": "Alcald\u00eda Miguel Hidalgo",
+     "id": 119819829,
+     "id_str": "119819829",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "MHPrevencion",
+     "name": "Protecci\u00f3n Civil Miguel Hidalgo",
+     "id": 1476354871037202433,
+     "id_str": "1476354871037202433",
+     "indices": [
+      37,
+      50
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 21:36:26 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Mi\u00e9rcolesCiudadano",
+     "indices": [
+      72,
+      91
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625221568258543616,
+     "id_str": "1625221568258543616",
+     "indices": [
+      92,
+      115
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo3yZ9FakAA6ap9.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo3yZ9FakAA6ap9.jpg",
+     "url": "https://t.co/s6MIROa1UX",
+     "display_url": "pic.twitter.com/s6MIROa1UX",
+     "expanded_url": "https://twitter.com/mauriciotabe/status/1625221647686062080/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 2048,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 340,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 600,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625221647686062080,
+     "source_status_id_str": "1625221647686062080",
+     "source_user_id": 80357298,
+     "source_user_id_str": "80357298"
+    }
+   ]
+  },
+  "Mon Feb 13 21:36:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Mi\u00e9rcolesCiudadano",
+     "indices": [
+      41,
+      60
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlcaldiaMHmx",
+     "name": "Alcald\u00eda Miguel Hidalgo",
+     "id": 119819829,
+     "id_str": "119819829",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 14:04:11 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SuperBowl",
+     "indices": [
+      31,
+      41
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/5xJiVAHn0U",
+     "expanded_url": "https://www.facebook.com/mauriciotabe/videos/1196082767717233/?__cft__[0]=AZWZ7KTbndt7dokjexPMqKitjJf3b596ALSfZJ5lmOdfsNUss6AJgPCuHMyM45hCQWirdUevvx8wpmKEQ5eWd3YfK1B29Nb9ACh4i11_rJN8ig05vTZXTFjFmTUBOwhvHm056F18tr4cS7RD2dkb-_sxnsNVkurdXyiFgkovlzeWm0O6cT3f9UlDWBy5HlgcyWc&__tn__=%2CO%2CP-R",
+     "display_url": "facebook.com/mauriciotabe/v\u2026",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 14:04:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 14:04:07 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PresupuestoParticipativo",
+     "indices": [
+      25,
+      50
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 14:04:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlcaldiaMHmx",
+     "name": "Alcald\u00eda Miguel Hidalgo",
+     "id": 119819829,
+     "id_str": "119819829",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:09:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "oficial_ginob",
+     "name": "\u5f61\ud83c\udf43Yoi Gamer\ud83c\udf68\u2604\u5f61",
+     "id": 1517095105110458368,
+     "id_str": "1517095105110458368",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:09:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AdrianRiveraC",
+     "name": "Adri\u00e1n Rivera \ud83c\uddf2\ud83c\uddfd",
+     "id": 350635816,
+     "id_str": "350635816",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:08:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SiguemeyRTs",
+     "name": "\ud83d\ude0d #SiguemeyTeSigo \ud83d\ude0d",
+     "id": 1212748470370439168,
+     "id_str": "1212748470370439168",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:08:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheTopComics",
+     "name": "The Top Comics",
+     "id": 708181266,
+     "id_str": "708181266",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624856646139912192,
+     "id_str": "1624856646139912192",
+     "indices": [
+      21,
+      44
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoymgsQaIAAtU5l.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoymgsQaIAAtU5l.jpg",
+     "url": "https://t.co/T3pqGHXMJ8",
+     "display_url": "pic.twitter.com/T3pqGHXMJ8",
+     "expanded_url": "https://twitter.com/TheTopComics/status/1624856657162272776/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 643,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 720,
+       "h": 681,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 681,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624856657162272776,
+     "source_status_id_str": "1624856657162272776",
+     "source_user_id": 708181266,
+     "source_user_id_str": "708181266"
+    }
+   ]
+  },
+  "Sun Feb 12 23:08:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:08:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Pdre_Rafa",
+     "name": "Padre Rafa",
+     "id": 746724508120211456,
+     "id_str": "746724508120211456",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:08:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:08:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mori__tas2",
+     "name": "Bee\ud83e\ude90",
+     "id": 1496439510040821763,
+     "id_str": "1496439510040821763",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:08:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:08:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "oficial_ginob",
+     "name": "\u5f61\ud83c\udf43Yoi Gamer\ud83c\udf68\u2604\u5f61",
+     "id": 1517095105110458368,
+     "id_str": "1517095105110458368",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:08:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "__realsociedad",
+     "name": "real sociedad",
+     "id": 1406353114681196544,
+     "id_str": "1406353114681196544",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "RealSociedad",
+     "name": "Real Sociedad F\u00fatbol",
+     "id": 390545466,
+     "id_str": "390545466",
+     "indices": [
+      34,
+      47
+     ]
+    },
+    {
+     "screen_name": "arenas_club1909",
+     "name": "ARENAS CLUB oficial",
+     "id": 2785485620,
+     "id_str": "2785485620",
+     "indices": [
+      53,
+      69
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624840824134443009,
+     "id_str": "1624840824134443009",
+     "indices": [
+      70,
+      93
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyYHusWIAEtjto.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyYHusWIAEtjto.jpg",
+     "url": "https://t.co/khASpVrGUh",
+     "display_url": "pic.twitter.com/khASpVrGUh",
+     "expanded_url": "https://twitter.com/__realsociedad/status/1624840828601397251/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624840828601397251,
+     "source_status_id_str": "1624840828601397251",
+     "source_user_id": 1406353114681196544,
+     "source_user_id_str": "1406353114681196544"
+    }
+   ]
+  },
+  "Sun Feb 12 23:07:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/XLncWWcEoY",
+     "expanded_url": "http://fb.me/mauriciotabe",
+     "display_url": "fb.me/mauriciotabe",
+     "indices": [
+      114,
+      137
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 23:07:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlcaldiaMHmx",
+     "name": "Alcald\u00eda Miguel Hidalgo",
+     "id": 119819829,
+     "id_str": "119819829",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:07:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 23:07:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Mi\u00e9rcolesCiudadano",
+     "indices": [
+      86,
+      105
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlcaldiaMHmx",
+     "name": "Alcald\u00eda Miguel Hidalgo",
+     "id": 119819829,
+     "id_str": "119819829",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:06:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rd_24h",
+     "name": "Revista Digital",
+     "id": 1172088130813472774,
+     "id_str": "1172088130813472774",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:06:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LAM_Oficial",
+     "name": "LazosdeAmorMariano",
+     "id": 167900487,
+     "id_str": "167900487",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:06:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:06:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "LucentEnergy",
+     "name": "Lucent Energy",
+     "id": 3165302590,
+     "id_str": "3165302590",
+     "indices": [
+      14,
+      27
+     ]
+    },
+    {
+     "screen_name": "teslasolarroof",
+     "name": "Solarroof",
+     "id": 780150116825047040,
+     "id_str": "780150116825047040",
+     "indices": [
+      28,
+      43
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:06:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Pdre_Rafa",
+     "name": "Padre Rafa",
+     "id": 746724508120211456,
+     "id_str": "746724508120211456",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:06:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rd_24h",
+     "name": "Revista Digital",
+     "id": 1172088130813472774,
+     "id_str": "1172088130813472774",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:06:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LAM_Oficial",
+     "name": "LazosdeAmorMariano",
+     "id": 167900487,
+     "id_str": "167900487",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:06:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:06:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LAM_Oficial",
+     "name": "LazosdeAmorMariano",
+     "id": 167900487,
+     "id_str": "167900487",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:05:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rd_24h",
+     "name": "Revista Digital",
+     "id": 1172088130813472774,
+     "id_str": "1172088130813472774",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:05:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Pdre_Rafa",
+     "name": "Padre Rafa",
+     "id": 746724508120211456,
+     "id_str": "746724508120211456",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:05:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 16:58:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_anace18",
+     "name": "lil leo",
+     "id": 930131687027113984,
+     "id_str": "930131687027113984",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 22:20:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rd_24h",
+     "name": "Revista Digital",
+     "id": 1172088130813472774,
+     "id_str": "1172088130813472774",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 22:20:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LAM_Oficial",
+     "name": "LazosdeAmorMariano",
+     "id": 167900487,
+     "id_str": "167900487",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 22:20:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rd_24h",
+     "name": "Revista Digital",
+     "id": 1172088130813472774,
+     "id_str": "1172088130813472774",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 22:19:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_anace18",
+     "name": "lil leo",
+     "id": 930131687027113984,
+     "id_str": "930131687027113984",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 22:19:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "transcriptorde",
+     "name": "transcriptor de letras",
+     "id": 1481253519533428737,
+     "id_str": "1481253519533428737",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 22:19:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rd_24h",
+     "name": "Revista Digital",
+     "id": 1172088130813472774,
+     "id_str": "1172088130813472774",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 22:19:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DelianisGarcia",
+     "name": "\ud835\udc1d\ud835\udc1a\ud835\udc2b\ud835\udc24 \ud835\udc20\ud835\udc22\ud835\udc2b\ud835\udc25\ud83d\udda4",
+     "id": 1533272273918038016,
+     "id_str": "1533272273918038016",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 22:19:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mauriciotabe",
+     "name": "Mauricio Tabe Echartea",
+     "id": 80357298,
+     "id_str": "80357298",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 22:19:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlcaldiaMHmx",
+     "name": "Alcald\u00eda Miguel Hidalgo",
+     "id": 119819829,
+     "id_str": "119819829",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 21:17:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SiguemeyRTs",
+     "name": "\ud83d\ude0d #SiguemeyTeSigo \ud83d\ude0d",
+     "id": 1212748470370439168,
+     "id_str": "1212748470370439168",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 21:17:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 21:16:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 21:16:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Pdre_Rafa",
+     "name": "Padre Rafa",
+     "id": 746724508120211456,
+     "id_str": "746724508120211456",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 21:16:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 21:16:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_anace18",
+     "name": "lil leo",
+     "id": 930131687027113984,
+     "id_str": "930131687027113984",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624477675870887940,
+     "id_str": "1624477675870887940",
+     "indices": [
+      64,
+      87
+     ],
+     "media_url": "http://pbs.twimg.com/media/FotN1t_WIAQBxar.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FotN1t_WIAQBxar.jpg",
+     "url": "https://t.co/m5tNb4b3tt",
+     "display_url": "pic.twitter.com/m5tNb4b3tt",
+     "expanded_url": "https://twitter.com/_anace18/status/1624477686486671366/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 676,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1153,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624477686486671366,
+     "source_status_id_str": "1624477686486671366",
+     "source_user_id": 930131687027113984,
+     "source_user_id_str": "930131687027113984"
+    }
+   ]
+  },
+  "Sat Feb 11 21:16:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LAM_Oficial",
+     "name": "LazosdeAmorMariano",
+     "id": 167900487,
+     "id_str": "167900487",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 21:16:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 21:16:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SiguemeyRTs",
+     "name": "\ud83d\ude0d #SiguemeyTeSigo \ud83d\ude0d",
+     "id": 1212748470370439168,
+     "id_str": "1212748470370439168",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 21:16:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MONSE_AS",
+     "name": "MONSE \ud83e\udde1\ud83c\uddf2\ud83c\uddfd",
+     "id": 128377548,
+     "id_str": "128377548",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624475632909549568,
+     "id_str": "1624475632909549568",
+     "indices": [
+      24,
+      47
+     ],
+     "media_url": "http://pbs.twimg.com/media/FotL-zXaAAAr4PR.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FotL-zXaAAAr4PR.jpg",
+     "url": "https://t.co/yivxhJ3eXl",
+     "display_url": "pic.twitter.com/yivxhJ3eXl",
+     "expanded_url": "https://twitter.com/MONSE_AS/status/1624475635857883137/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 720,
+       "h": 702,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 663,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 720,
+       "h": 702,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624475635857883137,
+     "source_status_id_str": "1624475635857883137",
+     "source_user_id": 128377548,
+     "source_user_id_str": "128377548"
+    }
+   ]
+  },
+  "Sat Feb 11 21:16:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 21:16:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlcaldiaMHmx",
+     "name": "Alcald\u00eda Miguel Hidalgo",
+     "id": 119819829,
+     "id_str": "119819829",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "MHGOByJ",
+     "name": "Gobierno y Asuntos Jur\u00eddicos MH 2021-2024",
+     "id": 1054079037109264385,
+     "id_str": "1054079037109264385",
+     "indices": [
+      124,
+      132
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 03:05:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SiguemeyRTs",
+     "name": "\ud83d\ude0d #SiguemeyTeSigo \ud83d\ude0d",
+     "id": 1212748470370439168,
+     "id_str": "1212748470370439168",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 03:05:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PPedroJose",
+     "name": "P. Pedro Jos\u00e9 Guerra",
+     "id": 202865348,
+     "id_str": "202865348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 03:05:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "adri291298",
+     "name": "RickEinstein",
+     "id": 1503728360517734409,
+     "id_str": "1503728360517734409",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 03:05:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "argom097",
+     "name": "\ud83d\udc8b",
+     "id": 1550245008057450498,
+     "id_str": "1550245008057450498",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 03:05:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PGuillermoSerra",
+     "name": "Padre Guillermo Serra LC",
+     "id": 295198494,
+     "id_str": "295198494",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 03:04:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "maggierom_",
+     "name": "Maggie Romero",
+     "id": 1375562042099257348,
+     "id_str": "1375562042099257348",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624051793377230851,
+     "id_str": "1624051793377230851",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/media/FonKgGEWAAMGP1t.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FonKgGEWAAMGP1t.jpg",
+     "url": "https://t.co/Cbw693Os8U",
+     "display_url": "pic.twitter.com/Cbw693Os8U",
+     "expanded_url": "https://twitter.com/maggierom_/status/1624051798897004550/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 719,
+       "h": 435,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 411,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 719,
+       "h": 435,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624051798897004550,
+     "source_status_id_str": "1624051798897004550",
+     "source_user_id": 1375562042099257348,
+     "source_user_id_str": "1375562042099257348"
+    }
+   ]
+  },
+  "Sat Feb 11 03:04:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Hi_ImEnmanuel",
+     "name": "\ud835\udc6f\ud835\udc86\ud835\udc8d\ud835\udc8d\ud835\udc90...",
+     "id": 1549499398131814400,
+     "id_str": "1549499398131814400",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 03:04:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rd_24h",
+     "name": "Revista Digital",
+     "id": 1172088130813472774,
+     "id_str": "1172088130813472774",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

@@ -1,0 +1,2563 @@
+{
+ "131988806": {
+  "Wed Feb 08 20:53:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      28,
+      35
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:27:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:26:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/GoqS4nTEHG",
+     "expanded_url": "https://twitter.com/j_grieshaber/status/1623405284516405250",
+     "display_url": "twitter.com/j_grieshaber/s\u2026",
+     "indices": [
+      0,
+      23
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1623417975352233984,
+     "id_str": "1623417975352233984",
+     "indices": [
+      24,
+      47
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoeKDB7akAAtTN_.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoeKDB7akAAtTN_.jpg",
+     "url": "https://t.co/3opnFK9TCg",
+     "display_url": "pic.twitter.com/3opnFK9TCg",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623417986592931841/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 350,
+       "h": 196,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 350,
+       "h": 196,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 350,
+       "h": 196,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 08 20:22:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Speenuh",
+     "name": "Anthony Spina",
+     "id": 31290476,
+     "id_str": "31290476",
+     "indices": [
+      0,
+      8
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/gIe6Pfm8Np",
+     "expanded_url": "https://twitter.com/i/web/status/1623417075346833408",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 20:19:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DBurkland",
+     "name": "Dan Burkland",
+     "id": 1464732617786413059,
+     "id_str": "1464732617786413059",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "hiromichimizuno",
+     "name": "HIRO MIZUNO",
+     "id": 72862939,
+     "id_str": "72862939",
+     "indices": [
+      11,
+      27
+     ]
+    },
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      28,
+      42
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      43,
+      52
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      53,
+      59
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:18:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/dQEMoorsQZ",
+     "expanded_url": "https://twitter.com/Twitter/status/1623411536243965954",
+     "display_url": "twitter.com/Twitter/status\u2026",
+     "indices": [
+      17,
+      40
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 18:08:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      10,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 18:06:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      14,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 14:19:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaTruckClub",
+     "name": "Mike - CyberOwners.com",
+     "id": 1105840274322980864,
+     "id_str": "1105840274322980864",
+     "indices": [
+      0,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623325559500701697,
+     "id_str": "1623325559500701697",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/Foc1_uDaAAEjpFE.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Foc1_uDaAAEjpFE.jpg",
+     "url": "https://t.co/929epGsCIf",
+     "display_url": "pic.twitter.com/929epGsCIf",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623325565905412096/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 500,
+       "h": 302,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 500,
+       "h": 302,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 302,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 08 04:45:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 03:02:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 03:01:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 01:49:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DBurkland",
+     "name": "Dan Burkland",
+     "id": 1464732617786413059,
+     "id_str": "1464732617786413059",
+     "indices": [
+      0,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623136984742105090,
+     "id_str": "1623136984742105090",
+     "indices": [
+      29,
+      52
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoaKfOVaEAI34EA.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoaKfOVaEAI34EA.jpg",
+     "url": "https://t.co/glmdyPzIGI",
+     "display_url": "pic.twitter.com/glmdyPzIGI",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623137001234132992/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 498,
+       "h": 470,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 498,
+       "h": 470,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 498,
+       "h": 470,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 08 01:34:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ketrixz",
+     "name": "NSA Ghost",
+     "id": 4765778544,
+     "id_str": "4765778544",
+     "indices": [
+      0,
+      8
+     ]
+    },
+    {
+     "screen_name": "wadeanderson",
+     "name": "Wade Anderson",
+     "id": 17182121,
+     "id_str": "17182121",
+     "indices": [
+      9,
+      22
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      23,
+      32
+     ]
+    },
+    {
+     "screen_name": "ggreenwald",
+     "name": "Glenn Greenwald",
+     "id": 16076032,
+     "id_str": "16076032",
+     "indices": [
+      33,
+      44
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 00:54:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ketrixz",
+     "name": "NSA Ghost",
+     "id": 4765778544,
+     "id_str": "4765778544",
+     "indices": [
+      0,
+      8
+     ]
+    },
+    {
+     "screen_name": "wadeanderson",
+     "name": "Wade Anderson",
+     "id": 17182121,
+     "id_str": "17182121",
+     "indices": [
+      9,
+      22
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      23,
+      32
+     ]
+    },
+    {
+     "screen_name": "ggreenwald",
+     "name": "Glenn Greenwald",
+     "id": 16076032,
+     "id_str": "16076032",
+     "indices": [
+      33,
+      44
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 00:44:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "wadeanderson",
+     "name": "Wade Anderson",
+     "id": 17182121,
+     "id_str": "17182121",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      14,
+      23
+     ]
+    },
+    {
+     "screen_name": "ggreenwald",
+     "name": "Glenn Greenwald",
+     "id": 16076032,
+     "id_str": "16076032",
+     "indices": [
+      24,
+      35
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623120462179102720,
+     "id_str": "1623120462179102720",
+     "indices": [
+      90,
+      113
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoZ7de_acAAvhlg.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoZ7de_acAAvhlg.jpg",
+     "url": "https://t.co/BnUYLlcz7W",
+     "display_url": "pic.twitter.com/BnUYLlcz7W",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623120533721333760/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 871,
+       "h": 372,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 290,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 871,
+       "h": 372,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 08 00:33:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "ggreenwald",
+     "name": "Glenn Greenwald",
+     "id": 16076032,
+     "id_str": "16076032",
+     "indices": [
+      10,
+      21
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      56,
+      65
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623117493681389569,
+     "id_str": "1623117493681389569",
+     "indices": [
+      100,
+      123
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoZ4wseaAAEFa7E.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoZ4wseaAAEFa7E.jpg",
+     "url": "https://t.co/Uyn7lLlcFU",
+     "display_url": "pic.twitter.com/Uyn7lLlcFU",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623117814075895810/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 879,
+       "h": 659,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 510,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 879,
+       "h": 659,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 20:28:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DBurkland",
+     "name": "Dan Burkland",
+     "id": 1464732617786413059,
+     "id_str": "1464732617786413059",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      11,
+      20
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      21,
+      30
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623056022742134786,
+     "id_str": "1623056022742134786",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoZA2nYacAIl61R.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoZA2nYacAIl61R.jpg",
+     "url": "https://t.co/gzzEMQ8FxT",
+     "display_url": "pic.twitter.com/gzzEMQ8FxT",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623056032418381824/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 20:27:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MissJilianne",
+     "name": "Miss Jilianne",
+     "id": 1449732529250918401,
+     "id_str": "1449732529250918401",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "FermisSocks",
+     "name": "Fermi's Pair of Socks",
+     "id": 1091408824941113350,
+     "id_str": "1091408824941113350",
+     "indices": [
+      14,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 20:27:04 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Tesla",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623055766126235649,
+     "id_str": "1623055766126235649",
+     "indices": [
+      49,
+      72
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoZAnraakAEIsgP.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoZAnraakAEIsgP.jpg",
+     "url": "https://t.co/oPsPE22My0",
+     "display_url": "pic.twitter.com/oPsPE22My0",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623055768391143425/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 175,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 175,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 110,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 18:28:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "routine88",
+     "name": "de-pegged.eth\u1d4d\u1d50\ud83e\udd87\ud83d\udd0a",
+     "id": 89380756,
+     "id_str": "89380756",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "chazman",
+     "name": "Chuck Cook",
+     "id": 14084713,
+     "id_str": "14084713",
+     "indices": [
+      11,
+      19
+     ]
+    },
+    {
+     "screen_name": "DirtyTesLa",
+     "name": "Dirty Tesla",
+     "id": 1118594454515003393,
+     "id_str": "1118594454515003393",
+     "indices": [
+      20,
+      31
+     ]
+    },
+    {
+     "screen_name": "CYBRLFT",
+     "name": "Kaz",
+     "id": 1477336358205071362,
+     "id_str": "1477336358205071362",
+     "indices": [
+      32,
+      40
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      41,
+      50
+     ]
+    },
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      51,
+      65
+     ]
+    },
+    {
+     "screen_name": "jff024",
+     "name": "BlueCheckmark",
+     "id": 1486505112956723201,
+     "id_str": "1486505112956723201",
+     "indices": [
+      66,
+      73
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623025958306594817,
+     "id_str": "1623025958306594817",
+     "indices": [
+      74,
+      97
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYlgooaQAEXa3w.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYlgooaQAEXa3w.jpg",
+     "url": "https://t.co/qgO3kJPkJM",
+     "display_url": "pic.twitter.com/qgO3kJPkJM",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623025965772472320/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 320,
+       "h": 180,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 320,
+       "h": 180,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 320,
+       "h": 180,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 18:22:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623024474781270016,
+     "id_str": "1623024474781270016",
+     "indices": [
+      17,
+      40
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYkKSEaQAA3vO-.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYkKSEaQAA3vO-.jpg",
+     "url": "https://t.co/ZUeCuXmtLn",
+     "display_url": "pic.twitter.com/ZUeCuXmtLn",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623024481127239680/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 220,
+       "h": 176,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 220,
+       "h": 176,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 220,
+       "h": 176,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 17:29:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "spotted_model",
+     "name": "@spotted_model",
+     "id": 1116353841908158464,
+     "id_str": "1116353841908158464",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:25:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DirtyTesLa",
+     "name": "Dirty Tesla",
+     "id": 1118594454515003393,
+     "id_str": "1118594454515003393",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623010098481332224,
+     "id_str": "1623010098481332224",
+     "indices": [
+      12,
+      35
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYXFeLaAAAfMfv.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYXFeLaAAAfMfv.jpg",
+     "url": "https://t.co/qZDQqsIH3l",
+     "display_url": "pic.twitter.com/qZDQqsIH3l",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623010104818958336/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 500,
+       "h": 212,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 500,
+       "h": 212,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 500,
+       "h": 212,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 17:14:13 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SuperchargeTheNorth",
+     "indices": [
+      86,
+      106
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rich_teer",
+     "name": "Rich Teer",
+     "id": 741047000301371393,
+     "id_str": "741047000301371393",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "TeslaCharging",
+     "name": "Tesla Charging",
+     "id": 1346535293449428992,
+     "id_str": "1346535293449428992",
+     "indices": [
+      11,
+      25
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      43,
+      49
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:12:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/6bSiDfwU42",
+     "expanded_url": "https://twitter.com/shefska/status/1622650500611964960",
+     "display_url": "twitter.com/shefska/status\u2026",
+     "indices": [
+      0,
+      23
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1623006679741898753,
+     "id_str": "1623006679741898753",
+     "indices": [
+      24,
+      47
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYT-eYaIAELf5k.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYT-eYaIAELf5k.jpg",
+     "url": "https://t.co/UaH4e9jmLI",
+     "display_url": "pic.twitter.com/UaH4e9jmLI",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623006690294771712/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 332,
+       "h": 224,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 332,
+       "h": 224,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 332,
+       "h": 224,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 17:09:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "daelmor",
+     "name": "\ud835\udd07\ud835\udd1e\ud835\udd2b\ud835\udd1e \ud83c\udf1e",
+     "id": 97552785,
+     "id_str": "97552785",
+     "indices": [
+      0,
+      8
+     ]
+    },
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      9,
+      23
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623006034674716672,
+     "id_str": "1623006034674716672",
+     "indices": [
+      43,
+      66
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYTY7UaEAA-tUO.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYTY7UaEAA-tUO.jpg",
+     "url": "https://t.co/GtcIzS0Y4o",
+     "display_url": "pic.twitter.com/GtcIzS0Y4o",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623006045529419789/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 384,
+       "h": 206,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 384,
+       "h": 206,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 384,
+       "h": 206,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 17:08:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaCharging",
+     "name": "Tesla Charging",
+     "id": 1346535293449428992,
+     "id_str": "1346535293449428992",
+     "indices": [
+      1,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623005712833200129,
+     "id_str": "1623005712833200129",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYTGMXaQAEPEIV.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYTGMXaQAEPEIV.jpg",
+     "url": "https://t.co/zz5fqGlLQk",
+     "display_url": "pic.twitter.com/zz5fqGlLQk",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623005723327348736/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 440,
+       "h": 236,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 440,
+       "h": 236,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 440,
+       "h": 236,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 16:56:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MissJilianne",
+     "name": "Miss Jilianne",
+     "id": 1449732529250918401,
+     "id_str": "1449732529250918401",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "stillgray",
+     "name": "Ian Miles Cheong",
+     "id": 16106584,
+     "id_str": "16106584",
+     "indices": [
+      14,
+      24
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623002802153984002,
+     "id_str": "1623002802153984002",
+     "indices": [
+      25,
+      48
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYQcxPaEAI8bco.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYQcxPaEAI8bco.jpg",
+     "url": "https://t.co/HGwgdS62NY",
+     "display_url": "pic.twitter.com/HGwgdS62NY",
+     "expanded_url": "https://twitter.com/arctechinc/status/1623002812740435969/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 498,
+       "h": 310,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 498,
+       "h": 310,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 498,
+       "h": 310,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 16:53:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "farzyness",
+     "name": "Farzad Mesbahi",
+     "id": 17862108,
+     "id_str": "17862108",
+     "indices": [
+      0,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:52:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jeremyjudkins_",
+     "name": "Jeremy Judkins",
+     "id": 1447963180567863314,
+     "id_str": "1447963180567863314",
+     "indices": [
+      0,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:50:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MissJilianne",
+     "name": "Miss Jilianne",
+     "id": 1449732529250918401,
+     "id_str": "1449732529250918401",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:41:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MissJilianne",
+     "name": "Miss Jilianne",
+     "id": 1449732529250918401,
+     "id_str": "1449732529250918401",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622999107655831552,
+     "id_str": "1622999107655831552",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYNFuKaEAAAivT.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYNFuKaEAAAivT.jpg",
+     "url": "https://t.co/If1mAzdlxw",
+     "display_url": "pic.twitter.com/If1mAzdlxw",
+     "expanded_url": "https://twitter.com/arctechinc/status/1622999113985032192/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 15:19:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rohanspatel",
+     "name": "Rohan Patel",
+     "id": 173491730,
+     "id_str": "173491730",
+     "indices": [
+      0,
+      12
+     ]
+    },
+    {
+     "screen_name": "abefromanohio",
+     "name": "Michael O\u2019Neil",
+     "id": 16242937,
+     "id_str": "16242937",
+     "indices": [
+      13,
+      27
+     ]
+    },
+    {
+     "screen_name": "Usher",
+     "name": "Usher Raymond IV",
+     "id": 40908929,
+     "id_str": "40908929",
+     "indices": [
+      28,
+      34
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/KprDvl41a2",
+     "expanded_url": "https://youtu.be/ABaWlQgzh90",
+     "display_url": "youtu.be/ABaWlQgzh90",
+     "indices": [
+      74,
+      97
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 15:03:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "spleck",
+     "name": "Kevin Smith",
+     "id": 274655814,
+     "id_str": "274655814",
+     "indices": [
+      0,
+      7
+     ]
+    },
+    {
+     "screen_name": "TesLatino",
+     "name": "TesLatino",
+     "id": 989986448295235586,
+     "id_str": "989986448295235586",
+     "indices": [
+      8,
+      18
+     ]
+    },
+    {
+     "screen_name": "DBurkland",
+     "name": "Dan Burkland",
+     "id": 1464732617786413059,
+     "id_str": "1464732617786413059",
+     "indices": [
+      19,
+      29
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622974318589407240,
+     "id_str": "1622974318589407240",
+     "indices": [
+      30,
+      53
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoX2izsacAgxPei.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoX2izsacAgxPei.jpg",
+     "url": "https://t.co/w13StN5jqk",
+     "display_url": "pic.twitter.com/w13StN5jqk",
+     "expanded_url": "https://twitter.com/arctechinc/status/1622974324935364609/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 480,
+       "h": 360,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 360,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 480,
+       "h": 360,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 13:59:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TesLatino",
+     "name": "TesLatino",
+     "id": 989986448295235586,
+     "id_str": "989986448295235586",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "DBurkland",
+     "name": "Dan Burkland",
+     "id": 1464732617786413059,
+     "id_str": "1464732617786413059",
+     "indices": [
+      11,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 13:58:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "battleangelviv",
+     "name": "Viv",
+     "id": 1518265999367286787,
+     "id_str": "1518265999367286787",
+     "indices": [
+      0,
+      15
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Uli4LDfHy3",
+     "expanded_url": "https://twitter.com/i/web/status/1622957896438026245",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 12:55:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tesla_europe",
+     "name": "Tesla Europe",
+     "id": 1620480811303866369,
+     "id_str": "1620480811303866369",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 12:49:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Speenuh",
+     "name": "Anthony Spina",
+     "id": 31290476,
+     "id_str": "31290476",
+     "indices": [
+      0,
+      8
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 11:37:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Speenuh",
+     "name": "Anthony Spina",
+     "id": 31290476,
+     "id_str": "31290476",
+     "indices": [
+      0,
+      8
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622922611067072514,
+     "id_str": "1622922611067072514",
+     "indices": [
+      9,
+      32
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoXHhCKaMAIOQnG.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoXHhCKaMAIOQnG.jpg",
+     "url": "https://t.co/P0FZ9oHmsj",
+     "display_url": "pic.twitter.com/P0FZ9oHmsj",
+     "expanded_url": "https://twitter.com/arctechinc/status/1622922617148809216/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 220,
+       "h": 220,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 11:36:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tesla_europe",
+     "name": "Tesla Europe",
+     "id": 1620480811303866369,
+     "id_str": "1620480811303866369",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622704620442202113,
+     "id_str": "1622704620442202113",
+     "indices": [
+      78,
+      101
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622704620442202113/pu/img/Murc3RHHTfZFDtMw.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622704620442202113/pu/img/Murc3RHHTfZFDtMw.jpg",
+     "url": "https://t.co/nlI36efidf",
+     "display_url": "pic.twitter.com/nlI36efidf",
+     "expanded_url": "https://twitter.com/tesla_europe/status/1622704945311936513/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622704945311936513,
+     "source_status_id_str": "1622704945311936513",
+     "source_user_id": 1620480811303866369,
+     "source_user_id_str": "1620480811303866369"
+    }
+   ]
+  },
+  "Tue Feb 07 02:12:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "ray4tesla",
+     "name": "Ray",
+     "id": 959168599519764480,
+     "id_str": "959168599519764480",
+     "indices": [
+      14,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 02:08:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaOwnersSCV",
+     "name": "Tesla Owners of Santa Clarita Valley",
+     "id": 1415164835587715079,
+     "id_str": "1415164835587715079",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 01:59:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LudaLisl",
+     "name": "Lisa G-Punkt \ud83d\udc40\u2764\ufe0f\ud83e\udd8a",
+     "id": 28402741,
+     "id_str": "28402741",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "alex_avoigt",
+     "name": "Alex",
+     "id": 718747351792398336,
+     "id_str": "718747351792398336",
+     "indices": [
+      10,
+      22
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622776941534412800,
+     "id_str": "1622776941534412800",
+     "indices": [
+      23,
+      46
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoVDB83agAA58SU.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoVDB83agAA58SU.jpg",
+     "url": "https://t.co/94Yv1ANNSB",
+     "display_url": "pic.twitter.com/94Yv1ANNSB",
+     "expanded_url": "https://twitter.com/arctechinc/status/1622776952104030208/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 500,
+       "h": 282,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 500,
+       "h": 282,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 500,
+       "h": 282,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 01:58:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TslaCC",
+     "name": "Tesla Owners Central Coast",
+     "id": 1370195644095205379,
+     "id_str": "1370195644095205379",
+     "indices": [
+      0,
+      7
+     ]
+    },
+    {
+     "screen_name": "TeslaOwnersSCV",
+     "name": "Tesla Owners of Santa Clarita Valley",
+     "id": 1415164835587715079,
+     "id_str": "1415164835587715079",
+     "indices": [
+      8,
+      23
+     ]
+    },
+    {
+     "screen_name": "PetrellaRealty",
+     "name": "Andrew Petrella",
+     "id": 1467267801127677953,
+     "id_str": "1467267801127677953",
+     "indices": [
+      24,
+      39
+     ]
+    },
+    {
+     "screen_name": "BLKMDL3",
+     "name": "Zack",
+     "id": 988975103785365504,
+     "id_str": "988975103785365504",
+     "indices": [
+      40,
+      48
+     ]
+    },
+    {
+     "screen_name": "Sofiaan",
+     "name": "Sofiaan Fraval",
+     "id": 49417006,
+     "id_str": "49417006",
+     "indices": [
+      49,
+      57
+     ]
+    },
+    {
+     "screen_name": "mymodl3",
+     "name": "mymodl3",
+     "id": 1074073695939813377,
+     "id_str": "1074073695939813377",
+     "indices": [
+      58,
+      66
+     ]
+    },
+    {
+     "screen_name": "TeslaMarla",
+     "name": "\ud835\ude7c\ud835\ude8a\ud835\ude9b\ud835\ude95\ud835\ude8e\ud835\ude97\ud835\ude8e \u2661",
+     "id": 31224503,
+     "id_str": "31224503",
+     "indices": [
+      67,
+      78
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622776809652899843,
+     "id_str": "1622776809652899843",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoVC6RkaUAM6LY1.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoVC6RkaUAM6LY1.jpg",
+     "url": "https://t.co/3n9LXmVTEL",
+     "display_url": "pic.twitter.com/3n9LXmVTEL",
+     "expanded_url": "https://twitter.com/arctechinc/status/1622776829521313793/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 498,
+       "h": 462,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 498,
+       "h": 462,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 498,
+       "h": 462,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Tue Feb 07 01:58:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622772635691020288,
+     "id_str": "1622772635691020288",
+     "indices": [
+      90,
+      113
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1622772635691020288/img/UpJ8ebu-E_hHLi2C.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1622772635691020288/img/UpJ8ebu-E_hHLi2C.jpg",
+     "url": "https://t.co/pULkVL0dYi",
+     "display_url": "pic.twitter.com/pULkVL0dYi",
+     "expanded_url": "https://twitter.com/SpaceX/status/1622772706377707523/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622772706377707523,
+     "source_status_id_str": "1622772706377707523",
+     "source_user_id": 34743251,
+     "source_user_id_str": "34743251"
+    }
+   ]
+  },
+  "Mon Feb 06 20:51:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaOwnersSCV",
+     "name": "Tesla Owners of Santa Clarita Valley",
+     "id": 1415164835587715079,
+     "id_str": "1415164835587715079",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 19:15:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Kristennetten",
+     "name": "K10\u2728",
+     "id": 985686123123949568,
+     "id_str": "985686123123949568",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622675429600661505,
+     "id_str": "1622675429600661505",
+     "indices": [
+      44,
+      67
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoTmtLcaEAEjIpI.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoTmtLcaEAEjIpI.jpg",
+     "url": "https://t.co/WUjQwKBK6O",
+     "display_url": "pic.twitter.com/WUjQwKBK6O",
+     "expanded_url": "https://twitter.com/arctechinc/status/1622675436634513408/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 240,
+       "h": 136,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 136,
+       "h": 136,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 240,
+       "h": 136,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 240,
+       "h": 136,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Mon Feb 06 19:09:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 18:56:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/0OeKt1viz3",
+     "expanded_url": "https://twitter.com/SpaceX/status/1622663441206108160",
+     "display_url": "twitter.com/SpaceX/status/\u2026",
+     "indices": [
+      59,
+      82
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 18:56:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:17:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DBurkland",
+     "name": "Dan Burkland",
+     "id": 1464732617786413059,
+     "id_str": "1464732617786413059",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "TeslaCharging",
+     "name": "Tesla Charging",
+     "id": 1346535293449428992,
+     "id_str": "1346535293449428992",
+     "indices": [
+      11,
+      25
+     ]
+    },
+    {
+     "screen_name": "TeslaCharging",
+     "name": "Tesla Charging",
+     "id": 1346535293449428992,
+     "id_str": "1346535293449428992",
+     "indices": [
+      26,
+      40
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622615402781224960,
+     "id_str": "1622615402781224960",
+     "indices": [
+      108,
+      131
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoSwHKHaMAAcUGC.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoSwHKHaMAAcUGC.jpg",
+     "url": "https://t.co/IGlCscfpu3",
+     "display_url": "pic.twitter.com/IGlCscfpu3",
+     "expanded_url": "https://twitter.com/arctechinc/status/1622615425833111553/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 480,
+       "h": 360,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 360,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 480,
+       "h": 360,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Mon Feb 06 05:34:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DBurkland",
+     "name": "Dan Burkland",
+     "id": 1464732617786413059,
+     "id_str": "1464732617786413059",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      11,
+      20
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622468850397900800,
+     "id_str": "1622468850397900800",
+     "indices": [
+      21,
+      44
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoQq0r8acAATV_f.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoQq0r8acAATV_f.jpg",
+     "url": "https://t.co/RMWpnFPNEd",
+     "display_url": "pic.twitter.com/RMWpnFPNEd",
+     "expanded_url": "https://twitter.com/arctechinc/status/1622468861219209217/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 288,
+       "h": 288,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 288,
+       "h": 288,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 288,
+       "h": 288,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Mon Feb 06 04:29:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "DriveTeslaca",
+     "name": "Drive Tesla \ud83c\udde8\ud83c\udde6",
+     "id": 1169348503975317504,
+     "id_str": "1169348503975317504",
+     "indices": [
+      10,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 04:29:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "DriveTeslaca",
+     "name": "Drive Tesla \ud83c\udde8\ud83c\udde6",
+     "id": 1169348503975317504,
+     "id_str": "1169348503975317504",
+     "indices": [
+      14,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 04:11:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DBurkland",
+     "name": "Dan Burkland",
+     "id": 1464732617786413059,
+     "id_str": "1464732617786413059",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "MFrunker",
+     "name": "Frunker \ud83c\udde8\ud83c\udde6\ud83e\udd8c",
+     "id": 1052331772808192001,
+     "id_str": "1052331772808192001",
+     "indices": [
+      11,
+      20
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      21,
+      30
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622447954895474690,
+     "id_str": "1622447954895474690",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoQX0aIakAIVvN8.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoQX0aIakAIVvN8.jpg",
+     "url": "https://t.co/McUglN3vUq",
+     "display_url": "pic.twitter.com/McUglN3vUq",
+     "expanded_url": "https://twitter.com/arctechinc/status/1622447962927566851/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 500,
+       "h": 374,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 500,
+       "h": 374,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 500,
+       "h": 374,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Mon Feb 06 03:20:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "woodhaus2",
+     "name": "Franz von Holzhausen",
+     "id": 55769345,
+     "id_str": "55769345",
+     "indices": [
+      1,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/IdBea9jDFk",
+     "expanded_url": "https://twitter.com/BLKMDL3/status/1622396889760169984",
+     "display_url": "twitter.com/BLKMDL3/status\u2026",
+     "indices": [
+      65,
+      88
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 03:10:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SnowQuentin",
+     "name": "ElectricSnow",
+     "id": 785173188,
+     "id_str": "785173188",
+     "indices": [
+      0,
+      12
+     ]
+    },
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      13,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 03:09:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Brueck1988",
+     "name": "Alexander Brueck",
+     "id": 1016518030904328193,
+     "id_str": "1016518030904328193",
+     "indices": [
+      0,
+      11
+     ]
+    },
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      12,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 00:06:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EcoHeliGuy",
+     "name": "Walter MacVane\ud83d\udc40",
+     "id": 316068880,
+     "id_str": "316068880",
+     "indices": [
+      0,
+      11
+     ]
+    },
+    {
+     "screen_name": "tkifof",
+     "name": "c v \ud83c\udf3b\ud83c\uddfa\ud83c\udde6\ud83c\udf3b",
+     "id": 89501363,
+     "id_str": "89501363",
+     "indices": [
+      12,
+      19
+     ]
+    },
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      20,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

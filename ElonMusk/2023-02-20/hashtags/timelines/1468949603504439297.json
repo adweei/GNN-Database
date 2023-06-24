@@ -1,0 +1,860 @@
+{
+ "1468949603504439297": {
+  "Mon Feb 20 13:31:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Wolfcrypto01",
+     "name": "USDT",
+     "id": 1559521271876034561,
+     "id_str": "1559521271876034561",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 12:39:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "BNB",
+     "indices": [
+      37,
+      41
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Wolfcrypto01",
+     "name": "USDT",
+     "id": 1559521271876034561,
+     "id_str": "1559521271876034561",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 07:46:37 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PiNetwork",
+     "indices": [
+      95,
+      105
+     ]
+    },
+    {
+     "text": "PiNews",
+     "indices": [
+      106,
+      113
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PiNewsMedia",
+     "name": "Pi News",
+     "id": 1313548940944396288,
+     "id_str": "1313548940944396288",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "PiCoreTeam",
+     "name": "Pi Network",
+     "id": 1126232134065147904,
+     "id_str": "1126232134065147904",
+     "indices": [
+      83,
+      94
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627270389259980800,
+     "id_str": "1627270389259980800",
+     "indices": [
+      114,
+      137
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpU5zCFaUAAtM8b.png",
+     "media_url_https": "https://pbs.twimg.com/media/FpU5zCFaUAAtM8b.png",
+     "url": "https://t.co/rJP1Th0hs3",
+     "display_url": "pic.twitter.com/rJP1Th0hs3",
+     "expanded_url": "https://twitter.com/PiNewsMedia/status/1627271566072623105/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 730,
+       "h": 731,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 730,
+       "h": 731,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 679,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627271566072623105,
+     "source_status_id_str": "1627271566072623105",
+     "source_user_id": 1313548940944396288,
+     "source_user_id_str": "1313548940944396288"
+    }
+   ]
+  },
+  "Mon Feb 20 06:08:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CORE",
+     "indices": [
+      65,
+      70
+     ]
+    },
+    {
+     "text": "CoreDAO",
+     "indices": [
+      113,
+      121
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "Core",
+     "indices": [
+      94,
+      99
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Coredao__0rg_",
+     "name": "CORE DAO",
+     "id": 1542796087219699713,
+     "id_str": "1542796087219699713",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "binance",
+     "name": "Binance",
+     "id": 877807935493033984,
+     "id_str": "877807935493033984",
+     "indices": [
+      48,
+      56
+     ]
+    },
+    {
+     "screen_name": "Coredao_Org",
+     "name": "Core DAO",
+     "id": 1526895064869486592,
+     "id_str": "1526895064869486592",
+     "indices": [
+      100,
+      112
+     ]
+    },
+    {
+     "screen_name": "cz_binance",
+     "name": "CZ \ud83d\udd36 Binance",
+     "id": 902926941413453824,
+     "id_str": "902926941413453824",
+     "indices": [
+      123,
+      134
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 16:42:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PiNewsMedia",
+     "name": "Pi News",
+     "id": 1313548940944396288,
+     "id_str": "1313548940944396288",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 14:02:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627246530309627904,
+     "id_str": "1627246530309627904",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "url": "https://t.co/O3nGpfeRZ7",
+     "display_url": "pic.twitter.com/O3nGpfeRZ7",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627246535581761536/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627246535581761536,
+     "source_status_id_str": "1627246535581761536",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 14:01:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:18:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627055208844103680,
+     "id_str": "1627055208844103680",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpR2F4kaEAAE9Xk.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpR2F4kaEAAE9Xk.jpg",
+     "url": "https://t.co/4HgUSONvzw",
+     "display_url": "pic.twitter.com/4HgUSONvzw",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627055215601147904/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1284,
+       "h": 906,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 847,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 480,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627055215601147904,
+     "source_status_id_str": "1627055215601147904",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 08:17:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "CoreChain",
+     "indices": [
+      64,
+      74
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BTCs_",
+     "name": "Satoshi CORE (BTCs)",
+     "id": 1482386199465664521,
+     "id_str": "1482386199465664521",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:17:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PiNewsMedia",
+     "name": "Pi News",
+     "id": 1313548940944396288,
+     "id_str": "1313548940944396288",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "PiCoreTeam",
+     "name": "Pi Network",
+     "id": 1126232134065147904,
+     "id_str": "1126232134065147904",
+     "indices": [
+      85,
+      96
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 02:07:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626703662197387264,
+     "id_str": "1626703662197387264",
+     "indices": [
+      95,
+      118
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpM2XLQaMAAsnhY.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpM2XLQaMAAsnhY.jpg",
+     "url": "https://t.co/vbeOOqKuyT",
+     "display_url": "pic.twitter.com/vbeOOqKuyT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626703667591270400/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1159,
+       "h": 845,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1159,
+       "h": 845,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 496,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626703667591270400,
+     "source_status_id_str": "1626703667591270400",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Fri Feb 17 18:42:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626357244869873666,
+     "id_str": "1626357244869873666",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpH7TCJaEAIziQ1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpH7TCJaEAIziQ1.jpg",
+     "url": "https://t.co/gdqWTsHy14",
+     "display_url": "pic.twitter.com/gdqWTsHy14",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626357251094249472/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626357251094249472,
+     "source_status_id_str": "1626357251094249472",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Fri Feb 17 16:28:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PiNetwork",
+     "indices": [
+      86,
+      96
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Pi_Worldwide_Cr",
+     "name": "Pi World",
+     "id": 1118489767434498048,
+     "id_str": "1118489767434498048",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "PiCoreTeam",
+     "name": "Pi Network",
+     "id": 1126232134065147904,
+     "id_str": "1126232134065147904",
+     "indices": [
+      74,
+      85
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626427717959778312,
+     "id_str": "1626427717959778312",
+     "indices": [
+      97,
+      120
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpI7ZG3XgAgUc3l.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpI7ZG3XgAgUc3l.jpg",
+     "url": "https://t.co/4tulDACnnV",
+     "display_url": "pic.twitter.com/4tulDACnnV",
+     "expanded_url": "https://twitter.com/Pi_Worldwide_Cr/status/1626427726021238784/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 306,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 640,
+       "h": 1422,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 540,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626427726021238784,
+     "source_status_id_str": "1626427726021238784",
+     "source_user_id": 1118489767434498048,
+     "source_user_id_str": "1118489767434498048"
+    }
+   ]
+  },
+  "Fri Feb 17 16:28:05 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BABYDOGE",
+     "indices": [
+      82,
+      91
+     ]
+    },
+    {
+     "text": "BabyDogeArmy",
+     "indices": [
+      92,
+      105
+     ]
+    },
+    {
+     "text": "BabyDogeCoin",
+     "indices": [
+      106,
+      119
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DoniWowCrypto",
+     "name": "Doni Wow",
+     "id": 1468604504719323137,
+     "id_str": "1468604504719323137",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "BabyDogeCoin",
+     "name": "BabyDogeSwap.com LIVE",
+     "id": 1354781680943431681,
+     "id_str": "1354781680943431681",
+     "indices": [
+      68,
+      81
+     ]
+    },
+    {
+     "screen_name": "binance",
+     "name": "Binance",
+     "id": 877807935493033984,
+     "id_str": "877807935493033984",
+     "indices": [
+      120,
+      128
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 16:27:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PiNetwork",
+     "indices": [
+      82,
+      92
+     ]
+    },
+    {
+     "text": "PiNews",
+     "indices": [
+      93,
+      100
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PiNewsMedia",
+     "name": "Pi News",
+     "id": 1313548940944396288,
+     "id_str": "1313548940944396288",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "PiCoreTeam",
+     "name": "Pi Network",
+     "id": 1126232134065147904,
+     "id_str": "1126232134065147904",
+     "indices": [
+      70,
+      81
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626393474001178625,
+     "id_str": "1626393474001178625",
+     "indices": [
+      101,
+      124
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpIcP2LakAE2H5l.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpIcP2LakAE2H5l.jpg",
+     "url": "https://t.co/HhBysG2swO",
+     "display_url": "pic.twitter.com/HhBysG2swO",
+     "expanded_url": "https://twitter.com/PiNewsMedia/status/1626393482620456960/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 306,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 640,
+       "h": 1422,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 540,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626393482620456960,
+     "source_status_id_str": "1626393482620456960",
+     "source_user_id": 1313548940944396288,
+     "source_user_id_str": "1313548940944396288"
+    }
+   ]
+  },
+  "Fri Feb 17 16:26:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tatiana_lovie",
+     "name": "Tatiana Lovie",
+     "id": 1618240728311676929,
+     "id_str": "1618240728311676929",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626268153746452481,
+     "id_str": "1626268153746452481",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpGqRP2WcAEYx4Z.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpGqRP2WcAEYx4Z.jpg",
+     "url": "https://t.co/lEX0oIe3pp",
+     "display_url": "pic.twitter.com/lEX0oIe3pp",
+     "expanded_url": "https://twitter.com/tatiana_lovie/status/1626268168011350017/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 536,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 945,
+       "h": 1199,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 945,
+       "h": 1199,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626268168011350017,
+     "source_status_id_str": "1626268168011350017",
+     "source_user_id": 1618240728311676929,
+     "source_user_id_str": "1618240728311676929"
+    }
+   ]
+  },
+  "Thu Feb 16 03:35:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625695868711215104,
+     "id_str": "1625695868711215104",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "url": "https://t.co/yBqWFUDIQH",
+     "display_url": "pic.twitter.com/yBqWFUDIQH",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625695877326340102/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 532,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1248,
+       "h": 1594,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 940,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625695877326340102,
+     "source_status_id_str": "1625695877326340102",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  }
+ }
+}

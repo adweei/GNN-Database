@@ -1,0 +1,814 @@
+{
+ "517611091": {
+  "Wed Feb 08 11:06:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Fuoridalcoro",
+     "indices": [
+      101,
+      114
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "fuoridalcorotv",
+     "name": "Fuori dal coro",
+     "id": 1043108743112806400,
+     "id_str": "1043108743112806400",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "RaffaellaRegoli",
+     "name": "Raffaella Regoli",
+     "id": 1531634111881830402,
+     "id_str": "1531634111881830402",
+     "indices": [
+      82,
+      98
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623085482354655238,
+     "id_str": "1623085482354655238",
+     "indices": [
+      115,
+      138
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoZbrDCWYAEep4A.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoZbrDCWYAEep4A.jpg",
+     "url": "https://t.co/TwT9mcPRd2",
+     "display_url": "pic.twitter.com/TwT9mcPRd2",
+     "expanded_url": "https://twitter.com/fuoridalcorotv/status/1623085617327251457/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623085617327251457,
+     "source_status_id_str": "1623085617327251457",
+     "source_user_id": 1043108743112806400,
+     "source_user_id_str": "1043108743112806400"
+    }
+   ]
+  },
+  "Wed Feb 08 10:37:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_DAGOSPIA_",
+     "name": "Dagospia",
+     "id": 70971449,
+     "id_str": "70971449",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/TZJhYi4UDh",
+     "expanded_url": "http://ow.ly/hkUq104tPHq",
+     "display_url": "ow.ly/hkUq104tPHq",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 10:28:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AStramezzi",
+     "name": "Andrea M. G. G. Stramezzi",
+     "id": 1220673282191523840,
+     "id_str": "1220673282191523840",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 09:27:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mhdksafa",
+     "name": "Mohamad Safa",
+     "id": 834078524277456897,
+     "id_str": "834078524277456897",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 09:15:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GuidoCrosetto",
+     "name": "Guido Crosetto",
+     "id": 413916151,
+     "id_str": "413916151",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 09:13:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CathVoicesITA",
+     "name": "Martina Pastorelli",
+     "id": 2794337039,
+     "id_str": "2794337039",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 09:12:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "P_McCulloughMD",
+     "name": "Peter A. McCullough, MD, MPH\u2122",
+     "id": 1465347964252180493,
+     "id_str": "1465347964252180493",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 08:58:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "intuslegens",
+     "name": "Il Sofista",
+     "id": 2377487094,
+     "id_str": "2377487094",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 08:57:19 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "scienza",
+     "indices": [
+      31,
+      39
+     ]
+    },
+    {
+     "text": "vaccino",
+     "indices": [
+      120,
+      128
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CathVoicesITA",
+     "name": "Martina Pastorelli",
+     "id": 2794337039,
+     "id_str": "2794337039",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 07:41:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Michele_Arnese",
+     "name": "Michele Arnese",
+     "id": 412936122,
+     "id_str": "412936122",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623194979312058368,
+     "id_str": "1623194979312058368",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foa_O88XwAAo8gb.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foa_O88XwAAo8gb.jpg",
+     "url": "https://t.co/Go4QzOdwd7",
+     "display_url": "pic.twitter.com/Go4QzOdwd7",
+     "expanded_url": "https://twitter.com/Michele_Arnese/status/1623194984651411458/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623194984651411458,
+     "source_status_id_str": "1623194984651411458",
+     "source_user_id": 412936122,
+     "source_user_id_str": "412936122"
+    }
+   ]
+  },
+  "Wed Feb 08 07:35:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_DAGOSPIA_",
+     "name": "Dagospia",
+     "id": 70971449,
+     "id_str": "70971449",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 15:01:33 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "TerremotoSiria",
+     "indices": [
+      19,
+      34
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CathVoicesITA",
+     "name": "Martina Pastorelli",
+     "id": 2794337039,
+     "id_str": "2794337039",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "proterrasancta",
+     "name": "Pro Terra Sancta",
+     "id": 202555603,
+     "id_str": "202555603",
+     "indices": [
+      58,
+      73
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 13:59:27 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Siria",
+     "indices": [
+      17,
+      23
+     ]
+    },
+    {
+     "text": "Terremoto",
+     "indices": [
+      100,
+      110
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NamanTarcha",
+     "name": "Naman Tarcha \u0646\u0639\u0645\u0627\u0646 \u0637\u0631\u0634\u0647",
+     "id": 540903862,
+     "id_str": "540903862",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 13:58:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_DAGOSPIA_",
+     "name": "Dagospia",
+     "id": 70971449,
+     "id_str": "70971449",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/LmeIaSYErm",
+     "expanded_url": "http://ow.ly/yhl2104txGT",
+     "display_url": "ow.ly/yhl2104txGT",
+     "indices": [
+      107,
+      130
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 13:54:42 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NATO",
+     "indices": [
+      33,
+      38
+     ]
+    },
+    {
+     "text": "Siria",
+     "indices": [
+      73,
+      79
+     ]
+    },
+    {
+     "text": "terremoto",
+     "indices": [
+      106,
+      116
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ultimenotizie",
+     "name": "Ultime Notizie",
+     "id": 16476536,
+     "id_str": "16476536",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 13:08:45 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Siria",
+     "indices": [
+      32,
+      38
+     ]
+    },
+    {
+     "text": "Terremoto",
+     "indices": [
+      39,
+      49
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CathVoicesITA",
+     "name": "Martina Pastorelli",
+     "id": 2794337039,
+     "id_str": "2794337039",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622716310546251782,
+     "id_str": "1622716310546251782",
+     "indices": [
+      50,
+      73
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoUL4w1XgAYWL3Y.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoUL4w1XgAYWL3Y.jpg",
+     "url": "https://t.co/4lSXuUG1b2",
+     "display_url": "pic.twitter.com/4lSXuUG1b2",
+     "expanded_url": "https://twitter.com/CathVoicesITA/status/1622716324752379905/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 963,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1150,
+       "h": 1433,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 546,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622716324752379905,
+     "source_status_id_str": "1622716324752379905",
+     "source_user_id": 2794337039,
+     "source_user_id_str": "2794337039"
+    }
+   ]
+  },
+  "Tue Feb 07 12:54:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Gitro77",
+     "name": "Gilberto Trombetta",
+     "id": 1614964946,
+     "id_str": "1614964946",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 12:50:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "_DAGOSPIA_",
+     "name": "Dagospia",
+     "id": 70971449,
+     "id_str": "70971449",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/SgbDN0S0UR",
+     "expanded_url": "http://ow.ly/MBLQ104tEXQ",
+     "display_url": "ow.ly/MBLQ104tEXQ",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 12:42:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "WSJ",
+     "name": "The Wall Street Journal",
+     "id": 3108351,
+     "id_str": "3108351",
+     "indices": [
+      14,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 12:41:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:55:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LaVeritaWeb",
+     "name": "La Verit\u00e0",
+     "id": 900766265245130753,
+     "id_str": "900766265245130753",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:41:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Q1VvqV58aK",
+     "expanded_url": "http://Starlink.com",
+     "display_url": "Starlink.com",
+     "indices": [
+      37,
+      60
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1622307420516106246,
+     "id_str": "1622307420516106246",
+     "indices": [
+      61,
+      84
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoOYAOxXwAYDOdh.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoOYAOxXwAYDOdh.jpg",
+     "url": "https://t.co/CbTQCMg7oT",
+     "display_url": "pic.twitter.com/CbTQCMg7oT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622307425226313729/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 654,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 654,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 434,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622307425226313729,
+     "source_status_id_str": "1622307425226313729",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 07 07:37:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:37:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z6h5975anw",
+     "expanded_url": "https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/",
+     "display_url": "state.gov/bureaus-office\u2026",
+     "indices": [
+      118,
+      141
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 07:35:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:35:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      14,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:22:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "madforfree",
+     "name": "Maddalena Loy",
+     "id": 26319569,
+     "id_str": "26319569",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

@@ -1,0 +1,6560 @@
+{
+ "768440839794102278": {
+  "Wed Feb 08 20:29:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "charliebilello",
+     "name": "Charlie Bilello",
+     "id": 1413027896,
+     "id_str": "1413027896",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:29:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      102,
+      107
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 20:25:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 15:00:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      96,
+      101
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 06:04:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ace_indy_biz",
+     "name": "Ace",
+     "id": 1267857595647307776,
+     "id_str": "1267857595647307776",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 05:11:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623182543620132869,
+     "id_str": "1623182543620132869",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "url": "https://t.co/jL5fjQxTcz",
+     "display_url": "pic.twitter.com/jL5fjQxTcz",
+     "expanded_url": "https://twitter.com/elonmusk/status/1623182547373985793/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 572,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623182547373985793,
+     "source_status_id_str": "1623182547373985793",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 08 01:34:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "CRTD",
+     "indices": [
+      17,
+      22
+     ]
+    },
+    {
+     "text": "GTII",
+     "indices": [
+      62,
+      67
+     ]
+    },
+    {
+     "text": "GNS",
+     "indices": [
+      68,
+      72
+     ]
+    },
+    {
+     "text": "FNGR",
+     "indices": [
+      73,
+      78
+     ]
+    },
+    {
+     "text": "MULN",
+     "indices": [
+      79,
+      84
+     ]
+    },
+    {
+     "text": "TSLA",
+     "indices": [
+      85,
+      90
+     ]
+    },
+    {
+     "text": "MMTLP",
+     "indices": [
+      91,
+      97
+     ]
+    },
+    {
+     "text": "GME",
+     "indices": [
+      98,
+      102
+     ]
+    },
+    {
+     "text": "AMC",
+     "indices": [
+      103,
+      107
+     ]
+    },
+    {
+     "text": "BBBY",
+     "indices": [
+      108,
+      113
+     ]
+    },
+    {
+     "text": "MSGM",
+     "indices": [
+      114,
+      119
+     ]
+    },
+    {
+     "text": "AMTD",
+     "indices": [
+      120,
+      125
+     ]
+    },
+    {
+     "text": "KOSS",
+     "indices": [
+      126,
+      131
+     ]
+    },
+    {
+     "text": "HKD",
+     "indices": [
+      132,
+      136
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 01:34:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      110,
+      115
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "TShammeree",
+     "name": "Tony Al-shammeree",
+     "id": 1469809677089259523,
+     "id_str": "1469809677089259523",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      16,
+      31
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 01:33:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "gtii",
+     "indices": [
+      16,
+      21
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "2themoon44",
+     "name": "Rich",
+     "id": 1389636606517260290,
+     "id_str": "1389636606517260290",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      57,
+      63
+     ]
+    },
+    {
+     "screen_name": "The_DTCC",
+     "name": "DTCC",
+     "id": 172461978,
+     "id_str": "172461978",
+     "indices": [
+      74,
+      83
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 01:30:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTii",
+     "indices": [
+      18,
+      23
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "DirtyMayo187",
+     "name": "Dirty Mayo",
+     "id": 1538602235965210625,
+     "id_str": "1538602235965210625",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:37:19 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      122,
+      128
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KnifeNft",
+     "name": "KnifeNFT\u2122\ufe0f",
+     "id": 1422378609336008707,
+     "id_str": "1422378609336008707",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:34:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "QQQ",
+     "indices": [
+      41,
+      45
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "TheMaverickWS",
+     "name": "The Maverick of Wall Street",
+     "id": 1053178523324575744,
+     "id_str": "1053178523324575744",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:34:15 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Finrafraud",
+     "indices": [
+      21,
+      32
+     ]
+    },
+    {
+     "text": "MMTLP",
+     "indices": [
+      33,
+      39
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      40,
+      46
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "JoshuaT24107701",
+     "name": "Just Joshing",
+     "id": 1464248185543614464,
+     "id_str": "1464248185543614464",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:33:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      54,
+      59
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "kshaughnessy2",
+     "name": "kristen shaughnessy",
+     "id": 22259843,
+     "id_str": "22259843",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      69,
+      84
+     ]
+    },
+    {
+     "screen_name": "WilliamPFarran1",
+     "name": "William P. Farrand",
+     "id": 1539498471551553541,
+     "id_str": "1539498471551553541",
+     "indices": [
+      86,
+      102
+     ]
+    },
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      104,
+      116
+     ]
+    },
+    {
+     "screen_name": "ItsStillMeAlby",
+     "name": "pronounced: \ud83e\udd89\ud83d\udc1d",
+     "id": 947985479202418689,
+     "id_str": "947985479202418689",
+     "indices": [
+      118,
+      133
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:32:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SkyVipGrady",
+     "name": "Sky VIP Grady",
+     "id": 119167052,
+     "id_str": "119167052",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "SEC",
+     "name": "Southeastern Conference",
+     "id": 16807883,
+     "id_str": "16807883",
+     "indices": [
+      26,
+      30
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      32,
+      38
+     ]
+    },
+    {
+     "screen_name": "The_DTCC",
+     "name": "DTCC",
+     "id": 172461978,
+     "id_str": "172461978",
+     "indices": [
+      47,
+      56
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:32:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    },
+    {
+     "text": "MULN",
+     "indices": [
+      63,
+      68
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:32:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      17,
+      22
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/AIzPqojBj3",
+     "expanded_url": "https://youtu.be/VA2HYC468rg",
+     "display_url": "youtu.be/VA2HYC468rg",
+     "indices": [
+      67,
+      90
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1623044267173093394,
+     "id_str": "1623044267173093394",
+     "indices": [
+      91,
+      114
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoY2KWeWIBIQWnE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoY2KWeWIBIQWnE.jpg",
+     "url": "https://t.co/er6xZAOtH1",
+     "display_url": "pic.twitter.com/er6xZAOtH1",
+     "expanded_url": "https://twitter.com/AvidTrader_/status/1623044270075551761/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 640,
+       "h": 480,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 640,
+       "h": 480,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 640,
+       "h": 480,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623044270075551761,
+     "source_status_id_str": "1623044270075551761",
+     "source_user_id": 1438158926692986889,
+     "source_user_id_str": "1438158926692986889"
+    }
+   ]
+  },
+  "Tue Feb 07 22:31:12 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LINDCapital",
+     "indices": [
+      51,
+      63
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Forginvestments",
+     "name": "Forg The Sniper \ud83c\udfaf",
+     "id": 1508628227052478466,
+     "id_str": "1508628227052478466",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "UpstreamXchange",
+     "name": "Upstream",
+     "id": 1334527254865477637,
+     "id_str": "1334527254865477637",
+     "indices": [
+      21,
+      37
+     ]
+    },
+    {
+     "screen_name": "wearecreatd",
+     "name": "Creatd",
+     "id": 3252843432,
+     "id_str": "3252843432",
+     "indices": [
+      38,
+      50
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:30:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "CRTD",
+     "indices": [
+      42,
+      47
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "UpstreamXchange",
+     "name": "Upstream",
+     "id": 1334527254865477637,
+     "id_str": "1334527254865477637",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:01:17 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Alpine",
+     "indices": [
+      83,
+      90
+     ]
+    },
+    {
+     "text": "JohnHurry",
+     "indices": [
+      91,
+      101
+     ]
+    },
+    {
+     "text": "Kramers",
+     "indices": [
+      102,
+      110
+     ]
+    },
+    {
+     "text": "LLC",
+     "indices": [
+      111,
+      115
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:00:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      83,
+      89
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "TexasBedoo",
+     "name": "Micah Carruth",
+     "id": 1094609065509089280,
+     "id_str": "1094609065509089280",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:00:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RareDealsHere",
+     "name": "Rare DD",
+     "id": 860249686824714240,
+     "id_str": "860249686824714240",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      22,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 22:00:06 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FINRAFRAUD",
+     "indices": [
+      33,
+      44
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tevern4",
+     "name": "Tevern \ud83e\udd8b",
+     "id": 1585236051357999105,
+     "id_str": "1585236051357999105",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 21:59:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "AMTD",
+     "indices": [
+      17,
+      22
+     ]
+    },
+    {
+     "text": "HKD",
+     "indices": [
+      23,
+      27
+     ]
+    },
+    {
+     "text": "KOSS",
+     "indices": [
+      28,
+      33
+     ]
+    },
+    {
+     "text": "MSGM",
+     "indices": [
+      34,
+      39
+     ]
+    },
+    {
+     "text": "GME",
+     "indices": [
+      40,
+      44
+     ]
+    },
+    {
+     "text": "BBBY",
+     "indices": [
+      45,
+      50
+     ]
+    },
+    {
+     "text": "GNS",
+     "indices": [
+      51,
+      55
+     ]
+    },
+    {
+     "text": "MULN",
+     "indices": [
+      56,
+      61
+     ]
+    },
+    {
+     "text": "CRTD",
+     "indices": [
+      62,
+      67
+     ]
+    },
+    {
+     "text": "GTII",
+     "indices": [
+      74,
+      79
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 21:59:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      16,
+      21
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "TShammeree",
+     "name": "Tony Al-shammeree",
+     "id": 1469809677089259523,
+     "id_str": "1469809677089259523",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:24:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "mmtlp",
+     "indices": [
+      54,
+      60
+     ]
+    },
+    {
+     "text": "finrafraud",
+     "indices": [
+      61,
+      72
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Shauna1361",
+     "name": "Shauna136",
+     "id": 1265819631035523072,
+     "id_str": "1265819631035523072",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      16,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:24:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      23,
+      29
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Funkyjbell",
+     "name": "Joe",
+     "id": 1518954876688076800,
+     "id_str": "1518954876688076800",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      16,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:24:08 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FINRAFRAUD",
+     "indices": [
+      77,
+      88
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ScurlockTravis",
+     "name": "travis scurlock",
+     "id": 1582516018236325893,
+     "id_str": "1582516018236325893",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      20,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:24:02 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FINRAFRAUD",
+     "indices": [
+      101,
+      112
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      94,
+      100
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "brisox30",
+     "name": "Brisox",
+     "id": 2894747396,
+     "id_str": "2894747396",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      14,
+      20
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623009749204709413,
+     "id_str": "1623009749204709413",
+     "indices": [
+      113,
+      136
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYWxJBXsCUsCUq.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYWxJBXsCUsCUq.jpg",
+     "url": "https://t.co/3Kh2sost7V",
+     "display_url": "pic.twitter.com/3Kh2sost7V",
+     "expanded_url": "https://twitter.com/brisox30/status/1623009756062396432/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 480,
+       "h": 480,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 480,
+       "h": 480,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 480,
+       "h": 480,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623009756062396432,
+     "source_status_id_str": "1623009756062396432",
+     "source_user_id": 2894747396,
+     "source_user_id_str": "2894747396"
+    }
+   ]
+  },
+  "Tue Feb 07 18:23:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      42,
+      48
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "doubleDeeluxe",
+     "name": "doubleDeeluxe",
+     "id": 1601304573523755009,
+     "id_str": "1601304573523755009",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      19,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:23:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "thegman519",
+     "name": "Lorenzo",
+     "id": 2945528430,
+     "id_str": "2945528430",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      16,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:23:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jason_Sanders81",
+     "name": "WallSt Ponzi",
+     "id": 1450159123098710023,
+     "id_str": "1450159123098710023",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      21,
+      27
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      39,
+      45
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:23:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "danielheffner51",
+     "name": "D-Heff",
+     "id": 1004134882442743808,
+     "id_str": "1004134882442743808",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      21,
+      27
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      41,
+      47
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:23:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      83,
+      89
+     ]
+    },
+    {
+     "text": "FINRAFRAUD",
+     "indices": [
+      91,
+      102
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      76,
+      82
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "TRV1018",
+     "name": "T",
+     "id": 1601945389896179714,
+     "id_str": "1601945389896179714",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      13,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:23:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Invictus983",
+     "name": "Invictus",
+     "id": 1602365462427439131,
+     "id_str": "1602365462427439131",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:23:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jccooper_in",
+     "name": "Cooper",
+     "id": 1354640376645246976,
+     "id_str": "1354640376645246976",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:23:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Finra",
+     "indices": [
+      28,
+      34
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheRealMJDimino",
+     "name": "Michael The Frustrated",
+     "id": 1370218814059724805,
+     "id_str": "1370218814059724805",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:22:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      101,
+      107
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      94,
+      100
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "PhoenixWerks1",
+     "name": "The Phoenix",
+     "id": 1949833172,
+     "id_str": "1949833172",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      19,
+      25
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      30,
+      36
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:22:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MachewWV",
+     "name": "Machew",
+     "id": 448126796,
+     "id_str": "448126796",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      14,
+      20
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:22:42 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      104,
+      110
+     ]
+    },
+    {
+     "text": "finrafraud",
+     "indices": [
+      121,
+      132
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nooramorihc",
+     "name": "$money",
+     "id": 1601682472374345728,
+     "id_str": "1601682472374345728",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:22:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Finra",
+     "indices": [
+      76,
+      82
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jetsarebest",
+     "name": "Joel Armstrong",
+     "id": 2384212609,
+     "id_str": "2384212609",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:22:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "quint_ent",
+     "name": "qntainmnt",
+     "id": 1211010344220446720,
+     "id_str": "1211010344220446720",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      15,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:22:25 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FINRAfraud",
+     "indices": [
+      121,
+      132
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tuck46902",
+     "name": "IAmJohnGalt",
+     "id": 1446564956586004484,
+     "id_str": "1446564956586004484",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      15,
+      21
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      57,
+      63
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:22:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      78,
+      84
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "1oftheGoodguyz",
+     "name": "One of the Goodguys",
+     "id": 1415321122619469825,
+     "id_str": "1415321122619469825",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      20,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:22:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      116,
+      122
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "BurnTheShorts",
+     "name": "David KD",
+     "id": 1602430693815959553,
+     "id_str": "1602430693815959553",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      19,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:22:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tevern4",
+     "name": "Tevern \ud83e\udd8b",
+     "id": 1585236051357999105,
+     "id_str": "1585236051357999105",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      13,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623007055614291990,
+     "id_str": "1623007055614291990",
+     "indices": [
+      20,
+      43
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoYUUWnXsBYiXp4.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoYUUWnXsBYiXp4.jpg",
+     "url": "https://t.co/JZzccLbX6T",
+     "display_url": "pic.twitter.com/JZzccLbX6T",
+     "expanded_url": "https://twitter.com/Tevern4/status/1623007092251541504/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 500,
+       "h": 726,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 468,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 726,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623007092251541504,
+     "source_status_id_str": "1623007092251541504",
+     "source_user_id": 1585236051357999105,
+     "source_user_id_str": "1585236051357999105"
+    }
+   ]
+  },
+  "Tue Feb 07 18:21:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      78,
+      84
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "McMadre",
+     "name": "Susan McFarland",
+     "id": 32275588,
+     "id_str": "32275588",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      13,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:21:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "angrygrizzly001",
+     "name": "Mama Bear",
+     "id": 1474190941263171585,
+     "id_str": "1474190941263171585",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:21:45 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Finrafraud",
+     "indices": [
+      64,
+      75
+     ]
+    },
+    {
+     "text": "MMTLP",
+     "indices": [
+      93,
+      99
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kansasjayhwks",
+     "name": "The bear",
+     "id": 1138647834,
+     "id_str": "1138647834",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      19,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:21:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "Mmtlp",
+     "indices": [
+      73,
+      79
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "mushroomyyoga",
+     "name": "Namsie",
+     "id": 1590102668801970180,
+     "id_str": "1590102668801970180",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      19,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:21:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Adde7812",
+     "name": "Adam",
+     "id": 295596430,
+     "id_str": "295596430",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      14,
+      20
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623001783948791809,
+     "id_str": "1623001783948791809",
+     "indices": [
+      30,
+      53
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoYPhgIX0AEwqAU.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoYPhgIX0AEwqAU.jpg",
+     "url": "https://t.co/8Lem1RWopg",
+     "display_url": "pic.twitter.com/8Lem1RWopg",
+     "expanded_url": "https://twitter.com/Adde7812/status/1623001792240922639/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 210,
+       "h": 142,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 210,
+       "h": 142,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 142,
+       "h": 142,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 210,
+       "h": 142,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623001792240922639,
+     "source_status_id_str": "1623001792240922639",
+     "source_user_id": 295596430,
+     "source_user_id_str": "295596430"
+    }
+   ]
+  },
+  "Tue Feb 07 18:21:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GrahamT604",
+     "name": "Graham",
+     "id": 1599114600364277761,
+     "id_str": "1599114600364277761",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      16,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:21:12 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      79,
+      85
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "diaz_stephens",
+     "name": "Happy and Positive",
+     "id": 1540670461742198785,
+     "id_str": "1540670461742198785",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      19,
+      25
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      49,
+      55
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:21:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BristolType6",
+     "name": "\u2615",
+     "id": 1611224691984793601,
+     "id_str": "1611224691984793601",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      18,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:20:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RedHeelzz",
+     "name": "Guess Who",
+     "id": 1598794971234148362,
+     "id_str": "1598794971234148362",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      15,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:20:50 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FinraFraud",
+     "indices": [
+      114,
+      125
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "mmtlp",
+     "indices": [
+      107,
+      113
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "TheFabinator",
+     "name": "Ryan Fabry",
+     "id": 262849222,
+     "id_str": "262849222",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      18,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:20:45 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "finrafraud",
+     "indices": [
+      57,
+      68
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      70,
+      76
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "dead_eye_si",
+     "name": "deadeyesi - #FINRAFRAUD",
+     "id": 1396382444916445187,
+     "id_str": "1396382444916445187",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:20:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "burnshorts123",
+     "name": "A. Hall",
+     "id": 1529120868831481857,
+     "id_str": "1529120868831481857",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      19,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:20:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "b161750",
+     "name": "Brandon",
+     "id": 1485820995227332610,
+     "id_str": "1485820995227332610",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      13,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:20:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      46,
+      52
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "enthused08",
+     "name": "enthused08",
+     "id": 715854132163305472,
+     "id_str": "715854132163305472",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      16,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:20:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "mmtlp",
+     "indices": [
+      103,
+      109
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Khan_ArtisT_",
+     "name": "Asif Khan",
+     "id": 1356466881260122112,
+     "id_str": "1356466881260122112",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      18,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:20:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      68,
+      74
+     ]
+    },
+    {
+     "text": "MMTLP",
+     "indices": [
+      127,
+      133
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "ravini123",
+     "name": "Charles Darwin",
+     "id": 188604164,
+     "id_str": "188604164",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      15,
+      21
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      75,
+      81
+     ]
+    },
+    {
+     "screen_name": "The_DTCC",
+     "name": "DTCC",
+     "id": 172461978,
+     "id_str": "172461978",
+     "indices": [
+      82,
+      91
+     ]
+    },
+    {
+     "screen_name": "SECGov",
+     "name": "U.S. Securities and Exchange Commission",
+     "id": 18481050,
+     "id_str": "18481050",
+     "indices": [
+      92,
+      99
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:20:06 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FINRAFRAUD",
+     "indices": [
+      31,
+      42
+     ]
+    },
+    {
+     "text": "nakedshorting",
+     "indices": [
+      112,
+      126
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      24,
+      30
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "anna_trades",
+     "name": "Anna",
+     "id": 1599640461081190400,
+     "id_str": "1599640461081190400",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:19:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      77,
+      83
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Balajimh4",
+     "name": "Elon Rusk",
+     "id": 1572386406626107392,
+     "id_str": "1572386406626107392",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      15,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:19:43 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "finrafraud",
+     "indices": [
+      24,
+      35
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "mmtlp",
+     "indices": [
+      69,
+      75
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "jetsarebest",
+     "name": "Joel Armstrong",
+     "id": 2384212609,
+     "id_str": "2384212609",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:19:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GrayTendo",
+     "name": "Gray Market",
+     "id": 2360111754,
+     "id_str": "2360111754",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      15,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:19:31 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Finrafraud",
+     "indices": [
+      33,
+      44
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      26,
+      32
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "ttttttttttran",
+     "name": "TamT",
+     "id": 584958791,
+     "id_str": "584958791",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      19,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:19:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "canwill35",
+     "name": "canwill35",
+     "id": 16111931,
+     "id_str": "16111931",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      15,
+      21
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      36,
+      42
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:19:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Juan93212",
+     "name": "Juan",
+     "id": 1432200640042700800,
+     "id_str": "1432200640042700800",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      15,
+      21
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623009344173510656,
+     "id_str": "1623009344173510656",
+     "indices": [
+      22,
+      45
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoYWZkKaEAAw7Ic.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoYWZkKaEAAw7Ic.jpg",
+     "url": "https://t.co/K91sVJfMcc",
+     "display_url": "pic.twitter.com/K91sVJfMcc",
+     "expanded_url": "https://twitter.com/Juan93212/status/1623009355628171266/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1463,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 486,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 857,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623009355628171266,
+     "source_status_id_str": "1623009355628171266",
+     "source_user_id": 1432200640042700800,
+     "source_user_id_str": "1432200640042700800"
+    }
+   ]
+  },
+  "Tue Feb 07 18:19:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FINRA",
+     "indices": [
+      56,
+      62
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jen_kapela",
+     "name": "Jennifer Kapela",
+     "id": 1220564856970989570,
+     "id_str": "1220564856970989570",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      16,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:19:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "canwill35",
+     "name": "canwill35",
+     "id": 16111931,
+     "id_str": "16111931",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      15,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:18:59 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "finrafraud",
+     "indices": [
+      61,
+      72
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      74,
+      80
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "NedStar25641863",
+     "name": "Ned Stark",
+     "id": 1363960793147006977,
+     "id_str": "1363960793147006977",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:18:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      119,
+      125
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mmtlpinvestor",
+     "name": "MMTLP Investor",
+     "id": 1601238360080515072,
+     "id_str": "1601238360080515072",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      19,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:18:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "dallas_ak",
+     "name": "AkDallas",
+     "id": 949690183250862081,
+     "id_str": "949690183250862081",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      15,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:18:42 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "finrafraud",
+     "indices": [
+      28,
+      39
+     ]
+    },
+    {
+     "text": "finrafraud",
+     "indices": [
+      40,
+      51
+     ]
+    },
+    {
+     "text": "finrafraud",
+     "indices": [
+      52,
+      63
+     ]
+    },
+    {
+     "text": "finrafraud",
+     "indices": [
+      64,
+      75
+     ]
+    },
+    {
+     "text": "finrafraud",
+     "indices": [
+      76,
+      87
+     ]
+    },
+    {
+     "text": "finrafraud",
+     "indices": [
+      88,
+      99
+     ]
+    },
+    {
+     "text": "finrafraud",
+     "indices": [
+      100,
+      111
+     ]
+    },
+    {
+     "text": "finrafraud",
+     "indices": [
+      112,
+      123
+     ]
+    },
+    {
+     "text": "finrafraud",
+     "indices": [
+      124,
+      135
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NedStar25641863",
+     "name": "Ned Stark",
+     "id": 1363960793147006977,
+     "id_str": "1363960793147006977",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:18:37 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FinraFraud",
+     "indices": [
+      69,
+      80
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      62,
+      68
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "RareDealsHere",
+     "name": "Rare DD",
+     "id": 860249686824714240,
+     "id_str": "860249686824714240",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      19,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 18:18:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:56:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "Gtii",
+     "indices": [
+      66,
+      71
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "cayoneater9876",
+     "name": "CrayonEater987654321",
+     "id": 1529177703101915142,
+     "id_str": "1529177703101915142",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      116,
+      131
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:55:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "gtii",
+     "indices": [
+      21,
+      26
+     ]
+    },
+    {
+     "text": "crtd",
+     "indices": [
+      27,
+      32
+     ]
+    },
+    {
+     "text": "mmtlp",
+     "indices": [
+      33,
+      39
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "WilliamPFarran1",
+     "name": "William P. Farrand",
+     "id": 1539498471551553541,
+     "id_str": "1539498471551553541",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      68,
+      83
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:03:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:03:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:03:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      15,
+      21
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Terryz247",
+     "name": "Terryz24",
+     "id": 3932786056,
+     "id_str": "3932786056",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      34,
+      40
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:02:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "CRTD",
+     "indices": [
+      65,
+      70
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Jfromm1968_CRTD",
+     "name": "Jeremy Frommer",
+     "id": 1532383188835868674,
+     "id_str": "1532383188835868674",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/SvydGIu3U6",
+     "expanded_url": "https://investors.creatd.com/news-and-events/press-releases/press-releases-details/2023/Creatd-Inc.-Announces-Record-Preliminary-Gross-Revenues-for-FY-2022/default.aspx",
+     "display_url": "investors.creatd.com/news-and-event\u2026",
+     "indices": [
+      71,
+      94
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 17:02:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "SECGov",
+     "name": "U.S. Securities and Exchange Commission",
+     "id": 18481050,
+     "id_str": "18481050",
+     "indices": [
+      92,
+      99
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:01:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "FNGR",
+     "indices": [
+      20,
+      25
+     ]
+    },
+    {
+     "text": "CRTD",
+     "indices": [
+      26,
+      31
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:01:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "considercosmos",
+     "name": "Cosmic Perspective",
+     "id": 1050516235178237952,
+     "id_str": "1050516235178237952",
+     "indices": [
+      14,
+      29
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      30,
+      37
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 17:00:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "WilliamPFarran1",
+     "name": "William P. Farrand",
+     "id": 1539498471551553541,
+     "id_str": "1539498471551553541",
+     "indices": [
+      40,
+      56
+     ]
+    },
+    {
+     "screen_name": "TiaBolt2",
+     "name": "\u0442\u03b9\u03b1 \ud83e\udd0d",
+     "id": 1514292499849916420,
+     "id_str": "1514292499849916420",
+     "indices": [
+      122,
+      131
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 15:52:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "WilliamPFarran1",
+     "name": "William P. Farrand",
+     "id": 1539498471551553541,
+     "id_str": "1539498471551553541",
+     "indices": [
+      60,
+      76
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 15:42:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      17,
+      22
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622634786111078400,
+     "id_str": "1622634786111078400",
+     "indices": [
+      74,
+      97
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTBvapXwAAU4LF.png",
+     "media_url_https": "https://pbs.twimg.com/media/FoTBvapXwAAU4LF.png",
+     "url": "https://t.co/yFTmcggH2T",
+     "display_url": "pic.twitter.com/yFTmcggH2T",
+     "expanded_url": "https://twitter.com/AvidTrader_/status/1622634897817862149/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1498,
+       "h": 713,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 571,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 324,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1622634897817862149,
+     "source_status_id_str": "1622634897817862149",
+     "source_user_id": 1438158926692986889,
+     "source_user_id_str": "1438158926692986889"
+    }
+   ]
+  },
+  "Tue Feb 07 15:06:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    },
+    {
+     "text": "GNS",
+     "indices": [
+      26,
+      30
+     ]
+    },
+    {
+     "text": "MULN",
+     "indices": [
+      31,
+      36
+     ]
+    },
+    {
+     "text": "CRTD",
+     "indices": [
+      37,
+      42
+     ]
+    },
+    {
+     "text": "OPK",
+     "indices": [
+      43,
+      47
+     ]
+    },
+    {
+     "text": "BBIG",
+     "indices": [
+      48,
+      53
+     ]
+    },
+    {
+     "text": "CUEN",
+     "indices": [
+      54,
+      59
+     ]
+    },
+    {
+     "text": "PINS",
+     "indices": [
+      60,
+      65
+     ]
+    },
+    {
+     "text": "SNAP",
+     "indices": [
+      66,
+      71
+     ]
+    },
+    {
+     "text": "VERB",
+     "indices": [
+      72,
+      77
+     ]
+    },
+    {
+     "text": "VLNV",
+     "indices": [
+      78,
+      83
+     ]
+    },
+    {
+     "text": "FNGR",
+     "indices": [
+      84,
+      89
+     ]
+    },
+    {
+     "text": "GME",
+     "indices": [
+      90,
+      94
+     ]
+    },
+    {
+     "text": "AMC",
+     "indices": [
+      95,
+      99
+     ]
+    },
+    {
+     "text": "APE",
+     "indices": [
+      100,
+      104
+     ]
+    },
+    {
+     "text": "RIOT",
+     "indices": [
+      105,
+      110
+     ]
+    },
+    {
+     "text": "PLUG",
+     "indices": [
+      111,
+      116
+     ]
+    },
+    {
+     "text": "WULF",
+     "indices": [
+      117,
+      122
+     ]
+    },
+    {
+     "text": "BRAG",
+     "indices": [
+      123,
+      128
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 13:53:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "michaellebowitz",
+     "name": "Michael Lebowitz, CFA",
+     "id": 335452018,
+     "id_str": "335452018",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 13:51:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/TEvPFuauD4",
+     "expanded_url": "http://www.buyins.com/news/foulplay10-8-02.pdf",
+     "display_url": "buyins.com/news/foulplay1\u2026",
+     "indices": [
+      72,
+      95
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 13:50:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FinraFraud",
+     "indices": [
+      22,
+      33
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      15,
+      21
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Victortyc",
+     "name": "Vic-META\u00ae FutureTechStock",
+     "id": 1431614772168904709,
+     "id_str": "1431614772168904709",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      34,
+      40
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 13:48:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "AMC",
+     "indices": [
+      20,
+      24
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:06:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      78,
+      83
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:05:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTii",
+     "indices": [
+      18,
+      23
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "DirtyMayo187",
+     "name": "Dirty Mayo",
+     "id": 1538602235965210625,
+     "id_str": "1538602235965210625",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:05:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "WilliamPFarran1",
+     "name": "William P. Farrand",
+     "id": 1539498471551553541,
+     "id_str": "1539498471551553541",
+     "indices": [
+      66,
+      82
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:05:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Capnfunnypants",
+     "name": "BigJR",
+     "id": 404880542,
+     "id_str": "404880542",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:04:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      70,
+      76
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "tianasuadela",
+     "name": "elf",
+     "id": 1168600425790169088,
+     "id_str": "1168600425790169088",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "OTCMarkets",
+     "name": "OTC Markets Group",
+     "id": 42921095,
+     "id_str": "42921095",
+     "indices": [
+      92,
+      103
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:04:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:04:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "CRTD",
+     "indices": [
+      25,
+      30
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:04:21 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      15,
+      21
+     ]
+    },
+    {
+     "text": "Nakedshorts",
+     "indices": [
+      22,
+      34
+     ]
+    },
+    {
+     "text": "GNS",
+     "indices": [
+      35,
+      39
+     ]
+    },
+    {
+     "text": "Ham",
+     "indices": [
+      40,
+      44
+     ]
+    },
+    {
+     "text": "Discovery",
+     "indices": [
+      45,
+      55
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Rahraw999",
+     "name": "Richard Hofman",
+     "id": 1483472722025873408,
+     "id_str": "1483472722025873408",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:04:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ray4tesla",
+     "name": "Ray",
+     "id": 959168599519764480,
+     "id_str": "959168599519764480",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      72,
+      81
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:04:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "ray4tesla",
+     "name": "Ray",
+     "id": 959168599519764480,
+     "id_str": "959168599519764480",
+     "indices": [
+      14,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:03:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:01:04 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FinraFraud",
+     "indices": [
+      127,
+      138
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jennifer_bry",
+     "name": "Golden tickets",
+     "id": 3004641629,
+     "id_str": "3004641629",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "GaryGensler",
+     "name": "Gary Gensler",
+     "id": 1388216429988691972,
+     "id_str": "1388216429988691972",
+     "indices": [
+      28,
+      40
+     ]
+    },
+    {
+     "screen_name": "SECGov",
+     "name": "U.S. Securities and Exchange Commission",
+     "id": 18481050,
+     "id_str": "18481050",
+     "indices": [
+      41,
+      48
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:00:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GNS",
+     "indices": [
+      20,
+      24
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "rogerhamilton",
+     "name": "Roger James Hamilton",
+     "id": 17536486,
+     "id_str": "17536486",
+     "indices": [
+      29,
+      43
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:00:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTii",
+     "indices": [
+      18,
+      23
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "DirtyMayo187",
+     "name": "Dirty Mayo",
+     "id": 1538602235965210625,
+     "id_str": "1538602235965210625",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 07:00:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NBH",
+     "indices": [
+      31,
+      35
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RozaTawil",
+     "name": "Not Roza",
+     "id": 467192278,
+     "id_str": "467192278",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:59:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    },
+    {
+     "text": "BBBY",
+     "indices": [
+      34,
+      39
+     ]
+    },
+    {
+     "text": "GTII",
+     "indices": [
+      133,
+      138
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:59:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jfromm1968_CRTD",
+     "name": "Jeremy Frommer",
+     "id": 1532383188835868674,
+     "id_str": "1532383188835868674",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:59:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:59:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tonys_twits",
+     "name": "Tony",
+     "id": 128137195,
+     "id_str": "128137195",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "BristolType6",
+     "name": "\u2615",
+     "id": 1611224691984793601,
+     "id_str": "1611224691984793601",
+     "indices": [
+      17,
+      30
+     ]
+    },
+    {
+     "screen_name": "SECGov",
+     "name": "U.S. Securities and Exchange Commission",
+     "id": 18481050,
+     "id_str": "18481050",
+     "indices": [
+      31,
+      38
+     ]
+    },
+    {
+     "screen_name": "SEC_Investor_Ed",
+     "name": "SEC Investor Ed",
+     "id": 15633653,
+     "id_str": "15633653",
+     "indices": [
+      39,
+      55
+     ]
+    },
+    {
+     "screen_name": "cromwellc",
+     "name": "Cromwell Coulson",
+     "id": 39358126,
+     "id_str": "39358126",
+     "indices": [
+      56,
+      66
+     ]
+    },
+    {
+     "screen_name": "The_DTCC",
+     "name": "DTCC",
+     "id": 172461978,
+     "id_str": "172461978",
+     "indices": [
+      67,
+      76
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:58:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:58:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      17,
+      22
+     ]
+    },
+    {
+     "text": "FNGR",
+     "indices": [
+      63,
+      68
+     ]
+    },
+    {
+     "text": "DBMM",
+     "indices": [
+      69,
+      74
+     ]
+    },
+    {
+     "text": "WULF",
+     "indices": [
+      75,
+      80
+     ]
+    },
+    {
+     "text": "COSM",
+     "indices": [
+      81,
+      86
+     ]
+    },
+    {
+     "text": "CRTD",
+     "indices": [
+      87,
+      92
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/geNbssDOJG",
+     "expanded_url": "https://youtu.be/e7d-8sgFs5s",
+     "display_url": "youtu.be/e7d-8sgFs5s",
+     "indices": [
+      97,
+      120
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 06:58:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "mmtlp",
+     "indices": [
+      15,
+      21
+     ]
+    },
+    {
+     "text": "nakedshorts",
+     "indices": [
+      22,
+      34
+     ]
+    },
+    {
+     "text": "gns",
+     "indices": [
+      35,
+      39
+     ]
+    },
+    {
+     "text": "Ham",
+     "indices": [
+      40,
+      44
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Rahraw999",
+     "name": "Richard Hofman",
+     "id": 1483472722025873408,
+     "id_str": "1483472722025873408",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:57:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:57:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      35,
+      41
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "tonys_twits",
+     "name": "Tony",
+     "id": 128137195,
+     "id_str": "128137195",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:56:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    },
+    {
+     "text": "MMTLP",
+     "indices": [
+      43,
+      49
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:56:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "FINRAFRAUD",
+     "indices": [
+      54,
+      65
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      46,
+      52
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AkeAlex6",
+     "name": "Alex",
+     "id": 1515691119887138818,
+     "id_str": "1515691119887138818",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      122,
+      128
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:51:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:51:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:50:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      80,
+      85
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:50:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "SECGov",
+     "name": "U.S. Securities and Exchange Commission",
+     "id": 18481050,
+     "id_str": "18481050",
+     "indices": [
+      93,
+      100
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:50:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:49:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "GTII",
+     "indices": [
+      25,
+      30
+     ]
+    },
+    {
+     "text": "CRTD",
+     "indices": [
+      37,
+      42
+     ]
+    },
+    {
+     "text": "CLNV",
+     "indices": [
+      49,
+      54
+     ]
+    },
+    {
+     "text": "AABB",
+     "indices": [
+      61,
+      66
+     ]
+    },
+    {
+     "text": "CORZQ",
+     "indices": [
+      74,
+      80
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      19,
+      24
+     ]
+    },
+    {
+     "text": "CRTD",
+     "indices": [
+      31,
+      36
+     ]
+    },
+    {
+     "text": "CLNV",
+     "indices": [
+      43,
+      48
+     ]
+    },
+    {
+     "text": "AABB",
+     "indices": [
+      55,
+      60
+     ]
+    },
+    {
+     "text": "CORZQ",
+     "indices": [
+      67,
+      73
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "gRatioTrading",
+     "name": "gRatio",
+     "id": 1361168229633302529,
+     "id_str": "1361168229633302529",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:48:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:48:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "gTii",
+     "indices": [
+      16,
+      21
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Ohhai_gTii",
+     "name": "Ohhai",
+     "id": 1570583282185637888,
+     "id_str": "1570583282185637888",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/G8ql95FmQC",
+     "expanded_url": "https://drive.google.com/file/d/1ywkmQAouEZyO4t6emHjc63ybhM0pjX6i/view",
+     "display_url": "drive.google.com/file/d/1ywkmQA\u2026",
+     "indices": [
+      93,
+      116
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 06:47:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "SECGov",
+     "name": "U.S. Securities and Exchange Commission",
+     "id": 18481050,
+     "id_str": "18481050",
+     "indices": [
+      85,
+      92
+     ]
+    },
+    {
+     "screen_name": "NewYorkFBI",
+     "name": "FBI New York",
+     "id": 211635204,
+     "id_str": "211635204",
+     "indices": [
+      93,
+      104
+     ]
+    },
+    {
+     "screen_name": "DE_DOJ",
+     "name": "Attorney General Kathy Jennings",
+     "id": 1288593721,
+     "id_str": "1288593721",
+     "indices": [
+      105,
+      112
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:46:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:45:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 06:42:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KEnGlovesmayo",
+     "name": "FinraIsFraud",
+     "id": 1538651818074329089,
+     "id_str": "1538651818074329089",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      72,
+      78
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 01:08:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      20,
+      26
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "GurbirGrewalNJ",
+     "name": "Gurbir S. Grewal",
+     "id": 903824715189510144,
+     "id_str": "903824715189510144",
+     "indices": [
+      77,
+      92
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 00:36:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ItsStillMeAlby",
+     "name": "pronounced: \ud83e\udd89\ud83d\udc1d",
+     "id": 947985479202418689,
+     "id_str": "947985479202418689",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:43:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      45,
+      50
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Sparkle70789378",
+     "name": "Tricia \ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+     "id": 1511056845665939467,
+     "id_str": "1511056845665939467",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      21,
+      33
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:06:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    },
+    {
+     "text": "COSM",
+     "indices": [
+      124,
+      129
+     ]
+    },
+    {
+     "text": "CUEN",
+     "indices": [
+      131,
+      136
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:51:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "gtii",
+     "indices": [
+      112,
+      117
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "cayoneater9876",
+     "name": "CrayonEater987654321",
+     "id": 1529177703101915142,
+     "id_str": "1529177703101915142",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 20:20:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "CRTD",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "Jfromm1968_CRTD",
+     "name": "Jeremy Frommer",
+     "id": 1532383188835868674,
+     "id_str": "1532383188835868674",
+     "indices": [
+      81,
+      97
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:43:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    },
+    {
+     "text": "GNS",
+     "indices": [
+      58,
+      62
+     ]
+    },
+    {
+     "text": "MULN",
+     "indices": [
+      63,
+      68
+     ]
+    },
+    {
+     "text": "FNGR",
+     "indices": [
+      69,
+      74
+     ]
+    },
+    {
+     "text": "CRTD",
+     "indices": [
+      75,
+      80
+     ]
+    },
+    {
+     "text": "COSM",
+     "indices": [
+      81,
+      86
+     ]
+    },
+    {
+     "text": "AMC",
+     "indices": [
+      87,
+      91
+     ]
+    },
+    {
+     "text": "GME",
+     "indices": [
+      92,
+      96
+     ]
+    },
+    {
+     "text": "APE",
+     "indices": [
+      97,
+      101
+     ]
+    },
+    {
+     "text": "CLNV",
+     "indices": [
+      102,
+      107
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:37:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:36:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/KAOvDm9Xi3",
+     "expanded_url": "https://finance.yahoo.com/news/global-tech-industries-group-inc-151500602.html",
+     "display_url": "finance.yahoo.com/news/global-te\u2026",
+     "indices": [
+      58,
+      81
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 15:31:59 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "NakedShorts",
+     "indices": [
+      93,
+      105
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rogerhamilton",
+     "name": "Roger James Hamilton",
+     "id": 17536486,
+     "id_str": "17536486",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:13:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "gTii",
+     "indices": [
+      91,
+      96
+     ]
+    },
+    {
+     "text": "CRTD",
+     "indices": [
+      103,
+      108
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "ItsStillMeAlby",
+     "name": "pronounced: \ud83e\udd89\ud83d\udc1d",
+     "id": 947985479202418689,
+     "id_str": "947985479202418689",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:05:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "CUEN",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:04:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      39,
+      44
+     ]
+    },
+    {
+     "text": "CRTD",
+     "indices": [
+      45,
+      50
+     ]
+    },
+    {
+     "text": "DBMM",
+     "indices": [
+      51,
+      56
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622607426825355264,
+     "id_str": "1622607426825355264",
+     "indices": [
+      57,
+      80
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FoSo25XWAAA7Owl.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FoSo25XWAAA7Owl.jpg",
+     "url": "https://t.co/hYy6ur8rwH",
+     "display_url": "pic.twitter.com/hYy6ur8rwH",
+     "expanded_url": "https://twitter.com/AvidTrader_/status/1622607432634572801/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 498,
+       "h": 280,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 498,
+       "h": 280,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 498,
+       "h": 280,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622607432634572801,
+     "source_status_id_str": "1622607432634572801",
+     "source_user_id": 1438158926692986889,
+     "source_user_id_str": "1438158926692986889"
+    }
+   ]
+  },
+  "Mon Feb 06 15:04:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:03:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      78,
+      84
+     ]
+    },
+    {
+     "text": "FinraFraud",
+     "indices": [
+      85,
+      96
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mercy_received",
+     "name": "MMTLP Received",
+     "id": 1518388296279379968,
+     "id_str": "1518388296279379968",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "RepHuizenga",
+     "name": "Rep. Bill Huizenga",
+     "id": 233949261,
+     "id_str": "233949261",
+     "indices": [
+      20,
+      32
+     ]
+    },
+    {
+     "screen_name": "GaryGensler",
+     "name": "Gary Gensler",
+     "id": 1388216429988691972,
+     "id_str": "1388216429988691972",
+     "indices": [
+      33,
+      45
+     ]
+    },
+    {
+     "screen_name": "FinancialCmte",
+     "name": "Financial Services GOP",
+     "id": 42924141,
+     "id_str": "42924141",
+     "indices": [
+      46,
+      60
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:03:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:56:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:52:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:52:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:52:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "gtii",
+     "indices": [
+      114,
+      119
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "leroycecat",
+     "name": "GTIIisGameChangwr",
+     "id": 23280576,
+     "id_str": "23280576",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "TravisScribner",
+     "name": "Travis Scribner",
+     "id": 16972827,
+     "id_str": "16972827",
+     "indices": [
+      20,
+      35
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:51:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:50:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      46,
+      51
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:50:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:49:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "gtii",
+     "indices": [
+      21,
+      26
+     ]
+    },
+    {
+     "text": "crtd",
+     "indices": [
+      27,
+      32
+     ]
+    },
+    {
+     "text": "mmtlp",
+     "indices": [
+      33,
+      39
+     ]
+    },
+    {
+     "text": "fngr",
+     "indices": [
+      40,
+      45
+     ]
+    },
+    {
+     "text": "wulf",
+     "indices": [
+      46,
+      51
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "WilliamPFarran1",
+     "name": "William P. Farrand",
+     "id": 1539498471551553541,
+     "id_str": "1539498471551553541",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:49:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "unusual_whales",
+     "name": "unusual_whales",
+     "id": 1200616796295847936,
+     "id_str": "1200616796295847936",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:49:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "unusual_whales",
+     "name": "unusual_whales",
+     "id": 1200616796295847936,
+     "id_str": "1200616796295847936",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:43:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTii",
+     "indices": [
+      18,
+      23
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "DirtyMayo187",
+     "name": "Dirty Mayo",
+     "id": 1538602235965210625,
+     "id_str": "1538602235965210625",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "TDAmeritrade",
+     "name": "TD Ameritrade",
+     "id": 16816021,
+     "id_str": "16816021",
+     "indices": [
+      28,
+      41
+     ]
+    },
+    {
+     "screen_name": "Fidelity",
+     "name": "Fidelity Investments",
+     "id": 65174274,
+     "id_str": "65174274",
+     "indices": [
+      42,
+      51
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 14:37:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 12:51:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 12:49:43 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "RICO",
+     "indices": [
+      127,
+      132
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LeoJamar1",
+     "name": "Leo Jamar",
+     "id": 1300142236542201857,
+     "id_str": "1300142236542201857",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      15,
+      30
+     ]
+    },
+    {
+     "screen_name": "DOJPH",
+     "name": "Department of Justice (DOJ)",
+     "id": 485403686,
+     "id_str": "485403686",
+     "indices": [
+      31,
+      37
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 12:48:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      20,
+      25
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "HAMShortkiller",
+     "name": "HAM",
+     "id": 1491400296660152323,
+     "id_str": "1491400296660152323",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 01:14:02 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "MMTLP",
+     "indices": [
+      23,
+      29
+     ]
+    },
+    {
+     "text": "COUNTERFEITSHARES",
+     "indices": [
+      30,
+      48
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "zadlazy",
+     "name": "LazyDaz\ud83e\udd8e",
+     "id": 1343254396113739778,
+     "id_str": "1343254396113739778",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "FBI",
+     "name": "FBI",
+     "id": 17629860,
+     "id_str": "17629860",
+     "indices": [
+      13,
+      17
+     ]
+    },
+    {
+     "screen_name": "FBI",
+     "name": "FBI",
+     "id": 17629860,
+     "id_str": "17629860",
+     "indices": [
+      18,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 01:13:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "mmtlp",
+     "indices": [
+      65,
+      71
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Tevern4",
+     "name": "Tevern \ud83e\udd8b",
+     "id": 1585236051357999105,
+     "id_str": "1585236051357999105",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "FBI",
+     "name": "FBI",
+     "id": 17629860,
+     "id_str": "17629860",
+     "indices": [
+      13,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 01:13:45 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "finrafraud",
+     "indices": [
+      123,
+      134
+     ]
+    }
+   ],
+   "symbols": [
+    {
+     "text": "mmtlp",
+     "indices": [
+      110,
+      116
+     ]
+    },
+    {
+     "text": "mmat",
+     "indices": [
+      117,
+      122
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "schizotypal420",
+     "name": "Art hurt",
+     "id": 1354629937580417025,
+     "id_str": "1354629937580417025",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "FBI",
+     "name": "FBI",
+     "id": 17629860,
+     "id_str": "17629860",
+     "indices": [
+      20,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 01:13:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Chris13mp",
+     "name": "Chris13",
+     "id": 1476176106034192390,
+     "id_str": "1476176106034192390",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "FBI",
+     "name": "FBI",
+     "id": 17629860,
+     "id_str": "17629860",
+     "indices": [
+      15,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 01:13:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "mmtlp",
+     "indices": [
+      45,
+      51
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "nonsportsheroes",
+     "name": "John A. Vachna Jr.",
+     "id": 14209539,
+     "id_str": "14209539",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "FBI",
+     "name": "FBI",
+     "id": 17629860,
+     "id_str": "17629860",
+     "indices": [
+      21,
+      25
+     ]
+    },
+    {
+     "screen_name": "FINRA",
+     "name": "FINRA",
+     "id": 35781013,
+     "id_str": "35781013",
+     "indices": [
+      52,
+      58
+     ]
+    },
+    {
+     "screen_name": "DOJPH",
+     "name": "Department of Justice (DOJ)",
+     "id": 485403686,
+     "id_str": "485403686",
+     "indices": [
+      59,
+      65
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622270965592854528,
+     "id_str": "1622270965592854528",
+     "indices": [
+      66,
+      89
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoN22RmXkAAXem5.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoN22RmXkAAXem5.jpg",
+     "url": "https://t.co/BmME4SijJx",
+     "display_url": "pic.twitter.com/BmME4SijJx",
+     "expanded_url": "https://twitter.com/nonsportsheroes/status/1622270967052488706/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 315,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 500,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622270967052488706,
+     "source_status_id_str": "1622270967052488706",
+     "source_user_id": 14209539,
+     "source_user_id_str": "14209539"
+    }
+   ]
+  },
+  "Mon Feb 06 01:07:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      132,
+      137
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "kshaughnessy2",
+     "name": "kristen shaughnessy",
+     "id": 22259843,
+     "id_str": "22259843",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 01:06:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rogerhamilton",
+     "name": "Roger James Hamilton",
+     "id": 17536486,
+     "id_str": "17536486",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 01:06:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kshaughnessy2",
+     "name": "kristen shaughnessy",
+     "id": 22259843,
+     "id_str": "22259843",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 00:56:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "gtii",
+     "indices": [
+      15,
+      20
+     ]
+    },
+    {
+     "text": "crtd",
+     "indices": [
+      21,
+      26
+     ]
+    },
+    {
+     "text": "fngr",
+     "indices": [
+      27,
+      32
+     ]
+    },
+    {
+     "text": "mmtlp",
+     "indices": [
+      33,
+      39
+     ]
+    },
+    {
+     "text": "cosm",
+     "indices": [
+      40,
+      45
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "Mik3l1031",
+     "name": "Michael Malin",
+     "id": 1378713104046026753,
+     "id_str": "1378713104046026753",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "kshaughnessy2",
+     "name": "kristen shaughnessy",
+     "id": 22259843,
+     "id_str": "22259843",
+     "indices": [
+      60,
+      74
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 00:55:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "GTII",
+     "indices": [
+      69,
+      74
+     ]
+    },
+    {
+     "text": "CRTD",
+     "indices": [
+      75,
+      80
+     ]
+    },
+    {
+     "text": "GNS",
+     "indices": [
+      81,
+      85
+     ]
+    },
+    {
+     "text": "MULN",
+     "indices": [
+      86,
+      91
+     ]
+    },
+    {
+     "text": "WULF",
+     "indices": [
+      92,
+      97
+     ]
+    },
+    {
+     "text": "TSLA",
+     "indices": [
+      98,
+      103
+     ]
+    },
+    {
+     "text": "ARKK",
+     "indices": [
+      104,
+      109
+     ]
+    },
+    {
+     "text": "AMC",
+     "indices": [
+      110,
+      114
+     ]
+    },
+    {
+     "text": "GME",
+     "indices": [
+      115,
+      119
+     ]
+    },
+    {
+     "text": "BBBY",
+     "indices": [
+      120,
+      125
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "AvidTrader_",
+     "name": "AvidTrader",
+     "id": 1438158926692986889,
+     "id_str": "1438158926692986889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

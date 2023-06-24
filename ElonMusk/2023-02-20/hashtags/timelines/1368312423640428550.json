@@ -1,0 +1,665 @@
+{
+ "1368312423640428550": {
+  "Mon Feb 20 23:15:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BezosCrypto",
+     "name": "SHIB Bezos",
+     "id": 1105864595590148097,
+     "id_str": "1105864595590148097",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 23:14:05 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Cardano",
+     "indices": [
+      27,
+      35
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CardanoFeed",
+     "name": "Cardano Feed ($ADA)",
+     "id": 1373334050048466946,
+     "id_str": "1373334050048466946",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627761787864076300,
+     "id_str": "1627761787864076300",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fpb4uMiX0Awkfdy.png",
+     "media_url_https": "https://pbs.twimg.com/media/Fpb4uMiX0Awkfdy.png",
+     "url": "https://t.co/tQUcvueJsf",
+     "display_url": "pic.twitter.com/tQUcvueJsf",
+     "expanded_url": "https://twitter.com/CardanoFeed/status/1627762013211426816/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 614,
+       "h": 424,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 614,
+       "h": 424,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 614,
+       "h": 424,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1627762013211426816,
+     "source_status_id_str": "1627762013211426816",
+     "source_user_id": 1373334050048466946,
+     "source_user_id_str": "1373334050048466946"
+    }
+   ]
+  },
+  "Sun Feb 19 21:29:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "binance",
+     "name": "Binance",
+     "id": 877807935493033984,
+     "id_str": "877807935493033984",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627276894180716545,
+     "id_str": "1627276894180716545",
+     "indices": [
+      37,
+      60
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpU_tqzXsAEy0_v.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpU_tqzXsAEy0_v.jpg",
+     "url": "https://t.co/icc1IOGJSC",
+     "display_url": "pic.twitter.com/icc1IOGJSC",
+     "expanded_url": "https://twitter.com/binance/status/1627276897406050304/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627276897406050304,
+     "source_status_id_str": "1627276897406050304",
+     "source_user_id": 877807935493033984,
+     "source_user_id_str": "877807935493033984"
+    }
+   ]
+  },
+  "Sun Feb 19 21:26:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627377245751857152,
+     "id_str": "1627377245751857152",
+     "indices": [
+      71,
+      94
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWa-5iX0AAU-8d.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWa-5iX0AAU-8d.jpg",
+     "url": "https://t.co/B1JQFC7Ojh",
+     "display_url": "pic.twitter.com/B1JQFC7Ojh",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627377252777226242/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 983,
+       "h": 554,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 983,
+       "h": 554,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627377252777226242,
+     "source_status_id_str": "1627377252777226242",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 17:10:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "SHIB",
+     "indices": [
+      19,
+      24
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "ShibaInformer",
+     "name": "Shiba Informer",
+     "id": 1473694732916334601,
+     "id_str": "1473694732916334601",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 11:38:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IOHK_Charles",
+     "name": "Charles Hoskinson",
+     "id": 1376161898,
+     "id_str": "1376161898",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "RichardMcCrackn",
+     "name": "Rick McCracken DIGI",
+     "id": 437745089,
+     "id_str": "437745089",
+     "indices": [
+      112,
+      128
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 11:37:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 11:36:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627246530309627904,
+     "id_str": "1627246530309627904",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "url": "https://t.co/O3nGpfeRZ7",
+     "display_url": "pic.twitter.com/O3nGpfeRZ7",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627246535581761536/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627246535581761536,
+     "source_status_id_str": "1627246535581761536",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sat Feb 18 14:28:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ShibariumGems",
+     "name": "Shibarium",
+     "id": 1234006158186295297,
+     "id_str": "1234006158186295297",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "ShytoshiKusama",
+     "name": "Shytoshi\u2122",
+     "id": 1349928660136910851,
+     "id_str": "1349928660136910851",
+     "indices": [
+      29,
+      44
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626627996911271936,
+     "id_str": "1626627996911271936",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpLxi4GaAAAmB98.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpLxi4GaAAAmB98.jpg",
+     "url": "https://t.co/NsduEMR0Aw",
+     "display_url": "pic.twitter.com/NsduEMR0Aw",
+     "expanded_url": "https://twitter.com/ShibariumGems/status/1626628000698466324/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 400,
+       "h": 400,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 400,
+       "h": 400,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 400,
+       "h": 400,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626628000698466324,
+     "source_status_id_str": "1626628000698466324",
+     "source_user_id": 1234006158186295297,
+     "source_user_id_str": "1234006158186295297"
+    }
+   ]
+  },
+  "Sat Feb 18 14:25:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626861778830348288,
+     "id_str": "1626861778830348288",
+     "indices": [
+      26,
+      49
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpPGKxnX0AAZ3bw.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpPGKxnX0AAZ3bw.jpg",
+     "url": "https://t.co/3G7ABMNegT",
+     "display_url": "pic.twitter.com/3G7ABMNegT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626861786673848321/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1194,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 634,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1119,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626861786673848321,
+     "source_status_id_str": "1626861786673848321",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Fri Feb 17 22:58:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CryptoCapo_",
+     "name": "il Capo Of Crypto",
+     "id": 988796804446769153,
+     "id_str": "988796804446769153",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626640153878925313,
+     "id_str": "1626640153878925313",
+     "indices": [
+      79,
+      102
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpL8mgVXEAErmae.png",
+     "media_url_https": "https://pbs.twimg.com/media/FpL8mgVXEAErmae.png",
+     "url": "https://t.co/B4MFV2Bawb",
+     "display_url": "pic.twitter.com/B4MFV2Bawb",
+     "expanded_url": "https://twitter.com/CryptoCapo_/status/1626640318622834688/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 835,
+       "h": 856,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 663,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 835,
+       "h": 856,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626640318622834688,
+     "source_status_id_str": "1626640318622834688",
+     "source_user_id": 988796804446769153,
+     "source_user_id_str": "988796804446769153"
+    }
+   ]
+  },
+  "Fri Feb 17 17:11:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 17:10:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626357244869873666,
+     "id_str": "1626357244869873666",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpH7TCJaEAIziQ1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpH7TCJaEAIziQ1.jpg",
+     "url": "https://t.co/gdqWTsHy14",
+     "display_url": "pic.twitter.com/gdqWTsHy14",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626357251094249472/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626357251094249472,
+     "source_status_id_str": "1626357251094249472",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Fri Feb 17 17:10:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 22:26:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 17:10:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 17:10:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

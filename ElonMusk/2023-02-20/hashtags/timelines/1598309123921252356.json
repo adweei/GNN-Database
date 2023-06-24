@@ -1,0 +1,865 @@
+{
+ "1598309123921252356": {
+  "Mon Feb 20 12:20:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "The_Trump_Train",
+     "name": "The Trump Train \ud83d\ude82\ud83c\uddfa\ud83c\uddf8",
+     "id": 4102376488,
+     "id_str": "4102376488",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 12:19:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "chuckwoolery",
+     "name": "Chuck Woolery",
+     "id": 462104542,
+     "id_str": "462104542",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/mwAunkrg9V",
+     "expanded_url": "https://buff.ly/3ZqHX9l",
+     "display_url": "buff.ly/3ZqHX9l",
+     "indices": [
+      71,
+      94
+     ]
+    }
+   ]
+  },
+  "Mon Feb 20 12:19:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "The_Trump_Train",
+     "name": "The Trump Train \ud83d\ude82\ud83c\uddfa\ud83c\uddf8",
+     "id": 4102376488,
+     "id_str": "4102376488",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 12:19:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LouisJMarinelli",
+     "name": "Louis Marinelli",
+     "id": 227509119,
+     "id_str": "227509119",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      21,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 12:18:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627381661997342721,
+     "id_str": "1627381661997342721",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWe_9VWIAEPAaM.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWe_9VWIAEPAaM.jpg",
+     "url": "https://t.co/Az4RSAMvoE",
+     "display_url": "pic.twitter.com/Az4RSAMvoE",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627381669601636358/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 521,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 951,
+       "h": 729,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 951,
+       "h": 729,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627381669601636358,
+     "source_status_id_str": "1627381669601636358",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 20 12:18:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627380447431823363,
+     "id_str": "1627380447431823363",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWd5QuXEAMT3xP.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWd5QuXEAMT3xP.jpg",
+     "url": "https://t.co/qzDTuGsZY1",
+     "display_url": "pic.twitter.com/qzDTuGsZY1",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627380454067142658/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 480,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 499,
+       "h": 707,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 499,
+       "h": 707,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627380454067142658,
+     "source_status_id_str": "1627380454067142658",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 19:09:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KariLake",
+     "name": "Kari Lake",
+     "id": 1082197856,
+     "id_str": "1082197856",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:08:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GrahamAllen_1",
+     "name": "Graham Allen",
+     "id": 832978972602429440,
+     "id_str": "832978972602429440",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:08:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ACTBrigitte",
+     "name": "Brigitte Gabriel",
+     "id": 722528529716383744,
+     "id_str": "722528529716383744",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:08:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "laurenboebert",
+     "name": "Lauren Boebert",
+     "id": 1201670995435646976,
+     "id_str": "1201670995435646976",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:08:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "greggutfeld",
+     "name": "GregGutfeld",
+     "id": 28628850,
+     "id_str": "28628850",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:08:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KariLakeWarRoom",
+     "name": "Kari Lake War Room",
+     "id": 1492670054541844482,
+     "id_str": "1492670054541844482",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:07:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "The_Trump_Train",
+     "name": "The Trump Train \ud83d\ude82\ud83c\uddfa\ud83c\uddf8",
+     "id": 4102376488,
+     "id_str": "4102376488",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:07:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NEWSMAX",
+     "name": "NEWSMAX",
+     "id": 20545835,
+     "id_str": "20545835",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:07:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NickAdamsinUSA",
+     "name": "Nick Adams (Alpha Male)",
+     "id": 91583544,
+     "id_str": "91583544",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627065360469086212,
+     "id_str": "1627065360469086212",
+     "indices": [
+      77,
+      100
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpR_UyUaUAQZejX.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpR_UyUaUAQZejX.jpg",
+     "url": "https://t.co/GqblmUTMuI",
+     "display_url": "pic.twitter.com/GqblmUTMuI",
+     "expanded_url": "https://twitter.com/NickAdamsinUSA/status/1627065371261022208/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627065371261022208,
+     "source_status_id_str": "1627065371261022208",
+     "source_user_id": 91583544,
+     "source_user_id_str": "91583544"
+    }
+   ]
+  },
+  "Sun Feb 19 19:06:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mattgaetz",
+     "name": "Matt Gaetz",
+     "id": 58579942,
+     "id_str": "58579942",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:06:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ProudElephantUS",
+     "name": "Proud Elephant \ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+     "id": 810055220,
+     "id_str": "810055220",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 09:43:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ProudElephantUS",
+     "name": "Proud Elephant \ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+     "id": 810055220,
+     "id_str": "810055220",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 09:43:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "marklevinshow",
+     "name": "Mark R. Levin",
+     "id": 38495835,
+     "id_str": "38495835",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/q5t4IeHbAH",
+     "expanded_url": "https://hotair.com/tree-hugging-sister/2023/02/17/biden-white-people-love-watching-lynchings-even-now-n531522",
+     "display_url": "hotair.com/tree-hugging-s\u2026",
+     "indices": [
+      50,
+      73
+     ]
+    }
+   ]
+  },
+  "Sun Feb 19 09:42:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ForgiatoBlow47",
+     "name": "Trumps Nephew",
+     "id": 1299776558354366465,
+     "id_str": "1299776558354366465",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626985716566589446,
+     "id_str": "1626985716566589446",
+     "indices": [
+      89,
+      112
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQ245qWAAYnHMr.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQ245qWAAYnHMr.jpg",
+     "url": "https://t.co/rNlOCoArL2",
+     "display_url": "pic.twitter.com/rNlOCoArL2",
+     "expanded_url": "https://twitter.com/ForgiatoBlow47/status/1626985720328904704/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 628,
+       "h": 475,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 628,
+       "h": 475,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 628,
+       "h": 475,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626985720328904704,
+     "source_status_id_str": "1626985720328904704",
+     "source_user_id": 1299776558354366465,
+     "source_user_id_str": "1299776558354366465"
+    }
+   ]
+  },
+  "Sun Feb 19 09:42:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "The_Trump_Train",
+     "name": "The Trump Train \ud83d\ude82\ud83c\uddfa\ud83c\uddf8",
+     "id": 4102376488,
+     "id_str": "4102376488",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 09:46:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "atensnut",
+     "name": "Juanita Broaddrick",
+     "id": 22677397,
+     "id_str": "22677397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626266384660369408,
+     "id_str": "1626266384660369408",
+     "indices": [
+      71,
+      94
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpGoqRfXEAA-j54.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpGoqRfXEAA-j54.jpg",
+     "url": "https://t.co/XWFXQF6uz0",
+     "display_url": "pic.twitter.com/XWFXQF6uz0",
+     "expanded_url": "https://twitter.com/atensnut/status/1626266388120711175/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 437,
+       "h": 609,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 437,
+       "h": 609,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 437,
+       "h": 609,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626266388120711175,
+     "source_status_id_str": "1626266388120711175",
+     "source_user_id": 22677397,
+     "source_user_id_str": "22677397"
+    }
+   ]
+  },
+  "Sat Feb 18 09:46:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626727869148983297,
+     "id_str": "1626727869148983297",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpNMYNLacAEqWxS.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpNMYNLacAEqWxS.jpg",
+     "url": "https://t.co/2YnLMPZmXH",
+     "display_url": "pic.twitter.com/2YnLMPZmXH",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626727875960532992/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 663,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 948,
+       "h": 972,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 948,
+       "h": 972,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626727875960532992,
+     "source_status_id_str": "1626727875960532992",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sat Feb 18 09:45:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "laurenboebert",
+     "name": "Lauren Boebert",
+     "id": 1201670995435646976,
+     "id_str": "1201670995435646976",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:21:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "laurenboebert",
+     "name": "Lauren Boebert",
+     "id": 1201670995435646976,
+     "id_str": "1201670995435646976",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 10:20:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 11:20:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 11:20:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 08:38:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 08:37:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tedcruz",
+     "name": "Ted Cruz",
+     "id": 23022687,
+     "id_str": "23022687",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625724816467656707,
+     "id_str": "1625724816467656707",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-8G2wXgAMh8Sf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-8G2wXgAMh8Sf.jpg",
+     "url": "https://t.co/Va8vtLSkcb",
+     "display_url": "pic.twitter.com/Va8vtLSkcb",
+     "expanded_url": "https://twitter.com/tedcruz/status/1625724822201290753/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 946,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 314,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 554,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625724822201290753,
+     "source_status_id_str": "1625724822201290753",
+     "source_user_id": 23022687,
+     "source_user_id_str": "23022687"
+    }
+   ]
+  },
+  "Thu Feb 16 01:08:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "laurenboebert",
+     "name": "Lauren Boebert",
+     "id": 1201670995435646976,
+     "id_str": "1201670995435646976",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/00UbjSe3II",
+     "expanded_url": "https://nypost.com/2023/02/14/jim-biden-helped-negotiate-saudi-deal-due-to-joe-biden-ties-report/",
+     "display_url": "nypost.com/2023/02/14/jim\u2026",
+     "indices": [
+      86,
+      109
+     ]
+    }
+   ]
+  }
+ }
+}

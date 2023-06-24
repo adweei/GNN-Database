@@ -1,0 +1,796 @@
+{
+ "911745657400049669": {
+  "Wed Feb 15 10:28:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tim_cook",
+     "name": "Tim Cook",
+     "id": 1636590253,
+     "id_str": "1636590253",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 07:15:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Dogecoin",
+     "indices": [
+      43,
+      52
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DogeDillionaire",
+     "name": "Doge Dillionaire",
+     "id": 79836596,
+     "id_str": "79836596",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625523069770149894,
+     "id_str": "1625523069770149894",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8EnpvaMAY47Vd.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8EnpvaMAY47Vd.jpg",
+     "url": "https://t.co/lt5ZVj1tqO",
+     "display_url": "pic.twitter.com/lt5ZVj1tqO",
+     "expanded_url": "https://twitter.com/DogeDillionaire/status/1625523073406603264/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 538,
+       "h": 296,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 538,
+       "h": 296,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 538,
+       "h": 296,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625523073406603264,
+     "source_status_id_str": "1625523073406603264",
+     "source_user_id": 79836596,
+     "source_user_id_str": "79836596"
+    }
+   ]
+  },
+  "Wed Feb 15 07:15:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 07:15:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625695868711215104,
+     "id_str": "1625695868711215104",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "url": "https://t.co/yBqWFUDIQH",
+     "display_url": "pic.twitter.com/yBqWFUDIQH",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625695877326340102/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 532,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1248,
+       "h": 1594,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 940,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625695877326340102,
+     "source_status_id_str": "1625695877326340102",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 07:15:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BudhilVyas",
+     "name": "Budhil Vyas",
+     "id": 2538564414,
+     "id_str": "2538564414",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625755561525653504,
+     "id_str": "1625755561525653504",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo_YEdBaMAAN2wJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo_YEdBaMAAN2wJ.jpg",
+     "url": "https://t.co/R7j9RBqRg4",
+     "display_url": "pic.twitter.com/R7j9RBqRg4",
+     "expanded_url": "https://twitter.com/pagal_jee/status/1625755571856228352/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 306,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 922,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 540,
+       "h": 1200,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Wed Feb 15 07:14:35 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Floki",
+     "indices": [
+      37,
+      43
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BudhilVyas",
+     "name": "Budhil Vyas",
+     "id": 2538564414,
+     "id_str": "2538564414",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625733147567730690,
+     "id_str": "1625733147567730690",
+     "indices": [
+      44,
+      67
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo_DryhaMAIwv8N.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo_DryhaMAIwv8N.jpg",
+     "url": "https://t.co/t7Nsk6Xmnn",
+     "display_url": "pic.twitter.com/t7Nsk6Xmnn",
+     "expanded_url": "https://twitter.com/BudhilVyas/status/1625733177141776386/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1442,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 552,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 974,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625733177141776386,
+     "source_status_id_str": "1625733177141776386",
+     "source_user_id": 2538564414,
+     "source_user_id_str": "2538564414"
+    }
+   ]
+  },
+  "Wed Feb 15 07:14:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tjstebbing",
+     "name": "Timothy Stebbing",
+     "id": 1419590610210549763,
+     "id_str": "1419590610210549763",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 07:10:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625696829743702016,
+     "id_str": "1625696829743702016",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-ip0FaIAAf0v1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-ip0FaIAAf0v1.jpg",
+     "url": "https://t.co/9rcEtu9w1Z",
+     "display_url": "pic.twitter.com/9rcEtu9w1Z",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625696836886614018/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1600,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625696836886614018,
+     "source_status_id_str": "1625696836886614018",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 07:06:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "dogecoin",
+     "name": "Dogecoin",
+     "id": 2235729541,
+     "id_str": "2235729541",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 07:03:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "dogecoin",
+     "name": "Dogecoin",
+     "id": 2235729541,
+     "id_str": "2235729541",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 03:43:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625696546082947072,
+     "id_str": "1625696546082947072",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-iZTXagAAxPFY.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-iZTXagAAxPFY.jpg",
+     "url": "https://t.co/auv5M1stUS",
+     "display_url": "pic.twitter.com/auv5M1stUS",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625696554467344384/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 896,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1195,
+       "h": 1600,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 508,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625696554467344384,
+     "source_status_id_str": "1625696554467344384",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 03:43:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 09:02:42 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "dogecoin",
+     "indices": [
+      32,
+      41
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ProTheDoge",
+     "name": "SlumDOGE Millionaire",
+     "id": 1358176095850229761,
+     "id_str": "1358176095850229761",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 03:53:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "DOGE",
+     "indices": [
+      18,
+      23
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "DogecoinRide",
+     "name": "DogeCoin Ride",
+     "id": 1353637182184050689,
+     "id_str": "1353637182184050689",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625172534126575619,
+     "id_str": "1625172534126575619",
+     "indices": [
+      50,
+      73
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo3FzytWAAM9Yp4.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo3FzytWAAM9Yp4.jpg",
+     "url": "https://t.co/wJ0VPgLzOu",
+     "display_url": "pic.twitter.com/wJ0VPgLzOu",
+     "expanded_url": "https://twitter.com/DogecoinRide/status/1625172539784806418/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 899,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 509,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1442,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625172539784806418,
+     "source_status_id_str": "1625172539784806418",
+     "source_user_id": 1353637182184050689,
+     "source_user_id_str": "1353637182184050689"
+    }
+   ]
+  },
+  "Tue Feb 14 03:48:23 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "dogecoin",
+     "indices": [
+      81,
+      90
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DogeDillionaire",
+     "name": "Doge Dillionaire",
+     "id": 79836596,
+     "id_str": "79836596",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      25,
+      34
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624997784687620096,
+     "id_str": "1624997784687620096",
+     "indices": [
+      91,
+      114
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo0m4CUaMAAXFLV.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo0m4CUaMAAXFLV.jpg",
+     "url": "https://t.co/Jd1lfqDUb3",
+     "display_url": "pic.twitter.com/Jd1lfqDUb3",
+     "expanded_url": "https://twitter.com/DogeDillionaire/status/1624997788273750017/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 898,
+       "h": 466,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 898,
+       "h": 466,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 353,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624997788273750017,
+     "source_status_id_str": "1624997788273750017",
+     "source_user_id": 79836596,
+     "source_user_id_str": "79836596"
+    }
+   ]
+  },
+  "Tue Feb 14 03:41:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "GRDecter",
+     "name": "Genevieve Roch-Decter, CFA",
+     "id": 1281457267582177280,
+     "id_str": "1281457267582177280",
+     "indices": [
+      10,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 03:41:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "GRDecter",
+     "name": "Genevieve Roch-Decter, CFA",
+     "id": 1281457267582177280,
+     "id_str": "1281457267582177280",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 03:41:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GRDecter",
+     "name": "Genevieve Roch-Decter, CFA",
+     "id": 1281457267582177280,
+     "id_str": "1281457267582177280",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 07:55:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    },
+    {
+     "screen_name": "Twitter",
+     "name": "Twitter",
+     "id": 783214,
+     "id_str": "783214",
+     "indices": [
+      23,
+      31
+     ]
+    },
+    {
+     "screen_name": "mayemusk",
+     "name": "Maye Musk",
+     "id": 14171401,
+     "id_str": "14171401",
+     "indices": [
+      32,
+      41
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      42,
+      48
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      49,
+      56
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 07:55:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

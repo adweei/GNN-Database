@@ -1,0 +1,1940 @@
+{
+ "1141754235299749888": {
+  "Wed Feb 15 23:53:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:51:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ray4tesla",
+     "name": "Ray",
+     "id": 959168599519764480,
+     "id_str": "959168599519764480",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:51:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "hikingskiing",
+     "name": "Big Tesla",
+     "id": 916681351247613954,
+     "id_str": "916681351247613954",
+     "indices": [
+      14,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:50:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "TSLA",
+     "indices": [
+      37,
+      42
+     ]
+    },
+    {
+     "text": "ARKQ",
+     "indices": [
+      76,
+      81
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaBoomerMama",
+     "name": "\ud83d\udc99 Alexandra Merz",
+     "id": 833154196727689218,
+     "id_str": "833154196727689218",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:50:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaCharging",
+     "name": "Tesla Charging",
+     "id": 1346535293449428992,
+     "id_str": "1346535293449428992",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/5c06LZaW6I",
+     "expanded_url": "https://www.tesla.com/findus?location=19206",
+     "display_url": "tesla.com/findus?locatio\u2026",
+     "indices": [
+      67,
+      90
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1625930035315228672,
+     "id_str": "1625930035315228672",
+     "indices": [
+      91,
+      114
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpB2wKiaQAAEXlJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpB2wKiaQAAEXlJ.jpg",
+     "url": "https://t.co/s7nsG5lKQM",
+     "display_url": "pic.twitter.com/s7nsG5lKQM",
+     "expanded_url": "https://twitter.com/TeslaCharging/status/1625930040742649856/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1704,
+       "h": 959,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625930040742649856,
+     "source_status_id_str": "1625930040742649856",
+     "source_user_id": 1346535293449428992,
+     "source_user_id_str": "1346535293449428992"
+    }
+   ]
+  },
+  "Wed Feb 15 23:50:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ICannot_Enough",
+     "name": "James Stephenson",
+     "id": 367237480,
+     "id_str": "367237480",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625906707862892552,
+     "id_str": "1625906707862892552",
+     "indices": [
+      23,
+      46
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpBhiVAXsAgmPKs.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpBhiVAXsAgmPKs.jpg",
+     "url": "https://t.co/006471zc1W",
+     "display_url": "pic.twitter.com/006471zc1W",
+     "expanded_url": "https://twitter.com/ICannot_Enough/status/1625907152400384000/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1012,
+       "h": 630,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 423,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1012,
+       "h": 630,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625907152400384000,
+     "source_status_id_str": "1625907152400384000",
+     "source_user_id": 367237480,
+     "source_user_id_str": "367237480"
+    }
+   ]
+  },
+  "Wed Feb 15 23:50:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:48:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JoeTegtmeyer",
+     "name": "Joe Tegtmeyer \ud83d\ude80 \ud83e\udd20\ud83d\ude0e",
+     "id": 1288973134339739648,
+     "id_str": "1288973134339739648",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:48:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:48:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      14,
+      20
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:47:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:45:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "alex_avoigt",
+     "name": "Alex",
+     "id": 718747351792398336,
+     "id_str": "718747351792398336",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:44:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaBoomerMama",
+     "name": "\ud83d\udc99 Alexandra Merz",
+     "id": 833154196727689218,
+     "id_str": "833154196727689218",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:44:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:44:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaCharging",
+     "name": "Tesla Charging",
+     "id": 1346535293449428992,
+     "id_str": "1346535293449428992",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:44:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 23:37:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "unusual_whales",
+     "name": "unusual_whales",
+     "id": 1200616796295847936,
+     "id_str": "1200616796295847936",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:46:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MatchasmMatt",
+     "name": "Matt Smith",
+     "id": 778282085433876480,
+     "id_str": "778282085433876480",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/3WFwCZSPJh",
+     "expanded_url": "https://seekingalpha.com/news/3936223-tesla-to-open-portion-of-us-supercharger-network-white-house?mailingid=30557343&messageid=2900&serial=30557343.67446&utm_campaign=rta-stock-news&utm_content=link-3&utm_medium=email&utm_source=seeking_alpha&utm_term=30557343.67446",
+     "display_url": "seekingalpha.com/news/3936223-t\u2026",
+     "indices": [
+      82,
+      105
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 16:46:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:46:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625695868711215104,
+     "id_str": "1625695868711215104",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "url": "https://t.co/yBqWFUDIQH",
+     "display_url": "pic.twitter.com/yBqWFUDIQH",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625695877326340102/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 532,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1248,
+       "h": 1594,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 940,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625695877326340102,
+     "source_status_id_str": "1625695877326340102",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 16:46:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tesla_europe",
+     "name": "Tesla Europe",
+     "id": 1620480811303866369,
+     "id_str": "1620480811303866369",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:46:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tesla_europe",
+     "name": "Tesla Europe",
+     "id": 1620480811303866369,
+     "id_str": "1620480811303866369",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:46:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tesla_europe",
+     "name": "Tesla Europe",
+     "id": 1620480811303866369,
+     "id_str": "1620480811303866369",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:45:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ray4tesla",
+     "name": "Ray",
+     "id": 959168599519764480,
+     "id_str": "959168599519764480",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:45:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "alx",
+     "name": "ALX \ud83c\uddfa\ud83c\uddf8",
+     "id": 534023,
+     "id_str": "534023",
+     "indices": [
+      14,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:45:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:45:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:44:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "TSLAQ",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "garyblack00",
+     "name": "Gary Black",
+     "id": 1161703589942878208,
+     "id_str": "1161703589942878208",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:42:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625609845633064961,
+     "id_str": "1625609845633064961",
+     "indices": [
+      38,
+      61
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625609845633064961/pu/img/cr1HI4MBZFo7B01b.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625609845633064961/pu/img/cr1HI4MBZFo7B01b.jpg",
+     "url": "https://t.co/Sz8TA0gWEy",
+     "display_url": "pic.twitter.com/Sz8TA0gWEy",
+     "expanded_url": "https://twitter.com/Tesla/status/1625609972393422849/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625609972393422849,
+     "source_status_id_str": "1625609972393422849",
+     "source_user_id": 13298072,
+     "source_user_id_str": "13298072"
+    }
+   ]
+  },
+  "Wed Feb 15 16:42:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "darenyoong",
+     "name": "Daren Yoong",
+     "id": 2677295778,
+     "id_str": "2677295778",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      28,
+      34
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:41:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "alx",
+     "name": "ALX \ud83c\uddfa\ud83c\uddf8",
+     "id": 534023,
+     "id_str": "534023",
+     "indices": [
+      14,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:41:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "alex_avoigt",
+     "name": "Alex",
+     "id": 718747351792398336,
+     "id_str": "718747351792398336",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 17:04:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/sjban6T4yA",
+     "expanded_url": "https://youtu.be/T45ROgh1ChQ",
+     "display_url": "youtu.be/T45ROgh1ChQ",
+     "indices": [
+      52,
+      75
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 17:04:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "teslaownersSV",
+     "name": "Tesla Owners Silicon Valley",
+     "id": 1016059981907386368,
+     "id_str": "1016059981907386368",
+     "indices": [
+      14,
+      28
+     ]
+    },
+    {
+     "screen_name": "RealDanODowd",
+     "name": "Dan O'Dowd",
+     "id": 1399133612469932036,
+     "id_str": "1399133612469932036",
+     "indices": [
+      29,
+      42
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 17:03:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Teslarati",
+     "name": "TESLARATI",
+     "id": 1308211178,
+     "id_str": "1308211178",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "ResidentSponge",
+     "name": "Simon Alvarez",
+     "id": 798749450223030272,
+     "id_str": "798749450223030272",
+     "indices": [
+      111,
+      126
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/RoAvKpI0ds",
+     "expanded_url": "https://www.teslarati.com/ferrari-ceo-credits-tesla/",
+     "display_url": "teslarati.com/ferrari-ceo-cr\u2026",
+     "indices": [
+      84,
+      107
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 17:03:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tesmanian_com",
+     "name": "Tesmanian.com",
+     "id": 1100520274200416256,
+     "id_str": "1100520274200416256",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/UI6EF3cQYC",
+     "expanded_url": "https://www.tesmanian.com/blogs/tesmanian-blog/tesla-giga-berlin-has-started-a-massive-deployment-of-rooftop-solar-panels",
+     "display_url": "tesmanian.com/blogs/tesmania\u2026",
+     "indices": [
+      88,
+      111
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 17:01:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "vincent13031925",
+     "name": "vincentyu.eth",
+     "id": 1689516060,
+     "id_str": "1689516060",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/bjBEkUDfUr",
+     "expanded_url": "https://www.tesmanian.com/blogs/tesmanian-blog/largest-u-s-pension-buys-131m-worth-of-tesla-shares-in-q4-2022",
+     "display_url": "tesmanian.com/blogs/tesmania\u2026",
+     "indices": [
+      94,
+      117
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 17:00:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Ali_TeslaMY",
+     "name": "Ali \ud83c\uddf9\ud83c\uddf7",
+     "id": 1266576124215201792,
+     "id_str": "1266576124215201792",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "DavidSacks",
+     "name": "David Sacks",
+     "id": 1137701,
+     "id_str": "1137701",
+     "indices": [
+      45,
+      56
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      78,
+      87
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 17:00:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Ali_TeslaMY",
+     "name": "Ali",
+     "id": 1266576124215201792,
+     "id_str": "1266576124215201792",
+     "indices": [
+      14,
+      26
+     ]
+    },
+    {
+     "screen_name": "DavidSacks",
+     "name": "David Sacks",
+     "id": 1137701,
+     "id_str": "1137701",
+     "indices": [
+      27,
+      38
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 16:59:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "MuskUniversity",
+     "name": "Musk University | Quotes",
+     "id": 1495956968640421893,
+     "id_str": "1495956968640421893",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 16:58:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "StationCDRKelly",
+     "name": "Scott Kelly",
+     "id": 65647594,
+     "id_str": "65647594",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 16:58:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 16:58:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      84,
+      90
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 16:55:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "paulg",
+     "name": "Paul Graham",
+     "id": 183749519,
+     "id_str": "183749519",
+     "indices": [
+      14,
+      20
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 16:55:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "paulg",
+     "name": "Paul Graham",
+     "id": 183749519,
+     "id_str": "183749519",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:04:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "markusreimer",
+     "name": "Markus Reimer",
+     "id": 19820921,
+     "id_str": "19820921",
+     "indices": [
+      14,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:03:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MatchasmMatt",
+     "name": "Matt Smith",
+     "id": 778282085433876480,
+     "id_str": "778282085433876480",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:02:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "MuskUniversity",
+     "name": "Musk University | Quotes",
+     "id": 1495956968640421893,
+     "id_str": "1495956968640421893",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:02:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "stevenmarkryan",
+     "name": "stevenmarkryan",
+     "id": 31263848,
+     "id_str": "31263848",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:02:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jpr007",
+     "name": "JPR007",
+     "id": 52370117,
+     "id_str": "52370117",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/kd9SETPQKs",
+     "expanded_url": "https://www.notateslaapp.com/news/1198/tesla-fsd-hardware-4-0-approved-in-europe-for-new-model-s-and-x",
+     "display_url": "notateslaapp.com/news/1198/tesl\u2026",
+     "indices": [
+      76,
+      99
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 15:02:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Teslarati",
+     "name": "TESLARATI",
+     "id": 1308211178,
+     "id_str": "1308211178",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "WilliamWritin",
+     "name": "William Johnson",
+     "id": 1534554588052873216,
+     "id_str": "1534554588052873216",
+     "indices": [
+      121,
+      135
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/g79ndzwsql",
+     "expanded_url": "https://www.teslarati.com/tesla-model-x-plaid-drag-race-2023/",
+     "display_url": "teslarati.com/tesla-model-x-\u2026",
+     "indices": [
+      94,
+      117
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 15:01:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      14,
+      28
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:00:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      14,
+      25
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 17:27:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "tomkarren",
+     "name": "Tom Karren\u26a1\ufe0f",
+     "id": 88004258,
+     "id_str": "88004258",
+     "indices": [
+      19,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 17:24:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/MnDEm70ELM",
+     "expanded_url": "http://tesla.com/solar",
+     "display_url": "tesla.com/solar",
+     "indices": [
+      57,
+      80
+     ]
+    }
+   ]
+  },
+  "Sat Feb 11 17:23:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      3,
+      9
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624439929332764673,
+     "id_str": "1624439929332764673",
+     "indices": [
+      86,
+      109
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624439929332764673/pu/img/qLu6EBFGwiY6BwXf.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624439929332764673/pu/img/qLu6EBFGwiY6BwXf.jpg",
+     "url": "https://t.co/P1eGIhnN2v",
+     "display_url": "pic.twitter.com/P1eGIhnN2v",
+     "expanded_url": "https://twitter.com/Tesla/status/1624439953223520257/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624439953223520257,
+     "source_status_id_str": "1624439953223520257",
+     "source_user_id": 13298072,
+     "source_user_id_str": "13298072"
+    }
+   ]
+  },
+  "Sat Feb 11 17:21:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      0,
+      14
+     ]
+    },
+    {
+     "screen_name": "TeslaSolar",
+     "name": "Tesla Solar",
+     "id": 1405917556318392324,
+     "id_str": "1405917556318392324",
+     "indices": [
+      15,
+      26
+     ]
+    },
+    {
+     "screen_name": "BossEnergy6",
+     "name": "BossEnergy",
+     "id": 1354259856627269635,
+     "id_str": "1354259856627269635",
+     "indices": [
+      27,
+      39
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      40,
+      46
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      47,
+      56
+     ]
+    },
+    {
+     "screen_name": "TeslaSolar",
+     "name": "Tesla Solar",
+     "id": 1405917556318392324,
+     "id_str": "1405917556318392324",
+     "indices": [
+      70,
+      81
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 17:20:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "TeslaSolar",
+     "name": "Tesla Solar",
+     "id": 1405917556318392324,
+     "id_str": "1405917556318392324",
+     "indices": [
+      37,
+      48
+     ]
+    },
+    {
+     "screen_name": "BossEnergy6",
+     "name": "BossEnergy",
+     "id": 1354259856627269635,
+     "id_str": "1354259856627269635",
+     "indices": [
+      56,
+      68
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624445292916473859,
+     "id_str": "1624445292916473859",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoswYyFXgAMOQuV.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoswYyFXgAMOQuV.jpg",
+     "url": "https://t.co/veXRXccjsy",
+     "display_url": "pic.twitter.com/veXRXccjsy",
+     "expanded_url": "https://twitter.com/SawyerMerritt/status/1624445647481872388/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 900,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 510,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1536,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624445647481872388,
+     "source_status_id_str": "1624445647481872388",
+     "source_user_id": 243013409,
+     "source_user_id_str": "243013409"
+    }
+   ]
+  },
+  "Sat Feb 11 15:53:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Teslarati",
+     "name": "TESLARATI",
+     "id": 1308211178,
+     "id_str": "1308211178",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "KlenderJoey",
+     "name": "Joey Klender",
+     "id": 1166039075847114752,
+     "id_str": "1166039075847114752",
+     "indices": [
+      100,
+      112
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/ieM9uPba9J",
+     "expanded_url": "https://www.teslarati.com/tesla-model-y-performance-500-increase-u-s/",
+     "display_url": "teslarati.com/tesla-model-y-\u2026",
+     "indices": [
+      73,
+      96
+     ]
+    }
+   ]
+  },
+  "Sat Feb 11 15:52:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      25,
+      31
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 15:52:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Teslarati",
+     "name": "TESLARATI",
+     "id": 1308211178,
+     "id_str": "1308211178",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Ft9xeFbUSm",
+     "expanded_url": "https://www.teslarati.com/white-house-admits-tesla-elon-musk-help-supercharger-network/",
+     "display_url": "teslarati.com/white-house-ad\u2026",
+     "indices": [
+      83,
+      106
+     ]
+    }
+   ]
+  },
+  "Sat Feb 11 15:51:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "TSLA",
+     "indices": [
+      89,
+      94
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "TeslaPodcast",
+     "name": "Rob Maurer",
+     "id": 898021206967951360,
+     "id_str": "898021206967951360",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 15:51:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LucentEnergy",
+     "name": "Lucent Energy",
+     "id": 3165302590,
+     "id_str": "3165302590",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "teslasolarroof",
+     "name": "Solarroof",
+     "id": 780150116825047040,
+     "id_str": "780150116825047040",
+     "indices": [
+      36,
+      51
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 15:50:32 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 15:49:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SawyerMerritt",
+     "name": "Sawyer Merritt",
+     "id": 243013409,
+     "id_str": "243013409",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      25,
+      31
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 15:49:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "farzyness",
+     "name": "Farzad Mesbahi",
+     "id": 17862108,
+     "id_str": "17862108",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "jimfarley98",
+     "name": "Jim Farley",
+     "id": 1106321031566893057,
+     "id_str": "1106321031566893057",
+     "indices": [
+      18,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 15:49:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WholeMarsBlog",
+     "name": "Whole Mars Catalog",
+     "id": 1263491240336769026,
+     "id_str": "1263491240336769026",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 15:49:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Tesmanian_com",
+     "name": "Tesmanian.com",
+     "id": 1100520274200416256,
+     "id_str": "1100520274200416256",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/BNdAkfwYjl",
+     "expanded_url": "https://www.tesmanian.com/blogs/tesmanian-blog/tesla-megapack-to-power-canadas-largest-250-mw-1-000-mwh-energy-storage-project",
+     "display_url": "tesmanian.com/blogs/tesmania\u2026",
+     "indices": [
+      105,
+      128
+     ]
+    }
+   ]
+  },
+  "Sat Feb 11 15:47:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Rainmaker1973",
+     "name": "Massimo",
+     "id": 177101260,
+     "id_str": "177101260",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

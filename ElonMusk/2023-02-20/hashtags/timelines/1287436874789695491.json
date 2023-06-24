@@ -1,0 +1,567 @@
+{
+ "1287436874789695491": {
+  "Sun Feb 19 23:27:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627377245751857152,
+     "id_str": "1627377245751857152",
+     "indices": [
+      71,
+      94
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWa-5iX0AAU-8d.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWa-5iX0AAU-8d.jpg",
+     "url": "https://t.co/B1JQFC7Ojh",
+     "display_url": "pic.twitter.com/B1JQFC7Ojh",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627377252777226242/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 983,
+       "h": 554,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 983,
+       "h": 554,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627377252777226242,
+     "source_status_id_str": "1627377252777226242",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 23:27:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "muskQu0tes",
+     "name": "Elon Musk Quotes & Parody",
+     "id": 1564277306641698817,
+     "id_str": "1564277306641698817",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627414221607825408,
+     "id_str": "1627414221607825408",
+     "indices": [
+      36,
+      59
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpW8nLVacAApuKw.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpW8nLVacAApuKw.jpg",
+     "url": "https://t.co/yDO95p2L6n",
+     "display_url": "pic.twitter.com/yDO95p2L6n",
+     "expanded_url": "https://twitter.com/muskQu0tes/status/1627414227052019712/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 508,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 950,
+       "h": 710,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 950,
+       "h": 710,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627414227052019712,
+     "source_status_id_str": "1627414227052019712",
+     "source_user_id": 1564277306641698817,
+     "source_user_id_str": "1564277306641698817"
+    }
+   ]
+  },
+  "Sun Feb 19 23:26:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 23:26:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "klrahul",
+     "name": "K L Rahul",
+     "id": 1469065189,
+     "id_str": "1469065189",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627329569824059393,
+     "id_str": "1627329569824059393",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpVvny3aMAE_gWx.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpVvny3aMAE_gWx.jpg",
+     "url": "https://t.co/ejnbYNLRzx",
+     "display_url": "pic.twitter.com/ejnbYNLRzx",
+     "expanded_url": "https://twitter.com/klrahul/status/1627329579051540481/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 853,
+       "h": 568,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 853,
+       "h": 568,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627329579051540481,
+     "source_status_id_str": "1627329579051540481",
+     "source_user_id": 1469065189,
+     "source_user_id_str": "1469065189"
+    }
+   ]
+  },
+  "Sun Feb 19 23:26:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627246530309627904,
+     "id_str": "1627246530309627904",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "url": "https://t.co/O3nGpfeRZ7",
+     "display_url": "pic.twitter.com/O3nGpfeRZ7",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627246535581761536/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627246535581761536,
+     "source_status_id_str": "1627246535581761536",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 23:24:50 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "painting",
+     "indices": [
+      30,
+      39
+     ]
+    },
+    {
+     "text": "drawing",
+     "indices": [
+      40,
+      48
+     ]
+    },
+    {
+     "text": "art",
+     "indices": [
+      49,
+      53
+     ]
+    },
+    {
+     "text": "love",
+     "indices": [
+      54,
+      59
+     ]
+    },
+    {
+     "text": "peace",
+     "indices": [
+      60,
+      66
+     ]
+    },
+    {
+     "text": "naturelovers",
+     "indices": [
+      67,
+      80
+     ]
+    },
+    {
+     "text": "Flowers",
+     "indices": [
+      81,
+      89
+     ]
+    },
+    {
+     "text": "Crown",
+     "indices": [
+      90,
+      96
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "utsavart1",
+     "name": "Utsav",
+     "id": 1522097154906415104,
+     "id_str": "1522097154906415104",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627323159723626498,
+     "id_str": "1627323159723626498",
+     "indices": [
+      97,
+      120
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1627323159723626498/pu/img/d6ZYf04Eho0LkTMu.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1627323159723626498/pu/img/d6ZYf04Eho0LkTMu.jpg",
+     "url": "https://t.co/e1L140GWNR",
+     "display_url": "pic.twitter.com/e1L140GWNR",
+     "expanded_url": "https://twitter.com/utsavart1/status/1627323297250541570/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627323297250541570,
+     "source_status_id_str": "1627323297250541570",
+     "source_user_id": 1522097154906415104,
+     "source_user_id_str": "1522097154906415104"
+    }
+   ]
+  },
+  "Sun Feb 19 23:24:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "skychauhanz",
+     "name": "Akash Chauhan Fans",
+     "id": 1354745064203771904,
+     "id_str": "1354745064203771904",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 15:00:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "picklednutz",
+     "name": "ghosthappens",
+     "id": 2339685007,
+     "id_str": "2339685007",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626951407764119557,
+     "id_str": "1626951407764119557",
+     "indices": [
+      17,
+      40
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpQXr3aaIAU7HeG.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpQXr3aaIAU7HeG.jpg",
+     "url": "https://t.co/IARjb5XoHA",
+     "display_url": "pic.twitter.com/IARjb5XoHA",
+     "expanded_url": "https://twitter.com/picklednutz/status/1626951412751142914/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 664,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1054,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1054,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626951412751142914,
+     "source_status_id_str": "1626951412751142914",
+     "source_user_id": 2339685007,
+     "source_user_id_str": "2339685007"
+    }
+   ]
+  },
+  "Fri Feb 17 15:34:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 15:58:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 15:58:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "UAEvAFG",
+     "indices": [
+      83,
+      91
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EmiratesCricket",
+     "name": "UAE Cricket Official",
+     "id": 2827576903,
+     "id_str": "2827576903",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626230684594618372,
+     "id_str": "1626230684594618372",
+     "indices": [
+      92,
+      115
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpGIMQYaQAQXXLs.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpGIMQYaQAQXXLs.jpg",
+     "url": "https://t.co/g7pBVhmb98",
+     "display_url": "pic.twitter.com/g7pBVhmb98",
+     "expanded_url": "https://twitter.com/EmiratesCricket/status/1626231099071565825/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1366,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626231099071565825,
+     "source_status_id_str": "1626231099071565825",
+     "source_user_id": 2827576903,
+     "source_user_id_str": "2827576903"
+    }
+   ]
+  },
+  "Thu Feb 16 14:48:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

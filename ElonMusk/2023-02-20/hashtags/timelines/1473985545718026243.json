@@ -1,0 +1,589 @@
+{
+ "1473985545718026243": {
+  "Mon Feb 20 12:49:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [
+    {
+     "text": "FLOKI",
+     "indices": [
+      133,
+      139
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "kucoincom",
+     "name": "KUCOIN",
+     "id": 910110294625492992,
+     "id_str": "910110294625492992",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "timmtsai",
+     "name": "Tim Tsai",
+     "id": 1455747005850869769,
+     "id_str": "1455747005850869769",
+     "indices": [
+      57,
+      66
+     ]
+    },
+    {
+     "screen_name": "RealFlokiInu",
+     "name": "FLOKI",
+     "id": 1408806420233916416,
+     "id_str": "1408806420233916416",
+     "indices": [
+      85,
+      98
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 12:44:55 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BITCOIN",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rovercrc",
+     "name": "Crypto Rover",
+     "id": 1353384573435056128,
+     "id_str": "1353384573435056128",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627645080210219008,
+     "id_str": "1627645080210219008",
+     "indices": [
+      45,
+      68
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpaOk6pXoAAXUIm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpaOk6pXoAAXUIm.jpg",
+     "url": "https://t.co/TBBy4v7h7y",
+     "display_url": "pic.twitter.com/TBBy4v7h7y",
+     "expanded_url": "https://twitter.com/rovercrc/status/1627647254105292801/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 652,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1113,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 369,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627647254105292801,
+     "source_status_id_str": "1627647254105292801",
+     "source_user_id": 1353384573435056128,
+     "source_user_id_str": "1353384573435056128"
+    }
+   ]
+  },
+  "Mon Feb 20 12:40:40 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "VeChain",
+     "indices": [
+      20,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Cryptowithkhan",
+     "name": "Crypto with Khan ( SFZ )",
+     "id": 1358832277900328960,
+     "id_str": "1358832277900328960",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 18:06:42 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Bitcoin",
+     "indices": [
+      41,
+      49
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rovercrc",
+     "name": "Crypto Rover",
+     "id": 1353384573435056128,
+     "id_str": "1353384573435056128",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 12:07:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627246530309627904,
+     "id_str": "1627246530309627904",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpUkGQkXoAAwzwE.jpg",
+     "url": "https://t.co/O3nGpfeRZ7",
+     "display_url": "pic.twitter.com/O3nGpfeRZ7",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627246535581761536/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 460,
+       "h": 647,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627246535581761536,
+     "source_status_id_str": "1627246535581761536",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 03:53:10 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Bitcoin",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rovercrc",
+     "name": "Crypto Rover",
+     "id": 1353384573435056128,
+     "id_str": "1353384573435056128",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626921765816487936,
+     "id_str": "1626921765816487936",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpP8uejX0AAebK-.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpP8uejX0AAebK-.jpg",
+     "url": "https://t.co/QCLna5TIYb",
+     "display_url": "pic.twitter.com/QCLna5TIYb",
+     "expanded_url": "https://twitter.com/rovercrc/status/1626932544343281664/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 1200,
+       "h": 648,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1106,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 367,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626932544343281664,
+     "source_status_id_str": "1626932544343281664",
+     "source_user_id": 1353384573435056128,
+     "source_user_id_str": "1353384573435056128"
+    }
+   ]
+  },
+  "Sun Feb 19 02:23:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Pi_NetworkIndia",
+     "name": "Pioneers \u03c0",
+     "id": 907217934514192384,
+     "id_str": "907217934514192384",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 02:22:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627055208844103680,
+     "id_str": "1627055208844103680",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpR2F4kaEAAE9Xk.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpR2F4kaEAAE9Xk.jpg",
+     "url": "https://t.co/4HgUSONvzw",
+     "display_url": "pic.twitter.com/4HgUSONvzw",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627055215601147904/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1284,
+       "h": 906,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 847,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 480,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627055215601147904,
+     "source_status_id_str": "1627055215601147904",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sat Feb 18 12:21:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HustleYourMind",
+     "name": "Mind Hustler",
+     "id": 1582048279893868548,
+     "id_str": "1582048279893868548",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 12:20:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Throwback",
+     "indices": [
+      89,
+      99
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PiWhales",
+     "name": "#PiWhales \ud83d\udc33",
+     "id": 1390281974808399874,
+     "id_str": "1390281974808399874",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 08:17:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:23:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "ScottAdamsSays",
+     "name": "Scott Adams",
+     "id": 2853461537,
+     "id_str": "2853461537",
+     "indices": [
+      14,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 06:21:15 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Mahashivratri2023",
+     "indices": [
+      108,
+      126
+     ]
+    },
+    {
+     "text": "India",
+     "indices": [
+      127,
+      133
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Pi_NetworkIndia",
+     "name": "Pioneers \u03c0",
+     "id": 907217934514192384,
+     "id_str": "907217934514192384",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 12:38:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cz_binance",
+     "name": "CZ \ud83d\udd36 Binance",
+     "id": 902926941413453824,
+     "id_str": "902926941413453824",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 12:37:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 09:06:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "teslaownersSV",
+     "name": "Tesla Owners Silicon Valley",
+     "id": 1016059981907386368,
+     "id_str": "1016059981907386368",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      20,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 02:47:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 02:45:15 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "PiPayment",
+     "indices": [
+      47,
+      57
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Pi_NetworkIndia",
+     "name": "Pioneers \u03c0",
+     "id": 907217934514192384,
+     "id_str": "907217934514192384",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

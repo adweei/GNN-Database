@@ -1,0 +1,96 @@
+{
+ "1623271532490539008": {
+  "Wed Feb 08 10:49:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      79,
+      88
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623034619938603008,
+     "id_str": "1623034619938603008",
+     "indices": [
+      89,
+      112
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoYtYzuaAAA0bTX.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoYtYzuaAAA0bTX.jpg",
+     "url": "https://t.co/kKo07vU5hK",
+     "display_url": "pic.twitter.com/kKo07vU5hK",
+     "expanded_url": "https://twitter.com/cb_doge/status/1623034636442996744/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 536,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 597,
+       "h": 758,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 597,
+       "h": 758,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623034636442996744,
+     "source_status_id_str": "1623034636442996744",
+     "source_user_id": 1389913567671975937,
+     "source_user_id_str": "1389913567671975937"
+    }
+   ]
+  },
+  "Wed Feb 08 10:49:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 10:48:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": []
+  }
+ }
+}

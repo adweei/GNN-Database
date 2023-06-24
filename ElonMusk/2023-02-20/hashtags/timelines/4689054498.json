@@ -1,0 +1,3349 @@
+{
+ "4689054498": {
+  "Mon Feb 20 18:24:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Russia",
+     "indices": [
+      56,
+      63
+     ]
+    },
+    {
+     "text": "Ukraine",
+     "indices": [
+      121,
+      129
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HannaLiubakova",
+     "name": "Hanna Liubakova",
+     "id": 720139699,
+     "id_str": "720139699",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 18:16:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ScottAdamsSays",
+     "name": "Scott Adams",
+     "id": 2853461537,
+     "id_str": "2853461537",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 18:15:10 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "COVID19",
+     "indices": [
+      61,
+      69
+     ]
+    },
+    {
+     "text": "Avoindata",
+     "indices": [
+      70,
+      80
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TuomasJMattila",
+     "name": "Tuomas Mattila \ud83c\uddeb\ud83c\uddee \ud83c\udf31\ud83d\ude9c\ud83e\uddea\ud83e\udd7c\ud83d\udd2c\ud83d\udef0\ufe0f\ud83e\udeb1 \ud83d\udca7",
+     "id": 870959318400716800,
+     "id_str": "870959318400716800",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "THLorg",
+     "name": "THL",
+     "id": 493840009,
+     "id_str": "493840009",
+     "indices": [
+      53,
+      60
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 18:11:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DudespostingWs",
+     "name": "Dudes Posting Their W\u2019s",
+     "id": 1354228711466426369,
+     "id_str": "1354228711466426369",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627662674078183432,
+     "id_str": "1627662674078183432",
+     "indices": [
+      29,
+      52
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpaelA6XsAgIThE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpaelA6XsAgIThE.jpg",
+     "url": "https://t.co/cbHw9rKqvO",
+     "display_url": "pic.twitter.com/cbHw9rKqvO",
+     "expanded_url": "https://twitter.com/DudespostingWs/status/1627662678398488577/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 969,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1242,
+       "h": 1538,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 549,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627662678398488577,
+     "source_status_id_str": "1627662678398488577",
+     "source_user_id": 1354228711466426369,
+     "source_user_id_str": "1354228711466426369"
+    }
+   ]
+  },
+  "Mon Feb 20 18:11:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PeterSweden7",
+     "name": "PeterSweden",
+     "id": 707231479047315456,
+     "id_str": "707231479047315456",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 18:10:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheBabylonBee",
+     "name": "The Babylon Bee",
+     "id": 4914384040,
+     "id_str": "4914384040",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 18:10:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ylenews",
+     "name": "Yle News",
+     "id": 21184887,
+     "id_str": "21184887",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/4hUcUxWBei",
+     "expanded_url": "https://yle.fi/a/74-20018902?text=Migri%27s%2520Finnish%2520citizenship%2520queue%2520longer%2520than%2520ever%2520due%2520to%2520application%2520backlogs&utm_medium=social&utm_source=twitter-share",
+     "display_url": "yle.fi/a/74-20018902?\u2026",
+     "indices": [
+      92,
+      115
+     ]
+    }
+   ]
+  },
+  "Mon Feb 20 18:10:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ylenews",
+     "name": "Yle News",
+     "id": 21184887,
+     "id_str": "21184887",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/lW6aI2bHu2",
+     "expanded_url": "https://yle.fi/a/74-20018863?text=Finland%2520spends%2520%25E2%2582%25AC11m%2520on%2520sniper%2520rifles&utm_medium=social&utm_source=twitter-share",
+     "display_url": "yle.fi/a/74-20018863?\u2026",
+     "indices": [
+      50,
+      73
+     ]
+    }
+   ]
+  },
+  "Mon Feb 20 18:08:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ScottAdamsSays",
+     "name": "Scott Adams",
+     "id": 2853461537,
+     "id_str": "2853461537",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 18:07:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheBabylonBee",
+     "name": "The Babylon Bee",
+     "id": 4914384040,
+     "id_str": "4914384040",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/P9s9KHj0du",
+     "expanded_url": "https://babylonbee.com/news/project-veritas-resigns-from-project-veritas",
+     "display_url": "babylonbee.com/news/project-v\u2026",
+     "indices": [
+      64,
+      87
+     ]
+    }
+   ]
+  },
+  "Mon Feb 20 18:07:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PMeemit",
+     "name": "Pakolliset meemit",
+     "id": 1387875034702749703,
+     "id_str": "1387875034702749703",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z4FMOBFzp8",
+     "expanded_url": "https://pakollisetmeemit.com/2023/02/20/mika-yllatys/",
+     "display_url": "pakollisetmeemit.com/2023/02/20/mik\u2026",
+     "indices": [
+      79,
+      102
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1627699411357671426,
+     "id_str": "1627699411357671426",
+     "indices": [
+      103,
+      126
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fpa__Z8WIAIB8Qm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fpa__Z8WIAIB8Qm.jpg",
+     "url": "https://t.co/Mk1ktt8pSz",
+     "display_url": "pic.twitter.com/Mk1ktt8pSz",
+     "expanded_url": "https://twitter.com/PMeemit/status/1627699439149232129/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1000,
+       "h": 1000,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1000,
+       "h": 1000,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627699439149232129,
+     "source_status_id_str": "1627699439149232129",
+     "source_user_id": 1387875034702749703,
+     "source_user_id_str": "1387875034702749703"
+    }
+   ]
+  },
+  "Mon Feb 20 18:06:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PMeemit",
+     "name": "Pakolliset meemit",
+     "id": 1387875034702749703,
+     "id_str": "1387875034702749703",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "nuuttiruo",
+     "name": "Nuutti Ruotsalainen",
+     "id": 1138743739,
+     "id_str": "1138743739",
+     "indices": [
+      13,
+      23
+     ]
+    },
+    {
+     "screen_name": "KoomikkoKivi",
+     "name": "Iikka Kivi",
+     "id": 1527117008,
+     "id_str": "1527117008",
+     "indices": [
+      24,
+      37
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 18:06:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JRobFromMN",
+     "name": "Jason Robertson",
+     "id": 1206542173975535618,
+     "id_str": "1206542173975535618",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 18:04:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 12:04:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 11:58:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627605781863333889,
+     "id_str": "1627605781863333889",
+     "indices": [
+      75,
+      98
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1627605781863333889/pu/img/5X2TNqSCzI0zQKFm.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1627605781863333889/pu/img/5X2TNqSCzI0zQKFm.jpg",
+     "url": "https://t.co/H48ZDCVx8Q",
+     "display_url": "pic.twitter.com/H48ZDCVx8Q",
+     "expanded_url": "https://twitter.com/marta_znak/status/1627605844526305281/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627605844526305281,
+     "source_status_id_str": "1627605844526305281",
+     "source_user_id": 2959370278,
+     "source_user_id_str": "2959370278"
+    }
+   ]
+  },
+  "Mon Feb 20 09:10:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 08:50:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChrisBarberi",
+     "name": "Pope Leodis the 14th",
+     "id": 1421893731452600321,
+     "id_str": "1421893731452600321",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      18,
+      29
+     ]
+    },
+    {
+     "screen_name": "pvtjokerus",
+     "name": "john jackson",
+     "id": 1171793868,
+     "id_str": "1171793868",
+     "indices": [
+      30,
+      41
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 20 08:49:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/XW4s7iJqL4",
+     "expanded_url": "https://www.fox29.com/news/police-sources-18-pipe-bomb-found-behind-holmesburg-church-near-railroad-tracks",
+     "display_url": "fox29.com/news/police-so\u2026",
+     "indices": [
+      112,
+      135
+     ]
+    }
+   ]
+  },
+  "Sun Feb 19 20:57:48 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PeterSweden7",
+     "name": "PeterSweden",
+     "id": 707231479047315456,
+     "id_str": "707231479047315456",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 20:56:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mtaibbi",
+     "name": "Matt Taibbi",
+     "id": 38271276,
+     "id_str": "38271276",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 20:50:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "walterkirn",
+     "name": "Walter Kirn",
+     "id": 45516657,
+     "id_str": "45516657",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 20:49:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "garrytan",
+     "name": "Garry Tan \u9648\u5609\u5174",
+     "id": 11768582,
+     "id_str": "11768582",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 20:43:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DylanOgline",
+     "name": "Dylan Ogline",
+     "id": 2429913979,
+     "id_str": "2429913979",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 20:42:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "tupakkalaki",
+     "indices": [
+      100,
+      112
+     ]
+    },
+    {
+     "text": "k\u00e4ytt\u00f6huoneet",
+     "indices": [
+      113,
+      127
+     ]
+    },
+    {
+     "text": "p\u00e4ihteet",
+     "indices": [
+      128,
+      137
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JyrkiVainio",
+     "name": "Jyrki Vainio",
+     "id": 1170839462,
+     "id_str": "1170839462",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 20:41:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JariParantainen",
+     "name": "Jari Parantainen",
+     "id": 126852840,
+     "id_str": "126852840",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 20:40:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JariParantainen",
+     "name": "Jari Parantainen",
+     "id": 126852840,
+     "id_str": "126852840",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 20:37:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kamaljafi",
+     "name": "Kamal Jafi",
+     "id": 3892194873,
+     "id_str": "3892194873",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 20:34:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627377245751857152,
+     "id_str": "1627377245751857152",
+     "indices": [
+      71,
+      94
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpWa-5iX0AAU-8d.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpWa-5iX0AAU-8d.jpg",
+     "url": "https://t.co/B1JQFC7Ojh",
+     "display_url": "pic.twitter.com/B1JQFC7Ojh",
+     "expanded_url": "https://twitter.com/elonmusk/status/1627377252777226242/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 983,
+       "h": 554,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 983,
+       "h": 554,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1627377252777226242,
+     "source_status_id_str": "1627377252777226242",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 19 20:31:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheBabylonBee",
+     "name": "The Babylon Bee",
+     "id": 4914384040,
+     "id_str": "4914384040",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/iLanLLxb2E",
+     "expanded_url": "https://babylonbee.com/news/dad-takes-kid-to-mall-to-learn-about-how-their-ancient-ancestors-shopped-for-jeans",
+     "display_url": "babylonbee.com/news/dad-takes\u2026",
+     "indices": [
+      104,
+      127
+     ]
+    }
+   ]
+  },
+  "Sun Feb 19 20:30:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheBabylonBee",
+     "name": "The Babylon Bee",
+     "id": 4914384040,
+     "id_str": "4914384040",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:25:26 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Ahvenanmaa",
+     "indices": [
+      92,
+      103
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AarneLeinonen",
+     "name": "Aarne Leinonen LIB Helsinki",
+     "id": 2844149627,
+     "id_str": "2844149627",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 19:13:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1627333977299091459,
+     "id_str": "1627333977299091459",
+     "indices": [
+      115,
+      138
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpVzoV_WAAMXa8b.png",
+     "media_url_https": "https://pbs.twimg.com/media/FpVzoV_WAAMXa8b.png",
+     "url": "https://t.co/QrNH9KGMVI",
+     "display_url": "pic.twitter.com/QrNH9KGMVI",
+     "expanded_url": "https://twitter.com/disclosetv/status/1627334331529142273/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 597,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 597,
+       "h": 680,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 597,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1627334331529142273,
+     "source_status_id_str": "1627334331529142273",
+     "source_user_id": 15392486,
+     "source_user_id_str": "15392486"
+    }
+   ]
+  },
+  "Sun Feb 19 14:54:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ClownWorld_",
+     "name": "Clown World \u2122 \ud83e\udd21",
+     "id": 1446932149148344320,
+     "id_str": "1446932149148344320",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 14:49:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DylanOgline",
+     "name": "Dylan Ogline",
+     "id": 2429913979,
+     "id_str": "2429913979",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 14:44:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:37:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AarneLeinonen",
+     "name": "Aarne Leinonen LIB Helsinki",
+     "id": 2844149627,
+     "id_str": "2844149627",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 19 08:35:40 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Ukraine",
+     "indices": [
+      47,
+      55
+     ]
+    },
+    {
+     "text": "Finland",
+     "indices": [
+      59,
+      67
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ylenews",
+     "name": "Yle News",
+     "id": 21184887,
+     "id_str": "21184887",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/OKmEayHRta",
+     "expanded_url": "https://yle.fi/a/74-20018535",
+     "display_url": "yle.fi/a/74-20018535",
+     "indices": [
+      86,
+      109
+     ]
+    }
+   ]
+  },
+  "Sun Feb 19 07:12:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheBabylonBee",
+     "name": "The Babylon Bee",
+     "id": 4914384040,
+     "id_str": "4914384040",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/MDNvU7R20D",
+     "expanded_url": "https://babylonbee.com/news/biden-routine-physical-confirms-he-is-technically-still-alive",
+     "display_url": "babylonbee.com/news/biden-rou\u2026",
+     "indices": [
+      80,
+      103
+     ]
+    }
+   ]
+  },
+  "Sun Feb 19 06:40:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 15:02:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PeterSweden7",
+     "name": "PeterSweden",
+     "id": 707231479047315456,
+     "id_str": "707231479047315456",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 14:58:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sabelmh",
+     "name": "Mikko Sabel",
+     "id": 919697262,
+     "id_str": "919697262",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 14:53:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheBabylonBee",
+     "name": "The Babylon Bee",
+     "id": 4914384040,
+     "id_str": "4914384040",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/dQpVL53JzW",
+     "expanded_url": "https://babylonbee.com/news/corporation-celebrates-lgbtq-pride-by-making-ohio-river-rainbow-colored",
+     "display_url": "babylonbee.com/news/corporati\u2026",
+     "indices": [
+      92,
+      115
+     ]
+    }
+   ]
+  },
+  "Sat Feb 18 14:25:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 13:25:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JackPosobiec",
+     "name": "Jack Posobiec \ud83c\uddfa\ud83c\uddf8",
+     "id": 592730371,
+     "id_str": "592730371",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 13:23:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JackPosobiec",
+     "name": "Jack Posobiec \ud83c\uddfa\ud83c\uddf8",
+     "id": 592730371,
+     "id_str": "592730371",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 13:18:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 13:17:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheBabylonBee",
+     "name": "The Babylon Bee",
+     "id": 4914384040,
+     "id_str": "4914384040",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/YoFY0gpLTH",
+     "expanded_url": "https://babylonbee.com/news/local-meteorologist-unable-to-report-the-weather-as-all-the-weather-balloons-have-been-shot-down",
+     "display_url": "babylonbee.com/news/local-met\u2026",
+     "indices": [
+      115,
+      138
+     ]
+    }
+   ]
+  },
+  "Sat Feb 18 13:12:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PMeemit",
+     "name": "Pakolliset meemit",
+     "id": 1387875034702749703,
+     "id_str": "1387875034702749703",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 13:11:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SteveWeakSauce",
+     "name": "Steve",
+     "id": 3922571063,
+     "id_str": "3922571063",
+     "indices": [
+      3,
+      18
+     ]
+    },
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      20,
+      36
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626665366683279375,
+     "id_str": "1626665366683279375",
+     "indices": [
+      37,
+      60
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpMTiFWWYA8-xSt.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpMTiFWWYA8-xSt.jpg",
+     "url": "https://t.co/vjPboTLsyZ",
+     "display_url": "pic.twitter.com/vjPboTLsyZ",
+     "expanded_url": "https://twitter.com/SteveWeakSauce/status/1626665368772136960/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 720,
+       "h": 1600,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 306,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 540,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626665368772136960,
+     "source_status_id_str": "1626665368772136960",
+     "source_user_id": 3922571063,
+     "source_user_id_str": "3922571063"
+    }
+   ]
+  },
+  "Sat Feb 18 13:06:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626861778830348288,
+     "id_str": "1626861778830348288",
+     "indices": [
+      26,
+      49
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpPGKxnX0AAZ3bw.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpPGKxnX0AAZ3bw.jpg",
+     "url": "https://t.co/3G7ABMNegT",
+     "display_url": "pic.twitter.com/3G7ABMNegT",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626861786673848321/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1194,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 634,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1119,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626861786673848321,
+     "source_status_id_str": "1626861786673848321",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sat Feb 18 13:02:27 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Nigeria",
+     "indices": [
+      13,
+      21
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ylenews",
+     "name": "Yle News",
+     "id": 21184887,
+     "id_str": "21184887",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/6XykvPx2py",
+     "expanded_url": "https://yle.fi/a/74-20018520",
+     "display_url": "yle.fi/a/74-20018520",
+     "indices": [
+      83,
+      106
+     ]
+    }
+   ]
+  },
+  "Sat Feb 18 13:01:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 13:01:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      0,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626929870138757121,
+     "id_str": "1626929870138757121",
+     "indices": [
+      62,
+      85
+     ],
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/FpQEGNgX0AENCcx.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FpQEGNgX0AENCcx.jpg",
+     "url": "https://t.co/50ZL3fUmQt",
+     "display_url": "pic.twitter.com/50ZL3fUmQt",
+     "expanded_url": "https://twitter.com/antil00ppi/status/1626929878770524160/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 480,
+       "h": 480,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 480,
+       "h": 480,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 480,
+       "h": 480,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Sat Feb 18 12:59:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 12:26:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AarneLeinonen",
+     "name": "Aarne Leinonen LIB",
+     "id": 2844149627,
+     "id_str": "2844149627",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 12:26:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 12:23:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:32:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:31:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:28:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nypost",
+     "name": "New York Post",
+     "id": 17469289,
+     "id_str": "17469289",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/9QmrUkjVNP",
+     "expanded_url": "https://trib.al/OD7PfBx",
+     "display_url": "trib.al/OD7PfBx",
+     "indices": [
+      105,
+      128
+     ]
+    }
+   ]
+  },
+  "Sat Feb 18 10:23:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 18 10:21:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "iltalehti_fi",
+     "name": "Iltalehti",
+     "id": 66947137,
+     "id_str": "66947137",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 14:19:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 14:19:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 13:52:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "vilranta",
+     "name": "Ville Ranta",
+     "id": 3317283520,
+     "id_str": "3317283520",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626537115608576003,
+     "id_str": "1626537115608576003",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpKe443WcAMBd55.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpKe443WcAMBd55.jpg",
+     "url": "https://t.co/qM0tApArOJ",
+     "display_url": "pic.twitter.com/qM0tApArOJ",
+     "expanded_url": "https://twitter.com/vilranta/status/1626537128405397510/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 945,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 536,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2000,
+       "h": 1575,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626537128405397510,
+     "source_status_id_str": "1626537128405397510",
+     "source_user_id": 3317283520,
+     "source_user_id_str": "3317283520"
+    }
+   ]
+  },
+  "Fri Feb 17 13:48:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "hurumdara2",
+     "name": "Pepe \ud83d\ude95Taksonomi\ud83d\ude95\u2720\u2665\u2693",
+     "id": 20658879,
+     "id_str": "20658879",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626543208560730114,
+     "id_str": "1626543208560730114",
+     "indices": [
+      108,
+      131
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpKkbi4WIAI5c9m.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpKkbi4WIAI5c9m.jpg",
+     "url": "https://t.co/uY4PuOXQ0L",
+     "display_url": "pic.twitter.com/uY4PuOXQ0L",
+     "expanded_url": "https://twitter.com/hurumdara2/status/1626543318690680833/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 540,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 306,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 922,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626543318690680833,
+     "source_status_id_str": "1626543318690680833",
+     "source_user_id": 20658879,
+     "source_user_id_str": "20658879"
+    }
+   ]
+  },
+  "Fri Feb 17 13:46:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "billmaher",
+     "name": "Bill Maher",
+     "id": 19697415,
+     "id_str": "19697415",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      75,
+      84
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 13:45:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Project_Veritas",
+     "name": "Project Veritas",
+     "id": 850036892,
+     "id_str": "850036892",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 13:43:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "hsfi",
+     "name": "Helsingin Sanomat",
+     "id": 39540130,
+     "id_str": "39540130",
+     "indices": [
+      0,
+      5
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/teYP0gWOKv",
+     "expanded_url": "https://twitter.com/i/web/status/1626578142814167040",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 13:37:22 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Nigeria",
+     "indices": [
+      13,
+      21
+     ]
+    },
+    {
+     "text": "Finland",
+     "indices": [
+      30,
+      38
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ylenews",
+     "name": "Yle News",
+     "id": 21184887,
+     "id_str": "21184887",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/6XykvPx2py",
+     "expanded_url": "https://yle.fi/a/74-20018520",
+     "display_url": "yle.fi/a/74-20018520",
+     "indices": [
+      92,
+      115
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 11:29:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/1PYGNlnQ06",
+     "expanded_url": "https://yle.fi/a/74-20017976?utm_source=twitter&utm_medium=social&utm_content=yleuutiset",
+     "display_url": "yle.fi/a/74-20017976?\u2026",
+     "indices": [
+      112,
+      135
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 09:41:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "GRDecter",
+     "name": "Genevieve Roch-Decter, CFA",
+     "id": 1281457267582177280,
+     "id_str": "1281457267582177280",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 09:38:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Rajajoppe",
+     "name": "Jooa Raja-aho kansanedustajaehdokas 2023 (PS)",
+     "id": 932663925539328000,
+     "id_str": "932663925539328000",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/y2smlTEpn2",
+     "expanded_url": "https://www.mtvuutiset.fi/makuja/artikkeli/soisitko-itse-rovaniemelainen-jere-15-kyllastyi-kouluruoan-tasoon-ja-jarjestaa-nyt-mielenosoitusta/8634968?utm_medium=Social&utm_source=Facebook#Echobox=1676547604",
+     "display_url": "mtvuutiset.fi/makuja/artikke\u2026",
+     "indices": [
+      92,
+      115
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 09:17:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ksorbs",
+     "name": "Kevin Sorbo",
+     "id": 33608041,
+     "id_str": "33608041",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 09:17:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 09:16:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/EfNgQbzXWf",
+     "expanded_url": "https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html",
+     "display_url": "nytimes.com/2023/02/16/tec\u2026",
+     "indices": [
+      59,
+      82
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1626232176038785027,
+     "id_str": "1626232176038785027",
+     "indices": [
+      83,
+      106
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpGJjEcaMAMZUzJ.png",
+     "media_url_https": "https://pbs.twimg.com/media/FpGJjEcaMAMZUzJ.png",
+     "url": "https://t.co/bks5yKNiaj",
+     "display_url": "pic.twitter.com/bks5yKNiaj",
+     "expanded_url": "https://twitter.com/disclosetv/status/1626232719096291328/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 576,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 700,
+       "h": 593,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 700,
+       "h": 593,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626232719096291328,
+     "source_status_id_str": "1626232719096291328",
+     "source_user_id": 15392486,
+     "source_user_id_str": "15392486"
+    }
+   ]
+  },
+  "Fri Feb 17 09:15:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "TheRabbitHole84",
+     "name": "The Rabbit Hole",
+     "id": 1485689970593468416,
+     "id_str": "1485689970593468416",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626295790254845952,
+     "id_str": "1626295790254845952",
+     "indices": [
+      78,
+      101
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpHDZ53acAA8miE.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpHDZ53acAA8miE.jpg",
+     "url": "https://t.co/nGHLDB5Ycx",
+     "display_url": "pic.twitter.com/nGHLDB5Ycx",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626295793853534209/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 339,
+       "h": 149,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 339,
+       "h": 149,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 339,
+       "h": 149,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 149,
+       "h": 149,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1626295793853534209,
+     "source_status_id_str": "1626295793853534209",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Fri Feb 17 09:11:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/gvZh1sX2wS",
+     "expanded_url": "https://yle.fi/a/74-20018455?utm_source=twitter&utm_medium=social&utm_content=yleuutiset",
+     "display_url": "yle.fi/a/74-20018455?\u2026",
+     "indices": [
+      86,
+      109
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 09:10:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "stomaninoff",
+     "name": "Stomaninoff",
+     "id": 1527339343861661699,
+     "id_str": "1527339343861661699",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "historyinmemes",
+     "name": "Historic Vids",
+     "id": 855481986290524160,
+     "id_str": "855481986290524160",
+     "indices": [
+      17,
+      32
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 09:10:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "stomaninoff",
+     "name": "Stomaninoff",
+     "id": 1527339343861661699,
+     "id_str": "1527339343861661699",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "Da_one_da_0nly",
+     "name": "semi-biased LH44/MV33 fan",
+     "id": 1558331497987317762,
+     "id_str": "1558331497987317762",
+     "indices": [
+      17,
+      32
+     ]
+    },
+    {
+     "screen_name": "historyinmemes",
+     "name": "Historic Vids",
+     "id": 855481986290524160,
+     "id_str": "855481986290524160",
+     "indices": [
+      33,
+      48
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/mNpcYoWMby",
+     "expanded_url": "https://www.washingtonpost.com/climate-environment/2023/02/14/ohio-train-derailment-toxic-chemicals/",
+     "display_url": "washingtonpost.com/climate-enviro\u2026",
+     "indices": [
+      70,
+      93
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 09:09:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "vaticancameos69",
+     "name": "Sherlock Holmes",
+     "id": 1553515213034557441,
+     "id_str": "1553515213034557441",
+     "indices": [
+      0,
+      16
+     ]
+    },
+    {
+     "screen_name": "stomaninoff",
+     "name": "Stomaninoff",
+     "id": 1527339343861661699,
+     "id_str": "1527339343861661699",
+     "indices": [
+      17,
+      29
+     ]
+    },
+    {
+     "screen_name": "historyinmemes",
+     "name": "Historic Vids",
+     "id": 855481986290524160,
+     "id_str": "855481986290524160",
+     "indices": [
+      30,
+      45
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626508568802344965,
+     "id_str": "1626508568802344965",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpKE7PuXwAU8P1F.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpKE7PuXwAU8P1F.jpg",
+     "url": "https://t.co/dugFfC3wMd",
+     "display_url": "pic.twitter.com/dugFfC3wMd",
+     "expanded_url": "https://twitter.com/antil00ppi/status/1626509022722392064/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 594,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1049,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1790,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Fri Feb 17 08:18:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "historyinmemes",
+     "name": "Historic Vids",
+     "id": 855481986290524160,
+     "id_str": "855481986290524160",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626359056544694272,
+     "id_str": "1626359056544694272",
+     "indices": [
+      92,
+      115
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1626359056544694272/img/ESUxuG8pJiKwQTze.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1626359056544694272/img/ESUxuG8pJiKwQTze.jpg",
+     "url": "https://t.co/9qVoe50tLF",
+     "display_url": "pic.twitter.com/9qVoe50tLF",
+     "expanded_url": "https://twitter.com/historyinmemes/status/1626359499693989891/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626359499693989891,
+     "source_status_id_str": "1626359499693989891",
+     "source_user_id": 855481986290524160,
+     "source_user_id_str": "855481986290524160"
+    }
+   ]
+  },
+  "Fri Feb 17 08:15:39 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "myocarditis",
+     "indices": [
+      98,
+      110
+     ]
+    },
+    {
+     "text": "unvaccinated",
+     "indices": [
+      118,
+      131
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SPABG2",
+     "name": "SmlPplAgstBigGov",
+     "id": 69186551,
+     "id_str": "69186551",
+     "indices": [
+      3,
+      10
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 08:14:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ylenews",
+     "name": "Yle News",
+     "id": 21184887,
+     "id_str": "21184887",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Sumg6mGXo5",
+     "expanded_url": "https://yle.fi/a/74-20018333?text=Minister%2520Lintil%25C3%25A4%2520admits%2520WhatsApp%2520account%2520wasn%27t%2520hacked%252C%2520still%2520denies%2520sending%2520Sanna%2520Marin%2520meme&utm_medium=social&utm_source=twitter-share",
+     "display_url": "yle.fi/a/74-20018333?\u2026",
+     "indices": [
+      107,
+      130
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 08:13:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "teslaownersSV",
+     "name": "Tesla Owners Silicon Valley",
+     "id": 1016059981907386368,
+     "id_str": "1016059981907386368",
+     "indices": [
+      10,
+      24
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/EVNts4D9n7",
+     "expanded_url": "https://twitter.com/i/web/status/1626494937075253248",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 07:57:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626357244869873666,
+     "id_str": "1626357244869873666",
+     "indices": [
+      46,
+      69
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpH7TCJaEAIziQ1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpH7TCJaEAIziQ1.jpg",
+     "url": "https://t.co/gdqWTsHy14",
+     "display_url": "pic.twitter.com/gdqWTsHy14",
+     "expanded_url": "https://twitter.com/elonmusk/status/1626357251094249472/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 500,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626357251094249472,
+     "source_status_id_str": "1626357251094249472",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Fri Feb 17 07:57:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Snowden",
+     "name": "Edward Snowden",
+     "id": 2916305152,
+     "id_str": "2916305152",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626332098406514690,
+     "id_str": "1626332098406514690",
+     "indices": [
+      36,
+      59
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpHkbURWAAIVNNn.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpHkbURWAAIVNNn.jpg",
+     "url": "https://t.co/Zv1NifVzC3",
+     "display_url": "pic.twitter.com/Zv1NifVzC3",
+     "expanded_url": "https://twitter.com/Snowden/status/1626332487977693184/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 972,
+       "h": 1069,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 972,
+       "h": 1069,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 618,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626332487977693184,
+     "source_status_id_str": "1626332487977693184",
+     "source_user_id": 2916305152,
+     "source_user_id_str": "2916305152"
+    }
+   ]
+  },
+  "Fri Feb 17 07:52:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "realstewpeters",
+     "name": "Stew Peters",
+     "id": 1288319695658135552,
+     "id_str": "1288319695658135552",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 07:44:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "historyinmemes",
+     "name": "Historic Vids",
+     "id": 855481986290524160,
+     "id_str": "855481986290524160",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626436146476580864,
+     "id_str": "1626436146476580864",
+     "indices": [
+      64,
+      87
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1626436146476580864/img/nb5_xmyDIOftHUKP.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1626436146476580864/img/nb5_xmyDIOftHUKP.jpg",
+     "url": "https://t.co/xajYYXD3Jn",
+     "display_url": "pic.twitter.com/xajYYXD3Jn",
+     "expanded_url": "https://twitter.com/historyinmemes/status/1626436267398365185/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 962,
+       "h": 722,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 962,
+       "h": 722,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 510,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626436267398365185,
+     "source_status_id_str": "1626436267398365185",
+     "source_user_id": 855481986290524160,
+     "source_user_id_str": "855481986290524160"
+    }
+   ]
+  },
+  "Fri Feb 17 07:41:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 07:40:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nicksortor",
+     "name": "Nick Sortor",
+     "id": 2162812627,
+     "id_str": "2162812627",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 07:40:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GoldenAgeSoon",
+     "name": "Branden",
+     "id": 1443606384457617413,
+     "id_str": "1443606384457617413",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "nicksortor",
+     "name": "Nick Sortor",
+     "id": 2162812627,
+     "id_str": "2162812627",
+     "indices": [
+      19,
+      30
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626329170098679808,
+     "id_str": "1626329170098679808",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpHhw3eWcAAN238.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpHhw3eWcAAN238.jpg",
+     "url": "https://t.co/swve79nbS3",
+     "display_url": "pic.twitter.com/swve79nbS3",
+     "expanded_url": "https://twitter.com/GoldenAgeSoon/status/1626329180785807362/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1079,
+       "h": 855,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 539,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1079,
+       "h": 855,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626329180785807362,
+     "source_status_id_str": "1626329180785807362",
+     "source_user_id": 1443606384457617413,
+     "source_user_id_str": "1443606384457617413"
+    }
+   ]
+  },
+  "Fri Feb 17 07:38:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 07:37:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626326976750403586,
+     "id_str": "1626326976750403586",
+     "indices": [
+      105,
+      128
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1626326976750403586/img/SdticctfzASuUa32.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1626326976750403586/img/SdticctfzASuUa32.jpg",
+     "url": "https://t.co/aSp4ronp3U",
+     "display_url": "pic.twitter.com/aSp4ronp3U",
+     "expanded_url": "https://twitter.com/nicksortor/status/1626327835668320256/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626327835668320256,
+     "source_status_id_str": "1626327835668320256",
+     "source_user_id": 2162812627,
+     "source_user_id_str": "2162812627"
+    }
+   ]
+  },
+  "Fri Feb 17 07:36:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 07:31:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 07:29:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 06:33:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 06:25:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 06:22:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AarneLeinonen",
+     "name": "Aarne Leinonen LIB Helsinki",
+     "id": 2844149627,
+     "id_str": "2844149627",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 05:36:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Fri Feb 17 05:34:14 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/8GNhMXO92N",
+     "expanded_url": "https://www.disclose.tv/id/100055/",
+     "display_url": "disclose.tv/id/100055/",
+     "indices": [
+      87,
+      110
+     ]
+    }
+   ]
+  },
+  "Fri Feb 17 05:28:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1626268147824091136,
+     "id_str": "1626268147824091136",
+     "indices": [
+      71,
+      94
+     ],
+     "media_url": "http://pbs.twimg.com/media/FpGqQ5yWYAAlv2d.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FpGqQ5yWYAAlv2d.jpg",
+     "url": "https://t.co/GRdhrgw2YU",
+     "display_url": "pic.twitter.com/GRdhrgw2YU",
+     "expanded_url": "https://twitter.com/disclosetv/status/1626268174005022722/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1200,
+       "h": 799,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 453,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 799,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1626268174005022722,
+     "source_status_id_str": "1626268174005022722",
+     "source_user_id": 15392486,
+     "source_user_id_str": "15392486"
+    }
+   ]
+  },
+  "Fri Feb 17 05:28:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "disclosetv",
+     "name": "Disclose.tv",
+     "id": 15392486,
+     "id_str": "15392486",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 08:55:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 08:29:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      0,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/1qKYEypUOp",
+     "expanded_url": "https://twitter.com/i/web/status/1626136555604566016",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Thu Feb 16 08:17:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625903651431514113,
+     "id_str": "1625903651431514113",
+     "indices": [
+      113,
+      136
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625903651431514113/pu/img/t3K9MvAIlDm5qPlt.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625903651431514113/pu/img/t3K9MvAIlDm5qPlt.jpg",
+     "url": "https://t.co/NrA8Qsjf7o",
+     "display_url": "pic.twitter.com/NrA8Qsjf7o",
+     "expanded_url": "https://twitter.com/Lukewearechange/status/1625903807774294016/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 372,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 848,
+       "h": 464,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 848,
+       "h": 464,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625903807774294016,
+     "source_status_id_str": "1625903807774294016",
+     "source_user_id": 95994080,
+     "source_user_id_str": "95994080"
+    }
+   ]
+  },
+  "Thu Feb 16 07:22:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      0,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 07:17:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WallStreetSilv",
+     "name": "Wall Street Silver",
+     "id": 1366565625401909249,
+     "id_str": "1366565625401909249",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 07:00:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RatesZero",
+     "name": "Jeremy M. Finamor \u261d\ufe0f \ud83c\udf38 Fiat\u2122 justitia ruat caelum",
+     "id": 1312293145367863299,
+     "id_str": "1312293145367863299",
+     "indices": [
+      3,
+      13
+     ]
+    },
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      15,
+      31
+     ]
+    },
+    {
+     "screen_name": "Cernovich",
+     "name": "Cernovich",
+     "id": 358545917,
+     "id_str": "358545917",
+     "indices": [
+      32,
+      42
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 06:41:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 06:13:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Thu Feb 16 06:01:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yleuutiset",
+     "name": "Yle Uutiset",
+     "id": 23502747,
+     "id_str": "23502747",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/fdntU388bN",
+     "expanded_url": "https://yle.fi/a/74-20018185?utm_source=twitter&utm_medium=social&utm_content=yleuutiset",
+     "display_url": "yle.fi/a/74-20018185?\u2026",
+     "indices": [
+      114,
+      137
+     ]
+    }
+   ]
+  }
+ }
+}

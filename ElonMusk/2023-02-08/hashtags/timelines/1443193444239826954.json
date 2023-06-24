@@ -1,0 +1,400 @@
+{
+ "1443193444239826954": {
+  "Tue Feb 07 15:56:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LordRizy",
+     "name": "Rizy",
+     "id": 1517228065453068288,
+     "id_str": "1517228065453068288",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "MatthewRozsa",
+     "name": "Matthew Rozsa \ud83c\uddfa\ud83c\udde6\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+     "id": 32986235,
+     "id_str": "32986235",
+     "indices": [
+      14,
+      27
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      28,
+      37
+     ]
+    },
+    {
+     "screen_name": "Twitter",
+     "name": "Twitter",
+     "id": 783214,
+     "id_str": "783214",
+     "indices": [
+      38,
+      46
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622829414970171392,
+     "id_str": "1622829414970171392",
+     "indices": [
+      89,
+      112
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoVywTpaIAAVgft.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoVywTpaIAAVgft.jpg",
+     "url": "https://t.co/5mgrGqNg7l",
+     "display_url": "pic.twitter.com/5mgrGqNg7l",
+     "expanded_url": "https://twitter.com/LordRizy/status/1622829422062755840/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 555,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 947,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 314,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622829422062755840,
+     "source_status_id_str": "1622829422062755840",
+     "source_user_id": 1517228065453068288,
+     "source_user_id_str": "1517228065453068288"
+    }
+   ]
+  },
+  "Tue Feb 07 15:55:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MatthewRozsa",
+     "name": "Matthew Rozsa \ud83c\uddfa\ud83c\udde6\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+     "id": 32986235,
+     "id_str": "32986235",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      14,
+      23
+     ]
+    },
+    {
+     "screen_name": "Twitter",
+     "name": "Twitter",
+     "id": 783214,
+     "id_str": "783214",
+     "indices": [
+      24,
+      32
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 15:54:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622825970385453057,
+     "id_str": "1622825970385453057",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg",
+     "url": "https://t.co/tiPbKP8B77",
+     "display_url": "pic.twitter.com/tiPbKP8B77",
+     "expanded_url": "https://twitter.com/elonmusk/status/1622825979021492229/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 853,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1173,
+       "h": 1651,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 483,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622825979021492229,
+     "source_status_id_str": "1622825979021492229",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 07 01:30:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "tyromper",
+     "name": "Tyler Todt",
+     "id": 813957486,
+     "id_str": "813957486",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 01:29:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 01:29:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 01:29:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z6h5975anw",
+     "expanded_url": "https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/",
+     "display_url": "state.gov/bureaus-office\u2026",
+     "indices": [
+      118,
+      141
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 01:22:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Project_Veritas",
+     "name": "Project Veritas",
+     "id": 850036892,
+     "id_str": "850036892",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "pfizer",
+     "name": "Pfizer Inc.",
+     "id": 56488059,
+     "id_str": "56488059",
+     "indices": [
+      53,
+      60
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 01:21:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DR_Fred_Davies",
+     "name": "Fred Davies \ud83d\udd0d",
+     "id": 952932983555723264,
+     "id_str": "952932983555723264",
+     "indices": [
+      0,
+      15
+     ]
+    },
+    {
+     "screen_name": "FoxNews",
+     "name": "Fox News",
+     "id": 1367531,
+     "id_str": "1367531",
+     "indices": [
+      16,
+      24
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 15:53:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SaraGonzalesTX",
+     "name": "Sara Gonzales",
+     "id": 375852740,
+     "id_str": "375852740",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/q3LDkrJ6tF",
+     "expanded_url": "http://RealWomensClub.com",
+     "display_url": "RealWomensClub.com",
+     "indices": [
+      45,
+      68
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1622314863719596032,
+     "id_str": "1622314863719596032",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoOexe3XwAA7gk7.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoOexe3XwAA7gk7.jpg",
+     "url": "https://t.co/gvCWcZcqql",
+     "display_url": "pic.twitter.com/gvCWcZcqql",
+     "expanded_url": "https://twitter.com/SaraGonzalesTX/status/1622314872414371843/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 960,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1638,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 544,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622314872414371843,
+     "source_status_id_str": "1622314872414371843",
+     "source_user_id": 375852740,
+     "source_user_id_str": "375852740"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,370 @@
+{
+ "1190133200066088961": {
+  "Wed Feb 08 06:58:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "zebulgar",
+     "name": "delian",
+     "id": 194694215,
+     "id_str": "194694215",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1620435705804488705,
+     "id_str": "1620435705804488705",
+     "indices": [
+      53,
+      76
+     ],
+     "media_url": "http://pbs.twimg.com/media/FnzxsGHWAAEri-u.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FnzxsGHWAAEri-u.jpg",
+     "url": "https://t.co/zo9pl0bXjU",
+     "display_url": "pic.twitter.com/zo9pl0bXjU",
+     "expanded_url": "https://twitter.com/zebulgar/status/1620436085376712705/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1572,
+       "h": 1182,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 902,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 511,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1620436085376712705,
+     "source_status_id_str": "1620436085376712705",
+     "source_user_id": 194694215,
+     "source_user_id_str": "194694215"
+    }
+   ]
+  },
+  "Wed Feb 08 06:57:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z6h5975anw",
+     "expanded_url": "https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/",
+     "display_url": "state.gov/bureaus-office\u2026",
+     "indices": [
+      118,
+      141
+     ]
+    }
+   ]
+  },
+  "Wed Feb 08 06:56:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 06:52:02 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "KanekoaTheGreat",
+     "name": "kanekoa.substack.com",
+     "id": 1085225533623783424,
+     "id_str": "1085225533623783424",
+     "indices": [
+      14,
+      30
+     ]
+    },
+    {
+     "screen_name": "mtaibbi",
+     "name": "Matt Taibbi",
+     "id": 38271276,
+     "id_str": "38271276",
+     "indices": [
+      31,
+      39
+     ]
+    },
+    {
+     "screen_name": "ggreenwald",
+     "name": "Glenn Greenwald",
+     "id": 16076032,
+     "id_str": "16076032",
+     "indices": [
+      40,
+      51
+     ]
+    },
+    {
+     "screen_name": "ShellenbergerMD",
+     "name": "Michael Shellenberger",
+     "id": 2474749586,
+     "id_str": "2474749586",
+     "indices": [
+      52,
+      68
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 06:46:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "venturetwins",
+     "name": "Justine Moore",
+     "id": 922955517030408192,
+     "id_str": "922955517030408192",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 06:45:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "KanekoaTheGreat",
+     "name": "kanekoa.substack.com",
+     "id": 1085225533623783424,
+     "id_str": "1085225533623783424",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 06:45:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KanekoaTheGreat",
+     "name": "kanekoa.substack.com",
+     "id": 1085225533623783424,
+     "id_str": "1085225533623783424",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 06:43:57 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 06:55:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "dogeofficialceo",
+     "name": "Sir Doge of the Coin \u2694\ufe0f",
+     "id": 1355945100216573952,
+     "id_str": "1355945100216573952",
+     "indices": [
+      3,
+      19
+     ]
+    },
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      21,
+      30
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1621997795103105025,
+     "id_str": "1621997795103105025",
+     "indices": [
+      33,
+      56
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoJ-ZqOWYAEQ2EU.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoJ-ZqOWYAEQ2EU.jpg",
+     "url": "https://t.co/KX1esNw0qz",
+     "display_url": "pic.twitter.com/KX1esNw0qz",
+     "expanded_url": "https://twitter.com/dogeofficialceo/status/1621997803940577282/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 640,
+       "h": 790,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 551,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 640,
+       "h": 790,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1621997803940577282,
+     "source_status_id_str": "1621997803940577282",
+     "source_user_id": 1355945100216573952,
+     "source_user_id_str": "1355945100216573952"
+    }
+   ]
+  },
+  "Mon Feb 06 06:50:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "zerohedge",
+     "name": "zerohedge",
+     "id": 18856867,
+     "id_str": "18856867",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/N3Hq90DuDg",
+     "expanded_url": "https://www.zerohedge.com/geopolitical/italy-hit-nationwide-internet-outage",
+     "display_url": "zerohedge.com/geopolitical/i\u2026",
+     "indices": [
+      104,
+      127
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 06:48:28 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Ukraine",
+     "indices": [
+      95,
+      103
+     ]
+    },
+    {
+     "text": "Russia",
+     "indices": [
+      110,
+      117
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "I_Katchanovski",
+     "name": "Ivan Katchanovski",
+     "id": 255690491,
+     "id_str": "255690491",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

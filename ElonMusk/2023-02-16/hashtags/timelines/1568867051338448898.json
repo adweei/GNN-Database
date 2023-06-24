@@ -1,0 +1,832 @@
+{
+ "1568867051338448898": {
+  "Wed Feb 15 07:14:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "IranRevolution",
+     "indices": [
+      112,
+      127
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PahlaviReza",
+     "name": "Reza Pahlavi",
+     "id": 38154763,
+     "id_str": "38154763",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "ABCaustralia",
+     "name": "ABC Australia",
+     "id": 16714896,
+     "id_str": "16714896",
+     "indices": [
+      38,
+      51
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 07:14:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 07:17:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625377140903653379,
+     "id_str": "1625377140903653379",
+     "indices": [
+      40,
+      63
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo5_5eWaMAMEPaf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo5_5eWaMAMEPaf.jpg",
+     "url": "https://t.co/92Ny452J9B",
+     "display_url": "pic.twitter.com/92Ny452J9B",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625377144137461761/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625377144137461761,
+     "source_status_id_str": "1625377144137461761",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 14 05:53:24 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0647\u0631\u0645\u0632\u06af\u0627\u0646",
+     "indices": [
+      76,
+      84
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlinejadMasih",
+     "name": "Masih Alinejad \ud83c\udff3\ufe0f",
+     "id": 947924373029171200,
+     "id_str": "947924373029171200",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 05:52:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IranIntl",
+     "name": "\u0627\u064a\u0631\u0627\u0646 \u0627\u064a\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+     "id": 728252911675944961,
+     "id_str": "728252911675944961",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 05:52:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625368103285846016,
+     "id_str": "1625368103285846016",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo53ramacAAigCq.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo53ramacAAigCq.jpg",
+     "url": "https://t.co/iZUukCVrl5",
+     "display_url": "pic.twitter.com/iZUukCVrl5",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625368108461613057/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 810,
+       "h": 880,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 626,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 810,
+       "h": 880,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625368108461613057,
+     "source_status_id_str": "1625368108461613057",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 13 22:12:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u062d\u0645\u06cc\u062f_\u0641\u0631\u062e\u200c\u0646\u0698\u0627\u062f",
+     "indices": [
+      17,
+      31
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RadioFarda_",
+     "name": "RadioFarda\u200c|\u200c\u0631\u0627\u062f\u064a\u0648 \u0641\u0631\u062f\u0627",
+     "id": 28684404,
+     "id_str": "28684404",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 22:12:14 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+     "indices": [
+      92,
+      103
+     ]
+    },
+    {
+     "text": "\u06a9\u06cc\u0627\u0646_\u067e\u06cc\u0631\u0641\u0644\u06a9",
+     "indices": [
+      104,
+      116
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "gh0lch0magh",
+     "name": "OuriapA",
+     "id": 815188996297003008,
+     "id_str": "815188996297003008",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624974584826015746,
+     "id_str": "1624974584826015746",
+     "indices": [
+      117,
+      140
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo0RxoGXsAI19Tm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo0RxoGXsAI19Tm.jpg",
+     "url": "https://t.co/gHafvCYRTE",
+     "display_url": "pic.twitter.com/gHafvCYRTE",
+     "expanded_url": "https://twitter.com/gh0lch0magh/status/1624974598600114181/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 723,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 410,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1941,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624974598600114181,
+     "source_status_id_str": "1624974598600114181",
+     "source_user_id": 815188996297003008,
+     "source_user_id_str": "815188996297003008"
+    }
+   ]
+  },
+  "Mon Feb 13 22:10:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IranIntl",
+     "name": "\u0627\u064a\u0631\u0627\u0646 \u0627\u064a\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+     "id": 728252911675944961,
+     "id_str": "728252911675944961",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 22:10:04 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0633\u0631\u0646\u06af\u0648\u0646\u06cc",
+     "indices": [
+      85,
+      93
+     ]
+    },
+    {
+     "text": "\u0627\u0646\u0642\u0644\u0627\u0628_\u0645\u0644\u06cc_\u0627\u06cc\u0631\u0627\u0646",
+     "indices": [
+      95,
+      112
+     ]
+    },
+    {
+     "text": "\u0632\u0646_\u0632\u0646\u062f\u06af\u06cc_\u0622\u0632\u0627\u062f\u06af\u06cc",
+     "indices": [
+      114,
+      130
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "shahinnajafi80",
+     "name": "Shahin Najafi",
+     "id": 1416725066,
+     "id_str": "1416725066",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/ucEjHS1W4I",
+     "expanded_url": "https://youtu.be/oEFBHA5yrL4",
+     "display_url": "youtu.be/oEFBHA5yrL4",
+     "indices": [
+      60,
+      83
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 22:09:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IranIntl",
+     "name": "\u0627\u064a\u0631\u0627\u0646 \u0627\u064a\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+     "id": 728252911675944961,
+     "id_str": "728252911675944961",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 22:09:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlinejadMasih",
+     "name": "Masih Alinejad \ud83c\udff3\ufe0f",
+     "id": 947924373029171200,
+     "id_str": "947924373029171200",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 22:09:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0632\u0646_\u0632\u0646\u062f\u06af\u06cc_\u0622\u0632\u0627\u062f\u06cc",
+     "indices": [
+      37,
+      52
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlinejadMasih",
+     "name": "Masih Alinejad \ud83c\udff3\ufe0f",
+     "id": 947924373029171200,
+     "id_str": "947924373029171200",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 22:08:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    },
+    {
+     "screen_name": "daily_stardust",
+     "name": "The Daily Stardust",
+     "id": 1298766072338722816,
+     "id_str": "1298766072338722816",
+     "indices": [
+      23,
+      38
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 22:08:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 10:05:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IranIntl",
+     "name": "\u0627\u064a\u0631\u0627\u0646 \u0627\u064a\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+     "id": 728252911675944961,
+     "id_str": "728252911675944961",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 10:05:12 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u064a\u0646\u06cc\u200c",
+     "indices": [
+      47,
+      59
+     ]
+    },
+    {
+     "text": "\u0647\u0645\u0628\u0633\u062a\u06af\u06cc",
+     "indices": [
+      61,
+      69
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "pouriazeraati",
+     "name": "Pouria Zeraati",
+     "id": 1408312021,
+     "id_str": "1408312021",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624555924873482241,
+     "id_str": "1624555924873482241",
+     "indices": [
+      70,
+      93
+     ],
+     "media_url": "http://pbs.twimg.com/media/FouVAaPXEAEfAGm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FouVAaPXEAEfAGm.jpg",
+     "url": "https://t.co/ZeyDJrNhYN",
+     "display_url": "pic.twitter.com/ZeyDJrNhYN",
+     "expanded_url": "https://twitter.com/pouriazeraati/status/1624555932255502339/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 547,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 966,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1454,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624555932255502339,
+     "source_status_id_str": "1624555932255502339",
+     "source_user_id": 1408312021,
+     "source_user_id_str": "1408312021"
+    }
+   ]
+  },
+  "Mon Feb 13 10:04:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+     "indices": [
+      88,
+      99
+     ]
+    },
+    {
+     "text": "\u0627\u0646\u062a\u0634\u0627\u0631",
+     "indices": [
+      100,
+      107
+     ]
+    },
+    {
+     "text": "\u0645\u062d\u0645\u062f",
+     "indices": [
+      108,
+      113
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FardadFarahzad",
+     "name": "Fardad Farahzad | \u0641\u0631\u062f\u0627\u062f \u0641\u0631\u062d\u0632\u0627\u062f",
+     "id": 1252857842,
+     "id_str": "1252857842",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/YDtBcXaGtK",
+     "expanded_url": "https://farahzad.com/Hj82",
+     "display_url": "farahzad.com/Hj82",
+     "indices": [
+      114,
+      137
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 10:03:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 10:02:45 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0646\u06cc\u06a9\u0627_\u0634\u0627\u06a9\u0631\u0645\u06cc",
+     "indices": [
+      18,
+      30
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "dadban4",
+     "name": "\u062f\u0627\u062f\u0628\u0627\u0646",
+     "id": 1486731271157870601,
+     "id_str": "1486731271157870601",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 11:28:48 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+     "indices": [
+      100,
+      111
+     ]
+    },
+    {
+     "text": "\u0627\u06cc\u0631\u0627\u0646",
+     "indices": [
+      112,
+      118
+     ]
+    },
+    {
+     "text": "\u0645\u0627\u062f\u0647",
+     "indices": [
+      119,
+      124
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FardadFarahzad",
+     "name": "Fardad Farahzad | \u0641\u0631\u062f\u0627\u062f \u0641\u0631\u062d\u0632\u0627\u062f",
+     "id": 1252857842,
+     "id_str": "1252857842",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 11:15:09 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0632\u0646_\u0632\u0646\u062f\u06af\u06cc_\u0622\u0632\u0627\u062f\u06cc",
+     "indices": [
+      101,
+      116
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlinejadMasih",
+     "name": "Masih Alinejad \ud83c\udff3\ufe0f",
+     "id": 947924373029171200,
+     "id_str": "947924373029171200",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 11:13:56 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0639\u062f\u0627\u0644\u062a_\u0639\u0644\u06cc",
+     "indices": [
+      29,
+      39
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EdaalateAli1400",
+     "name": "Edaalate Ali Official - \u0639\u062f\u0627\u0644\u062a \u0639\u0644\u06cc",
+     "id": 1484176439729537042,
+     "id_str": "1484176439729537042",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 16:44:43 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u0647\u0645\u0628\u0633\u062a\u06af\u06cc",
+     "indices": [
+      19,
+      27
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlinejadMasih",
+     "name": "Masih Alinejad \ud83c\udff3\ufe0f",
+     "id": 947924373029171200,
+     "id_str": "947924373029171200",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624103107268313098,
+     "id_str": "1624103107268313098",
+     "indices": [
+      43,
+      66
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fon5K9NWAAoLYUz.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fon5K9NWAAoLYUz.jpg",
+     "url": "https://t.co/pxK409H1fI",
+     "display_url": "pic.twitter.com/pxK409H1fI",
+     "expanded_url": "https://twitter.com/AlinejadMasih/status/1624103113714958363/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 2048,
+       "h": 1536,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 900,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 510,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624103113714958363,
+     "source_status_id_str": "1624103113714958363",
+     "source_user_id": 947924373029171200,
+     "source_user_id_str": "947924373029171200"
+    }
+   ]
+  }
+ }
+}

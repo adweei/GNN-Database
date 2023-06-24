@@ -1,0 +1,662 @@
+{
+ "1586081645161074692": {
+  "Mon Feb 06 20:16:38 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "memes",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622690749694283782,
+     "id_str": "1622690749694283782",
+     "indices": [
+      7,
+      30
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoT0o7PXEAY6PiT.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoT0o7PXEAY6PiT.jpg",
+     "url": "https://t.co/T7ji2mVtLv",
+     "display_url": "pic.twitter.com/T7ji2mVtLv",
+     "expanded_url": "https://twitter.com/JadeKatBond/status/1622690755184676864/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1170,
+       "h": 1733,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 459,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 810,
+       "h": 1200,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "Mon Feb 06 18:15:20 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "meme",
+     "indices": [
+      31,
+      36
+     ]
+    },
+    {
+     "text": "memes",
+     "indices": [
+      37,
+      43
+     ]
+    },
+    {
+     "text": "funny",
+     "indices": [
+      44,
+      50
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MemesDailyBaby",
+     "name": "Memes For Days",
+     "id": 1256856855474774017,
+     "id_str": "1256856855474774017",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622651890818220046,
+     "id_str": "1622651890818220046",
+     "indices": [
+      51,
+      74
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTRTCpWAA4txzy.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTRTCpWAA4txzy.jpg",
+     "url": "https://t.co/0jzZgwoHXW",
+     "display_url": "pic.twitter.com/0jzZgwoHXW",
+     "expanded_url": "https://twitter.com/MemesDailyBaby/status/1622651893544517675/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 651,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1024,
+       "h": 980,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1024,
+       "h": 980,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622651893544517675,
+     "source_status_id_str": "1622651893544517675",
+     "source_user_id": 1256856855474774017,
+     "source_user_id_str": "1256856855474774017"
+    }
+   ]
+  },
+  "Mon Feb 06 18:15:17 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "meme",
+     "indices": [
+      30,
+      35
+     ]
+    },
+    {
+     "text": "memes",
+     "indices": [
+      36,
+      42
+     ]
+    },
+    {
+     "text": "funny",
+     "indices": [
+      43,
+      49
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MemesDailyBaby",
+     "name": "Memes For Days",
+     "id": 1256856855474774017,
+     "id_str": "1256856855474774017",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622651882542858256,
+     "id_str": "1622651882542858256",
+     "indices": [
+      50,
+      73
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoTRSj0WABADoZM.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoTRSj0WABADoZM.jpg",
+     "url": "https://t.co/g8S6vmyfVZ",
+     "display_url": "pic.twitter.com/g8S6vmyfVZ",
+     "expanded_url": "https://twitter.com/MemesDailyBaby/status/1622651884484821024/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 864,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 864,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 574,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622651884484821024,
+     "source_status_id_str": "1622651884484821024",
+     "source_user_id": 1256856855474774017,
+     "source_user_id_str": "1256856855474774017"
+    }
+   ]
+  },
+  "Mon Feb 06 18:07:21 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "meme",
+     "indices": [
+      25,
+      30
+     ]
+    },
+    {
+     "text": "memes",
+     "indices": [
+      31,
+      37
+     ]
+    },
+    {
+     "text": "funny",
+     "indices": [
+      38,
+      44
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MemesDailyBaby",
+     "name": "Memes For Days",
+     "id": 1256856855474774017,
+     "id_str": "1256856855474774017",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622576396806529024,
+     "id_str": "1622576396806529024",
+     "indices": [
+      45,
+      68
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoSMotiWIAAwpX0.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoSMotiWIAAwpX0.jpg",
+     "url": "https://t.co/9rCaIDHq7C",
+     "display_url": "pic.twitter.com/9rCaIDHq7C",
+     "expanded_url": "https://twitter.com/MemesDailyBaby/status/1622576398501130241/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 655,
+       "h": 763,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 655,
+       "h": 763,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 584,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622576398501130241,
+     "source_status_id_str": "1622576398501130241",
+     "source_user_id": 1256856855474774017,
+     "source_user_id_str": "1256856855474774017"
+    }
+   ]
+  },
+  "Mon Feb 06 12:36:27 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "meme",
+     "indices": [
+      98,
+      103
+     ]
+    },
+    {
+     "text": "memes",
+     "indices": [
+      104,
+      110
+     ]
+    },
+    {
+     "text": "funny",
+     "indices": [
+      111,
+      117
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MemesDailyBaby",
+     "name": "Memes For Days",
+     "id": 1256856855474774017,
+     "id_str": "1256856855474774017",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 12:36:20 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "meme",
+     "indices": [
+      97,
+      102
+     ]
+    },
+    {
+     "text": "memes",
+     "indices": [
+      103,
+      109
+     ]
+    },
+    {
+     "text": "funny",
+     "indices": [
+      110,
+      116
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MemesDailyBaby",
+     "name": "Memes For Days",
+     "id": 1256856855474774017,
+     "id_str": "1256856855474774017",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622561334498828288,
+     "id_str": "1622561334498828288",
+     "indices": [
+      117,
+      140
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoR-7-EWIAAF1b-.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoR-7-EWIAAF1b-.jpg",
+     "url": "https://t.co/KLsmtLKgoY",
+     "display_url": "pic.twitter.com/KLsmtLKgoY",
+     "expanded_url": "https://twitter.com/MemesDailyBaby/status/1622561336747081729/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 663,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 728,
+       "h": 710,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 728,
+       "h": 710,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622561336747081729,
+     "source_status_id_str": "1622561336747081729",
+     "source_user_id": 1256856855474774017,
+     "source_user_id_str": "1256856855474774017"
+    }
+   ]
+  },
+  "Mon Feb 06 12:36:10 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "meme",
+     "indices": [
+      37,
+      42
+     ]
+    },
+    {
+     "text": "memes",
+     "indices": [
+      43,
+      49
+     ]
+    },
+    {
+     "text": "funny",
+     "indices": [
+      50,
+      56
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MemesDailyBaby",
+     "name": "Memes For Days",
+     "id": 1256856855474774017,
+     "id_str": "1256856855474774017",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622561284783804416,
+     "id_str": "1622561284783804416",
+     "indices": [
+      57,
+      80
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoR-5E3XEAAJrKy.png",
+     "media_url_https": "https://pbs.twimg.com/media/FoR-5E3XEAAJrKy.png",
+     "url": "https://t.co/KtmdZk7pFS",
+     "display_url": "pic.twitter.com/KtmdZk7pFS",
+     "expanded_url": "https://twitter.com/MemesDailyBaby/status/1622561286687977472/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 415,
+       "h": 364,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 415,
+       "h": 364,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 415,
+       "h": 364,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1622561286687977472,
+     "source_status_id_str": "1622561286687977472",
+     "source_user_id": 1256856855474774017,
+     "source_user_id_str": "1256856855474774017"
+    }
+   ]
+  },
+  "Mon Feb 06 12:35:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "meme",
+     "indices": [
+      52,
+      57
+     ]
+    },
+    {
+     "text": "memes",
+     "indices": [
+      58,
+      64
+     ]
+    },
+    {
+     "text": "funny",
+     "indices": [
+      65,
+      71
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MemesDailyBaby",
+     "name": "Memes For Days",
+     "id": 1256856855474774017,
+     "id_str": "1256856855474774017",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622561304882946050,
+     "id_str": "1622561304882946050",
+     "indices": [
+      72,
+      95
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoR-6PvXoAIX-k7.png",
+     "media_url_https": "https://pbs.twimg.com/media/FoR-6PvXoAIX-k7.png",
+     "url": "https://t.co/vEkLRRQWu8",
+     "display_url": "pic.twitter.com/vEkLRRQWu8",
+     "expanded_url": "https://twitter.com/MemesDailyBaby/status/1622561307282006018/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 604,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 680,
+       "h": 765,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 680,
+       "h": 765,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1622561307282006018,
+     "source_status_id_str": "1622561307282006018",
+     "source_user_id": 1256856855474774017,
+     "source_user_id_str": "1256856855474774017"
+    }
+   ]
+  },
+  "Mon Feb 06 12:35:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "meme",
+     "indices": [
+      52,
+      57
+     ]
+    },
+    {
+     "text": "memes",
+     "indices": [
+      58,
+      64
+     ]
+    },
+    {
+     "text": "funny",
+     "indices": [
+      65,
+      71
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MemesDailyBaby",
+     "name": "Memes For Days",
+     "id": 1256856855474774017,
+     "id_str": "1256856855474774017",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1622561321907519488,
+     "id_str": "1622561321907519488",
+     "indices": [
+      72,
+      95
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoR-7PKWAAAVCfC.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoR-7PKWAAAVCfC.jpg",
+     "url": "https://t.co/KieYAW5wAs",
+     "display_url": "pic.twitter.com/KieYAW5wAs",
+     "expanded_url": "https://twitter.com/MemesDailyBaby/status/1622561323451121668/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 750,
+       "h": 560,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 508,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 750,
+       "h": 560,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1622561323451121668,
+     "source_status_id_str": "1622561323451121668",
+     "source_user_id": 1256856855474774017,
+     "source_user_id_str": "1256856855474774017"
+    }
+   ]
+  }
+ }
+}

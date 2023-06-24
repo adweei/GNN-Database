@@ -1,0 +1,4406 @@
+{
+ "233119672": {
+  "Wed Feb 15 07:10:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "farmacotips",
+     "name": "Dr. Javier Flores",
+     "id": 1164661375,
+     "id_str": "1164661375",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 07:09:40 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Rusia",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Datoworld",
+     "name": "DATOWORLD",
+     "id": 3094374405,
+     "id_str": "3094374405",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 07:09:23 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EmmaRincon",
+     "name": "Emmanuel Rinc\u00f3n",
+     "id": 73948999,
+     "id_str": "73948999",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 07:09:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625696829743702016,
+     "id_str": "1625696829743702016",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-ip0FaIAAf0v1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-ip0FaIAAf0v1.jpg",
+     "url": "https://t.co/9rcEtu9w1Z",
+     "display_url": "pic.twitter.com/9rcEtu9w1Z",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625696836886614018/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1600,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625696836886614018,
+     "source_status_id_str": "1625696836886614018",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 05:30:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      0,
+      9
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 05:29:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625695868711215104,
+     "id_str": "1625695868711215104",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "url": "https://t.co/yBqWFUDIQH",
+     "display_url": "pic.twitter.com/yBqWFUDIQH",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625695877326340102/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 532,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1248,
+       "h": 1594,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 940,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625695877326340102,
+     "source_status_id_str": "1625695877326340102",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 05:29:15 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      23,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 20:09:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 20:08:49 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "carlosoporto",
+     "name": "Carlos Oporto",
+     "id": 14050806,
+     "id_str": "14050806",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 20:07:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "China",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625225787283480589,
+     "id_str": "1625225787283480589",
+     "indices": [
+      59,
+      82
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625225787283480589/pu/img/P2VSNP2qGJyrsoIj.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625225787283480589/pu/img/P2VSNP2qGJyrsoIj.jpg",
+     "url": "https://t.co/qoTkyT7bx4",
+     "display_url": "pic.twitter.com/qoTkyT7bx4",
+     "expanded_url": "https://twitter.com/EarthquakeChil1/status/1625225859656196109/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625225859656196109,
+     "source_status_id_str": "1625225859656196109",
+     "source_user_id": 994000556724248578,
+     "source_user_id_str": "994000556724248578"
+    }
+   ]
+  },
+  "Tue Feb 14 20:07:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "nickstalgiaLA",
+     "name": "nickstalgia",
+     "id": 1031717353661362176,
+     "id_str": "1031717353661362176",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625566443721920515,
+     "id_str": "1625566443721920515",
+     "indices": [
+      106,
+      129
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8sEWTXEAMUl0r.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8sEWTXEAMUl0r.jpg",
+     "url": "https://t.co/x9FKqLoAMS",
+     "display_url": "pic.twitter.com/x9FKqLoAMS",
+     "expanded_url": "https://twitter.com/nickstalgiaLA/status/1625566561586057219/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 568,
+       "h": 352,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 568,
+       "h": 352,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 568,
+       "h": 352,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625566561586057219,
+     "source_status_id_str": "1625566561586057219",
+     "source_user_id": 1031717353661362176,
+     "source_user_id_str": "1031717353661362176"
+    }
+   ]
+  },
+  "Tue Feb 14 20:06:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 20:06:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 20:05:44 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      21,
+      27
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Datoworld",
+     "name": "DATOWORLD",
+     "id": 3094374405,
+     "id_str": "3094374405",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 20:05:18 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SanValentin",
+     "indices": [
+      40,
+      52
+     ]
+    },
+    {
+     "text": "THeLastofUs",
+     "indices": [
+      68,
+      80
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HordaZombies",
+     "name": "Comunidad Zombie Ecuador",
+     "id": 1335349517298896899,
+     "id_str": "1335349517298896899",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625578465628983304,
+     "id_str": "1625578465628983304",
+     "indices": [
+      81,
+      104
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo83AHZXEAgbzzm.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo83AHZXEAgbzzm.jpg",
+     "url": "https://t.co/wotfJSoNC0",
+     "display_url": "pic.twitter.com/wotfJSoNC0",
+     "expanded_url": "https://twitter.com/HordaZombies/status/1625578470221783041/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625578470221783041,
+     "source_status_id_str": "1625578470221783041",
+     "source_user_id": 1335349517298896899,
+     "source_user_id_str": "1335349517298896899"
+    }
+   ]
+  },
+  "Tue Feb 14 20:05:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlertaNews24",
+     "name": "Alerta News 24",
+     "id": 39692424,
+     "id_str": "39692424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:28:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Alerta_News_",
+     "name": "Alerta News \ud83d\udea8",
+     "id": 1257859655562215424,
+     "id_str": "1257859655562215424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:28:00 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      24,
+      30
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:27:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:26:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EmmaRincon",
+     "name": "Emmanuel Rinc\u00f3n",
+     "id": 73948999,
+     "id_str": "73948999",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 19:24:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Datoworld",
+     "name": "DATOWORLD",
+     "id": 3094374405,
+     "id_str": "3094374405",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 18:40:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KanekoaTheGreat",
+     "name": "kanekoa.substack.com",
+     "id": 1085225533623783424,
+     "id_str": "1085225533623783424",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 18:40:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "PigpenVeint",
+     "name": "LVeintimilla",
+     "id": 26629072,
+     "id_str": "26629072",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625148587272290304,
+     "id_str": "1625148587272290304",
+     "indices": [
+      49,
+      72
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo2wB5uXwAANzSJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo2wB5uXwAANzSJ.jpg",
+     "url": "https://t.co/BnKp85g79O",
+     "display_url": "pic.twitter.com/BnKp85g79O",
+     "expanded_url": "https://twitter.com/PigpenVeint/status/1625148603869147137/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 835,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 473,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1425,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625148603869147137,
+     "source_status_id_str": "1625148603869147137",
+     "source_user_id": 26629072,
+     "source_user_id_str": "26629072"
+    }
+   ]
+  },
+  "Tue Feb 14 18:39:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 07:23:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625368103285846016,
+     "id_str": "1625368103285846016",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo53ramacAAigCq.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo53ramacAAigCq.jpg",
+     "url": "https://t.co/iZUukCVrl5",
+     "display_url": "pic.twitter.com/iZUukCVrl5",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625368108461613057/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 810,
+       "h": 880,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 626,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 810,
+       "h": 880,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625368108461613057,
+     "source_status_id_str": "1625368108461613057",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 14 07:23:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625377140903653379,
+     "id_str": "1625377140903653379",
+     "indices": [
+      40,
+      63
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo5_5eWaMAMEPaf.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo5_5eWaMAMEPaf.jpg",
+     "url": "https://t.co/92Ny452J9B",
+     "display_url": "pic.twitter.com/92Ny452J9B",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625377144137461761/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 500,
+       "h": 524,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625377144137461761,
+     "source_status_id_str": "1625377144137461761",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Tue Feb 14 07:18:33 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "themoonpics_",
+     "name": "The Moon",
+     "id": 1463071332111773698,
+     "id_str": "1463071332111773698",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625116371846569987,
+     "id_str": "1625116371846569987",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo2Sut6WIAM7AE_.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo2Sut6WIAM7AE_.jpg",
+     "url": "https://t.co/3yFsNfhGvg",
+     "display_url": "pic.twitter.com/3yFsNfhGvg",
+     "expanded_url": "https://twitter.com/themoonpics_/status/1625116373209735168/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 511,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 902,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1074,
+       "h": 1429,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625116373209735168,
+     "source_status_id_str": "1625116373209735168",
+     "source_user_id": 1463071332111773698,
+     "source_user_id_str": "1463071332111773698"
+    }
+   ]
+  },
+  "Tue Feb 14 07:17:24 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ClaudiSolisM",
+     "name": "Claudia Sol\u00eds M.",
+     "id": 256849923,
+     "id_str": "256849923",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 07:17:16 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MabuxAB",
+     "name": "MABUX.com",
+     "id": 770246678,
+     "id_str": "770246678",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "MabuxAB",
+     "name": "MABUX.com",
+     "id": 770246678,
+     "id_str": "770246678",
+     "indices": [
+      13,
+      21
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 06:16:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EnVozAltaEC",
+     "name": "Gabriela Panchana Briones \u2764\ufe0f\ud83c\uddea\ud83c\udde8",
+     "id": 17627768,
+     "id_str": "17627768",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 06:15:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elprincipito_es",
+     "name": "El Principito \u272a",
+     "id": 2849910621,
+     "id_str": "2849910621",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 14 00:02:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "guerreroalxk",
+     "name": "Estoico",
+     "id": 1171431671612108805,
+     "id_str": "1171431671612108805",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625233681668362240,
+     "id_str": "1625233681668362240",
+     "indices": [
+      64,
+      87
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo39bDDX0AA3qp2.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo39bDDX0AA3qp2.jpg",
+     "url": "https://t.co/vK5WBCLjv8",
+     "display_url": "pic.twitter.com/vK5WBCLjv8",
+     "expanded_url": "https://twitter.com/guerreroalxk/status/1625233687666196481/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 670,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 689,
+       "h": 679,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 689,
+       "h": 679,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625233687666196481,
+     "source_status_id_str": "1625233687666196481",
+     "source_user_id": 1171431671612108805,
+     "source_user_id_str": "1171431671612108805"
+    }
+   ]
+  },
+  "Mon Feb 13 03:34:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "wiseconnector",
+     "name": "\uff37 \ud835\udddc \ud835\udde6 \ud835\uddd8 \ud835\uddd6 \ud835\udde2 \ud835\udde1 \ud835\udde1 \ud835\uddd8 \ud835\uddd6 \ud835\udde7 \ud835\udde2 \ud835\udde5 \u2122 \ud83d\udcac",
+     "id": 1227537493395939333,
+     "id_str": "1227537493395939333",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624818155875971072,
+     "id_str": "1624818155875971072",
+     "indices": [
+      41,
+      64
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyDgQ2XsAASQ_8.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyDgQ2XsAASQ_8.jpg",
+     "url": "https://t.co/mbgBAPxniO",
+     "display_url": "pic.twitter.com/mbgBAPxniO",
+     "expanded_url": "https://twitter.com/wiseconnector/status/1624818157595553793/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1170,
+       "h": 1128,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 656,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1170,
+       "h": 1128,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624818157595553793,
+     "source_status_id_str": "1624818157595553793",
+     "source_user_id": 1227537493395939333,
+     "source_user_id_str": "1227537493395939333"
+    }
+   ]
+  },
+  "Mon Feb 13 03:34:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "business",
+     "name": "Bloomberg",
+     "id": 34713362,
+     "id_str": "34713362",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/gdOyGMCsV6",
+     "expanded_url": "https://trib.al/XV7X0Qq",
+     "display_url": "trib.al/XV7X0Qq",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 03:33:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Karlispaola",
+     "name": "Karla Pe\u00f1a Chica",
+     "id": 2962354449,
+     "id_str": "2962354449",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 03:32:27 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      17,
+      23
+     ]
+    },
+    {
+     "text": "SuperBowl",
+     "indices": [
+      93,
+      103
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Datoworld",
+     "name": "DATOWORLD",
+     "id": 3094374405,
+     "id_str": "3094374405",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 01:20:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/BevTmX2ZEi",
+     "expanded_url": "https://twitter.com/EarthquakeChil1/status/1624916076105531392",
+     "display_url": "twitter.com/EarthquakeChil\u2026",
+     "indices": [
+      16,
+      39
+     ]
+    }
+   ]
+  },
+  "Mon Feb 13 01:19:47 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Europa",
+     "indices": [
+      21,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 01:17:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Alerta_News_",
+     "name": "Alerta News \ud83d\udea8",
+     "id": 1257859655562215424,
+     "id_str": "1257859655562215424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 01:17:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MichelleAndrad3",
+     "name": "Michu \ud83c\uddea\ud83c\udde8\ud83e\udd81 /\u264e\u26a1",
+     "id": 328638062,
+     "id_str": "328638062",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 01:10:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlertaNews24",
+     "name": "Alerta News 24",
+     "id": 39692424,
+     "id_str": "39692424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624931145849896961,
+     "id_str": "1624931145849896961",
+     "indices": [
+      112,
+      135
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1624931145849896961/img/CwVM0U9dnUWYr6RQ.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1624931145849896961/img/CwVM0U9dnUWYr6RQ.jpg",
+     "url": "https://t.co/E8pezHGQdh",
+     "display_url": "pic.twitter.com/E8pezHGQdh",
+     "expanded_url": "https://twitter.com/NFL/status/1624931252431372288/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1920,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624931252431372288,
+     "source_status_id_str": "1624931252431372288",
+     "source_user_id": 19426551,
+     "source_user_id_str": "19426551"
+    }
+   ]
+  },
+  "Sun Feb 12 22:33:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CaraotaDigital",
+     "name": "Caraota Digital",
+     "id": 171299971,
+     "id_str": "171299971",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 22:29:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MrLinkEc",
+     "name": "Mr. Link",
+     "id": 1193671925970677760,
+     "id_str": "1193671925970677760",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624810431528292352,
+     "id_str": "1624810431528292352",
+     "indices": [
+      59,
+      82
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fox8epaX0AAVwYW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fox8epaX0AAVwYW.jpg",
+     "url": "https://t.co/hxlZwbxxot",
+     "display_url": "pic.twitter.com/hxlZwbxxot",
+     "expanded_url": "https://twitter.com/MrLinkEc/status/1624810437593247744/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 600,
+       "h": 850,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 600,
+       "h": 850,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 480,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624810437593247744,
+     "source_status_id_str": "1624810437593247744",
+     "source_user_id": 1193671925970677760,
+     "source_user_id_str": "1193671925970677760"
+    }
+   ]
+  },
+  "Sun Feb 12 22:27:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "jtmpastroptoi",
+     "name": "\u263e",
+     "id": 796761095654481920,
+     "id_str": "796761095654481920",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624807892028121092,
+     "id_str": "1624807892028121092",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fox6K1CWYAQhfQj.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fox6K1CWYAQhfQj.jpg",
+     "url": "https://t.co/I1uDOZk3US",
+     "display_url": "pic.twitter.com/I1uDOZk3US",
+     "expanded_url": "https://twitter.com/jtmpastroptoi/status/1624807896394395649/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1113,
+       "h": 1125,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 673,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1113,
+       "h": 1125,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624807896394395649,
+     "source_status_id_str": "1624807896394395649",
+     "source_user_id": 796761095654481920,
+     "source_user_id_str": "796761095654481920"
+    }
+   ]
+  },
+  "Sun Feb 12 22:26:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AppleTVPlus",
+     "name": "Apple TV+",
+     "id": 1091131241510821889,
+     "id_str": "1091131241510821889",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624833657893531651,
+     "id_str": "1624833657893531651",
+     "indices": [
+      82,
+      105
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoyRmmXXsAMLmQ9.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoyRmmXXsAMLmQ9.jpg",
+     "url": "https://t.co/tfPbISPM8x",
+     "display_url": "pic.twitter.com/tfPbISPM8x",
+     "expanded_url": "https://twitter.com/AppleTVPlus/status/1624850896495468545/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1746,
+       "h": 982,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 382,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624850896495468545,
+     "source_status_id_str": "1624850896495468545",
+     "source_user_id": 1091131241510821889,
+     "source_user_id_str": "1091131241510821889"
+    }
+   ]
+  },
+  "Sun Feb 12 22:24:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EnsedeCiencia",
+     "name": "Ens\u00e9\u00f1ame de Ciencia",
+     "id": 1059209804198133762,
+     "id_str": "1059209804198133762",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624807800613347329,
+     "id_str": "1624807800613347329",
+     "indices": [
+      56,
+      79
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fox6FgfXoAE3z4I.png",
+     "media_url_https": "https://pbs.twimg.com/media/Fox6FgfXoAE3z4I.png",
+     "url": "https://t.co/D4qyigHRhn",
+     "display_url": "pic.twitter.com/D4qyigHRhn",
+     "expanded_url": "https://twitter.com/EnsedeCiencia/status/1624807814320295937/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 720,
+       "h": 891,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 891,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 549,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      }
+     },
+     "source_status_id": 1624807814320295937,
+     "source_status_id_str": "1624807814320295937",
+     "source_user_id": 1059209804198133762,
+     "source_user_id_str": "1059209804198133762"
+    }
+   ]
+  },
+  "Sun Feb 12 22:22:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "mirandoenmi",
+     "name": "Psic\u00f3logo Axel Ortiz",
+     "id": 1602300241,
+     "id_str": "1602300241",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 22:17:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 22:04:36 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Datoworld",
+     "name": "DATOWORLD",
+     "id": 3094374405,
+     "id_str": "3094374405",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 21:35:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624685046400688130,
+     "id_str": "1624685046400688130",
+     "indices": [
+      14,
+      37
+     ],
+     "media_url": "http://pbs.twimg.com/media/FowKcRaaIAI1k7j.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FowKcRaaIAI1k7j.jpg",
+     "url": "https://t.co/2XEyK6leL0",
+     "display_url": "pic.twitter.com/2XEyK6leL0",
+     "expanded_url": "https://twitter.com/elonmusk/status/1624685050615988224/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 559,
+       "h": 483,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 559,
+       "h": 483,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 559,
+       "h": 483,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624685050615988224,
+     "source_status_id_str": "1624685050615988224",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 12 21:33:53 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "LosRios",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MinMedio",
+     "name": "Minuto & Medio",
+     "id": 1465377732972449802,
+     "id_str": "1465377732972449802",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 21:32:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Faytuks",
+     "name": "Faytuks News \u0394",
+     "id": 861939645256523777,
+     "id_str": "861939645256523777",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 21:30:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Faytuks",
+     "name": "Faytuks News \u0394",
+     "id": 861939645256523777,
+     "id_str": "861939645256523777",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 20:59:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "soleoado",
+     "name": "Le\u022f",
+     "id": 1296884277163044866,
+     "id_str": "1296884277163044866",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624591337554341890,
+     "id_str": "1624591337554341890",
+     "indices": [
+      57,
+      80
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fou1NswacAIWdgq.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fou1NswacAIWdgq.jpg",
+     "url": "https://t.co/gVEL9H7pB8",
+     "display_url": "pic.twitter.com/gVEL9H7pB8",
+     "expanded_url": "https://twitter.com/soleoado/status/1624591351622025217/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624591351622025217,
+     "source_status_id_str": "1624591351622025217",
+     "source_user_id": 1296884277163044866,
+     "source_user_id_str": "1296884277163044866"
+    }
+   ]
+  },
+  "Sun Feb 12 20:58:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Faytuks",
+     "name": "Faytuks News \u0394",
+     "id": 861939645256523777,
+     "id_str": "861939645256523777",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 20:57:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 19:43:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Alerta_News_",
+     "name": "Alerta News \ud83d\udea8",
+     "id": 1257859655562215424,
+     "id_str": "1257859655562215424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 19:43:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Finanzas_Times",
+     "name": "\u2720 \ud835\udc05\ud835\udc22\ud835\udc27\ud835\udc1a\ud835\udc27\ud835\udc33\ud835\udc1a\ud835\udc2c \ud835\udc13\ud835\udc22\ud835\udc26\ud835\udc1e\ud835\udc2c \u2721\ufe0e",
+     "id": 1146021318082609152,
+     "id_str": "1146021318082609152",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 19:42:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Canad\u00e1",
+     "indices": [
+      21,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 19:42:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlertaNews24",
+     "name": "Alerta News 24",
+     "id": 39692424,
+     "id_str": "39692424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 19:42:29 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      23,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 19:41:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SbastienMlires1",
+     "name": "S\u00e9bastien M\u00e9li\u00e8res",
+     "id": 991174051145113600,
+     "id_str": "991174051145113600",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 19:39:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Faytuks",
+     "name": "Faytuks News \u0394",
+     "id": 861939645256523777,
+     "id_str": "861939645256523777",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/ZHHppmSpDL",
+     "expanded_url": "https://skyvector.com/",
+     "display_url": "skyvector.com",
+     "indices": [
+      112,
+      135
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 19:38:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sick_boy",
+     "name": "Sick!",
+     "id": 6250142,
+     "id_str": "6250142",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624770541881069568,
+     "id_str": "1624770541881069568",
+     "indices": [
+      69,
+      92
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoxYMw5XEAA4uQw.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoxYMw5XEAA4uQw.jpg",
+     "url": "https://t.co/E6Hlv7uAHG",
+     "display_url": "pic.twitter.com/E6Hlv7uAHG",
+     "expanded_url": "https://twitter.com/sick_boy/status/1624770546381594625/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 250,
+       "h": 250,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 250,
+       "h": 250,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 250,
+       "h": 250,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624770546381594625,
+     "source_status_id_str": "1624770546381594625",
+     "source_user_id": 6250142,
+     "source_user_id_str": "6250142"
+    }
+   ]
+  },
+  "Sun Feb 12 19:38:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EmergenciasEc",
+     "name": "Emergencias Ec",
+     "id": 948549306033852416,
+     "id_str": "948549306033852416",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624846463695028224,
+     "id_str": "1624846463695028224",
+     "indices": [
+      86,
+      109
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoydP_sXgAAWmBl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoydP_sXgAAWmBl.jpg",
+     "url": "https://t.co/Bj2gTIk1X2",
+     "display_url": "pic.twitter.com/Bj2gTIk1X2",
+     "expanded_url": "https://twitter.com/EmergenciasEc/status/1624846509077307394/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1536,
+       "h": 2048,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624846509077307394,
+     "source_status_id_str": "1624846509077307394",
+     "source_user_id": 948549306033852416,
+     "source_user_id_str": "948549306033852416"
+    }
+   ]
+  },
+  "Sun Feb 12 18:49:04 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "\u00daLTIMAHORA",
+     "indices": [
+      20,
+      31
+     ]
+    },
+    {
+     "text": "URGENTE",
+     "indices": [
+      34,
+      42
+     ]
+    },
+    {
+     "text": "EEUU",
+     "indices": [
+      66,
+      71
+     ]
+    },
+    {
+     "text": "USA",
+     "indices": [
+      74,
+      78
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Finanzas_Times",
+     "name": "\u2720 \ud835\udc05\ud835\udc22\ud835\udc27\ud835\udc1a\ud835\udc27\ud835\udc33\ud835\udc1a\ud835\udc2c \ud835\udc13\ud835\udc22\ud835\udc26\ud835\udc1e\ud835\udc2c \u2721\ufe0e",
+     "id": 1146021318082609152,
+     "id_str": "1146021318082609152",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:35:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Juanpi_Farez",
+     "name": "Juan3.1416\u2122",
+     "id": 75906922,
+     "id_str": "75906922",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "TheChipi",
+     "name": "\ud83d\udc7d",
+     "id": 128256856,
+     "id_str": "128256856",
+     "indices": [
+      18,
+      27
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624762373948014592,
+     "id_str": "1624762373948014592",
+     "indices": [
+      28,
+      51
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624762373948014592/pu/img/1ivqGr29uNFYclny.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624762373948014592/pu/img/1ivqGr29uNFYclny.jpg",
+     "url": "https://t.co/AcZVMIzNid",
+     "display_url": "pic.twitter.com/AcZVMIzNid",
+     "expanded_url": "https://twitter.com/Juanpi_Farez/status/1624762417170243592/video/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 640,
+       "h": 640,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 640,
+       "h": 640,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 640,
+       "h": 640,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624762417170243592,
+     "source_status_id_str": "1624762417170243592",
+     "source_user_id": 75906922,
+     "source_user_id_str": "75906922"
+    }
+   ]
+  },
+  "Sun Feb 12 17:35:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "TheChipi",
+     "name": "\ud83d\udc7d",
+     "id": 128256856,
+     "id_str": "128256856",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624631588247019522,
+     "id_str": "1624631588247019522",
+     "indices": [
+      115,
+      138
+     ],
+     "media_url": "http://pbs.twimg.com/media/FovZ0mRXoAIu0d-.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FovZ0mRXoAIu0d-.jpg",
+     "url": "https://t.co/vZt2wacNqU",
+     "display_url": "pic.twitter.com/vZt2wacNqU",
+     "expanded_url": "https://twitter.com/TheChipi/status/1624631609717653505/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 646,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 998,
+       "h": 1050,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 998,
+       "h": 1050,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624631609717653505,
+     "source_status_id_str": "1624631609717653505",
+     "source_user_id": 128256856,
+     "source_user_id_str": "128256856"
+    }
+   ]
+  },
+  "Sun Feb 12 17:34:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:32:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "miahfmn",
+     "name": "Mia",
+     "id": 1141275787,
+     "id_str": "1141275787",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:29:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FonsiLoaiza",
+     "name": "Fonsi Loaiza",
+     "id": 94324983,
+     "id_str": "94324983",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623368820483100694,
+     "id_str": "1623368820483100694",
+     "indices": [
+      100,
+      123
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoddV1xXEBYUcNL.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FoddV1xXEBYUcNL.jpg",
+     "url": "https://t.co/QfsbiaLCn9",
+     "display_url": "pic.twitter.com/QfsbiaLCn9",
+     "expanded_url": "https://twitter.com/FonsiLoaiza/status/1623368823079374883/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 920,
+       "h": 802,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 593,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 920,
+       "h": 802,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623368823079374883,
+     "source_status_id_str": "1623368823079374883",
+     "source_user_id": 94324983,
+     "source_user_id_str": "94324983"
+    }
+   ]
+  },
+  "Sun Feb 12 17:19:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Faytuks",
+     "name": "Faytuks News \u0394",
+     "id": 861939645256523777,
+     "id_str": "861939645256523777",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 17:19:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Faytuks",
+     "name": "Faytuks News \u0394",
+     "id": 861939645256523777,
+     "id_str": "861939645256523777",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/h6YQLAlxgW",
+     "expanded_url": "https://hk.news.yahoo.com/%E5%B1%B1%E6%9D%B1%E8%BF%91%E6%B5%B7%E7%8F%BE%E4%B8%8D%E6%98%8E%E9%A3%9B%E8%A1%8C%E7%89%A9-%E6%97%A5%E7%85%A7%E5%B8%82%E6%BA%96%E5%82%99%E6%93%8A%E8%90%BD-110708515.html",
+     "display_url": "hk.news.yahoo.com/%E5%B1%B1%E6%9\u2026",
+     "indices": [
+      74,
+      97
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1624753230449188867,
+     "id_str": "1624753230449188867",
+     "indices": [
+      98,
+      121
+     ],
+     "media_url": "http://pbs.twimg.com/media/FoxIdGyXoAMQmgj.png",
+     "media_url_https": "https://pbs.twimg.com/media/FoxIdGyXoAMQmgj.png",
+     "url": "https://t.co/eV57fKOMwi",
+     "display_url": "pic.twitter.com/eV57fKOMwi",
+     "expanded_url": "https://twitter.com/Faytuks/status/1624753618590093312/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 780,
+       "h": 557,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 486,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 780,
+       "h": 557,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624753618590093312,
+     "source_status_id_str": "1624753618590093312",
+     "source_user_id": 861939645256523777,
+     "source_user_id_str": "861939645256523777"
+    }
+   ]
+  },
+  "Sun Feb 12 17:19:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "globaltimesnews",
+     "name": "Global Times",
+     "id": 49616273,
+     "id_str": "49616273",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:30:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "IBCNews_",
+     "name": "IBC News",
+     "id": 1498083924890853378,
+     "id_str": "1498083924890853378",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:29:46 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Guayas",
+     "indices": [
+      14,
+      21
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MinMedio",
+     "name": "Minuto & Medio",
+     "id": 1465377732972449802,
+     "id_str": "1465377732972449802",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:29:17 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Datoworld",
+     "name": "DATOWORLD",
+     "id": 3094374405,
+     "id_str": "3094374405",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:29:00 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Alerta_News_",
+     "name": "Alerta News \ud83d\udea8",
+     "id": 1257859655562215424,
+     "id_str": "1257859655562215424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:28:44 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Alerta_News_",
+     "name": "Alerta News \ud83d\udea8",
+     "id": 1257859655562215424,
+     "id_str": "1257859655562215424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:28:25 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "ATENCI\u00d3N",
+     "indices": [
+      21,
+      30
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlertaEcuador7",
+     "name": "\ud83d\udea8ALERTA ECUADOR\ud83d\udea8",
+     "id": 1454130487262334976,
+     "id_str": "1454130487262334976",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 15:27:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 03:16:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sick_boy",
+     "name": "Sick!",
+     "id": 6250142,
+     "id_str": "6250142",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 03:16:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      24,
+      30
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 03:09:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "KatCastroM",
+     "name": "KC",
+     "id": 27778836,
+     "id_str": "27778836",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 03:08:53 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 03:08:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "InformaCosmos",
+     "name": "Somos Cosmos",
+     "id": 1470944312787673089,
+     "id_str": "1470944312787673089",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624472401479172096,
+     "id_str": "1624472401479172096",
+     "indices": [
+      38,
+      61
+     ],
+     "media_url": "http://pbs.twimg.com/media/FotJCtWXgAA7xko.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FotJCtWXgAA7xko.jpg",
+     "url": "https://t.co/vbynbOmLcL",
+     "display_url": "pic.twitter.com/vbynbOmLcL",
+     "expanded_url": "https://twitter.com/InformaCosmos/status/1624472404935286784/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 720,
+       "h": 960,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 960,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624472404935286784,
+     "source_status_id_str": "1624472404935286784",
+     "source_user_id": 1470944312787673089,
+     "source_user_id_str": "1470944312787673089"
+    }
+   ]
+  },
+  "Sun Feb 12 02:38:40 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Urgente",
+     "indices": [
+      14,
+      22
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MinMedio",
+     "name": "Minuto & Medio",
+     "id": 1465377732972449802,
+     "id_str": "1465377732972449802",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 02:38:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "sentdefender",
+     "name": "OSINTdefender",
+     "id": 1457867047334031360,
+     "id_str": "1457867047334031360",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 02:37:41 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Montana",
+     "indices": [
+      21,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624591420353904641,
+     "id_str": "1624591420353904641",
+     "indices": [
+      32,
+      55
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624591420353904641/pu/img/x22n8e0VvrI7hx1b.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624591420353904641/pu/img/x22n8e0VvrI7hx1b.jpg",
+     "url": "https://t.co/m3DlU6ZlJa",
+     "display_url": "pic.twitter.com/m3DlU6ZlJa",
+     "expanded_url": "https://twitter.com/EarthquakeChil1/status/1624591479451557889/video/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 720,
+       "h": 772,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 634,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 772,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624591479451557889,
+     "source_status_id_str": "1624591479451557889",
+     "source_user_id": 994000556724248578,
+     "source_user_id_str": "994000556724248578"
+    }
+   ]
+  },
+  "Sun Feb 12 02:13:37 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "EEUU",
+     "indices": [
+      40,
+      45
+     ]
+    },
+    {
+     "text": "USA",
+     "indices": [
+      48,
+      52
+     ]
+    },
+    {
+     "text": "Alaska",
+     "indices": [
+      55,
+      62
+     ]
+    },
+    {
+     "text": "\u00c1rtico",
+     "indices": [
+      65,
+      72
+     ]
+    },
+    {
+     "text": "OVNI",
+     "indices": [
+      77,
+      82
+     ]
+    },
+    {
+     "text": "OVNIS",
+     "indices": [
+      85,
+      91
+     ]
+    },
+    {
+     "text": "UFO",
+     "indices": [
+      94,
+      98
+     ]
+    },
+    {
+     "text": "UFOS",
+     "indices": [
+      101,
+      106
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Finanzas_Times",
+     "name": "\u2720 \ud835\udc05\ud835\udc22\ud835\udc27\ud835\udc1a\ud835\udc27\ud835\udc33\ud835\udc1a\ud835\udc2c \ud835\udc13\ud835\udc22\ud835\udc26\ud835\udc1e\ud835\udc2c \u2721\ufe0e",
+     "id": 1146021318082609152,
+     "id_str": "1146021318082609152",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624538498530254850,
+     "id_str": "1624538498530254850",
+     "indices": [
+      109,
+      132
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624538498530254850/pu/img/qQI8TNvt7P7lALm0.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624538498530254850/pu/img/qQI8TNvt7P7lALm0.jpg",
+     "url": "https://t.co/Tpa6Jplmhx",
+     "display_url": "pic.twitter.com/Tpa6Jplmhx",
+     "expanded_url": "https://twitter.com/Finanzas_Times/status/1624538563898384384/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 788,
+       "h": 720,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 788,
+       "h": 720,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 621,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624538563898384384,
+     "source_status_id_str": "1624538563898384384",
+     "source_user_id": 1146021318082609152,
+     "source_user_id_str": "1146021318082609152"
+    }
+   ]
+  },
+  "Sun Feb 12 02:11:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Ovni",
+     "indices": [
+      104,
+      109
+     ]
+    },
+    {
+     "text": "Extraterrestre",
+     "indices": [
+      110,
+      125
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "yohanandiaz",
+     "name": "Yohanan D\u00edaz Vargas",
+     "id": 40736200,
+     "id_str": "40736200",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 02:10:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 02:10:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Alerta_News_",
+     "name": "Alerta News \ud83d\udea8",
+     "id": 1257859655562215424,
+     "id_str": "1257859655562215424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 02:09:01 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Siria",
+     "indices": [
+      21,
+      27
+     ]
+    },
+    {
+     "text": "Turquia",
+     "indices": [
+      69,
+      77
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 02:08:56 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DEFCONWSALERTS",
+     "name": "DEFCONWarningSystem",
+     "id": 350379608,
+     "id_str": "350379608",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 02:08:10 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Alaska",
+     "indices": [
+      21,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 02:07:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ClaudiSolisM",
+     "name": "Claudia Sol\u00eds M.",
+     "id": 256849923,
+     "id_str": "256849923",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 02:07:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ClaudiSolisM",
+     "name": "Claudia Sol\u00eds M.",
+     "id": 256849923,
+     "id_str": "256849923",
+     "indices": [
+      0,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:58:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlertaNews24",
+     "name": "Alerta News 24",
+     "id": 39692424,
+     "id_str": "39692424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:58:03 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:51:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "LassoMusica",
+     "name": "lasso",
+     "id": 34175810,
+     "id_str": "34175810",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624511853832314880,
+     "id_str": "1624511853832314880",
+     "indices": [
+      42,
+      65
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fots7I0WIAAbSAN.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fots7I0WIAAbSAN.jpg",
+     "url": "https://t.co/vAvGOyv7Qj",
+     "display_url": "pic.twitter.com/vAvGOyv7Qj",
+     "expanded_url": "https://twitter.com/LassoMusica/status/1624511908224147456/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 574,
+       "h": 322,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 574,
+       "h": 322,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 574,
+       "h": 322,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624511908224147456,
+     "source_status_id_str": "1624511908224147456",
+     "source_user_id": 34175810,
+     "source_user_id_str": "34175810"
+    }
+   ]
+  },
+  "Sun Feb 12 01:50:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tuidelescribano",
+     "name": "escribano",
+     "id": 2457035216,
+     "id_str": "2457035216",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624082645142446081,
+     "id_str": "1624082645142446081",
+     "indices": [
+      76,
+      99
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fonmj52XoAE0b8p.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fonmj52XoAE0b8p.jpg",
+     "url": "https://t.co/be1N5MtwfU",
+     "display_url": "pic.twitter.com/be1N5MtwfU",
+     "expanded_url": "https://twitter.com/tuidelescribano/status/1624082732195217409/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 700,
+       "h": 938,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 507,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 700,
+       "h": 938,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624082732195217409,
+     "source_status_id_str": "1624082732195217409",
+     "source_user_id": 2457035216,
+     "source_user_id_str": "2457035216"
+    }
+   ]
+  },
+  "Sun Feb 12 01:50:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:50:03 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      23,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:22:22 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CollinRugg",
+     "name": "Collin Rugg",
+     "id": 890061634181373952,
+     "id_str": "890061634181373952",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:22:16 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "BREAKING",
+     "indices": [
+      17,
+      26
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "rawsalerts",
+     "name": "R A W S A L E R T S",
+     "id": 1176026136117166080,
+     "id_str": "1176026136117166080",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:21:57 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Montana",
+     "indices": [
+      32,
+      40
+     ]
+    },
+    {
+     "text": "OVNI",
+     "indices": [
+      104,
+      109
+     ]
+    },
+    {
+     "text": "OVNIS",
+     "indices": [
+      112,
+      118
+     ]
+    },
+    {
+     "text": "UFO",
+     "indices": [
+      121,
+      125
+     ]
+    },
+    {
+     "text": "UFOS",
+     "indices": [
+      128,
+      133
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Finanzas_Times",
+     "name": "\u2720 \ud835\udc05\ud835\udc22\ud835\udc27\ud835\udc1a\ud835\udc27\ud835\udc33\ud835\udc1a\ud835\udc2c \ud835\udc13\ud835\udc22\ud835\udc26\ud835\udc1e\ud835\udc2c \u2721\ufe0e",
+     "id": 1146021318082609152,
+     "id_str": "1146021318082609152",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:21:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JustinTrudeau",
+     "name": "Justin Trudeau",
+     "id": 14260960,
+     "id_str": "14260960",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:20:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624576583980789760,
+     "id_str": "1624576583980789760",
+     "indices": [
+      73,
+      96
+     ],
+     "media_url": "http://pbs.twimg.com/media/Founy7aXsAA-N-U.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Founy7aXsAA-N-U.jpg",
+     "url": "https://t.co/Ibsn8Pl7LE",
+     "display_url": "pic.twitter.com/Ibsn8Pl7LE",
+     "expanded_url": "https://twitter.com/EarthquakeChil1/status/1624576587084562432/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 720,
+       "h": 454,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 429,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 720,
+       "h": 454,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624576587084562432,
+     "source_status_id_str": "1624576587084562432",
+     "source_user_id": 994000556724248578,
+     "source_user_id_str": "994000556724248578"
+    }
+   ]
+  },
+  "Sun Feb 12 01:16:20 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "TheLastOfUs",
+     "indices": [
+      105,
+      117
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Zombi_Ecuador",
+     "name": "ZombiEcuador \ud83e\udddf\u200d\u2642\ufe0f",
+     "id": 1277710226779770883,
+     "id_str": "1277710226779770883",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:15:59 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EmmaRincon",
+     "name": "Emmanuel Rinc\u00f3n",
+     "id": 73948999,
+     "id_str": "73948999",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:15:54 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      17,
+      23
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Datoworld",
+     "name": "DATOWORLD",
+     "id": 3094374405,
+     "id_str": "3094374405",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:15:33 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Alaska",
+     "indices": [
+      21,
+      28
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624509813819310081,
+     "id_str": "1624509813819310081",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624509813819310081/pu/img/6Wd_riqmaG91xzvN.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624509813819310081/pu/img/6Wd_riqmaG91xzvN.jpg",
+     "url": "https://t.co/8aVyRtLnGt",
+     "display_url": "pic.twitter.com/8aVyRtLnGt",
+     "expanded_url": "https://twitter.com/EarthquakeChil1/status/1624509872099282947/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624509872099282947,
+     "source_status_id_str": "1624509872099282947",
+     "source_user_id": 994000556724248578,
+     "source_user_id_str": "994000556724248578"
+    }
+   ]
+  },
+  "Sun Feb 12 01:15:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Alerta_News_",
+     "name": "Alerta News \ud83d\udea8",
+     "id": 1257859655562215424,
+     "id_str": "1257859655562215424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:15:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Alerta_News_",
+     "name": "Alerta News \ud83d\udea8",
+     "id": 1257859655562215424,
+     "id_str": "1257859655562215424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 01:15:16 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      23,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 18:14:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MadridDecadente",
+     "name": "MADRID DECADENTE",
+     "id": 856664263171031040,
+     "id_str": "856664263171031040",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 18:14:06 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MrFuckinItAll",
+     "name": "Soy Tu EX.",
+     "id": 31448752,
+     "id_str": "31448752",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 18:13:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "memedeportes",
+     "name": "memedeportes",
+     "id": 599175401,
+     "id_str": "599175401",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/8mgCRKHVUM",
+     "expanded_url": "https://www.memedeportes.com/futbol/comparativo-entre-la-serie-a-y-la-premier",
+     "display_url": "memedeportes.com/futbol/compara\u2026",
+     "indices": [
+      60,
+      83
+     ]
+    }
+   ],
+   "media": [
+    {
+     "id": 1624370254510977027,
+     "id_str": "1624370254510977027",
+     "indices": [
+      84,
+      107
+     ],
+     "media_url": "http://pbs.twimg.com/media/ForsI-PWcAMaewx.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/ForsI-PWcAMaewx.jpg",
+     "url": "https://t.co/2CbSAxMkkk",
+     "display_url": "pic.twitter.com/2CbSAxMkkk",
+     "expanded_url": "https://twitter.com/memedeportes/status/1624370256721465346/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 650,
+       "h": 786,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 650,
+       "h": 786,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 562,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624370256721465346,
+     "source_status_id_str": "1624370256721465346",
+     "source_user_id": 599175401,
+     "source_user_id_str": "599175401"
+    }
+   ]
+  },
+  "Sat Feb 11 18:13:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "el_marmendo",
+     "name": "\u1d0d\u1d00\u0280\u1d0d\u1d07\u0274\u1d05\u1d0f \uea00",
+     "id": 139302265,
+     "id_str": "139302265",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "LassoGuillermo",
+     "name": "Guillermo Lasso",
+     "id": 300390462,
+     "id_str": "300390462",
+     "indices": [
+      30,
+      45
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 18:12:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "themoonpics_",
+     "name": "The Moon",
+     "id": 1463071332111773698,
+     "id_str": "1463071332111773698",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624391594651549697,
+     "id_str": "1624391594651549697",
+     "indices": [
+      18,
+      41
+     ],
+     "media_url": "http://pbs.twimg.com/media/For_jIdWAAEhQ4U.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/For_jIdWAAEhQ4U.jpg",
+     "url": "https://t.co/D8zMogwS2L",
+     "display_url": "pic.twitter.com/D8zMogwS2L",
+     "expanded_url": "https://twitter.com/themoonpics_/status/1624391596299935745/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 1074,
+       "h": 1387,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 527,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 929,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624391596299935745,
+     "source_status_id_str": "1624391596299935745",
+     "source_user_id": 1463071332111773698,
+     "source_user_id_str": "1463071332111773698"
+    }
+   ]
+  },
+  "Sat Feb 11 18:12:38 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EmmaRincon",
+     "name": "Emmanuel Rinc\u00f3n",
+     "id": 73948999,
+     "id_str": "73948999",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 18:10:50 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "US",
+     "indices": [
+      79,
+      82
+     ]
+    },
+    {
+     "text": "ovni",
+     "indices": [
+      98,
+      103
+     ]
+    },
+    {
+     "text": "dirigible",
+     "indices": [
+      104,
+      114
+     ]
+    },
+    {
+     "text": "zapelin",
+     "indices": [
+      115,
+      123
+     ]
+    },
+    {
+     "text": "zabedrosky",
+     "indices": [
+      124,
+      135
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "deZabedrosky",
+     "name": "\u26a0\ufe0fAlerta Clim\u00e1tica\ud83d\udc7d\u1d58\u1da0\u1d52",
+     "id": 363702643,
+     "id_str": "363702643",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 18:09:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlertaNews24",
+     "name": "Alerta News 24",
+     "id": 39692424,
+     "id_str": "39692424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 18:01:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AlertaNews24",
+     "name": "Alerta News 24",
+     "id": 39692424,
+     "id_str": "39692424",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 16:59:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Datoworld",
+     "name": "DATOWORLD",
+     "id": 3094374405,
+     "id_str": "3094374405",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 16:58:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EmmaRincon",
+     "name": "Emmanuel Rinc\u00f3n",
+     "id": 73948999,
+     "id_str": "73948999",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 16:58:28 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "masoltrujillo1",
+     "name": "Sol Trujillo Centeno",
+     "id": 959204977641172992,
+     "id_str": "959204977641172992",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 08:31:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EmergenciasEc",
+     "name": "Emergencias Ec",
+     "id": 948549306033852416,
+     "id_str": "948549306033852416",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624136120375078916,
+     "id_str": "1624136120375078916",
+     "indices": [
+      58,
+      81
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624136120375078916/pu/img/ugFWuS-8re3wvDUP.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624136120375078916/pu/img/ugFWuS-8re3wvDUP.jpg",
+     "url": "https://t.co/2GapHWmqdy",
+     "display_url": "pic.twitter.com/2GapHWmqdy",
+     "expanded_url": "https://twitter.com/EmergenciasEc/status/1624136159352786967/video/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 352,
+       "h": 640,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 352,
+       "h": 640,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 352,
+       "h": 640,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624136159352786967,
+     "source_status_id_str": "1624136159352786967",
+     "source_user_id": 948549306033852416,
+     "source_user_id_str": "948549306033852416"
+    }
+   ]
+  },
+  "Sat Feb 11 08:25:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 08:24:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624253019293466626,
+     "id_str": "1624253019293466626",
+     "indices": [
+      34,
+      57
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624253019293466626/pu/img/_YwcLIBtdqJG40oA.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624253019293466626/pu/img/_YwcLIBtdqJG40oA.jpg",
+     "url": "https://t.co/LhJDUhlOFD",
+     "display_url": "pic.twitter.com/LhJDUhlOFD",
+     "expanded_url": "https://twitter.com/EarthquakeChil1/status/1624253057906233344/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 576,
+       "h": 868,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 576,
+       "h": 868,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 451,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624253057906233344,
+     "source_status_id_str": "1624253057906233344",
+     "source_user_id": 994000556724248578,
+     "source_user_id_str": "994000556724248578"
+    }
+   ]
+  },
+  "Sat Feb 11 08:13:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Global_Mil_Info",
+     "name": "Global: Military-Info",
+     "id": 905563470707515394,
+     "id_str": "905563470707515394",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 08:11:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "porktendencia",
+     "name": "\u00bfPor qu\u00e9 es Tendencia?",
+     "id": 1366914800907931659,
+     "id_str": "1366914800907931659",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 08:10:52 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "igm240sx",
+     "name": "Ivan Gutierrez Meza",
+     "id": 850225482,
+     "id_str": "850225482",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 05:06:52 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      23,
+      29
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 05:06:40 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 05:06:34 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "AHORA",
+     "indices": [
+      24,
+      30
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 05:06:19 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 05:02:50 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "Turquia",
+     "indices": [
+      21,
+      29
+     ]
+    },
+    {
+     "text": "Kahramanmaras",
+     "indices": [
+      86,
+      100
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "EarthquakeChil1",
+     "name": "\ud83c\udd78\ud83c\udd7d\ud83c\udd75\ud83c\udd7e\ud83c\udd82\ud83c\udd78\ud83c\udd82\ud83c\udd7c\ud83c\udd7e\ud83c\udd7b\ud83c\udd7e\ud83c\udd76\ud83c\udd78\ud83c\udd72",
+     "id": 994000556724248578,
+     "id_str": "994000556724248578",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 04:53:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MundoEConflicto",
+     "name": "Mundo en Conflicto \ud83c\udf0e",
+     "id": 821894639284355076,
+     "id_str": "821894639284355076",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624158230275317778,
+     "id_str": "1624158230275317778",
+     "indices": [
+      87,
+      110
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624158230275317778/pu/img/NEo8D32-uWwbbJ7H.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624158230275317778/pu/img/NEo8D32-uWwbbJ7H.jpg",
+     "url": "https://t.co/xvc7HMvlUL",
+     "display_url": "pic.twitter.com/xvc7HMvlUL",
+     "expanded_url": "https://twitter.com/MundoEConflicto/status/1624158277209563137/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 576,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 576,
+       "h": 1024,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624158277209563137,
+     "source_status_id_str": "1624158277209563137",
+     "source_user_id": 821894639284355076,
+     "source_user_id_str": "821894639284355076"
+    }
+   ]
+  }
+ }
+}

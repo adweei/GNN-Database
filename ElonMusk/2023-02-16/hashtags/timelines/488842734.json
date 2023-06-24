@@ -1,0 +1,1112 @@
+{
+ "488842734": {
+  "Wed Feb 15 16:22:42 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UNIPLAT_info",
+     "name": "UNIPLAT",
+     "id": 1465509314698039296,
+     "id_str": "1465509314698039296",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:22:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:21:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:20:58 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "NEWSMAX",
+     "name": "NEWSMAX",
+     "id": 20545835,
+     "id_str": "20545835",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/5ainAlUVee",
+     "expanded_url": "https://bit.ly/3S0p6yh",
+     "display_url": "bit.ly/3S0p6yh",
+     "indices": [
+      113,
+      136
+     ]
+    }
+   ]
+  },
+  "Wed Feb 15 16:20:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenatorTimScott",
+     "name": "Tim Scott",
+     "id": 217543151,
+     "id_str": "217543151",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:20:43 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625696829743702016,
+     "id_str": "1625696829743702016",
+     "indices": [
+      31,
+      54
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-ip0FaIAAf0v1.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-ip0FaIAAf0v1.jpg",
+     "url": "https://t.co/9rcEtu9w1Z",
+     "display_url": "pic.twitter.com/9rcEtu9w1Z",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625696836886614018/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 510,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 900,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1200,
+       "h": 1600,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625696836886614018,
+     "source_status_id_str": "1625696836886614018",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 16:20:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625569179787993088,
+     "id_str": "1625569179787993088",
+     "indices": [
+      55,
+      78
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo8ujm8WIAAtLZG.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo8ujm8WIAAtLZG.jpg",
+     "url": "https://t.co/rgazYOtwRQ",
+     "display_url": "pic.twitter.com/rgazYOtwRQ",
+     "expanded_url": "https://twitter.com/SpeakerMcCarthy/status/1625572528063188992/photo/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 2048,
+       "h": 1366,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 800,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 454,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625572528063188992,
+     "source_status_id_str": "1625572528063188992",
+     "source_user_id": 19739126,
+     "source_user_id_str": "19739126"
+    }
+   ]
+  },
+  "Wed Feb 15 16:20:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625696546082947072,
+     "id_str": "1625696546082947072",
+     "indices": [
+      39,
+      62
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-iZTXagAAxPFY.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-iZTXagAAxPFY.jpg",
+     "url": "https://t.co/auv5M1stUS",
+     "display_url": "pic.twitter.com/auv5M1stUS",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625696554467344384/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 896,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1195,
+       "h": 1600,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 508,
+       "h": 680,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625696554467344384,
+     "source_status_id_str": "1625696554467344384",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 15 16:20:11 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FLVoiceNews",
+     "name": "Florida\u2019s Voice",
+     "id": 1398376668192985091,
+     "id_str": "1398376668192985091",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 15 16:20:07 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625695868711215104,
+     "id_str": "1625695868711215104",
+     "indices": [
+      48,
+      71
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo-hx39aIAABMKW.jpg",
+     "url": "https://t.co/yBqWFUDIQH",
+     "display_url": "pic.twitter.com/yBqWFUDIQH",
+     "expanded_url": "https://twitter.com/elonmusk/status/1625695877326340102/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 532,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1248,
+       "h": 1594,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 940,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625695877326340102,
+     "source_status_id_str": "1625695877326340102",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Mon Feb 13 17:21:10 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "AmVirtueOrg",
+     "name": "American Virtue",
+     "id": 1368517291256602629,
+     "id_str": "1368517291256602629",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624796002921156608,
+     "id_str": "1624796002921156608",
+     "indices": [
+      114,
+      137
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624796002921156608/pu/img/bHX1-tjWOA6GZwQu.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624796002921156608/pu/img/bHX1-tjWOA6GZwQu.jpg",
+     "url": "https://t.co/8yzBf7cXCB",
+     "display_url": "pic.twitter.com/8yzBf7cXCB",
+     "expanded_url": "https://twitter.com/AmVirtueOrg/status/1624797381739814914/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 608,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 608,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624797381739814914,
+     "source_status_id_str": "1624797381739814914",
+     "source_user_id": 1368517291256602629,
+     "source_user_id_str": "1368517291256602629"
+    }
+   ]
+  },
+  "Mon Feb 13 17:21:04 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RepAndyBiggsAZ",
+     "name": "Rep Andy Biggs",
+     "id": 816652616625168388,
+     "id_str": "816652616625168388",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 17:20:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "HananyaNaftali",
+     "name": "Hananya Naftali",
+     "id": 619400667,
+     "id_str": "619400667",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 17:19:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "DC_Draino",
+     "name": "DC_Draino",
+     "id": 875856268056969216,
+     "id_str": "875856268056969216",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 17:18:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SenatorTimScott",
+     "name": "Tim Scott",
+     "id": 217543151,
+     "id_str": "217543151",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624851901601955840,
+     "id_str": "1624851901601955840",
+     "indices": [
+      114,
+      137
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1624851901601955840/img/nZ1OK9j5lycL1r28.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1624851901601955840/img/nZ1OK9j5lycL1r28.jpg",
+     "url": "https://t.co/fxWB8cRoQP",
+     "display_url": "pic.twitter.com/fxWB8cRoQP",
+     "expanded_url": "https://twitter.com/SenatorTimScott/status/1624853227396272129/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 720,
+       "h": 1280,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 675,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624853227396272129,
+     "source_status_id_str": "1624853227396272129",
+     "source_user_id": 217543151,
+     "source_user_id_str": "217543151"
+    }
+   ]
+  },
+  "Mon Feb 13 17:16:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FLVoiceNews",
+     "name": "Florida\u2019s Voice",
+     "id": 1398376668192985091,
+     "id_str": "1398376668192985091",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 17:16:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GregAbbott_TX",
+     "name": "Greg Abbott",
+     "id": 90651198,
+     "id_str": "90651198",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1625137907265568770,
+     "id_str": "1625137907265568770",
+     "indices": [
+      102,
+      125
+     ],
+     "media_url": "http://pbs.twimg.com/media/Fo2mUPmWAAIArRx.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Fo2mUPmWAAIArRx.jpg",
+     "url": "https://t.co/OVPgqe9CRR",
+     "display_url": "pic.twitter.com/OVPgqe9CRR",
+     "expanded_url": "https://twitter.com/GregAbbott_TX/status/1625138261948596226/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1021,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1204,
+       "h": 1024,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 578,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1625138261948596226,
+     "source_status_id_str": "1625138261948596226",
+     "source_user_id": 90651198,
+     "source_user_id_str": "90651198"
+    }
+   ]
+  },
+  "Mon Feb 13 17:16:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UNIPLAT_info",
+     "name": "UNIPLAT",
+     "id": 1465509314698039296,
+     "id_str": "1465509314698039296",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 17:16:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 13 17:15:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "netanyahu",
+     "name": "Benjamin Netanyahu - \u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+     "id": 17061263,
+     "id_str": "17061263",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 18:10:17 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624626666755739648,
+     "id_str": "1624626666755739648",
+     "indices": [
+      35,
+      58
+     ],
+     "media_url": "http://pbs.twimg.com/media/FovVWISaUAAIUe8.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/FovVWISaUAAIUe8.jpg",
+     "url": "https://t.co/DgufvqgWCC",
+     "display_url": "pic.twitter.com/DgufvqgWCC",
+     "expanded_url": "https://twitter.com/elonmusk/status/1624626672464195584/photo/1",
+     "type": "photo",
+     "sizes": {
+      "medium": {
+       "w": 800,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 454,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1366,
+       "h": 2048,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624626672464195584,
+     "source_status_id_str": "1624626672464195584",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Sun Feb 12 18:10:13 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tedcruz",
+     "name": "Ted Cruz",
+     "id": 23022687,
+     "id_str": "23022687",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 18:09:45 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FLVoiceNews",
+     "name": "Florida\u2019s Voice",
+     "id": 1398376668192985091,
+     "id_str": "1398376668192985091",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 18:09:37 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "netanyahu",
+     "name": "Benjamin Netanyahu - \u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+     "id": 17061263,
+     "id_str": "17061263",
+     "indices": [
+      3,
+      13
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624754946582118401,
+     "id_str": "1624754946582118401",
+     "indices": [
+      85,
+      108
+     ],
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1624754946582118401/pu/img/pYinhTPTnYeKI3fM.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1624754946582118401/pu/img/pYinhTPTnYeKI3fM.jpg",
+     "url": "https://t.co/IgHDCijSGA",
+     "display_url": "pic.twitter.com/IgHDCijSGA",
+     "expanded_url": "https://twitter.com/netanyahu/status/1624755149984915457/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1080,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624755149984915457,
+     "source_status_id_str": "1624755149984915457",
+     "source_user_id": 17061263,
+     "source_user_id_str": "17061263"
+    }
+   ]
+  },
+  "Sun Feb 12 18:08:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FLVoiceNews",
+     "name": "Florida\u2019s Voice",
+     "id": 1398376668192985091,
+     "id_str": "1398376668192985091",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/gPXqWvmB61",
+     "expanded_url": "https://flvoicenews.com/desantis-to-federal-government-stop-spending-so-much/",
+     "display_url": "flvoicenews.com/desantis-to-fe\u2026",
+     "indices": [
+      92,
+      115
+     ]
+    }
+   ]
+  },
+  "Sun Feb 12 18:08:26 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "VernonForGA",
+     "name": "Vernon Jones",
+     "id": 900021957424447488,
+     "id_str": "900021957424447488",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 18:07:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FLVoiceNews",
+     "name": "Florida\u2019s Voice",
+     "id": 1398376668192985091,
+     "id_str": "1398376668192985091",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sun Feb 12 18:07:47 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GregAbbott_TX",
+     "name": "Greg Abbott",
+     "id": 90651198,
+     "id_str": "90651198",
+     "indices": [
+      3,
+      17
+     ]
+    },
+    {
+     "screen_name": "ScottWalker",
+     "name": "Scott Walker",
+     "id": 33750798,
+     "id_str": "33750798",
+     "indices": [
+      49,
+      61
+     ]
+    },
+    {
+     "screen_name": "yaf",
+     "name": "YAF",
+     "id": 16148677,
+     "id_str": "16148677",
+     "indices": [
+      69,
+      73
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 17:19:01 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "tedcruz",
+     "name": "Ted Cruz",
+     "id": 23022687,
+     "id_str": "23022687",
+     "indices": [
+      3,
+      11
+     ]
+    },
+    {
+     "screen_name": "yaf",
+     "name": "YAF",
+     "id": 16148677,
+     "id_str": "16148677",
+     "indices": [
+      93,
+      97
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1624234395077844992,
+     "id_str": "1624234395077844992",
+     "indices": [
+      98,
+      121
+     ],
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/1624234395077844992/img/BEA_tpgJSEfPdqHO.jpg",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1624234395077844992/img/BEA_tpgJSEfPdqHO.jpg",
+     "url": "https://t.co/9bFBvb5Za7",
+     "display_url": "pic.twitter.com/9bFBvb5Za7",
+     "expanded_url": "https://twitter.com/tedcruz/status/1624260688817561601/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1624260688817561601,
+     "source_status_id_str": "1624260688817561601",
+     "source_user_id": 23022687,
+     "source_user_id_str": "23022687"
+    }
+   ]
+  },
+  "Sat Feb 11 17:17:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "FLVoiceNews",
+     "name": "Florida\u2019s Voice",
+     "id": 1398376668192985091,
+     "id_str": "1398376668192985091",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/gPXqWvmB61",
+     "expanded_url": "https://flvoicenews.com/desantis-to-federal-government-stop-spending-so-much/",
+     "display_url": "flvoicenews.com/desantis-to-fe\u2026",
+     "indices": [
+      93,
+      116
+     ]
+    }
+   ]
+  },
+  "Sat Feb 11 17:17:30 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GovRonDeSantis",
+     "name": "Ron DeSantis",
+     "id": 1058807868,
+     "id_str": "1058807868",
+     "indices": [
+      3,
+      18
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 17:17:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "cb_doge",
+     "name": "DogeDesigner",
+     "id": 1389913567671975937,
+     "id_str": "1389913567671975937",
+     "indices": [
+      14,
+      22
+     ]
+    },
+    {
+     "screen_name": "Twitter",
+     "name": "Twitter",
+     "id": 783214,
+     "id_str": "783214",
+     "indices": [
+      23,
+      31
+     ]
+    },
+    {
+     "screen_name": "mayemusk",
+     "name": "Maye Musk",
+     "id": 14171401,
+     "id_str": "14171401",
+     "indices": [
+      32,
+      41
+     ]
+    },
+    {
+     "screen_name": "Tesla",
+     "name": "Tesla",
+     "id": 13298072,
+     "id_str": "13298072",
+     "indices": [
+      42,
+      48
+     ]
+    },
+    {
+     "screen_name": "SpaceX",
+     "name": "SpaceX",
+     "id": 34743251,
+     "id_str": "34743251",
+     "indices": [
+      49,
+      56
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 17:16:05 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "GregAbbott_TX",
+     "name": "Greg Abbott",
+     "id": 90651198,
+     "id_str": "90651198",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Sat Feb 11 17:15:50 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UNIPLAT_info",
+     "name": "UNIPLAT",
+     "id": 1465509314698039296,
+     "id_str": "1465509314698039296",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}

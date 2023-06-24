@@ -1,0 +1,737 @@
+{
+ "1581871034931843075": {
+  "Wed Feb 08 16:07:25 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 07:35:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "SpeakerMcCarthy",
+     "name": "Kevin McCarthy",
+     "id": 19739126,
+     "id_str": "19739126",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 07:35:18 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1623182543620132869,
+     "id_str": "1623182543620132869",
+     "indices": [
+      16,
+      39
+     ],
+     "media_url": "http://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/Foaz7GYX0AU9unl.jpg",
+     "url": "https://t.co/jL5fjQxTcz",
+     "display_url": "pic.twitter.com/jL5fjQxTcz",
+     "expanded_url": "https://twitter.com/elonmusk/status/1623182547373985793/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 800,
+       "h": 673,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 572,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1623182547373985793,
+     "source_status_id_str": "1623182547373985793",
+     "source_user_id": 44196397,
+     "source_user_id_str": "44196397"
+    }
+   ]
+  },
+  "Wed Feb 08 07:33:58 +0000 2023": {
+   "hashtags": [
+    {
+     "text": "SOTU",
+     "indices": [
+      120,
+      125
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 07:33:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "APharoah12",
+     "name": "Sean Collins",
+     "id": 1417487633391968267,
+     "id_str": "1417487633391968267",
+     "indices": [
+      0,
+      11
+     ]
+    },
+    {
+     "screen_name": "KentuckyDerby",
+     "name": "Kentucky Derby",
+     "id": 25742569,
+     "id_str": "25742569",
+     "indices": [
+      12,
+      26
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 04:45:08 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "APharoah12",
+     "name": "Sean Collins",
+     "id": 1417487633391968267,
+     "id_str": "1417487633391968267",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "LindaBRosenthal",
+     "name": "Linda B. Rosenthal \u201cthe #OriginalRosenthal\u201d",
+     "id": 413456876,
+     "id_str": "413456876",
+     "indices": [
+      16,
+      32
+     ]
+    },
+    {
+     "screen_name": "nyclass",
+     "name": "NYCLASS",
+     "id": 234445902,
+     "id_str": "234445902",
+     "indices": [
+      33,
+      41
+     ]
+    },
+    {
+     "screen_name": "nychange",
+     "name": "New York Communities for Change",
+     "id": 97071323,
+     "id_str": "97071323",
+     "indices": [
+      42,
+      51
+     ]
+    },
+    {
+     "screen_name": "peta",
+     "name": "PETA",
+     "id": 9890492,
+     "id_str": "9890492",
+     "indices": [
+      52,
+      57
+     ]
+    },
+    {
+     "screen_name": "AQE_NY",
+     "name": "AQE New York",
+     "id": 227032210,
+     "id_str": "227032210",
+     "indices": [
+      58,
+      65
+     ]
+    },
+    {
+     "screen_name": "WorkerJusticeNY",
+     "name": "WJCNY #FundExcludedWorkers",
+     "id": 829798719981752321,
+     "id_str": "829798719981752321",
+     "indices": [
+      66,
+      82
+     ]
+    },
+    {
+     "screen_name": "HSC_NY",
+     "name": "#JustPay | Human Services Council of New York",
+     "id": 136366013,
+     "id_str": "136366013",
+     "indices": [
+      83,
+      90
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Wed Feb 08 04:44:27 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:19:46 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Saikmedi",
+     "name": "Sai Medi",
+     "id": 1492234565515202574,
+     "id_str": "1492234565515202574",
+     "indices": [
+      14,
+      23
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:19:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 16:19:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 08:15:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      0,
+      6
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 08:13:41 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CollinRugg",
+     "name": "Collin Rugg",
+     "id": 890061634181373952,
+     "id_str": "890061634181373952",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "POTUS",
+     "name": "President Biden",
+     "id": 1349149096909668363,
+     "id_str": "1349149096909668363",
+     "indices": [
+      16,
+      22
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 08:12:54 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 08:12:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "WinsomeSears",
+     "name": "Lt. Governor of Virginia - Winsome Earle-Sears",
+     "id": 1218657174139932685,
+     "id_str": "1218657174139932685",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 08:12:21 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 08:12:20 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/z6h5975anw",
+     "expanded_url": "https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/",
+     "display_url": "state.gov/bureaus-office\u2026",
+     "indices": [
+      118,
+      141
+     ]
+    }
+   ]
+  },
+  "Tue Feb 07 08:11:36 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CollinRugg",
+     "name": "Collin Rugg",
+     "id": 890061634181373952,
+     "id_str": "890061634181373952",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "ThisIsKyleR",
+     "name": "Kyle Rittenhouse",
+     "id": 1467931973616386052,
+     "id_str": "1467931973616386052",
+     "indices": [
+      16,
+      28
+     ]
+    },
+    {
+     "screen_name": "ericareport",
+     "name": "Erica Marsh",
+     "id": 1575205434843049984,
+     "id_str": "1575205434843049984",
+     "indices": [
+      29,
+      41
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Tue Feb 07 08:11:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ThisIsKyleR",
+     "name": "Kyle Rittenhouse",
+     "id": 1467931973616386052,
+     "id_str": "1467931973616386052",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "ericareport",
+     "name": "Erica Marsh",
+     "id": 1575205434843049984,
+     "id_str": "1575205434843049984",
+     "indices": [
+      17,
+      29
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:25:55 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MattressMack",
+     "name": "@MattressMack",
+     "id": 17235511,
+     "id_str": "17235511",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "GFToday",
+     "name": "Gallery Furniture",
+     "id": 28584488,
+     "id_str": "28584488",
+     "indices": [
+      109,
+      117
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:25:51 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "CollinRugg",
+     "name": "Collin Rugg",
+     "id": 890061634181373952,
+     "id_str": "890061634181373952",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "mmpadellan",
+     "name": "BrooklynDad_Defiant!\u262e\ufe0f",
+     "id": 1640929196,
+     "id_str": "1640929196",
+     "indices": [
+      16,
+      27
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:25:39 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 23:24:31 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      3,
+      19
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/ev99ZIzr2S",
+     "expanded_url": "https://news.yahoo.com/un-chief-fears-world-headed-154934039.html",
+     "display_url": "news.yahoo.com/un-chief-fears\u2026",
+     "indices": [
+      51,
+      74
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 23:24:29 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "elonmusk",
+     "name": "Elon Musk",
+     "id": 44196397,
+     "id_str": "44196397",
+     "indices": [
+      3,
+      12
+     ]
+    },
+    {
+     "screen_name": "Lukewearechange",
+     "name": "Luke Rudkowski",
+     "id": 95994080,
+     "id_str": "95994080",
+     "indices": [
+      14,
+      30
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 18:45:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Jim_Jordan",
+     "name": "Rep. Jim Jordan",
+     "id": 18166778,
+     "id_str": "18166778",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 18:43:15 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JohnGDooley",
+     "name": "John G. Dooley",
+     "id": 260421699,
+     "id_str": "260421699",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 18:43:09 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "JohnGDooley",
+     "name": "John G. Dooley",
+     "id": 260421699,
+     "id_str": "260421699",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/rOieOth5y5",
+     "expanded_url": "https://twitter.com/i/web/status/1622667229052510220",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "Mon Feb 06 18:40:12 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MattressMack",
+     "name": "@MattressMack",
+     "id": 17235511,
+     "id_str": "17235511",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 10:55:35 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ChuckCallesto",
+     "name": "Chuck Callesto",
+     "id": 4765364386,
+     "id_str": "4765364386",
+     "indices": [
+      3,
+      17
+     ]
+    }
+   ],
+   "urls": []
+  },
+  "Mon Feb 06 09:08:34 +0000 2023": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "MattressMack",
+     "name": "@MattressMack",
+     "id": 17235511,
+     "id_str": "17235511",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "urls": []
+  }
+ }
+}
