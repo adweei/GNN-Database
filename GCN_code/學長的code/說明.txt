@@ -1,0 +1,9 @@
+這個資料集是whitehouse的Tweet19的第30小時資料集
+WhiteHouse.cite 是圖edge 已經加上isolate vetex 共22208
+WhiteHouse.content 是節點特徵 格式為 : ID + 特徵 + labels 共2782
+weight.txt 是edge weight 已經用當時段的active轉推狀態計算過 共22208
+
+content已經先隨機打亂過一次後 按照train validation test排列組合成10個檔案
+所有檔案的最後278個test都不重複(content0是280個 共2782) 所有人都會被訓練到
+所以如果是做測試 也可以用其中一個來train程式會不會動就好 不必用上所有content
+
