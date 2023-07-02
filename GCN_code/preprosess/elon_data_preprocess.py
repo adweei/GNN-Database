@@ -13,15 +13,15 @@ from dgl.data.utils import save_graphs
 # import torch.nn.functional as F 
 from scipy import stats
 
-elon_mask_base_graph_data_dir = 'D:/GNN/MyResearch-main/MyResearch-main/ElonMusk/2023-02-16/'          #D:/GNN/new_data/MyResearch-main/MyResearch-main/ElonMusk/2023-05-01/
-elon_mask_test_graph_data_dir = 'D:/GNN/MyResearch-main/MyResearch-main/ElonMusk/2023-02-20/'          #D:/GNN/new_data/MyResearch-main/MyResearch-main/ElonMusk/2023-05-06/
-hashtag_dir = elon_mask_base_graph_data_dir+ 'hashtags/'
-user_profile_dir = elon_mask_base_graph_data_dir+'user_profile/'
-user_activelabel_dir = elon_mask_base_graph_data_dir+'elon_mask_base_graph_data_dirlabel/'
-base_graph_dir = elon_mask_base_graph_data_dir+'base_graph_for_model/'
-predict_graph_dir = elon_mask_test_graph_data_dir+'data_graph/'
-follow_relationship = elon_mask_base_graph_data_dir+'followers/'
-tweet_retweet_relation = elon_mask_base_graph_data_dir+'retweeters/'
+elon_mask_base_graph_data_dir = 'D:/GCN_Twitter/ElonMusk/2023-02-16/'          #D:/GNN/new_data/MyResearch-main/MyResearch-main/ElonMusk/2023-05-01/
+elon_mask_test_graph_data_dir = 'D:/GCN_Twitter/ElonMusk/2023-02-20/'          #D:/GNN/new_data/MyResearch-main/MyResearch-main/ElonMusk/2023-05-06/
+hashtag_dir = elon_mask_base_graph_data_dir + 'hashtags/'
+user_profile_dir = elon_mask_base_graph_data_dir + 'user_profile/'
+user_activelabel_dir = elon_mask_base_graph_data_dir + 'elon_mask_base_graph_data_dirlabel/'
+base_graph_dir = elon_mask_base_graph_data_dir + 'base_graph_for_model/'
+predict_graph_dir = elon_mask_test_graph_data_dir + 'data_graph/'
+follow_relationship = elon_mask_base_graph_data_dir + 'followers/'
+tweet_retweet_relation = elon_mask_base_graph_data_dir + 'retweeters/'
 test_tweet_label =  elon_mask_test_graph_data_dir + 'label/'
 base_tweet_retweet_distribution = elon_mask_base_graph_data_dir + 'retweet_distribution/'
 test_tweet_retweet_distribution = elon_mask_test_graph_data_dir + 'retweet_distribution/'
@@ -570,23 +570,23 @@ for every_graph in all_predict_json_file_dir:#29
             if it.is_file():
                 file_name = re.split('/|\\\\',it.path)[-1]
                 file_name_part = re.split('/|\\\\|_',it.path)[10:]
-                if (file_name_part[-1][-12:] == 'rewrite.json' ):
-                    if(file_name_part[1] == 'tag'):
+                if (file_name_part[-1][-12:] == 'result.json' ):
+                    if(file_name_part[0] == 'tag'):
                         tag_result = open(every_graph+str(every_time_batch)+'/'+file_name)           #把tag_result給讀入
                         ever_graph_result = json.load(tag_result)
                         tag_result.close()
                         tag_result_template[str(graph_number)+'_'+str(every_time_batch)+'_round'] = ever_graph_result
-                    elif(file_name_part[1] == 'high'):
+                    elif(file_name_part[0] == 'high'):
                         retweet_count_result = open(every_graph+str(every_time_batch)+'/'+file_name)           #把retweet_count_result給讀入
                         ever_graph_result = json.load(retweet_count_result)
                         retweet_count_result.close()
                         retweet_count_high_result_template[str(graph_number)+'_'+str(every_time_batch)] = ever_graph_result
-                    elif(file_name_part[1] == 'middle'):
+                    elif(file_name_part[0] == 'middle'):
                         retweet_count_result = open(every_graph+str(every_time_batch)+'/'+file_name)           #把retweet_count_result給讀入
                         ever_graph_result = json.load(retweet_count_result)
                         retweet_count_result.close()
                         retweet_count_middle_result_template[str(graph_number)+'_'+str(every_time_batch)] = ever_graph_result
-                    elif(file_name_part[1] == 'low'):
+                    elif(file_name_part[0] == 'low'):
                         retweet_count_result = open(every_graph+str(every_time_batch)+'/'+file_name)           #把retweet_count_result給讀入
                         ever_graph_result = json.load(retweet_count_result)
                         retweet_count_result.close()
@@ -595,13 +595,13 @@ for every_graph in all_predict_json_file_dir:#29
                         retweet_distribution_result = open(every_graph+str(every_time_batch)+'/'+file_name)           #把retweet_distribution_result給讀入
                         ever_graph_result = json.load(retweet_distribution_result)
                         retweet_distribution_result.close()
-                        if(file_name_part[1] == 'in'):
+                        if(file_name_part[0] == 'in'):
                             shortest_retweet_distribution_result_template[str(graph_number)+'_'+str(every_time_batch)] = ever_graph_result
-                        elif(file_name_part[2] == '12'):
+                        elif(file_name_part[1] == '12'):
                             shorter_retweet_distribution_result_template[str(graph_number)+'_'+str(every_time_batch)] = ever_graph_result
-                        elif(file_name_part[2] == '24'):
+                        elif(file_name_part[1] == '24'):
                             middle_retweet_distribution_result_template[str(graph_number)+'_'+str(every_time_batch)] = ever_graph_result
-                        elif(file_name_part[2] == '48'):
+                        elif(file_name_part[1] == '48'):
                             longer_retweet_distribution_result_template[str(graph_number)+'_'+str(every_time_batch)] = ever_graph_result
                         else:
                             longest_retweet_distribution_result_template[str(graph_number)+'_'+str(every_time_batch)] = ever_graph_result
@@ -620,7 +620,7 @@ for every_graph in all_predict_json_file_dir:#29
     # print('tag result: \n',all_tag_result_arrange)
     # print('retweet count result: \n',all_retweet_count_result_arrange)
     # print('retweet distribution result: \n',all_retweet_distribution_result_arrange)
-    
+
 with pd.ExcelWriter(elon_mask_test_graph_data_dir+'tags_result_rewrite.xlsx') as writer:
     for tag_result_number in range(len(all_tag_result_arrange)):
         graph_num = re.split('_',all_tag_result_arrange[tag_result_number].columns.values[0])
