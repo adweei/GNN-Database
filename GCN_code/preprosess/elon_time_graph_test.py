@@ -11,6 +11,7 @@ import time
 start = time.time()
 elon_mask_base_graph_data_dir = 'D:/GCN_Twitter/ElonMusk/2023-02-16/'        
 elon_mask_test_graph_data_dir = 'D:/GCN_Twitter/ElonMusk/2023-02-20/'
+
 #-------------------------------------------將data graph的tag資訊一起讀出----------------------------------------------------------------
 data_graph_dir = elon_mask_test_graph_data_dir + 'data_graph/'
 data_graph = open(data_graph_dir + 'graph_tag01.txt')           #神秘tag咒語，請手建
