@@ -9,7 +9,7 @@ import json
 class model_test():
     confusionmatrix = list([])
 
-    def test_model(self,model, g, features, label, mask):
+    def test_model(self, model, g, features, label, mask):
         # since we're not training, we don't need to calculate the gradients for our outputs
         logits = model(g, features)
         logits = logits[mask]
@@ -20,6 +20,7 @@ class model_test():
         self.confusionmatrix = bcm(indices, labels)
         class_count = th.bincount(label)
         active_count = th.bincount(mask.type(th.int))
+        # print(class_count[1])
         self.test_value = dict()
         self.test_value['retweet_count'] = class_count[1].item()
         self.test_value['active_user'] = active_count[0].item()
@@ -28,9 +29,9 @@ class model_test():
     
     def model_save(self,PATH):
         #print('----------------------------------------------------------------------------------------------')                       
-        self.test_value['TP'] = int(self.confusionmatrix[1][1])                   #   T   F   
-        self.test_value['FP'] = int(self.confusionmatrix[0][1])                   #N  TN  FP
-        self.test_value['FN'] = int(self.confusionmatrix[1][0])                   #P  FN  TP
+        self.test_value['TP'] = int(self.confusionmatrix[1][1])                   #         Prediction_0  Prediction_1   
+        self.test_value['FP'] = int(self.confusionmatrix[0][1])                   #Actually_0     TN            FP
+        self.test_value['FN'] = int(self.confusionmatrix[1][0])                   #Actually_1     FN            TP
         self.test_value['TN'] = int(self.confusionmatrix[0][0])
         try:
             self.test_value['Accuracy'] = (self.test_value['TP'] + self.test_value['TN']) / (self.test_value['TP'] +  self.test_value['FP'] + self.test_value['FN'] + self.test_value['TN'])

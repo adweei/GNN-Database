@@ -23,7 +23,7 @@ else:
 class GATLayer(nn.Module):
     def __init__(self, g, in_dim, out_dim):
         super(GATLayer, self).__init__()
-        self.g = g.to(device = device)
+        self.g = g
         # equation (1)
         self.fc = nn.Linear(in_dim, out_dim, bias=False, device = device)
         # equation (2)
@@ -37,11 +37,20 @@ class GATLayer(nn.Module):
         nn.init.xavier_normal_(self.attn_fc.weight, gain=gain)
 
     def edge_attention(self, edges):
+        # self.g.edata['w'] = edges.data['weight']
+        # for i in range(len(self.g.edata['w'][:, 0])):
+        #     if self.g.edata['w'][:, 0][i] != 0:
+        #         print('edge_weight: ', self.g.edata['w'][:, 0][i])
         # edge UDF for equation (2)
-        z2 = torch.cat([edges.src['z'], edges.dst['z']], dim=1).to(device = device)
+        z2 = torch.cat([edges.src['z'], edges.dst['z']], dim=1)
+        # print('orign: ', z2)
+        # print('weight: ', edges.data['weight']) 
+        z2 *= edges.data['weight']
+        # print('after: ', z2)
+       
         a = self.attn_fc(z2)
         
-        return {'e': F.leaky_relu(a).to(device = device)}
+        return {'e': F.leaky_relu(a)}
 
     def message_func(self, edges):
         # message UDF for equation (3) & (4)
@@ -50,10 +59,10 @@ class GATLayer(nn.Module):
     def reduce_func(self, nodes):
         # reduce UDF for equation (3) & (4)
         # equation (3)
-        alpha = F.softmax(nodes.mailbox['e'], dim=1).to(device = device)
+        alpha = F.softmax(nodes.mailbox['e'], dim=1)
         
         # equation (4)
-        h = torch.sum(alpha * nodes.mailbox['z'], dim=1).to(device = device)
+        h = torch.sum(alpha * nodes.mailbox['z'], dim=1)
         return {'h': h}
 
     def forward(self, h):
@@ -64,6 +73,7 @@ class GATLayer(nn.Module):
         self.g.apply_edges(self.edge_attention)
         # equation (3) & (4)
         self.g.update_all(self.message_func, self.reduce_func)
+        # print(self.g.ndata['h'])
         return self.g.ndata.pop('h')
 
 """
@@ -75,6 +85,7 @@ class MultiHeadGATLayer(nn.Module):
         self.heads = nn.ModuleList()
         for i in range(num_heads):
             self.heads.append(GATLayer(g, in_dim, out_dim))
+            # print('test' + str(i) + ': ', self.heads)
         self.merge = merge
 
     def forward(self, h):
@@ -98,8 +109,9 @@ class GAT(nn.Module):
         # one attention head in the output layer.
         self.layer2 = MultiHeadGATLayer(g, hidden_dim * num_heads, out_dim, 1)
 
-    def forward(self, h):
+    def forward(self, g, h):
         h = self.layer1(h)
         h = F.elu(h)
         h = self.layer2(h)
+        # print(g.number_of_edges())
         return h

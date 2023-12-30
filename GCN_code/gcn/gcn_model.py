@@ -21,12 +21,24 @@ def simple_reduce(nodes):
     # print('經過weight: ',nodes.mailbox['w'] * nodes.mailbox['m'])
     # print('自己的feature和收到的資訊總和: ',nodes.data['h']+(nodes.mailbox['w'] * nodes.mailbox['m']).sum(1))
     # print('------------------------------------')
-    return {'h': (nodes.data['h'] * (nodes.data['self_weight']+1))+((nodes.mailbox['w']+1) * nodes.mailbox['m']).sum(1)}
+    return {'h': (nodes.data['h'] * (nodes.data['self_weight'] + 1)) + ((nodes.mailbox['w'] + 1) * nodes.mailbox['m']).sum(1)}
 
+class GCNLayer_embedding():
+    def __init__(self, in_feats, out_feats):
+        super(GCNLayer, self).__init__()
+        self.linear = nn.Linear(in_feats, out_feats, device = "cuda:0")#device:cpu cuda:0
+
+    def forward(self, feature):
+        with g.local_scope():
+            g.ndata['h'] = feature
+            g.update_all(send_source, simple_reduce)
+            h = g.ndata['h']
+            return self.linear(h)
+        
 class GCNLayer(nn.Module): 
     def __init__(self, in_feats, out_feats):
         super(GCNLayer, self).__init__()
-        self.linear = nn.Linear(in_feats, out_feats,device="cuda:0")#device:cpu cuda:0
+        self.linear = nn.Linear(in_feats, out_feats, device = "cuda:0")#device:cpu cuda:0
 
     def forward(self, g, feature):
         # Creating a local scope so that all the stored ndata and edata
@@ -41,6 +53,7 @@ class GCNLayer(nn.Module):
 class Net(nn.Module):
     def __init__(self,feature):
         super(Net, self).__init__()
+        self.layer0 = GCNLayer_embedding()
         self.layer1 = GCNLayer(feature, 16)
         self.layer2 = GCNLayer(16, 2)
     

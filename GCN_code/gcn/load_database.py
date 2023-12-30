@@ -33,13 +33,16 @@ class load_database():
         test_mask = th.tensor(test_mask[0].tolist())
         return train_mask,test_mask
     
-    def load_elon_dataset(self,number_of_graph,round):
-        elon_model_graph_data_dir = 'D:/GNN/MyResearch-main/MyResearch-main/ElonMusk/2023-02-16/base_graph_for_model/'
-        dataset,label = load_graphs(elon_model_graph_data_dir+str(number_of_graph)+'/'+str(number_of_graph)+".bin")
+    def load_elon_dataset(self, number_of_graph, round):
+        # print('weight graph')
+        elon_model_graph_data_dir = 'D:/GCN_Twitter/ElonMusk/2023-02-16/base_graph_for_model/'
+        dataset, label = load_graphs(elon_model_graph_data_dir + str(number_of_graph) + '/' + str(number_of_graph) + ".bin")
         Graph = dataset[0]
-        cuda_g = Graph.to('cuda:0')#cpu cuda:0
+        cuda_g = Graph.to('cuda:0')         #cpu cuda:0
         features = cuda_g.ndata['feature']
         labels = cuda_g.ndata['label']
-        train_mask = np.load(elon_model_graph_data_dir+str(number_of_graph)+'/train/'+str(round)+'.npy')
-        test_mask = np.load(elon_model_graph_data_dir+str(number_of_graph)+'/test/'+str(round)+'.npy')
+        train_mask = np.load(elon_model_graph_data_dir + str(number_of_graph) + '/train/' + str(round)+'.npy')
+        test_mask = np.load(elon_model_graph_data_dir + str(number_of_graph) + '/test/' + str(round)+'.npy')
+        # print("edge number: ",cuda_g.number_of_edges())
+        # print("差值: ",cuda_g.number_of_edges() - cuda_g.number_of_nodes())
         return cuda_g, features, labels, th.from_numpy(train_mask), th.from_numpy(test_mask)
